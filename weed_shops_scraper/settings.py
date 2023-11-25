@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 
     'google',
     'site_scraping',
-    'delivery'
 ]
 
 MIDDLEWARE = [
