@@ -9,9 +9,8 @@ from dotenv import load_dotenv
 from google.models import WeedShop
 
 
-def serp_search(url: str, bd_login: str, bd_pwd: str):
+def serp_search(url: str, bd_auth: str):
     ssl._create_default_https_context = ssl._create_unverified_context
-    bd_auth = f'{bd_login}:{bd_pwd}'
     if sys.version_info[0] == 2:
         import six
         from six.moves.urllib import request
@@ -43,13 +42,14 @@ def find_all_shop_urls():
     load_dotenv()
     bd_login = os.environ.get('BD_LOGIN')
     bd_pwd = os.environ.get('BD_PWD')
+    bd_auth = f'{bd_login}:{bd_pwd}'
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for shop in shops:
         q = f'{shop.store_name} {shop.address}'
         q = 'GREEN WORLD 1901 HARWOOD AVE N UNIT 34'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
-        store_url = serp_search(url, bd_login, bd_pwd)
+        store_url = serp_search(url, bd_auth)
         print(store_url)
         if store_url:
             shop.store_url = store_url
