@@ -17,3 +17,12 @@ class ShopBaseScraper(BaseSeleniumWorker):
     delivery_page_vars = [
         ''
     ]
+
+    def main(self):
+        url = 'https://budderscannabis.ca/'
+        driver = self._create_driver()
+        driver.get(url)
+
+
+if __name__ == '__main__':
+    ShopBaseScraper().main()
