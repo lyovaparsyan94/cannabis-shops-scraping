@@ -14,3 +14,4 @@ class WeedShopAdmin(admin.ModelAdmin):
         'store_url'
     )
     list_display_links = ('pk',)
+    search_fields = ['store_name',]
