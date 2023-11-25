@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'google',
+    'site_scraping',
+    'delivery'
 ]
 
 MIDDLEWARE = [
