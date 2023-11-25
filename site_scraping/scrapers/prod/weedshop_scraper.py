@@ -22,6 +22,9 @@ class ShopBaseScraper(BaseSeleniumWorker):
         url = 'https://budderscannabis.ca/'
         driver = self._create_driver()
         driver.get(url)
+        # find nav elem
+        # in nav find all button/a
+        # check nav elems text?
 
 
 if __name__ == '__main__':
