@@ -4,6 +4,7 @@ from google.models import WeedShop
 
 class SiteData(models.Model):
     shop = models.ForeignKey(WeedShop, on_delete=models.CASCADE)
+    delivery_url = models.CharField(max_length=255)
     dispensary_name = models.TextField()
     service_options = models.TextField()  # delivery, pickup, curb-site pickup
     phone_number = models.CharField(max_length=255)
