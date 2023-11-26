@@ -31,11 +31,31 @@ def serp_search(url: str, bd_auth: str):
 
 def find_shop_url_in_google_result(res: str):
     res_json = json.loads(res)
+    with open('google/serp_responses/3.json', 'w') as file:
+        json.dump(res_json, file, indent=4)
     link = None
+    phone = None
+    latitude = None
+    longitude = None
+    map_link = None
+    options_list = []
+
     if res_json.get('organic'):
         organic = res_json.get('organic')[0]
         link = organic.get('link')
-    return link
+        phone = organic.get('phone')
+
+        latitude = organic.get("latitude")
+        longitude = organic.get("longitude")
+        map_link = organic.get("map_link")
+
+        tags = organic.get('tags')
+        if tags:
+            for tag in tags:
+                if tag.get("group_id") == 'service_options':
+                    options_list.append(tag.get('value_title_short'))
+
+    return link, phone, options_list, latitude, longitude, map_link
 
 
 def find_all_shop_urls():
@@ -46,10 +66,15 @@ def find_all_shop_urls():
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for shop in shops:
         q = f'{shop.store_name} {shop.address}'
+        # q = 'EIGHTH CANNABIS 9996 HIGHWAY 118, UNIT B'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
-        store_url = serp_search(url, bd_auth)
-        print(store_url)
-        if store_url:
-            shop.store_url = store_url
-            shop.save()
+        store_url, phone, service_options, latitude, longitude, map_link = serp_search(url, bd_auth)
+        print(f'{store_url=}; {phone=}; {latitude=}; {longitude=}; {map_link=} {service_options=}')
+        shop.store_url = store_url
+        shop.phone_number = phone
+        shop.service_options = service_options
+        shop.latitude = latitude
+        shop.longitude = longitude
+        shop.map_link = map_link
+        shop.save()
