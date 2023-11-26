@@ -11,25 +11,37 @@ class ShopBaseScraper(BaseSeleniumWorker):
 
     _ecommerce = {
         #  basically u can see logo in shoppin/order/checkout pages"
-        'Dutchie': '<style>   id="dutchie--embed__styles"',  # if dutchie will be 100% on the order page
-
-        # in footer
-        'weedmaps': '<a rel="noreferrer noopener" href="https://weedmaps.com/dispensaries/cannaverse-scarborough" data-type="URL" data-id="https://weedmaps.com/dispensaries/cannaverse-scarborough" target="_blank">weedmaps.com</a>',
+        'Dutchie': ['<style>   id="dutchie--embed__styles"', '<title> with text "dutchie"'],  # if dutchie will be 100% on the order page
 
         'buddi': 'div id=buddi-app',  # on shopping page
 
-        'leafly': ''
+        # ? in footer
+        'weedmaps': '<a rel="noreferrer noopener" href="https://weedmaps.com/dispensaries/cannaverse-scarborough" data-type="URL" data-id="https://weedmaps.com/dispensaries/cannaverse-scarborough" target="_blank">weedmaps.com</a>',
+
+        'leafly': '',
+
+
+        'waio': '?',
+        'reachecomm': '?'
     }
 
     def main(self):
         url = 'https://budderscannabis.ca/'
         driver = self._create_driver()
         driver.get(url)
+
+        self._agree_age(driver)
         # wait age agree elems
         self._filter_nav(driver)
         # find nav elem
         # in nav find all button/a
         # check nav elems text?
+
+    def _agree_age(self, driver: Chrome):
+        pass
+
+    def _check_page(self, driver: Chrome):
+        pass
 
     def _filter_nav(self, driver: Chrome):
         navbar = WebDriverWait(driver, 5).until(
