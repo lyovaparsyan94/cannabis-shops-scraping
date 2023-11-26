@@ -31,8 +31,6 @@ def serp_search(url: str, bd_auth: str):
 
 def find_shop_url_in_google_result(res: str):
     res_json = json.loads(res)
-    with open('google/serp_responses/3.json', 'w') as file:
-        json.dump(res_json, file, indent=4)
     link = None
     phone = None
     latitude = None
@@ -66,7 +64,7 @@ def find_all_shop_urls():
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for shop in shops:
         q = f'{shop.store_name} {shop.address}'
-        # q = 'EIGHTH CANNABIS 9996 HIGHWAY 118, UNIT B'
+        # q = 'Hemisphere Cannabis Co. 700 King St W Unit #4, Toronto, ON M5V 2Y6'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
         store_url, phone, service_options, latitude, longitude, map_link = serp_search(url, bd_auth)
