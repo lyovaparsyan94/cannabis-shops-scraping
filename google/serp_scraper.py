@@ -46,7 +46,6 @@ def find_all_shop_urls():
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for shop in shops:
         q = f'{shop.store_name} {shop.address}'
-        q = 'GREEN WORLD 1901 HARWOOD AVE N UNIT 34'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
         store_url = serp_search(url, bd_auth)
