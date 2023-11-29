@@ -12,8 +12,8 @@ class ShopBaseScraper(BaseSeleniumWorker):
     _ecommerce = {
         #  basically u can see logo in shoppin/order/checkout pages"
         'Dutchie': ['<style>   id="dutchie--embed__styles"', '<title> with text "dutchie"'],  # if dutchie will be 100% on the order page
-
-        'buddi': 'div id=buddi-app',  # on shopping page
+        'buddi': 'div id=buddi-app',  # on shopping page +++
+        # !
 
         # ? in footer
         'weedmaps': '<a rel="noreferrer noopener" href="https://weedmaps.com/dispensaries/cannaverse-scarborough" data-type="URL" data-id="https://weedmaps.com/dispensaries/cannaverse-scarborough" target="_blank">weedmaps.com</a>',
