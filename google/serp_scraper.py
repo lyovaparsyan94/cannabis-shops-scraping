@@ -63,7 +63,8 @@ def find_all_shop_urls():
     bd_auth = f'{bd_login}:{bd_pwd}'
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for idx, shop in enumerate(shops):
-        q = f'[{idx+1}/{len(shops)}] | {shop.store_name} {shop.address}'
+        q = f"{shop.store_name} {shop.address}"
+        print(f'[{idx+1}/{len(shops)}] | {q}')
         # q = 'Hemisphere Cannabis Co. 700 King St W Unit #4, Toronto, ON M5V 2Y6'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
