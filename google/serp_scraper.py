@@ -37,23 +37,23 @@ def find_shop_url_in_google_result(res: str):
     longitude = None
     map_link = None
     options_list = []
-
+    deliveries = []
     if res_json.get('organic'):
         organic = res_json.get('organic')[0]
         link = organic.get('link')
         phone = organic.get('phone')
-
         latitude = organic.get("latitude")
         longitude = organic.get("longitude")
         map_link = organic.get("map_link")
-
         tags = organic.get('tags')
         if tags:
             for tag in tags:
                 if tag.get("group_id") == 'service_options':
-                    options_list.append(tag.get('value_title_short'))
-
-    return link, phone, options_list, latitude, longitude, map_link
+                    service = tag.get('value_title_short')
+                    options_list.append(service)
+                    if 'delivery' in service.lower():
+                        deliveries.append(service)
+    return link, phone, options_list, latitude, longitude, map_link, deliveries
 
 
 def find_all_shop_urls():
@@ -63,17 +63,23 @@ def find_all_shop_urls():
     bd_auth = f'{bd_login}:{bd_pwd}'
     shops = WeedShop.objects.filter(store_url__isnull=True)
     for idx, shop in enumerate(shops):
-        q = f"{shop.store_name} {shop.address}"
+        if str(shop.address) in str(shop.store_name):
+            q = shop.store_name
+        else:
+            q = f"{shop.store_name} {shop.address}"
         print(f'[{idx+1}/{len(shops)}] | {q}')
         # q = 'Hemisphere Cannabis Co. 700 King St W Unit #4, Toronto, ON M5V 2Y6'
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
-        store_url, phone, service_options, latitude, longitude, map_link = serp_search(url, bd_auth)
-        print(f'[{idx+1}/{len(shops)}] | {store_url=}; {phone=}; {latitude=}; {longitude=}; {map_link=} {service_options=}')
+        store_url, phone, service_options, latitude, longitude, map_link, deliveries = serp_search(url, bd_auth)
+        msg = f'[{idx+1}/{len(shops)}] | {store_url=}; {phone=}; '\
+              f'{latitude=}; {longitude=}; {map_link=}; {service_options=}; {deliveries=}'
+        print(msg)
         shop.store_url = store_url
         shop.phone_number = phone
         shop.service_options = service_options
         shop.latitude = latitude
         shop.longitude = longitude
         shop.map_link = map_link
+        shop.type_of_delivery_offered = deliveries
         shop.save()
