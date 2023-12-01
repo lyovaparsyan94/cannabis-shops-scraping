@@ -67,10 +67,13 @@ def find_all_shop_urls():
             q = shop.store_name
         else:
             q = f"{shop.store_name} {shop.address}"
+        # q = 'Lit Cannabis  25 Oxford St W, London, ON N6H 1R2'
+
         print(f'[{idx+1}/{len(shops)}] | {q}')
-        # q = 'Hemisphere Cannabis Co. 700 King St W Unit #4, Toronto, ON M5V 2Y6'
         url_q = quote(q)
-        url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&lum_json=1'
+        url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&hl=en&lum_json=1'
+        idx = 1
+        shops = '2321'
         store_url, phone, service_options, latitude, longitude, map_link, deliveries = serp_search(url, bd_auth)
         msg = f'[{idx+1}/{len(shops)}] | {store_url=}; {phone=}; '\
               f'{latitude=}; {longitude=}; {map_link=}; {service_options=}; {deliveries=}'
