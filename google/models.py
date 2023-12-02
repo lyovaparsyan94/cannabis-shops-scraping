@@ -29,3 +29,5 @@ class WeedShop(models.Model):
     minimum_delivery_fee = models.IntegerField(null=True, blank=True)
     zones = models.TextField(null=True, blank=True)
     # idk how to get it
+
+    # delivery data basicly in storerules-outwrapper
