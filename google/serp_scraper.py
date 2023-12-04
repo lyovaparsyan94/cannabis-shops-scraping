@@ -2,6 +2,7 @@ import json
 import os
 import sys
 import ssl
+from urllib.error import HTTPError
 from urllib.parse import quote
 
 from dotenv import load_dotenv
@@ -71,7 +72,14 @@ def find_all_shop_urls():
         print(f'[{idx+1}/{length}] | {q}')
         url_q = quote(q)
         url = 'https://www.google.com/maps/search/' + url_q + '/?gl=us&hl=en&lum_json=1'
-        store_url, phone, service_options, latitude, longitude, map_link, deliveries = serp_search(url, bd_auth)
+        for _ in range(5):
+            try:
+                store_url, phone, service_options, latitude, longitude, map_link, deliveries = serp_search(url, bd_auth)
+                break
+            except HTTPError as herr:
+                print(f'[{idx+1}/{length}] [{_+1}/5] serp search failed with error: {herr}')
+        else:
+            raise Exception(f'[{idx+1}/{length}] serp search all attempts failed')
         msg = f'[{idx+1}/{length}] | {store_url=}; {phone=}; '\
               f'{latitude=}; {longitude=}; {map_link=}; {service_options=}; {deliveries=}'
         print(msg)
