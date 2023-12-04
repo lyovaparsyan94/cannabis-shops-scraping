@@ -1,6 +1,5 @@
 import csv
 from google.models import WeedShop
-from site_scraping.models import SiteData
 
 
 def convert_to_csv(file_name: str = 'output.csv'):
@@ -16,6 +15,7 @@ def convert_to_csv(file_name: str = 'output.csv'):
             row_rough = get_row(shop)
             row = list(row_rough.values())
             csv_writer.writerow(row)
+    return file_name
 
 
 def get_row(shop: WeedShop) -> dict:
@@ -44,17 +44,15 @@ def get_row(shop: WeedShop) -> dict:
         row['service options'] = shop.service_options
     if shop.phone_number:
         row['phone_number'] = shop.phone_number
-    site_datas = SiteData.objects.filter(shop=shop)
-    if len(site_datas) > 0:
-        site_data = site_datas[0]
-        if site_data.ecommerce_provider:
-            row['ecommerce provider'] = site_data.ecommerce_provider
-        if site_data.type_of_delivery_offered:
-            row['type of delivery offered'] = ''
-        if site_data.delivery_qualifications:
-            row['delivery qualifications'] = ''
-        if site_data.minimum_delivery_fee:
-            row['minimum delivery fee'] = ''
-        if site_data.zones:
-            row['zones'] = ''
+
+    if shop.ecommerce_provider:
+        row['ecommerce provider'] = shop.ecommerce_provider
+    if shop.type_of_delivery_offered:
+        row['type of delivery offered'] = shop.type_of_delivery_offered
+    if shop.delivery_qualifications:
+        row['delivery qualifications'] = shop.delivery_qualifications
+    if shop.minimum_delivery_fee:
+        row['minimum delivery fee'] = shop.minimum_delivery_fee
+    if shop.zones:
+        row['zones'] = shop.zones
     return row
