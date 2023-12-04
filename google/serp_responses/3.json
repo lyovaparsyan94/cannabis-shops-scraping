@@ -1,0 +1,92 @@
+{
+    "general": {
+        "query": "EIGHTH CANNABIS 9996 HIGHWAY 118, UNIT B",
+        "language": "en",
+        "country": "United States",
+        "country_code": "US",
+        "gl": "US"
+    },
+    "organic": [
+        {
+            "title": "Eighth Cannabis - Carnarvon",
+            "display_link": "8th.ca",
+            "link": "https://8th.ca/",
+            "address": "9996 ON-118 Unit B, Algonquin Highlands, ON K0M 1J2, Canada",
+            "phone": "+17054891098",
+            "open_hours": {
+                "Sunday": "11\u202fAM\u20135\u202fPM",
+                "Monday": "11\u202fAM\u20137\u202fPM",
+                "Tuesday": "11\u202fAM\u20137\u202fPM",
+                "Wednesday": "11\u202fAM\u20137\u202fPM",
+                "Thursday": "11\u202fAM\u20137\u202fPM",
+                "Friday": "11\u202fAM\u20137\u202fPM",
+                "Saturday": "11\u202fAM\u20137\u202fPM"
+            },
+            "category": [
+                {
+                    "id": "cannabis_store",
+                    "title": "Cannabis store"
+                }
+            ],
+            "tags": [
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_shopping",
+                    "key_title": "In-store shopping",
+                    "value": 1,
+                    "value_title": "Has in-store shopping",
+                    "value_title_short": "In-store shopping"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_parking",
+                    "key_title": "Wheelchair accessible parking lot",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible parking lot",
+                    "value_title_short": "Wheelchair accessible parking lot"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_debit_card",
+                    "key_title": "Debit cards",
+                    "value": 1,
+                    "value_title": "Accepts debit cards",
+                    "value_title_short": "Debit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_mobile_nfc",
+                    "key_title": "NFC mobile payments",
+                    "value": 1,
+                    "value_title": "Accepts NFC mobile payments",
+                    "value_title_short": "NFC mobile payments"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card_types_accepted",
+                    "key_title": "Credit cards"
+                }
+            ],
+            "rating": 5,
+            "reviews_cnt": 5,
+            "latitude": 45.0748281,
+            "longitude": -78.68561079999999,
+            "claimed": true,
+            "fid": "0x4cd5a7eeb1ff1865:0x4f06d8ca08369462",
+            "map_id_encoded": "ChIJZRj_se6n1UwRYpQ2CMrYBk8",
+            "map_id": "0x4cd5a7eeb1ff1865:0x4f06d8ca08369462",
+            "map_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x4cd5a7eeb1ff1865:0x4f06d8ca08369462",
+            "original_image": "https://lh5.googleusercontent.com/p/AF1QipOgzCaOOyzos6bLGuP35p9Yz2nDiAZN0Cux8swj=w408-h306-k-no",
+            "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TxPX6bMAgzcLufpPVAvv2A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=140.85272&pitch=0&thumbfov=100",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOgzCaOOyzos6bLGuP35p9Yz2nDiAZN0Cux8swj=w114-h86-k-no",
+            "icon": "https://lh3.googleusercontent.com/-t27slDRHVWo/AAAAAAAAAAI/AAAAAAAAAAA/j23WdxQrhXY/s44-p-k-no-ns-nd/photo.jpg",
+            "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TxPX6bMAgzcLufpPVAvv2A&cb_client=search.gws-prod.gps&w=211&h=120&yaw=140.85272&pitch=0&thumbfov=100",
+            "rank": 1
+        }
+    ]
+}

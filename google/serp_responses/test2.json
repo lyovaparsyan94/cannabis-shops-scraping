@@ -1,0 +1,146 @@
+{
+    "general": {
+        "query": "T Cannabis 38 MILL ST E",
+        "language": "en",
+        "country": "United States",
+        "country_code": "US",
+        "gl": "US"
+    },
+    "organic": [
+        {
+            "title": "T Cannabis",
+            "display_link": "tcann.ca",
+            "link": "http://www.tcann.ca/",
+            "address": "38 Mill St E, Acton, ON L7J 1H2, Canada",
+            "phone": "+15198539898",
+            "open_hours": {
+                "Saturday": "9\u202fAM\u201311\u202fPM",
+                "Sunday": "9\u202fAM\u201311\u202fPM",
+                "Monday": "9\u202fAM\u201311\u202fPM",
+                "Tuesday": "9\u202fAM\u201311\u202fPM",
+                "Wednesday": "9\u202fAM\u201311\u202fPM",
+                "Thursday": "9\u202fAM\u201311\u202fPM",
+                "Friday": "9\u202fAM\u201311\u202fPM"
+            },
+            "category": [
+                {
+                    "id": "cannabis_store",
+                    "title": "Cannabis store"
+                }
+            ],
+            "tags": [
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_curbside_pickup",
+                    "key_title": "Curbside pickup",
+                    "value": 1,
+                    "value_title": "Offers curbside pickup",
+                    "value_title_short": "Curbside pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_delivery",
+                    "key_title": "Delivery",
+                    "value": 1,
+                    "value_title": "Offers delivery",
+                    "value_title_short": "Delivery"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_pickup",
+                    "key_title": "In-store pickup",
+                    "value": 1,
+                    "value_title": "In-store pickup for online orders",
+                    "value_title_short": "In-store pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_shopping",
+                    "key_title": "In-store shopping",
+                    "value": 1,
+                    "value_title": "Has in-store shopping",
+                    "value_title_short": "In-store shopping"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/shopping/has_delivery_same_day",
+                    "key_title": "Same-day delivery",
+                    "value": 1,
+                    "value_title": "Offers same-day delivery",
+                    "value_title_short": "Same-day delivery"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance",
+                    "key_title": "Wheelchair accessible entrance",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible entrance",
+                    "value_title_short": "Wheelchair accessible entrance"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_parking",
+                    "key_title": "Wheelchair accessible parking lot",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible parking lot",
+                    "value_title_short": "Wheelchair accessible parking lot"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card",
+                    "key_title": "Credit cards",
+                    "value": 1,
+                    "value_title": "Accepts credit cards",
+                    "value_title_short": "Credit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_debit_card",
+                    "key_title": "Debit cards",
+                    "value": 1,
+                    "value_title": "Accepts debit cards",
+                    "value_title_short": "Debit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_mobile_nfc",
+                    "key_title": "NFC mobile payments",
+                    "value": 1,
+                    "value_title": "Accepts NFC mobile payments",
+                    "value_title_short": "NFC mobile payments"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card_types_accepted",
+                    "key_title": "Credit cards"
+                }
+            ],
+            "rating": 4.3,
+            "reviews_cnt": 102,
+            "latitude": 43.630609299999996,
+            "longitude": -80.04009889999999,
+            "claimed": true,
+            "fid": "0x882b74f05756c72b:0xfae91b545fcab7bb",
+            "map_id_encoded": "ChIJK8dWV_B0K4gRu7fKX1Qb6fo",
+            "map_id": "0x882b74f05756c72b:0xfae91b545fcab7bb",
+            "map_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882b74f05756c72b:0xfae91b545fcab7bb",
+            "original_image": "https://lh5.googleusercontent.com/p/AF1QipMawGT-RpNhBsE95wKJCj5o3tXGYUmUxq1WXspW=w408-h544-k-no",
+            "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nt6eGc3e1GQvQBd6NkKyIg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=132.2136&pitch=0&thumbfov=100",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMawGT-RpNhBsE95wKJCj5o3tXGYUmUxq1WXspW=w86-h114-k-no",
+            "icon": "https://lh6.googleusercontent.com/-MEtTb7P2hO8/AAAAAAAAAAI/AAAAAAAAAAA/oEQkhIZUCa4/s44-p-k-no-ns-nd/photo.jpg",
+            "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nt6eGc3e1GQvQBd6NkKyIg&cb_client=search.gws-prod.gps&w=211&h=120&yaw=132.2136&pitch=0&thumbfov=100",
+            "rank": 1
+        }
+    ]
+}

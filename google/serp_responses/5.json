@@ -1,0 +1,135 @@
+{
+    "general": {
+        "query": "Hemisphere Cannabis Co. 700 King St W Unit #4, Toronto, ON M5V 2Y6",
+        "language": "en",
+        "country": "United States",
+        "country_code": "US",
+        "gl": "US"
+    },
+    "organic": [
+        {
+            "title": "Hemisphere Cannabis Co.",
+            "display_link": "hemispherecannabis.com",
+            "link": "https://hemispherecannabis.com/",
+            "address": "700 King St W Unit #4, Toronto, ON M5V 2Y6, Canada",
+            "phone": "+14165462954",
+            "category": [
+                {
+                    "id": "cannabis_store",
+                    "title": "Cannabis store"
+                },
+                {
+                    "id": "alternative_medicine_practitioner",
+                    "title": "Alternative medicine practitioner"
+                },
+                {
+                    "id": "herb_shop",
+                    "title": "Herb shop"
+                },
+                {
+                    "id": "herbal_medicine_store",
+                    "title": "Herbal medicine store"
+                },
+                {
+                    "id": "holistic_medicine_practitioner",
+                    "title": "Holistic medicine practitioner"
+                }
+            ],
+            "tags": [
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_curbside_pickup",
+                    "key_title": "Curbside pickup",
+                    "value": 1,
+                    "value_title": "Offers curbside pickup",
+                    "value_title_short": "Curbside pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_delivery",
+                    "key_title": "Delivery",
+                    "value": 1,
+                    "value_title": "Offers delivery",
+                    "value_title_short": "Delivery"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_pickup",
+                    "key_title": "In-store pickup",
+                    "value": 1,
+                    "value_title": "In-store pickup for online orders",
+                    "value_title_short": "In-store pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_shopping",
+                    "key_title": "In-store shopping",
+                    "value": 1,
+                    "value_title": "Has in-store shopping",
+                    "value_title_short": "In-store shopping"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance",
+                    "key_title": "Wheelchair accessible entrance",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible entrance",
+                    "value_title_short": "Wheelchair accessible entrance"
+                },
+                {
+                    "group_id": "crowd",
+                    "group_title": "Crowd",
+                    "key_id": "/geo/type/establishment_poi/welcomes_lgbtq",
+                    "key_title": "LGBTQ+ friendly",
+                    "value": 1,
+                    "value_title": "LGBTQ+ friendly",
+                    "value_title_short": "LGBTQ+ friendly"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_debit_card",
+                    "key_title": "Debit cards",
+                    "value": 1,
+                    "value_title": "Accepts debit cards",
+                    "value_title_short": "Debit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_mobile_nfc",
+                    "key_title": "NFC mobile payments",
+                    "value": 1,
+                    "value_title": "Accepts NFC mobile payments",
+                    "value_title_short": "NFC mobile payments"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card_types_accepted",
+                    "key_title": "Credit cards"
+                }
+            ],
+            "rating": 4.5,
+            "reviews_cnt": 32,
+            "latitude": 43.644029499999995,
+            "longitude": -79.40298419999999,
+            "claimed": true,
+            "fid": "0x882b3524015419db:0x2ae8755fb9537b22",
+            "map_id_encoded": "ChIJ2xlUASQ1K4gRIntTuV916Co",
+            "map_id": "0x882b3524015419db:0x2ae8755fb9537b22",
+            "map_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882b3524015419db:0x2ae8755fb9537b22",
+            "original_image": "https://lh5.googleusercontent.com/p/AF1QipPkERSry_6pwDz5jAvBJqMd79Avxxb7xj5HwImM=w518-h240-k-no",
+            "image": "https://lh5.googleusercontent.com/p/AF1QipOTfX_kV3quHgbUQTsQ7fiLfTzAemFS8X2eJLMe=w360-h270-k-no",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkERSry_6pwDz5jAvBJqMd79Avxxb7xj5HwImM=w185-h86-k-no",
+            "icon": "https://lh6.googleusercontent.com/-9FizTJGRlmw/AAAAAAAAAAI/AAAAAAAAAAA/UiRzOTIR3V0/s44-p-k-no-ns-nd/photo.jpg",
+            "image_url": "https://lh5.googleusercontent.com/p/AF1QipOTfX_kV3quHgbUQTsQ7fiLfTzAemFS8X2eJLMe=w360-h270-k-no",
+            "rank": 1
+        }
+    ]
+}

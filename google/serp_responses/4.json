@@ -1,0 +1,139 @@
+{
+    "general": {
+        "query": "Hemisphere Cannabis Co.",
+        "language": "en",
+        "country": "United States",
+        "country_code": "US",
+        "gl": "US"
+    },
+    "organic": [
+        {
+            "title": "Hemisphere Cannabis Co.",
+            "display_link": "nexuscannabis.ca",
+            "link": "http://nexuscannabis.ca/",
+            "address": "1887 Avenue Rd, North York, ON M5M 3Z9, Canada",
+            "phone": "+14167819333",
+            "open_hours": {
+                "Sunday": "11\u202fAM\u20139\u202fPM",
+                "Monday": "11\u202fAM\u20139\u202fPM",
+                "Tuesday": "11\u202fAM\u20139\u202fPM",
+                "Wednesday": "11\u202fAM\u20139\u202fPM",
+                "Thursday": "11\u202fAM\u20139\u202fPM",
+                "Friday": "11\u202fAM\u20139\u202fPM",
+                "Saturday": "11\u202fAM\u20139\u202fPM"
+            },
+            "category": [
+                {
+                    "id": "cannabis_store",
+                    "title": "Cannabis store"
+                },
+                {
+                    "id": "alternative_medicine_practitioner",
+                    "title": "Alternative medicine practitioner"
+                },
+                {
+                    "id": "delivery_service",
+                    "title": "Delivery service"
+                },
+                {
+                    "id": "herb_shop",
+                    "title": "Herb shop"
+                },
+                {
+                    "id": "herbal_medicine_store",
+                    "title": "Herbal medicine store"
+                },
+                {
+                    "id": "holistic_medicine_practitioner",
+                    "title": "Holistic medicine practitioner"
+                }
+            ],
+            "tags": [
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_pickup",
+                    "key_title": "In-store pickup",
+                    "value": 1,
+                    "value_title": "In-store pickup for online orders",
+                    "value_title_short": "In-store pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_shopping",
+                    "key_title": "In-store shopping",
+                    "value": 1,
+                    "value_title": "Has in-store shopping",
+                    "value_title_short": "In-store shopping"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_entrance",
+                    "key_title": "Wheelchair accessible entrance",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible entrance",
+                    "value_title_short": "Wheelchair accessible entrance"
+                },
+                {
+                    "group_id": "crowd",
+                    "group_title": "Crowd",
+                    "key_id": "/geo/type/establishment_poi/welcomes_lgbtq",
+                    "key_title": "LGBTQ+ friendly",
+                    "value": 1,
+                    "value_title": "LGBTQ+ friendly",
+                    "value_title_short": "LGBTQ+ friendly"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card",
+                    "key_title": "Credit cards",
+                    "value": 1,
+                    "value_title": "Accepts credit cards",
+                    "value_title_short": "Credit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_debit_card",
+                    "key_title": "Debit cards",
+                    "value": 1,
+                    "value_title": "Accepts debit cards",
+                    "value_title_short": "Debit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_mobile_nfc",
+                    "key_title": "NFC mobile payments",
+                    "value": 1,
+                    "value_title": "Accepts NFC mobile payments",
+                    "value_title_short": "NFC mobile payments"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_credit_card_types_accepted",
+                    "key_title": "Credit cards"
+                }
+            ],
+            "rating": 4.3,
+            "reviews_cnt": 72,
+            "latitude": 43.7326087,
+            "longitude": -79.4190876,
+            "claimed": true,
+            "fid": "0x882b33da05229541:0x758d38401b4d3f98",
+            "map_id_encoded": "ChIJQZUiBdozK4gRmD9NG0A4jXU",
+            "map_id": "0x882b33da05229541:0x758d38401b4d3f98",
+            "map_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882b33da05229541:0x758d38401b4d3f98",
+            "original_image": "https://lh5.googleusercontent.com/p/AF1QipMhgqhvgwKhaYm7OUzYZBWWfa3G2Xd5gxHcwFkR=w426-h240-k-no",
+            "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tBxaQA75F-TUFUWdDnQGhA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=82.26796&pitch=0&thumbfov=100",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMhgqhvgwKhaYm7OUzYZBWWfa3G2Xd5gxHcwFkR=w152-h86-k-no",
+            "icon": "https://lh4.googleusercontent.com/-e3jsJZYmKmE/AAAAAAAAAAI/AAAAAAAAAAA/XW1akbvV6lU/s44-p-k-no-ns-nd/photo.jpg",
+            "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tBxaQA75F-TUFUWdDnQGhA&cb_client=search.gws-prod.gps&w=211&h=120&yaw=82.26796&pitch=0&thumbfov=100",
+            "rank": 1
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "general": {
+        "query": "Lit Cannabis  25 Oxford St W, London, ON N6H 1R2",
+        "language": "en",
+        "country": "United States",
+        "country_code": "US",
+        "gl": "US"
+    },
+    "organic": [
+        {
+            "title": "Lit Cannabis",
+            "address": "25 Oxford St W, London, ON N6H 1R2, Canada",
+            "phone": "+15192048070",
+            "category": [
+                {
+                    "id": "cannabis_store",
+                    "title": "Cannabis store"
+                }
+            ],
+            "tags": [
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_pickup",
+                    "key_title": "In-store pickup",
+                    "value": 1,
+                    "value_title": "In-store pickup for online orders",
+                    "value_title_short": "In-store pickup"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_in_store_shopping",
+                    "key_title": "In-store shopping",
+                    "value": 1,
+                    "value_title": "Has in-store shopping",
+                    "value_title_short": "In-store shopping"
+                },
+                {
+                    "group_id": "service_options",
+                    "group_title": "Service options",
+                    "key_id": "/geo/type/establishment_poi/has_delivery",
+                    "key_title": "Delivery",
+                    "value": 0,
+                    "value_title": "No delivery",
+                    "value_title_short": "No delivery"
+                },
+                {
+                    "group_id": "accessibility",
+                    "group_title": "Accessibility",
+                    "key_id": "/geo/type/establishment_poi/has_wheelchair_accessible_parking",
+                    "key_title": "Wheelchair accessible parking lot",
+                    "value": 1,
+                    "value_title": "Has wheelchair accessible parking lot",
+                    "value_title_short": "Wheelchair accessible parking lot"
+                },
+                {
+                    "group_id": "recycling",
+                    "group_title": "Recycling",
+                    "key_id": "/geo/type/bare_properties_holder/has_recycling_electronics",
+                    "key_title": "Electronics",
+                    "value": 1,
+                    "value_title": "Has electronics recycling",
+                    "value_title_short": "Electronics"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_debit_card",
+                    "key_title": "Debit cards",
+                    "value": 1,
+                    "value_title": "Accepts debit cards",
+                    "value_title_short": "Debit cards"
+                },
+                {
+                    "group_id": "payments",
+                    "group_title": "Payments",
+                    "key_id": "/geo/type/establishment_poi/pay_mobile_nfc",
+                    "key_title": "NFC mobile payments",
+                    "value": 1,
+                    "value_title": "Accepts NFC mobile payments",
+                    "value_title_short": "NFC mobile payments"
+                }
+            ],
+            "rating": 4.6,
+            "reviews_cnt": 83,
+            "latitude": 42.9931061,
+            "longitude": -81.2632,
+            "claimed": false,
+            "fid": "0x882ef109f1fa35eb:0x229af5cb78bcc103",
+            "map_id_encoded": "ChIJ6zX68QnxLogRA8G8eMv1miI",
+            "map_id": "0x882ef109f1fa35eb:0x229af5cb78bcc103",
+            "map_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x882ef109f1fa35eb:0x229af5cb78bcc103",
+            "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTKTxIe0cUO7arhzvL20gGZhtJ-VsH8QJp1Tml=w475-h240-k-no",
+            "image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AoPFlaMAnisJAPCU1OH7CQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=28.523771&pitch=0&thumbfov=100",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTKTxIe0cUO7arhzvL20gGZhtJ-VsH8QJp1Tml=w170-h86-k-no",
+            "image_url": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AoPFlaMAnisJAPCU1OH7CQ&cb_client=search.gws-prod.gps&w=211&h=120&yaw=28.523771&pitch=0&thumbfov=100",
+            "rank": 1
+        }
+    ]
+}
