@@ -1,4 +1,6 @@
 venv
-db.sqlite3
+db.sqlite33
 __pycache__
 .env
+.idea
+/__pychache__/

@@ -15,10 +15,7 @@ def serp_search(url: str, bd_auth: str):
     if sys.version_info[0] == 2:
         import six
         from six.moves.urllib import request
-        opener = request.build_opener(
-            request.ProxyHandler(
-                {'http': f'http://{bd_auth}@brd.superproxy.io:22225',
-                 'https': f'http://{bd_auth}@brd.superproxy.io:22225'}))
+        opener = request.build_opener(request.ProxyHandler({'http': f'http://{bd_auth}@brd.superproxy.io:22225','https': f'http://{bd_auth}@brd.superproxy.io:22225'}))
         page_data = opener.open(url).read()
     if sys.version_info[0] == 3:
         import urllib.request

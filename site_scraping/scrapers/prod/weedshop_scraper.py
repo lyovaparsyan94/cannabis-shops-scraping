@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.remote.webelement import WebElement
-
 from site_scraping.scrapers.base_selen.base_selenium_worker import BaseSeleniumWorker
 
 
@@ -50,7 +49,7 @@ class ShopBaseScraper(BaseSeleniumWorker):
         for a_elem in a_elems:
             if '' in a_elem.text:
                 pass
-        button_elems = navbar.find_element(By.TAG_NAME, 'button')
+        button_elems = navbar.find_elements(By.TAG_NAME, 'button')
         for button_elem in button_elems:
             if '' in button_elem.text:
                 pass
