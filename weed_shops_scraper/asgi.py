@@ -1,5 +1,5 @@
 """
-ASGI config for weed_shops_scraper project.
+ASGI configs for weed_shops_scraper project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

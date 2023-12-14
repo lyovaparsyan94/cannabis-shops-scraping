@@ -3,3 +3,5 @@ __pycache__
 .env
 .idea
 /__pychache__/
+platform_scrapper/testing
+db.sqlite3

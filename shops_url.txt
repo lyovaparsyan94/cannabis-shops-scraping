@@ -105,3 +105,10 @@ https://www.treetopscannabis.ca/
 
 province age droplists
 https://erbngreen.com/
+
+
+
+1. first check homepage with get request to ecommerse markers
+2. then go to the shop page and check againd first with get request
+3. make order and go to checkout page, if need check markers to find ecommerce
+4. make or try to make orders to check delivery zones
