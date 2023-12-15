@@ -2,14 +2,13 @@ import time
 from selenium import webdriver
 from selenium.common.exceptions import *
 from handy_wrappers import HandyWrapper
-from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 from explisit_wait_type import ExplicitWaitType
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.service import Service as Service
 from selenium.webdriver.support import expected_conditions as EC
-from platform_scrapper.configs.constants import weedmap_no_bot, age_xpath_list, age_select
+from platform_scrapper.configs.constants import *
 
 
 class BuddiScrapper:
@@ -25,16 +24,52 @@ class BuddiScrapper:
         return driver
 
     def open_url(self, url, age_xpath_list=None):
-        current_status_of_confirmation = False
+        status_age_confirmed = False
         self.driver.get(url=url)
-        self.driver.refresh()
-        if not self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list):
-            print("---------------Tryed confirm by click----------------------")
-        else:
+        try:
+            self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list)
+            print("---------------confirmed age--1----------------------")
+            status_age_confirmed = True
+        except:
             if self.need_select():
                 self.confirm_by_select(current_url=url, xpathes=age_select)
             time.sleep(5)
         print("No need_select")
+        if status_age_confirmed:
+            self.check_platform(markers=go_to_shop_markers)
+
+    def check_platform(self, markers):
+        print("checking platform...")
+        hrefs = []
+        for xpath in markers:
+            element = self.waiter.wait_for_element(xpath, locator_type="xpath", timeout=4)
+            # element = self.driver.find_element(By.XPATH, xpath)
+            # element_is_present = self.hw.is_element_present(xpath, By.XPATH)
+            a_tags = self.driver.find_elements(By.TAG_NAME, 'a')
+            if element:
+                hrefs += [a.get_attribute('href') for a in a_tags if a.get_attribute('href').startswith("http")]
+
+        hrefs = list(set(hrefs))
+        for href in hrefs:
+            if href is not None:
+                self.driver.get(href)
+                if self.is_platform(name=DUTCHIE, url=href, markers=dutchie_markers):
+                    return DUTCHIE
+                if self.is_platform(name=BUDDI, url=href, markers=buddi_markers):
+                    return BUDDI
+                if self.is_platform(name=LEAFLY, url=href, markers=leafly_markers):
+                    return LEAFLY
+                if self.is_platform(name=WEEDMAPS, url=href, markers=weedmaps_markers):
+                    return WEEDMAPS
+
+    def is_platform(self, name, url, markers):
+        for marker in markers:
+            if marker in self.driver.page_source:
+                print(f"Found --{name}-- platform marker at {url}")
+                return True
+        else:
+            print(f"{name} platform marker was not found at {url}")
+            return False
 
     def need_select(self):
         need = False
@@ -107,11 +142,11 @@ class BuddiScrapper:
 worker = BuddiScrapper()
 # url = "https://4kcannabis.ca/"
 # url = "https://bluebirdcannabis.store/"
-# url = "http://dreamcannabis.net/"
-# url = "http://rcbudshop.ca/"
-# url = "http://twocatscannabisco.com/"
-# url = "http://www.discountedcannabis.ca/"
-# url = "http://www.shinybud.com/blenheim"
-# url = "http://www.smokelab.ca/"
-url = "https://missjonescannabis.com/"
+url = "http://dreamcannabis.net/"
+# # url = "http://rcbudshop.ca/"
+# # url = "http://twocatscannabisco.com/"
+# # url = "http://www.discountedcannabis.ca/"
+# # url = "http://www.shinybud.com/blenheim"
+# # url = "http://www.smokelab.ca/"
+# url = "https://missjonescannabis.com/"
 worker.open_url(url, age_xpath_list=age_xpath_list)

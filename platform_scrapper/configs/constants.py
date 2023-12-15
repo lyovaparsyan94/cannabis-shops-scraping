@@ -1,8 +1,15 @@
+DUTCHIE = 'Dutchie'
+BUDDI = "Buddi"
+LEAFLY = "Leafly"
+WEEDMAPS = "Weedmaps"
 dutchie_markers = ["dutchie.com/api/", "dutchie--embed__styles", "dutchie-iframe",
                    'href="https://tags.cnna.io/dutchie-iframe',
                    'images.dutchie.com', "dutchie--skip_to_menu_styles", "dutchie--back_to_top_styles",
                    "Dutchie Menu", 'dutchie--back-to-top', "dutchie--embed", "api.dutchie.com"]
 
+weedmaps_markers = [
+
+]
 leafly_markers = [
 
 ]
@@ -15,6 +22,7 @@ buddi_markers = ["app.buddi.", "www.budside.com", "buddi-notification", "//app.b
 
 go_to_shop_markers = [
     "//a//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
+    "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
     "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'order')]",
     "//button[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'order')]",
     "//button//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",

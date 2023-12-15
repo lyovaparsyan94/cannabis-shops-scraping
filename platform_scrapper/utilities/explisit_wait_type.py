@@ -22,13 +22,11 @@ class ExplicitWaitType:
                 NoSuchElementException,
                 ElementNotVisibleException,
                 ElementNotSelectableException])
-
             element = wait.until(EC.visibility_of_element_located((by_type, locator)))
-
-            print("Element appeared on the web page")
+            print(f"Element appeared on the web page with {locator}")
         except:
-            print("Element NOT appeared on the web page")
-            print_stack()
+            print(f"Element NOT appeared on the web page {locator}")
+            # print_stack()
             self.driver.implicitly_wait(2)
         return element
 
