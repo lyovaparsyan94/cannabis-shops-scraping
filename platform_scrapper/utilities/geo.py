@@ -14,6 +14,7 @@ class GeoLocator:
         geolocator = Nominatim(
             user_agent=self.user_agent)
         location = geolocator.geocode(address)
+        print(f"{address} latitude: {location.latitude}, longtitude: {location.longitude}")
         return location.latitude, location.longitude
 
     def find_address_with_coords(self, coords_in_string):
@@ -29,10 +30,11 @@ class GeoLocator:
         distance = geodesic(coords2, coords1).meters
         return distance
 
-    def step_to(self, coords, direction="up", multiplicator=1):
-        print(f"coords was {coords}")
+    def step_from(self, coords, direction="up", multiplicator=1, step=half_km):
+        print(f"initial coords was {coords}")
         long, lang = coords[0], coords[1]
-        step = self.half_km * multiplicator
+        if multiplicator != 0:
+            step = step * multiplicator
 
         if direction == "up":
             long = long + step
@@ -42,16 +44,31 @@ class GeoLocator:
             lang = lang + step
         if direction == "left":
             lang = lang - step
+        if direction == "upleft":
+            long = long + step
+            lang = lang - step
+        if direction == "upright":
+            long = long + step
+            lang = lang + step
+        if direction == "leftdown":
+            long = long - step
+            lang = lang - step
+        if direction == "rightdown":
+            lang = lang + step
+            long = long - step
 
         new_coords = (long, lang)
-        print(f"coords is {new_coords}")
+        print(f"New coords after movement are {new_coords}")
         return new_coords
+
+    def get_radius_area(self):
+        ...
+
+    def get_square(self):
+        ...
 
 
 geo = GeoLocator()
 # geo.find_address_with_coords((43.8424821, -79.02111270))
-bayli_street_75 = geo.get_latitude_longtitude("75 Bayly Street West")
-for i in range(100):
-    up = geo.step_to((43.8424821, -79.0211127), direction="left", multiplicator=i)
-    geo.measure_distantion(coords1=bayli_street_75, coords2=up)
-    time.sleep(1.5)
+yerevan = geo.get_latitude_longtitude(address="Yerevan armenia")
+geo.step_from(yerevan, direction="left", multiplicator=40)
