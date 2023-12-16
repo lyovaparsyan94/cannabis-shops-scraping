@@ -47,8 +47,8 @@ class BuddiScrapper:
             # element_is_present = self.hw.is_element_present(xpath, By.XPATH)
             a_tags = self.driver.find_elements(By.TAG_NAME, 'a')
             if element:
-                hrefs += [a.get_attribute('href') for a in a_tags if a.get_attribute('href').startswith("http")]
-
+                hrefs += list(set([a.get_attribute('href') for a in a_tags if a.get_attribute('href').startswith("http")]))
+                break
         hrefs = list(set(hrefs))
         for href in hrefs:
             if href is not None:
@@ -140,9 +140,9 @@ class BuddiScrapper:
 
 
 worker = BuddiScrapper()
-# url = "https://4kcannabis.ca/"
+url = "https://4kcannabis.ca/"
 # url = "https://bluebirdcannabis.store/"
-url = "http://dreamcannabis.net/"
+# url = "http://dreamcannabis.net/"
 # # url = "http://rcbudshop.ca/"
 # # url = "http://twocatscannabisco.com/"
 # # url = "http://www.discountedcannabis.ca/"
