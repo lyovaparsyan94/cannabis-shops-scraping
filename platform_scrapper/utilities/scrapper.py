@@ -1,6 +1,8 @@
 import time
 from selenium import webdriver
 from selenium.common.exceptions import *
+from selenium.webdriver import ActionChains
+
 from handy_wrappers import HandyWrapper
 from selenium.webdriver.common.by import By
 from explisit_wait_type import ExplicitWaitType
@@ -36,7 +38,18 @@ class BuddiScrapper:
             time.sleep(5)
         print("No need_select")
         if status_age_confirmed:
-            self.check_platform(markers=go_to_shop_markers)
+            platform = self.check_platform(markers=go_to_shop_markers)
+            # write platform name to xlsx
+            shop_page = "https://4kcannabis.ca/product-menu/"
+            self.driver.get(url=shop_page)
+            self.go_to_shop_iframe(iframe_path=dutchie_iframe)
+
+    def go_to_shop_iframe(self, iframe_path):
+        # self.driver.execute_script("window.scrollBy(0, 1000);")
+        dutchieframe = self.driver.find_element(By.ID, iframe_path)
+        ActionChains(self.driver).scroll_to_element(dutchieframe).perform()
+        self.driver.switch_to.frame(iframe_path)
+
 
     def check_platform(self, markers):
         print("checking platform...")

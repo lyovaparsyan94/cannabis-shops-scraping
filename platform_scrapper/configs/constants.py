@@ -2,6 +2,11 @@ DUTCHIE = 'Dutchie'
 BUDDI = "Buddi"
 LEAFLY = "Leafly"
 WEEDMAPS = "Weedmaps"
+
+dutchie_iframe = "dutchie--embed__iframe"
+dutchie_plus_button = ""
+dutchie_shop_selector = "div.homepage-carousel-sections__Sections-sc-13b41re"
+
 dutchie_markers = ["dutchie.com/api/", "dutchie--embed__styles", "dutchie-iframe",
                    'href="https://tags.cnna.io/dutchie-iframe',
                    'images.dutchie.com', "dutchie--skip_to_menu_styles", "dutchie--back_to_top_styles",
