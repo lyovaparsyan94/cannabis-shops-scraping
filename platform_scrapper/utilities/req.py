@@ -19,6 +19,18 @@ headers = {
     "Cookie": "_ga_1QQ3EPGGJ3=GS1.1.1702054947.1.1.1702055577.60.0.0; _ga_4TSZ0LK22W=GS1.1.1702150075.2.0.1702150153.60.0.0; _ga_7F3HGF7PL4=GS1.1.1702480932.1.1.1702481847.60.0.0; _ga_5CCKH1MX6Y=GS1.1.1702649940.1.0.1702649960.40.0.0; _gid=GA1.2.1433509371.1702809491; __cflb=04dToaXWHAPESU8RyBQBc8Yta2dmM5dTc3JC5ZvpMD; _gat=1; _gat_UA-101536475-5=1; _ga=GA1.2.1605833789.1702809491; _ga_FZN7LD29Z4=GS1.1.1702813263.2.1.1702817191.0.0.0"
 }
 
-res = requests.get(url=url, headers=headers)
-pprint.pprint(res.status_code)
-pprint.pprint(res.json()['data']['getAddressBasedDispensaryData']['deliveryInfo'])
+# res = requests.get(url=url, headers=headers)
+# pprint.pprint(res.status_code)
+# pprint.pprint(res.json()['data']['getAddressBasedDispensaryData']['deliveryInfo'])
+
+
+print('' or False)
+print('asdasd' or None)
+
+
+
+
+
+
+
+
