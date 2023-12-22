@@ -2,7 +2,7 @@ import time
 from selenium import webdriver
 from selenium.common.exceptions import *
 from selenium.webdriver import ActionChains
-
+import pickle
 from handy_wrappers import HandyWrapper
 from selenium.webdriver.common.by import By
 from explisit_wait_type import ExplicitWaitType
@@ -29,27 +29,43 @@ class BuddiScrapper:
         status_age_confirmed = False
         self.driver.get(url=url)
         try:
-            self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list)
-            print("---------------confirmed age--1----------------------")
-            status_age_confirmed = True
-        except:
-            if self.need_select():
-                self.confirm_by_select(current_url=url, xpathes=age_select)
-            time.sleep(5)
-        print("No need_select")
-        if status_age_confirmed:
             platform = self.check_platform(markers=go_to_shop_markers)
             # write platform name to xlsx
-            shop_page = "https://4kcannabis.ca/product-menu/"
+            shop_page = url
             self.driver.get(url=shop_page)
             self.go_to_shop_iframe(iframe_path=dutchie_iframe)
+        except:
+            try:
+                self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list)
+                print("---------------confirmed age--1----------------------")
+                status_age_confirmed = True
+                pickle.dump(self.driver.get_cookies(), open('cookies', 'wb'))
+                self.get_cur_page(url)
+            except:
+                if self.need_select():
+                    self.confirm_by_select(current_url=url, xpathes=age_select)
+                time.sleep(5)
+            print("No need_select")
+        # if status_age_confirmed:
+        #     platform = self.check_platform(markers=go_to_shop_markers)
+        #     # write platform name to xlsx
+        #     shop_page = "https://4kcannabis.ca/product-menu/"
+        #     self.driver.get(url=shop_page)
+        #     self.go_to_shop_iframe(iframe_path=dutchie_iframe)
+
+    def get_cur_page(self, url="https://4kcannabis.ca/product-menu/"):
+        self.driver.get(url)
+        for cookie in pickle.load(open('cookies', 'rb')):
+            self.driver.add_cookie(cookie)
+        time.sleep(5)
+        self.driver.refresh()
+        time.sleep(5)
 
     def go_to_shop_iframe(self, iframe_path):
         # self.driver.execute_script("window.scrollBy(0, 1000);")
         dutchieframe = self.driver.find_element(By.ID, iframe_path)
         ActionChains(self.driver).scroll_to_element(dutchieframe).perform()
         self.driver.switch_to.frame(iframe_path)
-
 
     def check_platform(self, markers):
         print("checking platform...")
@@ -60,7 +76,8 @@ class BuddiScrapper:
             # element_is_present = self.hw.is_element_present(xpath, By.XPATH)
             a_tags = self.driver.find_elements(By.TAG_NAME, 'a')
             if element:
-                hrefs += list(set([a.get_attribute('href') for a in a_tags if a.get_attribute('href').startswith("http")]))
+                hrefs += list(
+                    set([a.get_attribute('href') for a in a_tags if a.get_attribute('href').startswith("http")]))
                 break
         hrefs = list(set(hrefs))
         for href in hrefs:
@@ -77,9 +94,15 @@ class BuddiScrapper:
 
     def is_platform(self, name, url, markers):
         for marker in markers:
-            if marker in self.driver.page_source:
+            if marker in self.driver.page_source and not marker.startswith('https://www.inst') and not marker.startswith('https://www.face'):
                 print(f"Found --{name}-- platform marker at {url}")
-                return True
+                try:
+                    self.driver.get(url)
+                    time.sleep(5)
+                except Exception as e:
+                    print(e)
+                    continue
+                # return True
         else:
             print(f"{name} platform marker was not found at {url}")
             return False
@@ -153,10 +176,14 @@ class BuddiScrapper:
 
 
 worker = BuddiScrapper()
-url = "https://4kcannabis.ca/"
+# url = "https://4kcannabis.ca/"
+# url = "https://www.cannabless.ca/"
+# url = "http://cannacocannabis.ca/"
+# url = "http://cannabisjacks.ca/"
+# url = "http://cannabistshop.ca/"
 # url = "https://bluebirdcannabis.store/"
 # url = "http://dreamcannabis.net/"
-# # url = "http://rcbudshop.ca/"
+url = "http://rcbudshop.ca/"
 # # url = "http://twocatscannabisco.com/"
 # # url = "http://www.discountedcannabis.ca/"
 # # url = "http://www.shinybud.com/blenheim"
