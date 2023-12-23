@@ -14,7 +14,7 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 1.4
+    step = 0.4
     base_distantion = 0.5
 
     def __init__(self, shop_address):
@@ -54,19 +54,16 @@ class ScanDutchieDelivery:
     def _scan_delivery_perimeter(self, degree, until):
         """find borders of delivery figure on map."""
         file_name = f'{degree} - {until}'
-        zapasdelivery_area_id, zapasfee, zapasfee_varies, zapasminimum_varies, zapasminimum, zapaswithin_bounds = [None] * 6
         start_point = self.__shop_address
         distantion = self.base_distantion
         degree = degree
         queue = Queue()
         queue.put(start_point)
-        # delivery_area = {0.1415: {10: {0: []}}, 'minimum_order': 0}
         delivery_area = {}
-        while degree < until:
+        while degree <= until:
             print("DEGREE IS", degree)
             point = queue.get()
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
-            # time.sleep(1)
             gevent.sleep(0.5)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
             print("worked get_delivery_info(point), degree is", degree)
@@ -78,19 +75,21 @@ class ScanDutchieDelivery:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:
                             delivery_area[fee][degree][distantion].append(point)
+                            delivery_area[fee][degree][distantion].append(f"min order - {minimum}")
                         else:
-                            delivery_area[fee][degree][distantion] = [point]
+                            delivery_area[fee][degree][distantion] = [point, f"min order - {minimum}"]
                     else:
                         delivery_area[fee][degree] = {distantion: [point]}
                 else:
                     delivery_area[fee] = {degree: {distantion: [point]}}
-                delivery_area['minimum_order'] = minimum
+                # delivery_area['minimum_order'] = minimum
+                # delivery_area[fee][degree]['minimum_order'] = minimum
                 print(f"delivery_area is--->")
                 pprint.pprint(delivery_area)
                 distantion += self.step
                 queue.put(point)
             else:
-                degree += 15
+                degree += 10
                 print("Not delivery area")
                 distantion = self.base_distantion
                 print(f"changed degree to {degree} and distantion to {distantion}")
@@ -185,7 +184,6 @@ class ScanDutchieDelivery:
     #     return delivery_area
 
     def get_next_radial_point(self, start_point, distantion, bearing):
-        # return 43.92348294095433, -79.0211127
         bearing = float(bearing)
         end_point = distance(kilometers=distantion).destination(start_point, bearing)
         print(f"Coordinates of point at distance {distantion} km {bearing} degrees:"

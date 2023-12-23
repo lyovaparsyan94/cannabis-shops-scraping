@@ -1,7 +1,6 @@
 serp:
   url: 'https://www.google.com/search?'
 
-
 provider:
   DUTCHIE:
     URL: "https://dutchie.com/"

@@ -13,32 +13,31 @@ from selenium.webdriver.support import expected_conditions as EC
 from platform_scrapper.configs.constants import *
 
 
-class BuddiScrapper:
+class PlatformFinder:
     def __init__(self):
-        self.driver = self.__initiate_driver()
+        self.driver = self._initiate_driver()
         self.hw = HandyWrapper(self.driver)
         self.waiter = ExplicitWaitType(self.driver)
 
-    def __initiate_driver(self):
+    def _initiate_driver(self):
         service = Service()
         driver = webdriver.Chrome(service=service)
         driver.maximize_window()
         return driver
 
     def open_url(self, url, age_xpath_list=None):
-        status_age_confirmed = False
+        age_confirmed = False
         self.driver.get(url=url)
         try:
-            platform = self.check_platform(markers=go_to_shop_markers)
-            # write platform name to xlsx
+            platform = self.check_platform(markers=shop_markers)
             shop_page = url
             self.driver.get(url=shop_page)
             self.go_to_shop_iframe(iframe_path=dutchie_iframe)
         except:
             try:
                 self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list)
-                print("---------------confirmed age--1----------------------")
-                status_age_confirmed = True
+                age_confirmed = True
+                print("---------------age confirmed----------------------")
                 pickle.dump(self.driver.get_cookies(), open('cookies', 'wb'))
                 self.get_cur_page(url)
             except:
@@ -46,18 +45,11 @@ class BuddiScrapper:
                     self.confirm_by_select(current_url=url, xpathes=age_select)
                 time.sleep(5)
             print("No need_select")
-        # if status_age_confirmed:
-        #     platform = self.check_platform(markers=go_to_shop_markers)
-        #     # write platform name to xlsx
-        #     shop_page = "https://4kcannabis.ca/product-menu/"
-        #     self.driver.get(url=shop_page)
-        #     self.go_to_shop_iframe(iframe_path=dutchie_iframe)
 
-    def get_cur_page(self, url="https://4kcannabis.ca/product-menu/"):
+    def get_cur_page(self, url):
         self.driver.get(url)
         for cookie in pickle.load(open('cookies', 'rb')):
             self.driver.add_cookie(cookie)
-        time.sleep(5)
         self.driver.refresh()
         time.sleep(5)
 
@@ -72,8 +64,6 @@ class BuddiScrapper:
         hrefs = []
         for xpath in markers:
             element = self.waiter.wait_for_element(xpath, locator_type="xpath", timeout=4)
-            # element = self.driver.find_element(By.XPATH, xpath)
-            # element_is_present = self.hw.is_element_present(xpath, By.XPATH)
             a_tags = self.driver.find_elements(By.TAG_NAME, 'a')
             if element:
                 hrefs += list(
@@ -94,14 +84,15 @@ class BuddiScrapper:
 
     def is_platform(self, name, url, markers):
         for marker in markers:
-            if marker in self.driver.page_source and not marker.startswith('https://www.inst') and not marker.startswith('https://www.face'):
+            if marker in self.driver.page_source and not marker.startswith(
+                    'https://www.inst') and not marker.startswith('https://www.face'):
                 print(f"Found --{name}-- platform marker at {url}")
                 try:
                     self.driver.get(url)
                     time.sleep(5)
                 except Exception as e:
                     print(e)
-                    continue
+                    # continue
                 # return True
         else:
             print(f"{name} platform marker was not found at {url}")
@@ -112,7 +103,7 @@ class BuddiScrapper:
         yes_option = "//select/option[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'yes')]"
         no_option = "//select/option[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'no')]"
         try:
-            yes = self.waiter.wait_for_element(yes_option, locator_type="xpath", timeout=15)
+            self.waiter.wait_for_element(yes_option, locator_type="xpath", timeout=15)
             yes_is_present = self.hw.is_element_present(yes_option, By.XPATH)
             no_is_present = self.hw.is_element_present(no_option, By.XPATH)
             if yes_is_present:
@@ -175,18 +166,6 @@ class BuddiScrapper:
         return confirmed
 
 
-worker = BuddiScrapper()
-# url = "https://4kcannabis.ca/"
-# url = "https://www.cannabless.ca/"
-# url = "http://cannacocannabis.ca/"
-# url = "http://cannabisjacks.ca/"
-# url = "http://cannabistshop.ca/"
-# url = "https://bluebirdcannabis.store/"
-# url = "http://dreamcannabis.net/"
-url = "http://rcbudshop.ca/"
-# # url = "http://twocatscannabisco.com/"
-# # url = "http://www.discountedcannabis.ca/"
-# # url = "http://www.shinybud.com/blenheim"
-# # url = "http://www.smokelab.ca/"
+# worker = PlatformFinder()
 # url = "https://missjonescannabis.com/"
-worker.open_url(url, age_xpath_list=age_xpath_list)
+# worker.open_url(url, age_xpath_list=age_xpath_list)

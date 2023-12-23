@@ -25,7 +25,7 @@ buddi_markers = ["app.buddi.", "www.budside.com", "buddi-notification", "//app.b
                  "buddi_field"
                  ]
 
-go_to_shop_markers = [
+shop_markers = [
     "//a//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
     "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
     "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'order')]",

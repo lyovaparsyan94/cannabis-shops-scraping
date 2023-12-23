@@ -8,6 +8,7 @@ from global_land_mask import globe
 import pprint
 from platform_scrapper.configs.constants import HEADERS
 
+
 class GeoLocator:
     half_km = 0.004501
 
@@ -28,9 +29,6 @@ class GeoLocator:
             try:
                 time.sleep(interval)
                 location = self.geolocator.reverse(address, timeout=None)
-                # url = f'https://nominatim.openstreetmap.org/reverse?lat={address[0]}&lon={address[1]}&format=json&accept-language=en&zoom=3'
-                # result = requests.get(url=url)
-                # location = result.json()
                 print(location.raw.get('type'), "No type")
                 _lat = location.raw['lat']
                 _lon = location.raw['lon']
