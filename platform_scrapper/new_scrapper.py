@@ -37,7 +37,7 @@ def start():
             store = row.iloc[1]
             url = row.iloc[4]
             current_data = current_info()
-            data = current_data
+            data = current_data  # !!!! ES DZI
             print(f"Trying URL: {url}\n {counter}/{len(df)}")
             if url not in data:
                 if url not in current_data:
