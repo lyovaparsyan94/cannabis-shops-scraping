@@ -1,0 +1,142 @@
+{
+  "https://cannaera.ca/": {
+    "store": "CannaEra",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60f721a72ea73d00a294545a.js",
+    "platform": "Dutchie"
+  },
+  "https://casablisscannabis.com/": {
+    "store": "CASA BLISS ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/602bddc81b82516323a97746.js",
+    "platform": "Dutchie"
+  },
+  "https://cccanna.co/": {
+    "store": "Cheerful Charlies Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e66a3632a042d3eb5e55648.js",
+    "platform": "Dutchie"
+  },
+  "https://centurycannabis.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Century Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://chilldispensary.ca/": {
+    "store": "Chill Blue Mountain",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://chillinbuds.com/": {
+    "store": "Chillin Buds",
+    "src": "https://dutchie.com/api/v2/embedded-menu/612d270900432e00b065dead.js",
+    "platform": "Dutchie"
+  },
+  "https://chronzzcannabis.com/": {
+    "store": "Chronzz Cannabis Shop",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://ciaocanna.com/": {
+    "store": "Ciao Canna",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://civiliancannabis.com/": {
+    "store": "Civilian House of Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/613aa0ae0fcaa600dbd090a7.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/montreal/?": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/600b54f78ed25e00c9162cfe.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/pembroke/": {
+    "store": "COLLECTIVE GROWERS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eab02e3e7adba013792754d.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/somerset/": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61b83b6988c512009fdb3922.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/sparks/": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62840ccba64b816615fc8754.js",
+    "platform": "Dutchie"
+  },
+  "https://consumerscannabis.com/": {
+    "store": "Consumers Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/639cb058e1421e009aee68c5.js",
+    "platform": "Dutchie"
+  },
+  "https://cosmiccharlies.ca/": {
+    "store": "Cosmic Charlie's",
+    "src": null,
+    "platform": null
+  },
+  "https://cosmicgardens.ca/": {
+    "store": "COSMIC GARDENS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://costcan.ca/": {
+    "store": "COST CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://creeksidegreens.ca/": {
+    "store": "Creekside Greens",
+    "src": null,
+    "platform": null
+  },
+  "https://cumberlandcannabis.ca/": {
+    "store": "Cumberland Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://curaleaf.com/shop/new-jersey/curaleaf-nj-bellmawr-adult-use?utm_source=google&utm_medium=gmb&utm_campaign=gmb-menu": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://dabcannabisstore.com/locations/dab-aurora/": {
+    "store": "Dab Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://dabcannabisstore.com/locations/dab-brampton/": {
+    "store": "Dab Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://dacanna.ca/": {
+    "store": "DA CANNA",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://divineflower.ca/shop-online/": {
+    "store": "Divine Flower",
+    "src": null,
+    "platform": null
+  },
+  "https://dmactoronto.com/shop-now/#/menu": {
+    "store": "DMAC TORONTO",
+    "src": null,
+    "platform": null
+  },
+  "https://dollyscannabis.com/": {
+    "store": "Dolly's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://dopecannabis.ca/": {
+    "store": "Dope Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://bestbudsforever.ca/shop-collingwood/": {
+    "store": "BEST BUDS FOREVER",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61c1f5f2060f0100865c233c.js",
+    "platform": "Dutchie"
+  }
+}

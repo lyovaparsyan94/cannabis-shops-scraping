@@ -1,0 +1,2842 @@
+{
+  "http://burlingtoncannabisco.ca/": {
+    "store": "BURLINGTON CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/611581d851c8c100aaa8c3e8.js",
+    "platform": "Dutchie"
+  },
+  "http://1stopcannabis.ca/": {
+    "store": "1 Stop Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://41cannabisco.ca/": {
+    "store": "41 Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://4kcannabis.ca/": {
+    "store": "4K Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ed80d3e5bec1100f0e9d957.js",
+    "platform": "Dutchie"
+  },
+  "http://6ofspade.com/": {
+    "store": "6 of Spade",
+    "src": null,
+    "platform": null
+  },
+  "http://aceofspadesweed.com/": {
+    "store": "Ace of Spades Weed Limited",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://affxcannabis.ca/": {
+    "store": "AFFX CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://allcitypaint.com/": {
+    "store": "The Underground",
+    "src": null,
+    "platform": null
+  },
+  "http://arcadecanna.com/": {
+    "store": "ARCADE CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://bathbudz.ca/": {
+    "store": "Baths Bud N Boutique",
+    "src": null,
+    "platform": null
+  },
+  "http://bestcannabis.cc/": {
+    "store": "Best Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://bewavy.ca/": {
+    "store": "Wavy",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e44ca7f9e1b321307abc4a6.js?menuType=rec",
+    "platform": "Dutchie"
+  },
+  "http://bluebirdcannabis.store/": {
+    "store": "Bluebird Almonte",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60fad13c6cf69800cecbb22f.js",
+    "platform": "Dutchie"
+  },
+  "http://bluebirdcannabis.store/3500-hawthorne-rd/": {
+    "store": "BlueBird Cannabis Express ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60fad13c6cf69800cecbb22f.js",
+    "platform": "Dutchie"
+  },
+  "http://bonnefire.ca/": {
+    "store": "BONNEFIRE",
+    "src": null,
+    "platform": null
+  },
+  "http://breakingbudcannabis.ca/": {
+    "store": "BREAKING BUD CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://bridgeportcannabis.ca/": {
+    "store": "The Bridgeport Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://budscannabisstore.ca/": {
+    "store": "Bud's Cannabis Store",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://budshouse.ca/": {
+    "store": "BUDS HOUSE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://budssmoke.com/": {
+    "store": "BUDSSMOKE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f7d38d029883400facd32a9.js",
+    "platform": "Dutchie"
+  },
+  "http://budtimez.ca/shop-midhurst": {
+    "store": "Budtimez",
+    "src": "https://dutchie.com/api/v2/embedded-menu/623c97081ec27f0099c327ab.js",
+    "platform": "Dutchie"
+  },
+  "http://calyxandtrichomes.com/": {
+    "store": "Calyx + Trichomes",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://cannabis151.ca/": {
+    "store": "Cannabis 151",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://cannabisbazaar.ca/": {
+    "store": "CANNABIS BAZAAR",
+    "src": null,
+    "platform": null
+  },
+  "http://cannabishut.ca/": {
+    "store": "Cannabis Hut Ltd",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://cannabisjacks.ca/": {
+    "store": "Cannabis Jacks",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62155dd8ac442d00ad605a84.js",
+    "platform": "Dutchie"
+  },
+  "http://cannabisplusstore.com/": {
+    "store": "Cannabis Plus Store",
+    "src": null,
+    "platform": null
+  },
+  "http://cannabisstreet.ca/": {
+    "store": "Cannabis Street",
+    "src": "https://cdn-dglge.nitrocdn.com/snheOCgBtUybzoVTKohgxkSuXVqRUTKn/assets/static/optimized/rev-75bd60c/dutchie.com/api/v2/embedded-menu/nitro-min-60f9a1c118c9fd00d35121e0.js",
+    "platform": "Dutchie"
+  },
+  "http://cannabistshop.ca/": {
+    "store": "THE CANNABIST SHOP - MANITOU",
+    "src": null,
+    "platform": null
+  },
+  "http://cannabless.ca/": {
+    "store": "ADOREWEED",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60ff0ceaa5b1d000a8e44218.js",
+    "platform": "Dutchie"
+  },
+  "http://cannacocannabis.ca/": {
+    "store": "CANNACO - THE CANNABIS COMPANY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60bf7d1d49bd1700c9fe8ab1.js",
+    "platform": "Dutchie"
+  },
+  "http://cannanorth.ca/": {
+    "store": "CANNA NORTH CANNABIS STORE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://cannasavanna.com/": {
+    "store": "Canna Savanna",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615b5b5d91190600d4e12960.js",
+    "platform": "Dutchie"
+  },
+  "http://chill-cannabis.com/": {
+    "store": "Chill Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://ckcannabis.ca/": {
+    "store": "CK Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://clintoncannabis.net/": {
+    "store": "Clinton Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://clubcanapa.com/": {
+    "store": "Club Canapa Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://collegestreetcannabis.ca/": {
+    "store": "COLLEGE STREET CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://cookiescannabis.ca/": {
+    "store": "Cookies",
+    "src": null,
+    "platform": null
+  },
+  "http://costcan.ca/": {
+    "store": "COST CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://creeksidegreens.ca/": {
+    "store": "Creekside Greens",
+    "src": null,
+    "platform": null
+  },
+  "http://curiouscannabis.ca/": {
+    "store": "THE CURIOUS CANNABIS COMPANY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/614353b9d7d81200a3ef7f0e.js",
+    "platform": "Dutchie"
+  },
+  "http://davenportleaf.com/": {
+    "store": "Davenport Leaf",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f5fc08841052101225278c8.js",
+    "platform": "Dutchie"
+  },
+  "http://dreamcannabis.net/": {
+    "store": "DREAM CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://duenorthcannabis.com/": {
+    "store": "Due North Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ef5fb055eb50b00e392c351.js",
+    "platform": "Dutchie"
+  },
+  "http://dutch.love/": {
+    "store": "Dutch Love Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://dutchie.com/stores/tokyo-smoke-aurora-yonge-st": {
+    "store": "Tokyo Smoke Aurora",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://dutchie.com/stores/tokyo-smoke-hanover-10th": {
+    "store": "Tokyo Smoke Hanover",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://dutchie.com/stores/tokyo-smoke-sarnia-lambton-mall": {
+    "store": "Tokyo Smoke Lambton Mall",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://famousflower.ca/": {
+    "store": "FAMOUS FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "http://finecannabis.ca/": {
+    "store": "F1NE Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://fogtown.ca/": {
+    "store": "FOGTOWN FLOWER",
+    "src": "https://dutchie.com/api/v2/embedded-menu/622f98944856cf0987567186.js",
+    "platform": "Dutchie"
+  },
+  "http://forty3eighty.com/": {
+    "store": "Forty3Eighty Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://gardencitycannabisco.com/": {
+    "store": "Garden City Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60899d8d5904e400d9a12b21.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://gatherngrow.ca/": {
+    "store": "Gather and Grow Recreational Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://giggleleaf.ca/": {
+    "store": "Giggle Leaf",
+    "src": null,
+    "platform": null
+  },
+  "http://golden-harvest.ca/": {
+    "store": "GOLDEN HARVEST",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62fd3fc40b5b0900accd8a50.js",
+    "platform": "Dutchie"
+  },
+  "http://goodcookiecannabis.com/": {
+    "store": "Good Cookie Malvern",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://grandmascannabis.ca/": {
+    "store": "Grandma's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://greengrove.ca/": {
+    "store": "Green Grove",
+    "src": null,
+    "platform": null
+  },
+  "http://greenkingcannabis.com/": {
+    "store": "Green King Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://greenlightwindsor.ca/": {
+    "store": "Greenlight District",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://greenport.store/": {
+    "store": "GreenPort",
+    "src": "https://dutchie.com/api/v2/embedded-menu/632a3632ae6a2b00ac1ec89a.js",
+    "platform": "Dutchie"
+  },
+  "http://greentowndiscount.com/": {
+    "store": "Greentown Cannabis Discount Hut",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63dd3ab12a28f600d47fe64b.js",
+    "platform": "Dutchie"
+  },
+  "http://groovecannabis.com/": {
+    "store": "Groove Cannabis Co. Inc.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/646384c52b3e92002bc53608.js",
+    "platform": "Dutchie"
+  },
+  "http://growcerycannabis.ca/": {
+    "store": "Growcery Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://growersretailcannabis.ca/": {
+    "store": "Growers Retail",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eb9a5221c1db800f8bd2a7d.js",
+    "platform": "Dutchie"
+  },
+  "http://gspacecannabis.com/": {
+    "store": "GreenSpace Co ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://gymcannabis.ca/": {
+    "store": "The Gym Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eea89e7032d4a014c5029dc.js",
+    "platform": "Dutchie"
+  },
+  "http://happylifepotshop.ca/": {
+    "store": "Happy Life",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eb35ea6d26406015a313ce7.js",
+    "platform": "Dutchie"
+  },
+  "http://happytimepreschoolinc.com/": {
+    "store": "Happy Time",
+    "src": null,
+    "platform": null
+  },
+  "http://happywaycannabis.ca/": {
+    "store": "HAPPY WAY CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://harvestcannabisco.ca/": {
+    "store": "Harvest Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "http://hellocannabis.ca/london": {
+    "store": "HELLO CANNABIS YORK ST ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea78dd03fda476f0124a83.js",
+    "platform": "Dutchie"
+  },
+  "http://hempirehouse.ca/": {
+    "store": "Hempire House",
+    "src": null,
+    "platform": null
+  },
+  "http://highendcannabisco.ca/": {
+    "store": "High End Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://higherlimits.com/": {
+    "store": "Higher Limits Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://highlife.ca/": {
+    "store": "HIGHLIFE CANNABIS HANMER EXPRESS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fa09025819cfe0108210ded.js",
+    "platform": "Dutchie"
+  },
+  "http://highlitecannabis.ca/": {
+    "store": "HIGH LITE CANNABIS STORE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://highparkcc.ca/": {
+    "store": "High Park Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://highties.ca/": {
+    "store": "Highties Cannabis Store",
+    "src": "https://dutchie.com/api/v2/embedded-menu/613f950d28e35400cb2d0da6.js",
+    "platform": "Dutchie"
+  },
+  "http://highwaygrassbar.ca/": {
+    "store": "HIGH-WAY GRASS BAR",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60084b335c8aed6ed8272393.js",
+    "platform": "Dutchie"
+  },
+  "http://hollanddaze.ca/": {
+    "store": "HOLLAND DAZE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://hurbn.ca/": {
+    "store": "HURBN CANNABIS COMPANY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60229712f530cb00ce567859.js",
+    "platform": "Dutchie"
+  },
+  "http://hypnoscannabis.ca/": {
+    "store": "Hypnos Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://hypnoticfarms.com/": {
+    "store": "Hypnotic Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://instagram.com/lux__smoke/?hl=en": {
+    "store": "Lux Smoke Vape/Cafe",
+    "src": null,
+    "platform": null
+  },
+  "http://ipotweed.com/": {
+    "store": "IPOT",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://kannabisking.ca/": {
+    "store": "KANNABIS KING",
+    "src": null,
+    "platform": null
+  },
+  "http://kawarthasmoke.ca/": {
+    "store": "KAWARTHA SMOKE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://kingofqueenscannabis.com/": {
+    "store": "KING OF QUEENS CANNABIS COMPANY",
+    "src": null,
+    "platform": null
+  },
+  "http://kspotshop.ca/": {
+    "store": "K\u2019S POT SHOP",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://kushklub.ca/": {
+    "store": "Kush Klub",
+    "src": null,
+    "platform": null
+  },
+  "http://kushkorner.ca/": {
+    "store": "KUSH KORNER CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6137d4cc118f6e00b166752b.js",
+    "platform": "Dutchie"
+  },
+  "http://lakeviewcannabis.ca/": {
+    "store": "Lakeview Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://leafandembers.ca/": {
+    "store": "Leaf & Embers",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://littlehouseto.com/": {
+    "store": "Little House Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://localproductscannabis.com/": {
+    "store": "Local Products The Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "http://lockstockcannabis.com/": {
+    "store": "Lockstock. Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://londonhaze.ca/": {
+    "store": "London Haze",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60ba91cc21b3f700cac9399a.js",
+    "platform": "Dutchie"
+  },
+  "http://luckyplusvapeshop.net/": {
+    "store": "Lucky Plus Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://maryjcannabis.ca/": {
+    "store": "Mary J's Cannabis Cobourg",
+    "src": null,
+    "platform": null
+  },
+  "http://mindflower.ca/": {
+    "store": "Mind Flower Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/mind-flower.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://miragecannabis.ca/": {
+    "store": "MIRAGE CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://moonfirecannabis.ca/": {
+    "store": "Moonfire Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60d2237dbd13650ceb09635a.js",
+    "platform": "Dutchie"
+  },
+  "http://mountainbudz.ca/": {
+    "store": "Mountain Budz",
+    "src": null,
+    "platform": null
+  },
+  "http://mycannaverse.ca/": {
+    "store": "Cannaverse",
+    "src": null,
+    "platform": null
+  },
+  "http://neatcannabis.com/": {
+    "store": "Neat Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://nexuscannabis.ca/": {
+    "store": "Hemisphere Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://northernhelm.com/shopkingston": {
+    "store": "Northern Helm Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60bfb3036f2ec800a6c7ce51.js",
+    "platform": "Dutchie"
+  },
+  "http://northernleaf.ca/": {
+    "store": "Northern Leaf Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://northern-lights.ca/": {
+    "store": "NORTHERN LIGHTS CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd6f1b824a619010096cd34.js",
+    "platform": "Dutchie"
+  },
+  "http://northerntokes.com/": {
+    "store": "Northern Tokes",
+    "src": "https://dutchie.com/api/v2/embedded-menu/603e8499832e6b00db882529.js",
+    "platform": "Dutchie"
+  },
+  "http://odysseycannabis.ca/": {
+    "store": "ODYSSEY CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/611298aaf0f47d00b80c34c8.js",
+    "platform": "Dutchie"
+  },
+  "http://on.valuebuds.com/": {
+    "store": "Value Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://oneplant.ca/": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "http://onthecannabisside.ca/": {
+    "store": "On the Cannabis Side",
+    "src": "https://dutchie.com/api/v2/embedded-menu/616737f3250edc00b1964981.js",
+    "platform": "Dutchie"
+  },
+  "http://ovcs.online/": {
+    "store": "OVCS",
+    "src": null,
+    "platform": null
+  },
+  "http://peacepipe420.com/": {
+    "store": "The Peace Pipe",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7995b81bf8a00d277da44.js",
+    "platform": "Dutchie"
+  },
+  "http://pickeringtowncentre.com/": {
+    "store": "Tokyo Smoke Pickering Town Centre",
+    "src": null,
+    "platform": null
+  },
+  "http://plutoplants.ca/": {
+    "store": "PLUTO PLANTS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6009c22ee1e75f1e872b9772.js",
+    "platform": "Dutchie"
+  },
+  "http://pogshop.ca/": {
+    "store": "Pot of Gold",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ed04e0b5f1bc10145cc0b4d.js",
+    "platform": "Dutchie"
+  },
+  "http://popscannabis.ca/": {
+    "store": "POP\u2019S CANNABIS CO. STURGEON FALLS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://potherb.ca/": {
+    "store": "Potherb Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://puffshop.ca/": {
+    "store": "Pufftastic Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://purcannabis.ca/": {
+    "store": "Pur Cannabis \u2013 Woolwich",
+    "src": null,
+    "platform": null
+  },
+  "http://pureplantcannabis.com/": {
+    "store": "Pure Plant Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/646f6640434ae20010dc165f.js",
+    "platform": "Dutchie"
+  },
+  "http://purplemoosecannabis.com/": {
+    "store": "PURPLE MOOSE",
+    "src": null,
+    "platform": null
+  },
+  "http://purplepineapplecannabis.com/": {
+    "store": "Purple Pineapple Cannabis Co",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://rcbudshop.ca/": {
+    "store": "RC BUD SHOP",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://reddensjunction.com/": {
+    "store": "REDDEN\u2019S JUNCTION CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://relm.ca/": {
+    "store": "RELM Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8dee00471e1b00bee8e73a.js",
+    "platform": "Dutchie"
+  },
+  "http://relmriverdale.ca/": {
+    "store": "Relm Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://ronincannabis.ca/": {
+    "store": "Ronin Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://rosegoldcannabis.ca/": {
+    "store": "Rose Gold Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://scarletfirecannabis.ca/": {
+    "store": "Scarlet Fire Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://secretgardencannabis.ca/": {
+    "store": "Secret Garden Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://seoulcannabis.ca/": {
+    "store": "Seoul Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://session7.ca/": {
+    "store": "Session7",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f04b8e052817c014c31690c.js",
+    "platform": "Dutchie"
+  },
+  "http://shinybud.com/": {
+    "store": "SHINYBUD CANNABIS CO. 444 DUNDAS BELLEVILLE",
+    "src": null,
+    "platform": null
+  },
+  "http://shivaasrose.com/": {
+    "store": "SHIVAA\u2019S ROSE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fdd352ebb29a301034435d5.js",
+    "platform": "Dutchie"
+  },
+  "http://shop.kawarthaleafs.ca/": {
+    "store": "KAWARTHA LEAFS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://shopdabglass.ca/": {
+    "store": "DAB GLASS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6195e7e9a7493e00a8efe518.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://shophcc.ca/": {
+    "store": "Hamilton Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://silverleafcannabis.ca/": {
+    "store": "Silverleaf Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://skycannabis.ca/": {
+    "store": "Sky Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://smokeydaze.ca/": {
+    "store": "Smokey Daze Inc",
+    "src": null,
+    "platform": null
+  },
+  "http://southernleafhemp.co/": {
+    "store": "SUPREME LEAF CANNABIS COMPANY",
+    "src": null,
+    "platform": null
+  },
+  "http://starbuds.co/": {
+    "store": "Star Buds Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://stellarbud.ca/": {
+    "store": "STELLAR BUD",
+    "src": null,
+    "platform": null
+  },
+  "http://sweetreleafs.ca/": {
+    "store": "Sweet Releafs Inc.",
+    "src": null,
+    "platform": null
+  },
+  "http://sweetreleafsbrantford.store/": {
+    "store": "SWEET RELEAFS INC",
+    "src": null,
+    "platform": null
+  },
+  "http://tbcontario.com/": {
+    "store": "Taste Buds Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://tcann.ca/": {
+    "store": "T CANNABIS ",
+    "src": null,
+    "platform": null
+  },
+  "http://temagamicannabis.co/": {
+    "store": "Temagami Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://terpsrec.com/": {
+    "store": "Terps & Rec Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/610054d396959e00d9e7480d.js",
+    "platform": "Dutchie"
+  },
+  "http://thecannabisretailstore.com/": {
+    "store": "The Cannabis Retail Store",
+    "src": null,
+    "platform": null
+  },
+  "http://thedencannabis.com/": {
+    "store": "The Den Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "http://theglowcannabis.ca/": {
+    "store": "Glow Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://thegreencloudcannabis.com/": {
+    "store": "THE GREEN CLOUD CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://thegreenroomcannabis.ca/": {
+    "store": "THE GREEN ROOM CANNABIS - WYNDHAM N",
+    "src": null,
+    "platform": null
+  },
+  "http://thehiclass.ca/": {
+    "store": "Hi Class ",
+    "src": null,
+    "platform": null
+  },
+  "http://thehousecannabis.ca/": {
+    "store": "The House of Cannabis - Keswick",
+    "src": null,
+    "platform": null
+  },
+  "http://thenugco.ca/": {
+    "store": "The Nug Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://thewestore.com/": {
+    "store": "THE WE STORE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://tmhcannabis.com/": {
+    "store": "Take Me Home Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6036ca4a41fd5828dbd98387.js",
+    "platform": "Dutchie"
+  },
+  "http://tokehouse.ca/": {
+    "store": "TOKE HOUSE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/644bfb9d1eafed0102e37dbd.js",
+    "platform": "Dutchie"
+  },
+  "http://torontocannabisauthority.ca/": {
+    "store": "Toronto Cannabis Authority",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://toughbud.ca/": {
+    "store": "Tough Bud Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://twocatscannabisco.com/": {
+    "store": "TWO CATS CANNABIS CO.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://unclelouiescannabis.ca/": {
+    "store": "Uncle Louie's Cannabis Shop",
+    "src": null,
+    "platform": null
+  },
+  "http://valuebuds.com/": {
+    "store": "VALUE BUDS",
+    "src": null,
+    "platform": null
+  },
+  "http://villagebud.ca/": {
+    "store": "VILLAGE BUD ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://wavybuds.net/": {
+    "store": "WAVY BUDS RECREATIONAL CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://weedjar.ca/": {
+    "store": "WEEDJAR",
+    "src": "https://dutchie.com/api/v2/embedded-menu/607460cab394db00d682c54e.js",
+    "platform": "Dutchie"
+  },
+  "http://welcomecannabis.ca/": {
+    "store": "Welcome Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8393af2c8a5800a1809f6f.js",
+    "platform": "Dutchie"
+  },
+  "http://welcometoclouded.com/": {
+    "store": "CLOUDED",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://wildflowerz.ca/": {
+    "store": "Wild Flowerz",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/636536f141c9a200b6e1ab48.js",
+    "platform": "Dutchie"
+  },
+  "http://www.6ixcannabis.ca/": {
+    "store": "6ix cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.abovethecloudscannabis.com/": {
+    "store": "Above The Clouds Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.affxcannabis.ca/": {
+    "store": "AFFX CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.ambrosiacannabis.ca/": {
+    "store": "AMBROSIA",
+    "src": null,
+    "platform": null
+  },
+  "http://www.athenacannabis.ca/": {
+    "store": "Athena Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.atlascannabis.net/": {
+    "store": "ATLAS CANNABIS CLUB",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bananasdispensary.ca/": {
+    "store": "HIGHLIFE CANNABIS CHELMSFORD",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bancroftcannabis.ca/": {
+    "store": "BANCROFT CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.beavertoncannabis.ca/": {
+    "store": "Beaverton cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.benkzbudz.com/": {
+    "store": "Benkz Budz ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bentbud.com/": {
+    "store": "Bent Bud",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bigbamboocannabis.com/": {
+    "store": "The Big Bamboo Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.bigrivercannabis.ca/": {
+    "store": "Big River Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.blackstarcannabis.ca/": {
+    "store": "Blackstar Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.blazeco.ca/": {
+    "store": "Blazeco Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.bluehavencannabis.com/": {
+    "store": "Blue Haven Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bluesagehamilton.ca/": {
+    "store": "Blue Sage Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bodegaboyz.ca/": {
+    "store": "Bodega Boyz",
+    "src": null,
+    "platform": null
+  },
+  "http://www.bongbaba.ca/": {
+    "store": "Bongbaba Cannabis Culture",
+    "src": null,
+    "platform": null
+  },
+  "http://www.borderlandcannabis.com/": {
+    "store": "Borderland Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.brantcannabisco.ca/": {
+    "store": "Brant Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6001efa8e92af100e41481a7.js",
+    "platform": "Dutchie"
+  },
+  "http://www.budbank.shop/": {
+    "store": "Bud Bank",
+    "src": null,
+    "platform": null
+  },
+  "http://www.budget-bud.com/orleans": {
+    "store": "BUDGET BUD ORLEANS TOWN CENTER",
+    "src": null,
+    "platform": null
+  },
+  "http://www.buds4less.ca/": {
+    "store": "BUDS 4 LESS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64a2d5ccd203a500091fa554.js",
+    "platform": "Dutchie"
+  },
+  "http://www.budscannabisstore.ca/": {
+    "store": "BUD'S CANNABIS STORE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.budssmoke.com/": {
+    "store": "BUDSSMOKE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.buzzedbuds.co/": {
+    "store": "Buzzed Buds",
+    "src": "https://dutchie.com/api/v2/embedded-menu/NqnNjmJkkCXMrHWjw.js?menuType=rec",
+    "platform": "Dutchie"
+  },
+  "http://www.bytownbudzz.com/": {
+    "store": "BYTOWN BUDZZ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cabincannabis.ca/": {
+    "store": "CABIN CANNABIS ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.canada-buds.ca/": {
+    "store": "Canada Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://www.canjacannabis.ca/": {
+    "store": "Canja ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f0cf1d1ba728300e5b8fc1b.js",
+    "platform": "Dutchie"
+  },
+  "http://www.cannabisarnprior.com/": {
+    "store": "ARNPRIOR CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannabisbazaar.ca/": {
+    "store": "Cannabis Bazaar",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannabiscannabis.com/": {
+    "store": "CANNABIS CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/609ae9c88cfde000aeb41e41.js",
+    "platform": "Dutchie"
+  },
+  "http://www.cannabis-co.ca/": {
+    "store": "Cannabis & Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e9b91a88d039e00c86c67ff.js",
+    "platform": "Dutchie"
+  },
+  "http://www.cannabiscove.ca/": {
+    "store": "Cannabis Cove ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.cannabisemporium420.ca/": {
+    "store": "Cannabis Emporium",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.cannabisgreybruce.ca/": {
+    "store": "Cannabis Grey Bruce",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60df8bdc1c562500bb62498e.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://www.cannabishut.ca/": {
+    "store": "Cannabis Hut Ltd.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannabisjacks.ca/": {
+    "store": "Cannabis Jack's",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62155dd8ac442d00ad605a84.js",
+    "platform": "Dutchie"
+  },
+  "http://www.cannabislinkinc.com/": {
+    "store": "Cannabis Link",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannabisstn.com/": {
+    "store": "CANNABIS STATION",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.cannabis-xpress.com/": {
+    "store": "CANNABIS XPRESS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannabuzzinc.ca/": {
+    "store": "Canna Buzz",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannahavana.ca/": {
+    "store": "Canna Havana ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cannanorth.ca/": {
+    "store": "CANNA NORTH CANNABIS STORE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.cannasavvy.ca/": {
+    "store": "Cannasavvy Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cantopia.ca/": {
+    "store": "CANTOPIA CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.canvascannabis.ca/": {
+    "store": "Canvas Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.canyoncannabis.ca/": {
+    "store": "Canyon Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.capturingeden.com/": {
+    "store": "Capturing Eden",
+    "src": null,
+    "platform": null
+  },
+  "http://www.caribbeanoxygen.com/": {
+    "store": "Caribbean Oxygen",
+    "src": null,
+    "platform": null
+  },
+  "http://www.casablisscannabis.com/": {
+    "store": "CASA BLISS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cauldroncannabis.com/": {
+    "store": "Cauldron Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.centralplainscannabis.com/": {
+    "store": "Central Plains Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cerenibis.ca/": {
+    "store": "CERENIBIS CANADA",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.circa1818.ca/": {
+    "store": "CIRCA 1818",
+    "src": null,
+    "platform": null
+  },
+  "http://www.city.sault-ste-marie.on.ca/": {
+    "store": "Due North Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cloud29.ca/": {
+    "store": "CLOUD 29 RICHMOND",
+    "src": null,
+    "platform": null
+  },
+  "http://www.coconutcannabis.ca/": {
+    "store": "Coconut Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.cosmocanna.ca/": {
+    "store": "COSMO CANNA",
+    "src": null,
+    "platform": null
+  },
+  "http://www.costcann.ca/": {
+    "store": "COST CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.craftednugs.ca/": {
+    "store": "Crafted Nugs Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.creeksidecannabis.ca/": {
+    "store": "Creekside Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.dabcannabisstore.com/": {
+    "store": "Dab Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.damahouse.ca/": {
+    "store": "DAMA House",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6065f501fc071b04904d80ab.js",
+    "platform": "Dutchie"
+  },
+  "http://www.deeprivercannabis.com/": {
+    "store": "Deep River Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.discountedcannabis.ca/": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.dockscannabis.ca/": {
+    "store": "DOCKS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.doseofdope.ca/": {
+    "store": "D-SE OF DOPE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.duenorthcannabis.com/": {
+    "store": "Due North Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.dufferinmall.ca/": {
+    "store": "Fika Local Dufferin Mall",
+    "src": null,
+    "platform": null
+  },
+  "http://www.dundascannabis.ca/": {
+    "store": "Dundas Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.eagleicannabis.com/": {
+    "store": "Eagle I Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.electricalbanana.ca/": {
+    "store": "Electrical Banana",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.elevatedcannabis.ca/": {
+    "store": "Elevated Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.emjays.ca/": {
+    "store": "Em Jay's",
+    "src": null,
+    "platform": null
+  },
+  "http://www.endless-heights.ca/": {
+    "store": "Endless Heights Cannabis Shop",
+    "src": null,
+    "platform": null
+  },
+  "http://www.endoflagship.com/": {
+    "store": "ENDO",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.erbngreen.com/": {
+    "store": "Erbn Green",
+    "src": null,
+    "platform": null
+  },
+  "http://www.euphoricpot.com/": {
+    "store": "Euphoric Pot Corporation",
+    "src": null,
+    "platform": null
+  },
+  "http://www.fallengiants.ca/": {
+    "store": "Fallen Giants",
+    "src": null,
+    "platform": null
+  },
+  "http://www.famousflower.ca/": {
+    "store": "FAMOUS FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.fikasupply.com/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.flowerpotcannabis.ca/": {
+    "store": "Flower Pot",
+    "src": null,
+    "platform": null
+  },
+  "http://www.flowerscannabis.ca/": {
+    "store": "Flowers Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.flowertowncannabis.ca/": {
+    "store": "Flowertown Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.forestcitymarijuana.com/": {
+    "store": "Forest City Marijuana",
+    "src": null,
+    "platform": null
+  },
+  "http://www.forestplant.ca/": {
+    "store": "FOREST PLANT ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.fratelliandco.com.au/": {
+    "store": "Fratelli and Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.gardencitycannabisco.com/": {
+    "store": "Garden City Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "http://www.getsmokeys.com/": {
+    "store": "Smokey's",
+    "src": null,
+    "platform": null
+  },
+  "http://www.gigglescannabis.ca/": {
+    "store": "Giggles Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.gohi.ca/": {
+    "store": "Go Hi Ltd ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.goldentreecannabis.com/?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "Golden Tree Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.goodcookiecannabis.com/": {
+    "store": "GOOD COOKIE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.goodnaturecannabis.ca/": {
+    "store": "Good Nature Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.graffiticannabis.ca/": {
+    "store": "Graffiti Cannabis Co.",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://www.grascbd.com/?utm_source=GoogleMyBusiness&utm_medium=organic&utm_campaign=TX_Elmira": {
+    "store": "T CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.grassrootsco.ca/": {
+    "store": "Grassroots Co",
+    "src": null,
+    "platform": null
+  },
+  "http://www.greenapplecannabis.ca/": {
+    "store": "GREEN APPLE CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.greenheartflowers.com/": {
+    "store": "GREENHEART FLOWERS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.greenhousecannabis.ca/": {
+    "store": "Greenhouse",
+    "src": "../../api.dutchie.com/api/v2/embedded-menu/60a8115a5779b500a0d66315.js",
+    "platform": "Dutchie"
+  },
+  "http://www.greenlightdistrict.ca/": {
+    "store": "Greenlight District",
+    "src": null,
+    "platform": null
+  },
+  "http://www.greenlinecannabis.ca/": {
+    "store": "Green Line ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.greenmarketcanna.com/": {
+    "store": "GREEN MARKET CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.greenworldcannabis.com/": {
+    "store": "GREEN WORLD ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.groovys.ca/": {
+    "store": "GROOVY'S",
+    "src": null,
+    "platform": null
+  },
+  "http://www.growersretailcannabis.ca/": {
+    "store": "Growers Retail Bloor",
+    "src": null,
+    "platform": null
+  },
+  "http://www.happylifepotshop.ca/": {
+    "store": "HAPPY LIFE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.happylifepotshop.com/": {
+    "store": "Happy Life",
+    "src": null,
+    "platform": null
+  },
+  "http://www.happylifewellness.org/": {
+    "store": "HAPPY LIFE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.harvestcannabisco.ca/": {
+    "store": "Harvest Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "http://www.havoksmoke.com/": {
+    "store": "Havok Smoke Cannabis & Accessories",
+    "src": null,
+    "platform": null
+  },
+  "http://www.helloedition.com/": {
+    "store": "Edition X",
+    "src": null,
+    "platform": null
+  },
+  "http://www.hempirehouse.ca/": {
+    "store": "Hempire House",
+    "src": null,
+    "platform": null
+  },
+  "http://www.herbcan.ca/": {
+    "store": "HERBCAN",
+    "src": null,
+    "platform": null
+  },
+  "http://www.herbiculture.ca/": {
+    "store": "Herbiculture (Scarborough North)",
+    "src": null,
+    "platform": null
+  },
+  "http://www.herbnbud.ca/": {
+    "store": "HERB N BUD",
+    "src": null,
+    "platform": null
+  },
+  "http://www.hespelervillagecannabis.com/": {
+    "store": "HESPELER VILLAGE CANNABIS ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.hfctoronto.com/": {
+    "store": "Harbourfront Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63caad8fb338f600cd3e3226.js",
+    "platform": "Dutchie"
+  },
+  "http://www.hibuzz.ca/": {
+    "store": "Hibuzz",
+    "src": null,
+    "platform": null
+  },
+  "http://www.highhopescannabis.ca/": {
+    "store": "HIGH HOPES CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.highlife.ca/": {
+    "store": "HIGHLIFE ANCASTER",
+    "src": null,
+    "platform": null
+  },
+  "http://www.highrivercannabis.com/": {
+    "store": "High River Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.highties.ca/": {
+    "store": "Highties Cannabis Store",
+    "src": "https://dutchie.com/api/v2/embedded-menu/613f950d28e35400cb2d0da6.js",
+    "platform": "Dutchie"
+  },
+  "http://www.hollanddaze.ca/": {
+    "store": "HOLLAND DAZE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.honeypotsmokeshop.ca/": {
+    "store": "Honeypot Smoke Shop",
+    "src": null,
+    "platform": null
+  },
+  "http://www.idealbuds.ca/": {
+    "store": "Ideal Buds (Atikokan)",
+    "src": null,
+    "platform": null
+  },
+    "http://www.insalatamarket.com/": {
+    "store": "Insalata",
+    "src": null,
+    "platform": null
+  },
+  "http://www.jackpot-cannabis.com/": {
+    "store": "Jackpot Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60942827c4722000d80b55a3.js",
+    "platform": "Dutchie"
+  },
+  "http://www.kanab.ca/": {
+    "store": "KANAB",
+    "src": null,
+    "platform": null
+  },
+  "http://www.kasakana.com/": {
+    "store": "Kasa Kana",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e5ea0f9c82ae7007d37eba1.js",
+    "platform": "Dutchie"
+  },
+  "http://www.kiaorakannabis.com/": {
+    "store": "Kia Ora Kannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.kingofqueenscannabis.com/": {
+    "store": "King of Queens Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://www.kioskcannabis.com/": {
+    "store": "Kiosk Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.kryptonitecannabis.ca/": {
+    "store": "Kryptonite Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.kushyscannabis.com/": {
+    "store": "Kushys",
+    "src": null,
+    "platform": null
+  },
+  "http://www.levicann.com/shop": {
+    "store": "Levicann",
+    "src": null,
+    "platform": null
+  },
+  "http://www.levicann.com/shop-keswick/": {
+    "store": "Levicann",
+    "src": null,
+    "platform": null
+  },
+  "http://www.lindsaycannabisstore.ca/": {
+    "store": "Lindsay Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "http://www.littleleafcannabisco.com/": {
+    "store": "Little Leaf",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.livejollygreen.com/": {
+    "store": "JOLLY GREEN CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.london.ca/": {
+    "store": "Sticky Nuggz London Wellington Inc.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.longbottomleaf.ca/": {
+    "store": "Longbottom Leaf",
+    "src": null,
+    "platform": null
+  },
+  "http://www.lostlake.shop/": {
+    "store": "Lost Lake",
+    "src": null,
+    "platform": null
+  },
+  "http://www.lucknow.nic.in/": {
+    "store": "Budzrus Lucknow",
+    "src": null,
+    "platform": null
+  },
+  "http://www.lushcannabis.ca/": {
+    "store": "Lush Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/620bec36f648ba0f87caf90d.js",
+    "platform": "Dutchie"
+  },
+  "http://www.maliburoad.shop/": {
+    "store": "MALIBU ROAD",
+    "src": null,
+    "platform": null
+  },
+  "http://www.mellowleaf.ca/": {
+    "store": "Mellow Leaf",
+    "src": null,
+    "platform": null
+  },
+  "http://www.mexicannabis.ca/": {
+    "store": "MEXICANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.missjonescannabis.com/": {
+    "store": "Miss Jones",
+    "src": null,
+    "platform": null
+  },
+  "http://www.mokshacannabis.ca/": {
+    "store": "Moksha Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.montkailash.ca/": {
+    "store": "Mont Kailash Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.moonfirecannabis.ca/": {
+    "store": "Moonfire Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60d223c89db43a23103c3676.js",
+    "platform": "Dutchie"
+  },
+  "http://www.moonrockcannabis.ca/": {
+    "store": "MOONROCK CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.motatoke.com/": {
+    "store": "Mota Toke",
+    "src": null,
+    "platform": null
+  },
+  "http://www.myhaightashbury.ca/": {
+    "store": "Haight - Ashbury",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.n80.ca/": {
+    "store": "North 80",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.naturallybongins.ca/": {
+    "store": "Naturally Bongins ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.naturalmysticcannabis.com/": {
+    "store": "Natural Mystic Cannabis & CBD",
+    "src": null,
+    "platform": null
+  },
+  "http://www.natureshaze.com/": {
+    "store": "Nature's Haze",
+    "src": null,
+    "platform": null
+  },
+  "http://www.niagaragolf.ca/": {
+    "store": "10 dunlop",
+    "src": null,
+    "platform": null
+  },
+  "http://www.northernbudzz.com/": {
+    "store": "NORTHERN BUDZZ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.northernzencannabis.ca/": {
+    "store": "Northern Zen Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.nuleef.ca/": {
+    "store": "NULEEF CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.olympiacannabis.ca/": {
+    "store": "Olympia Cannabis Westport  (OC Westport)",
+    "src": null,
+    "platform": null
+  },
+  "http://www.olympuscannabis.ca/": {
+    "store": "Olympus Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.oneplant.ca/locations/cornwall": {
+    "store": "ONE PLANT",
+    "src": null,
+    "platform": null
+  },
+  "http://www.ontario.ca/": {
+    "store": "True North Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.onthecannabisside.ca/": {
+    "store": "On the Cannabis Side",
+    "src": "https://dutchie.com/api/v2/embedded-menu/616737f3250edc00b1964981.js",
+    "platform": "Dutchie"
+  },
+  "http://www.ontheridgeco.com/": {
+    "store": "ON THE RIDGE CO. CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.outabout.ca/": {
+    "store": "OUT & ABOUT CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.ozstore.ca/": {
+    "store": "The Oz Store",
+    "src": null,
+    "platform": null
+  },
+  "http://www.paradiseair.ca/": {
+    "store": "Paradise AIR ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.paramountcannabis.ca/": {
+    "store": "Paramount Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.paramountcannabis.ca/midland": {
+    "store": "Paramount Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.peacepipe420.com/": {
+    "store": "The Peace Pipe",
+    "src": null,
+    "platform": null
+  },
+  "http://www.perthcannabis.ca/": {
+    "store": "PERTH CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.petawawa.store/": {
+    "store": "Petawawa Cannabis Store",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.phoenixcannabis.ca/": {
+    "store": "Phoenix Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.piffingtons.com/": {
+    "store": "Piffingtons Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/610208c87ad66900b07c97c3.js",
+    "platform": "Dutchie"
+  },
+  "http://www.planetearthcannabis.ca/": {
+    "store": "Planet Earth Cannabis ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.popscannabis.ca/": {
+    "store": "Pop's Cannabis Co. ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.potspot.online/": {
+    "store": "POT SPOT",
+    "src": null,
+    "platform": null
+  },
+  "http://www.prairieandluna.ca/": {
+    "store": "Prairie and Luna Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.princessbuds.ca/": {
+    "store": "Princess Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://www.purplecircle.ca/": {
+    "store": "Purple Circle Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.purplemeadow.ca/": {
+    "store": "Purple Meadow Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.rainbowcannabisplace.com/": {
+    "store": "Cannabis Place",
+    "src": null,
+    "platform": null
+  },
+  "http://www.rainbowtbay.com/": {
+    "store": "RAINBOW THUNDER BAY CANNABIS ACCESSORIES ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.ramacannabis.ca/": {
+    "store": "Rama Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.realcancannabis.ca/": {
+    "store": "REALCAN CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.regulatorscannabis.com/": {
+    "store": "Regulators Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6329d9fb98ed8a00fecd4342.js",
+    "platform": "Dutchie"
+  },
+  "http://www.relm.ca/": {
+    "store": "RELM Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.ridgeburn.com/": {
+    "store": "RIDGEBURN",
+    "src": null,
+    "platform": null
+  },
+  "http://www.rightpuff.ca/": {
+    "store": "Rightpuff Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61a041db892e5900ab58aaf3.js",
+    "platform": "Dutchie"
+  },
+  "http://www.rollingcannabis.co/": {
+    "store": "Rolling Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.rootedzencannabis.com/": {
+    "store": "Rooted Zen Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.rosebudcannabis.ca/": {
+    "store": "Rosebud Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.royalcannabissupply.com/": {
+    "store": "Royal Cannabis Supply Company",
+    "src": null,
+    "platform": null
+  },
+  "http://www.rozbudz.com/": {
+    "store": "Rozbudz",
+    "src": null,
+    "platform": null
+  },
+  "http://www.sensationscannabis.com/": {
+    "store": "Sensations Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.sessions.ca/": {
+    "store": "SESSIONS CANNABIS GOULAIS RIVER",
+    "src": "https://dutchie.com/api/v2/embedded-menu/641cb4f68cc3e1002aabceb0.js",
+    "platform": "Dutchie"
+  },
+  "http://www.shinybud.com/": {
+    "store": "SHINYBUD CANNABIS CO. 8 BECKWITH ST",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/alexandria": {
+    "store": "Shiny Bud",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/alliston": {
+    "store": "ShinyBud Cannabis Co. Alliston ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/alta-vista": {
+    "store": "Shinybud cannabis co. 2702 Alta Vista Ottawa",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/arnprior": {
+    "store": "SHINYBUD CANNABIS CO. 39 ARNPRIOR",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/blenheim": {
+    "store": "SHINYBUD CANNABIS CO BLENHEIM",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/bowmanville": {
+    "store": "SHINYBUD CANNABIS CO. 191 BOWMANVILLE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/carling": {
+    "store": "SHINYBUD CANNABIS CO. CARLING OTTAWA",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/elmvale": {
+    "store": "ShinyBud Cannabis Co. Elmvale",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/hawkesbury": {
+    "store": "SHINYBUD CANNABIS CO. 299 MAIN",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/hazeldean": {
+    "store": "shinybud cannabis co. 420 Kanata ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/kemptville": {
+    "store": "SHINYBUD CANNABIS CO. 2600 KEMPTVILLE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/schomberg": {
+    "store": "ShinyBud Cannabis Co. New Tecumseth ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/tilbury": {
+    "store": "SHINYBUD CANNABIS CO. TILBURY",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shinybud.com/windsor": {
+    "store": "ShinyBud Cannabis Co. 7833 Tecumseh",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shopgreenmantle.com/": {
+    "store": "Green Mantle Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.shopstrictly.ca/": {
+    "store": "Strictly Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.shopthegood.ca/": {
+    "store": "The Good Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://www.smileyscannabis.com/": {
+    "store": "Smiley's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.smokelab.ca/": {
+    "store": "Smoke Lab Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.socialcannabliss.ca/": {
+    "store": "Social Cannabliss Inc",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.somaleaf.ca/": {
+    "store": "Soma Leaf Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/649c8d2a45ad820009bf75ea.js",
+    "platform": "Dutchie"
+  },
+  "http://www.southriverbuds.ca/": {
+    "store": "South River Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://www.sparklecannabis.ca/": {
+    "store": "Sparkle Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "http://www.sparkonline.ca/": {
+    "store": "Spark Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/632cd25dd31e0f00b2d4dd11.js",
+    "platform": "Dutchie"
+  },
+  "http://www.sparqretail.ca/": {
+    "store": "SPARQ RETAIL",
+    "src": null,
+    "platform": null
+  },
+  "http://www.speakeasycannabis.ca/": {
+    "store": "Speakeasy Cannabis Midland",
+    "src": null,
+    "platform": null
+  },
+  "http://www.spiritleaf.ca/": {
+    "store": "SPIRITLEAF",
+    "src": null,
+    "platform": null
+  },
+  "http://www.spot420.ca/": {
+    "store": "Spot420 The Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "http://www.springscannabis.ca/": {
+    "store": "Spring cannabis express",
+    "src": null,
+    "platform": null
+  },
+  "http://www.stickynuggzinc.com/": {
+    "store": "STICKY NUGGZ FORT YORK",
+    "src": null,
+    "platform": null
+  },
+  "http://www.stirlingcannabis.ca/": {
+    "store": "STIRLING CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.straightloud.ca/": {
+    "store": "Straight Loud",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.stratfordcanada.ca/": {
+    "store": "Tokyo Smoke Stratford Centre",
+    "src": null,
+    "platform": null
+  },
+  "http://www.sunfishcannabis.com/": {
+    "store": "SunFish Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.takeoffcannabis.com/": {
+    "store": "TAKE OFF CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ede8220a9dfe7011a6a593d.js",
+    "platform": "Dutchie"
+  },
+  "http://www.takeoffcannabis.com/toronto": {
+    "store": "Take Off Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ede8220a9dfe7011a6a593d.js",
+    "platform": "Dutchie"
+  },
+  "http://www.tcann.ca/": {
+    "store": "T CANNABIS NW",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thcco.ca/": {
+    "store": "The Higher Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.the420place.ca/": {
+    "store": "The 420 Place ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.theacc.ca/": {
+    "store": "The Amherstburg Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.thealphabud.com/": {
+    "store": "Alphabud Cannabis Company (Sherbourne)",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thealterednation.com/": {
+    "store": "Altered Nation Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thebogarts.ca/": {
+    "store": "Bogarts Cannabis Shop",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fe9fc084a132000c5dcd389.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://www.thecannabisconnoisseur.ca/": {
+    "store": "The Cannabis Connoisseur",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thecannabisretailstore.com/": {
+    "store": "The Cannabis Retail Store ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thecommunitystore.ca/": {
+    "store": "The Community Store ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.thedimewortley.ca/": {
+    "store": "The Dime on Wortley",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.theflowrpot.ca/": {
+    "store": "The Flower Pot",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615b8c885c9e9500bfbb1ae9.js",
+    "platform": "Dutchie"
+  },
+  "http://www.thegreenbouquet.ca/": {
+    "store": "The Green Bouquet Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thehappycannasseur.com/": {
+    "store": "The Happy Cannasseur",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thehazeco.ca/": {
+    "store": "THE HAZE CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/606f65f0927ab200cab3ea79.js",
+    "platform": "Dutchie"
+  },
+  "http://www.theherbary.com/": {
+    "store": "The Herbary",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thehippiesnextdoor.com/": {
+    "store": "The Hippies Next Door",
+    "src": null,
+    "platform": null
+  },
+  "http://www.theleafcollection.ca/": {
+    "store": "The Leaf Collection",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63ee41252f0baf0054987c48.js",
+    "platform": "Dutchie"
+  },
+  "http://www.theniagaraherbalist.com/?utm_source=gmb&utm_medium=organic": {
+    "store": "THE NIAGARA HERBALIST",
+    "src": null,
+    "platform": null
+  },
+  "http://www.theplacetohaveaparty.com/": {
+    "store": "The Farm",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thepotspottoronto.com/": {
+    "store": "THE POT SPOT",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thermodynamix.ca/": {
+    "store": "Thermodynamix Cannabis Inc.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thewestore.com/": {
+    "store": "THE WE STORE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.thisel.ca/": {
+    "store": "THISEL",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tokacannabis.com/": {
+    "store": "TOKA+",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tokeandtell.ca/": {
+    "store": "TOKE AND TELL CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tokecannabis.com/beamsville/store": {
+    "store": "Toke Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://www.tokehouse.ca/dryden": {
+    "store": "TOKE HOUSE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tonikcannabis.com/": {
+    "store": "TONIK CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tonysjoint.com/": {
+    "store": "Tony\u2019s Joint ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f737bc801fad000d2899f48.js",
+    "platform": "Dutchie"
+  },
+  "http://www.tosmoke.ca/": {
+    "store": "T.O. Smokes",
+    "src": null,
+    "platform": null
+  },
+  "http://www.treesinthe6.com/": {
+    "store": "TREES IN THE SIX ",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tree-top-cannabis.ca/": {
+    "store": "TreeTop",
+    "src": "https://dutchie.com/api/v2/embedded-menu/644c5cb6dbcb6f01de148411.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "http://www.trentoncannabis.ca/": {
+    "store": "TRENTON CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.tribalnationflowerco.com/": {
+    "store": "Inspired Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "http://www.unplugcannabis.com/": {
+    "store": "Unplug Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.uptownherb.ca/": {
+    "store": "Uptown Herb",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "http://www.urbnbud.com/": {
+    "store": "Urbnbud",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6148e2c8b258a800cd749439.js",
+    "platform": "Dutchie"
+  },
+  "http://www.utopiatoronto.com/": {
+    "store": "Utopia Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ed12dcef71e2300d8ab71fb.js",
+    "platform": "Dutchie"
+  },
+  "http://www.valleybud.ca/": {
+    "store": "VALLEY BUD",
+    "src": null,
+    "platform": null
+  },
+  "http://www.valuebuds.com/": {
+    "store": "Value Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://www.vapeclubcannabis.com/": {
+    "store": "VAPE CLUB CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://www.vertiecannabis.com/": {
+    "store": "VERTIE",
+    "src": null,
+    "platform": null
+  },
+  "http://www.villagebuds.com/": {
+    "store": "Village Buds",
+    "src": null,
+    "platform": null
+  },
+  "http://www.vipcannabis.ca/": {
+    "store": "VIP Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.vnd.life/": {
+    "store": "V&D Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.we-d.ca/": {
+    "store": "WE'D Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/624c42b1c1b4df0d5b411270.js",
+    "platform": "Dutchie"
+  },
+  "http://www.westendcannabisco.com/": {
+    "store": "West End Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "http://www.whatisbodega.com/": {
+    "store": "BODEGA",
+    "src": null,
+    "platform": null
+  },
+  "http://www.windsweptcannabisstore.ca/": {
+    "store": "Windswept Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/602d44a6affd92378c7b244e.js",
+    "platform": "Dutchie"
+  },
+  "http://www.wonderbuds.ca/": {
+    "store": "Wonder Buds Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e7ba97a95c23d4aba30032e.js",
+    "platform": "Dutchie"
+  },
+  "http://www.woodstockcannabisco.ca/": {
+    "store": "Woodstock Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6001f023ebd1154463af0add.js",
+    "platform": "Dutchie"
+  },
+  "http://www.worldscollide.ca/": {
+    "store": "That Happy Company",
+    "src": null,
+    "platform": null
+  },
+  "http://www.yourlocalcannabis.com/": {
+    "store": "Your Local Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "http://www.zephyrcannabis.ca/": {
+    "store": "ZEPHYR CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "http://ybcannabis.com/": {
+    "store": "YERBA BUENA CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "http://ybhgreen.ca/": {
+    "store": "YBH Green",
+    "src": null,
+    "platform": null
+  },
+  "http://yieldcannabis.com/": {
+    "store": "Yield Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/605ba12905855e00c6e55081.js",
+    "platform": "Dutchie"
+  },
+  "http://yourlocalcannabis.com/": {
+    "store": "Your Local Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://10seventeencannabis.ca/": {
+    "store": "10 Seventeen",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f3c474b3e2b1c010d7e7037.js",
+    "platform": "Dutchie"
+  },
+  "https://2one2dispensary.com/?utm_source=google&utm_medium=gmb&utm_campaign=san%20francisco": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://420love.ca/": {
+    "store": "420Love",
+    "src": null,
+    "platform": null
+  },
+  "https://710kingston.com/": {
+    "store": "MC CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://8th.ca/": {
+    "store": "Eighth Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e6baa56749da200738f5166.js",
+    "platform": "Dutchie"
+  },
+  "https://abovethecloudscannabis.com/": {
+    "store": "Above Clouds Ltd. ",
+    "src": "https://abovethecloudscannabis.com/wp-content/cache/min/1/api/v2/embedded-menu/5f722e483b805100af41339c.js?ver=1669658024",
+    "platform": "Dutchie"
+  },
+  "https://ahighclassjoint.ca/": {
+    "store": "A High Class Joint",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ff8ed0d41caa800e524248d.js",
+    "platform": "Dutchie"
+  },
+  "https://alpha-cannabis.ca/?utm_source=google&utm_medium=gmb&utm_campaign=aurora": {
+    "store": "ALPHA CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://arcadecanna.com/": {
+    "store": "ARCADE CANNABIS ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://bananasdispensary.ca/": {
+    "store": "HIGHLIFE CANNABIS ESPANOLA",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6100268cbc2cf3009bf95b3b.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://barttowatree.ca/about-us": {
+    "store": "Barttowa Tree",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://baybud.ca/": {
+    "store": "BayBud Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e9f4955e3db3e00dafcf520.js",
+    "platform": "Dutchie"
+  },
+  "https://beancannabis.com/": {
+    "store": "BEAN CANNABIS SHOP 160 WATERLOO",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5efa738f39d32700cc117a3a.js",
+    "platform": "Dutchie"
+  },
+  "https://bestbudz.ca/": {
+    "store": "Bestbudz",
+    "src": null,
+    "platform": null
+  },
+  "https://bigfootcannabis.ca/": {
+    "store": "Bigfoot's Cannabis Inc.",
+    "src": null,
+    "platform": null
+  },
+  "https://bigrivercannabis.ca/": {
+    "store": "Big River Cannabis - Laurier",
+    "src": null,
+    "platform": null
+  },
+  "https://bloomohio.com/ohio-dispensary-menu/columbus-dispensary-product-prices?utm_source=google&utm_medium=organic&utm_campaign=gmblisting-columbus": {
+    "store": "BLOOM QUALITY CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://bluebirdcannabis.store/": {
+    "store": "BLUEBIRD CANNABIS EXPRESS - HAWKESBURY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/fjySu4BPYqScFCR2t.js",
+    "platform": "Dutchie"
+  },
+  "https://bluebirdcannabis.store/bank/": {
+    "store": "BLUEBIRD CANNABIS CO. BANK ST",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e4cb1592f23f5006b8c6199.js",
+    "platform": "Dutchie"
+  },
+  "https://bluebirdcannabis.store/byward/": {
+    "store": "BLUEBIRD CANNABIS CO. CLARENCE STREET",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e4cb1592f23f5006b8c6199.js",
+    "platform": "Dutchie"
+  },
+  "https://bluebirdcannabis.store/gladstone/": {
+    "store": "Bluebird Cannabis Gladstone",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e4cb1592f23f5006b8c6199.js",
+    "platform": "Dutchie"
+  },
+  "https://bluntandcherry.ca/": {
+    "store": "BLUNT AND CHERRY",
+    "src": null,
+    "platform": null
+  },
+  "https://bobsbudemporium.ca/": {
+    "store": "BOB'S BUD EMPORIUM (ELGIN CENTRE)",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://bodyandspiritcannabis.com/": {
+    "store": "Body and Spirit Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e45c5d96a6aef00702ed11f.js",
+    "platform": "Dutchie"
+  },
+  "https://bongbaba.ca/shop/#/menu": {
+    "store": "Bongbaba Cannabis Culture",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://bowmanville.rusticcannabis.ca/menu/rustic-cannabis-121-king-st": {
+    "store": "RUSTIC CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://bramalea.cantopia.ca/stores/cantopia-cannabis-co-bramalea": {
+    "store": "Cantopia Cannabis Co.",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://budbarexpress.com/": {
+    "store": "Budbar Express",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63e50fdf081ea10085ba98d6.js",
+    "platform": "Dutchie"
+  },
+  "https://budbrotherscannabis.ca/": {
+    "store": "BUD BROTHERS CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60a2acc7143d8600a7a11f35.js",
+    "platform": "Dutchie"
+  },
+  "https://budderscannabis.ca/": {
+    "store": "Budders",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ecda0d0541dc10113e069b5.js",
+    "platform": "Dutchie"
+  },
+  "https://budler.ca/cantopia-cannabis-co./cantopia-cannabis-co": {
+    "store": "Cantopia Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://budler.ca/culture-rising/culture-rising-3723": {
+    "store": "Culture Rising",
+    "src": null,
+    "platform": null
+  },
+  "https://budler.ca/greenstone-cannabis/greenstone-cannabis-shop-7784/shop": {
+    "store": "Greenstone Cannabis Shop",
+    "src": null,
+    "platform": null
+  },
+  "https://budluv.ca/pages/dutchie-menu?utm_source=google&utm_medium=click&utm_campaign=GMB": {
+    "store": "House of Bud",
+    "src": null,
+    "platform": null
+  },
+  "https://budshouse.ca/": {
+    "store": "Buds House",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://budssmoke.com/": {
+    "store": "BUDSSMOKE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6126c3db6a262f00af1357ed.js",
+    "platform": "Dutchie"
+  },
+  "https://budssmoke.com/6-main-street-south-callander/": {
+    "store": "BUDSSMOKE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/642f1ce57f22fc00c0a5be1f.js",
+    "platform": "Dutchie"
+  },
+  "https://budtimez.ca/": {
+    "store": "Budtimez",
+    "src": "https://dutchie.com/api/v2/embedded-menu/623c97081ec27f0099c327ab.js",
+    "platform": "Dutchie"
+  },
+  "https://budxpressinc.com/": {
+    "store": "Bud Xpress ",
+    "src": null,
+    "platform": null
+  },
+  "https://budzz.ca/home": {
+    "store": "Budzz Pot Shoppe",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://ca.tokyosmoke.com/": {
+    "store": "500 Preston Tokyo Smoke",
+    "src": null,
+    "platform": null
+  },
+  "https://cabbagebros.com/": {
+    "store": "CABBAGE BROTHERS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://caliwood.ca/": {
+    "store": "Caliwood",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://calyxandtrichomes.com/": {
+    "store": "CALYX + TRICHOMES CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://canaculture.ca/": {
+    "store": "CANACULTURE CANNABIS STORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fe2b0a97ae1a100f5c5aa85.js",
+    "platform": "Dutchie"
+  },
+  "https://canatime.ca/": {
+    "store": "Canatime ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://cannabis228.com/": {
+    "store": "Cannabis 228",
+    "src": null,
+    "platform": null
+  },
+  "https://cannabisandmore.ca/": {
+    "store": "CANNABIS & MORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/618168d0c7d5b0008e8ca3a1.js",
+    "platform": "Dutchie"
+  },
+  "https://cannabisforest.shop/": {
+    "store": "THE CANNABIS FOREST",
+    "src": null,
+    "platform": null
+  },
+  "https://cannabishouseco.com/": {
+    "store": "CANNABIS HOUSE CO.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://cannabisjacks.ca/": {
+    "store": "Cannabis Jacks",
+    "src": "https://dutchie.com/api/v2/embedded-menu/621567bc734be400a037b396.js",
+    "platform": "Dutchie"
+  },
+  "https://cannabislinkinc.com/": {
+    "store": "Cannabis Link Express",
+    "src": null,
+    "platform": null
+  },
+  "https://cannabisplusstore.com/cannabis-plus-store-north/?": {
+    "store": "Cannabis Plus Store",
+    "src": null,
+    "platform": null
+  },
+  "https://cannabis-shop.ca/": {
+    "store": "The Cannabis Shop",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62ab8621fa3df8009cf4e8b9.js",
+    "platform": "Dutchie"
+  },
+  "https://cannabissupplyco.ca/brantford/": {
+    "store": "CANNABIS SUPPLY CO.",
+    "src": "//dutchie.com/api/v2/embedded-menu/5ea9b3c15e81ce01097c45e5.js",
+    "platform": "Dutchie"
+  },
+  "https://cannabissupplyco.ca/kitchener/": {
+    "store": "Cannabis Supply Co.",
+    "src": "//dutchie.com/api/v2/embedded-menu/5ea9b3c15e81ce01097c45e5.js",
+    "platform": "Dutchie"
+  },
+  "https://cannabissupplyco.ca/st_catharines/": {
+    "store": "Cannabis Supply Co.",
+    "src": "//dutchie.com/api/v2/embedded-menu/5ea9b4c4f611e900b033ae2f.js",
+    "platform": "Dutchie"
+  },
+  "https://cannacabana.com/": {
+    "store": "Canna Cabana",
+    "src": null,
+    "platform": null
+  },
+  "https://cannacabana.com/a/stores/?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Canna Cabana",
+    "src": null,
+    "platform": null
+  },
+  "https://cannacabana.com/a/stores/ontario/ajax/ajax?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "CANNA CABANA",
+    "src": null,
+    "platform": null
+  },
+  "https://cannacabana.com/a/stores/ontario/ancaster/ancaster?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Canna Cabana ",
+    "src": null,
+    "platform": null
+  },
+  "https://cannacabana.com/a/stores/ontario/bracebridge/manitoba-street?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Canna Cabana",
+    "src": null,
+    "platform": null
+  },
+    "https://cannaera.ca/": {
+    "store": "CannaEra",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60f721a72ea73d00a294545a.js",
+    "platform": "Dutchie"
+  },
+  "https://casablisscannabis.com/": {
+    "store": "CASA BLISS ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/602bddc81b82516323a97746.js",
+    "platform": "Dutchie"
+  },
+  "https://cccanna.co/": {
+    "store": "Cheerful Charlies Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e66a3632a042d3eb5e55648.js",
+    "platform": "Dutchie"
+  },
+  "https://centurycannabis.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Century Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://chilldispensary.ca/": {
+    "store": "Chill Blue Mountain",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://chillinbuds.com/": {
+    "store": "Chillin Buds",
+    "src": "https://dutchie.com/api/v2/embedded-menu/612d270900432e00b065dead.js",
+    "platform": "Dutchie"
+  },
+  "https://chronzzcannabis.com/": {
+    "store": "Chronzz Cannabis Shop",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://ciaocanna.com/": {
+    "store": "Ciao Canna",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://civiliancannabis.com/": {
+    "store": "Civilian House of Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/613aa0ae0fcaa600dbd090a7.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/montreal/?": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/600b54f78ed25e00c9162cfe.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/pembroke/": {
+    "store": "COLLECTIVE GROWERS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eab02e3e7adba013792754d.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/somerset/": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61b83b6988c512009fdb3922.js",
+    "platform": "Dutchie"
+  },
+  "https://collectivegrowers.com/shop/sparks/": {
+    "store": "Collective Growers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62840ccba64b816615fc8754.js",
+    "platform": "Dutchie"
+  },
+  "https://consumerscannabis.com/": {
+    "store": "Consumers Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/639cb058e1421e009aee68c5.js",
+    "platform": "Dutchie"
+  },
+  "https://cosmiccharlies.ca/": {
+    "store": "Cosmic Charlie's",
+    "src": null,
+    "platform": null
+  },
+  "https://cosmicgardens.ca/": {
+    "store": "COSMIC GARDENS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://costcan.ca/": {
+    "store": "COST CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://creeksidegreens.ca/": {
+    "store": "Creekside Greens",
+    "src": null,
+    "platform": null
+  },
+  "https://cumberlandcannabis.ca/": {
+    "store": "Cumberland Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://curaleaf.com/shop/new-jersey/curaleaf-nj-bellmawr-adult-use?utm_source=google&utm_medium=gmb&utm_campaign=gmb-menu": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://dabcannabisstore.com/locations/dab-aurora/": {
+    "store": "Dab Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://dabcannabisstore.com/locations/dab-brampton/": {
+    "store": "Dab Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://dacanna.ca/": {
+    "store": "DA CANNA",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://divineflower.ca/shop-online/": {
+    "store": "Divine Flower",
+    "src": null,
+    "platform": null
+  },
+  "https://dmactoronto.com/shop-now/#/menu": {
+    "store": "DMAC TORONTO",
+    "src": null,
+    "platform": null
+  },
+  "https://dollyscannabis.com/": {
+    "store": "Dolly's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://dopecannabis.ca/": {
+    "store": "Dope Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://bestbudsforever.ca/shop-collingwood/": {
+    "store": "BEST BUDS FOREVER",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61c1f5f2060f0100865c233c.js",
+    "platform": "Dutchie"
+  }
+}

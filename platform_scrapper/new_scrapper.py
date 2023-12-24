@@ -37,13 +37,13 @@ def start():
             store = row.iloc[1]
             url = row.iloc[4]
             current_data = current_info()
-            data = current_data  # !!!! ES DZI
+            # data = current_data  # !!!! ES DZI
             print(f"Trying URL: {url}\n {counter}/{len(df)}")
             if url not in data:
-                if url not in current_data:
+                if not current_data.get(urlparse(url).netloc, False):
                     scrape(store=store, url=url)
                 else:
-                    print(f"Store {store} with url {url} in saved data")
+                    print(f"Current store {store} with {url} already in  saved data")
                     continue
             counter += 1
     except Exception as e:
@@ -107,7 +107,7 @@ def save_dict():
 
 
 def current_info():
-    with open('info.json', "r") as file:
+    with open('info_saved.json', "r") as file:
         file = json.load(file)
         return file
 
