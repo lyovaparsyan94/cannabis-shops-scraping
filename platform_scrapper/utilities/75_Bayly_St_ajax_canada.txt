@@ -1,1 +1,0 @@
-{None: {'perimeter': [(43.92348294095433, -79.0211127)], 'minimum_order': None}, 14.99: {'perimeter': [(43.92348294095433, -79.0211127)], 'minimum_order': 100.0}}
