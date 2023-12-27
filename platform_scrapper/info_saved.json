@@ -2838,5 +2838,3120 @@
     "store": "BEST BUDS FOREVER",
     "src": "https://dutchie.com/api/v2/embedded-menu/61c1f5f2060f0100865c233c.js",
     "platform": "Dutchie"
+  },
+    "https://enroutecannabis.ca/": {
+    "store": "Enroute Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://erbngreen.com/dundas-st-w-bathurst/?": {
+    "store": "ERBN GREEN",
+    "src": null,
+    "platform": null
+  },
+  "https://erbngreen.com/mainstw-bowery/?": {
+    "store": "ERBN GREEN",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60b910b43da19f00a63ee50b.js",
+    "platform": "Dutchie"
+  },
+  "https://euphoriabud.com/": {
+    "store": "Euphoria Bud",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://evergreenleaf.ca/": {
+    "store": "Evergreen Leaf",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://fikasupply.com/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6548f8995592fc0009fbe149.js",
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/etobicoke/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6548f8995592fc0009fbe149.js",
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/london-east/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6548f8995592fc0009fbe149.js",
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/milton-steeles/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/611123ab139dab00cdd7bb5b.js",
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/oshawa-harmony/": {
+    "store": "FIKA LOCAL CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/611123ab139dab00cdd7bb5b.js",
+    "platform": "Dutchie"
+  },
+  "https://fikasupply.com/stores/toronto-distillery/": {
+    "store": "FIKA Local Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/611123ab139dab00cdd7bb5b.js",
+    "platform": "Dutchie"
+  },
+  "https://fireandflower.com/stores/ON/brampton-mc-laughlin-rd?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "MC Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/brampton-steeles-ave?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "MC CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/chatham-st-clair-st?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/etobicoke-the-queensway?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/georgetown-mountainview?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/guelph-college-ave?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "MC CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/guelph-stone-square-centre?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/kingston-brock-street?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/north-bay-thibeault-terrace?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/north-york-pond-mills-centre?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/oshawa-harmony-rd?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "MC CANNABIS ",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/ottawa-york-st?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/scarborough-morningside-crossing?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/toronto-jane-street?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/toronto-parkdale?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Fire & Flower Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/toronto-sheridan-mall?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://fireandflower.com/stores/ON/toronto-stockyards?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FIRE & FLOWER CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://flowerhaze.com/": {
+    "store": "Flower Haze Cannabis Boutique ",
+    "src": null,
+    "platform": null
+  },
+  "https://flowertowncannabis.ca/": {
+    "store": "FLOWERTOWN CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/": {
+    "store": "Friendly Stranger Danforth",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/barrie-dunlop-st?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Friendly Stranger",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/burlington-plains-road?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Friendly Stranger",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/cambridge-franklin-blvd?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FRIENDLY STRANGER ",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/dundas-osler-dr?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Friendly Stranger ",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/midland-bay-st?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "Friendly Stranger",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/orillia-mississauga-st-e?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "HAPPY DAYZ",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/oshawa-ritson-rd?utm_medium=yext&utm_source=gmb": {
+    "store": "Daisy Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://friendlystranger.com/stores/ON/toronto-church-st?utm_medium=organic&utm_source=google&utm_campaign=gmb": {
+    "store": "FRIENDLY STRANGER",
+    "src": null,
+    "platform": null
+  },
+  "https://getganja.ca/": {
+    "store": "GANJA GARDEN",
+    "src": "https://dutchie.com/api/v2/embedded-menu/622b881a70c86a009c8bf4cd.js",
+    "platform": "Dutchie"
+  },
+  "https://getrolld.ca/": {
+    "store": "Roll'd Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "https://gofe.ca/": {
+    "store": "garden of Eden cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://gogreencannabisco.com/": {
+    "store": "Go Green Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61005192bc2cf3009bf96138.js",
+    "platform": "Dutchie"
+  },
+  "https://gogreencannabisco.com/ottawa-east/": {
+    "store": "Go Green Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61005192bc2cf3009bf96138.js",
+    "platform": "Dutchie"
+  },
+  "https://gormleycannabis.ca/?utm_source=google-gmb&utm_medium=organic&utm_campaign=ontario": {
+    "store": "Gormley Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://gramstationcannabis.com/": {
+    "store": "Gram Station",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://grandcannabis.ca/locations/dunnville-cannabis-dispensary/": {
+    "store": "Grand Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e4c392fa8fdaa0072bbc391.js",
+    "platform": "Dutchie"
+  },
+  "https://grandcannabis.ca/locations/fonthill-cannabis-dispensary/": {
+    "store": "Grand Cannabis",
+    "src": "https://grandcannabis.ca/wp-content/cache/min/1/api/v2/embedded-menu/609a92f38e1e2800d113c5bf.js?ver=1696205558",
+    "platform": "Dutchie"
+  },
+  "https://grandcannabis.ca/locations/georgetown-cannabis-dispensary/": {
+    "store": "Grand Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fcaa7103731e000ffdf853c.js",
+    "platform": "Dutchie"
+  },
+  "https://grandcannabis.ca/locations/st-catharines-cannabis-dispensary/": {
+    "store": "Grand Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/602c2af69218c24447562f32.js",
+    "platform": "Dutchie"
+  },
+  "https://grandcannabis.ca/locations/tillsonburg-cannabis-dispensary/": {
+    "store": "Grand Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60c779442de91800d02b5d48.js",
+    "platform": "Dutchie"
+  },
+  "https://grassrootswindsor.com/": {
+    "store": "GRASS ROOTS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://greenergrasscannabis.ca/": {
+    "store": "Greener Grass Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://greenlightdistrict.ca/cannabis-store-barrie/": {
+    "store": "Greenlight District",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://greentowncannabis.com/": {
+    "store": "Greentown",
+    "src": "https://dutchie.com/api/v2/embedded-menu/609c59eaf57edb00a09da192.js",
+    "platform": "Dutchie"
+  },
+  "https://greenvalleycannabisco.com/": {
+    "store": "GREEN VALLEY CANNABIS COMPANY",
+    "src": null,
+    "platform": null
+  },
+  "https://groovys.ca/baysville-homepage/": {
+    "store": "Groovy's Baysville",
+    "src": null,
+    "platform": null
+  },
+  "https://growersretailcannabis.ca/": {
+    "store": "Growers Retail",
+    "src": "https://dutchie.com/api/v2/embedded-menu/608c247327490a00a015b79d.js",
+    "platform": "Dutchie"
+  },
+  "https://harvestbud.ca/": {
+    "store": "Harvest Bud Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://heavenlyhempcannabis.ca/": {
+    "store": "HeavenlyHemp",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://hellocannabis.ca/": {
+    "store": "Hello Cannabis Main East",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea78dd03fda476f0124a83.js",
+    "platform": "Dutchie"
+  },
+  "https://helloedition.com/": {
+    "store": "Edition X",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fa05f1cfc2d590101017618.js",
+    "platform": "Dutchie"
+  },
+  "https://hemispherecannabis.com/hemisphere-weed-dispensary-south-ajax/": {
+    "store": "Hemisphere Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://hemispherecannabis.com/hemisphere-weed-dispensary-st-lawrence/": {
+    "store": "HEMISPHERE CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://herbnbud.ca/": {
+    "store": "HERB N BUD",
+    "src": null,
+    "platform": null
+  },
+  "https://herbs-cannabis.com/": {
+    "store": "Herbs Cannabis Inc ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://hiddenleafcannabisco.com/shop": {
+    "store": "Hidden Leaf Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://hiddenleafcannabisco.com/shop/": {
+    "store": "Hidden Leaf Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://highlife.ca/": {
+    "store": "HIGHLIFE CANNABIS LIVELY EXPRESS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628521056961e20080ca2ad4.js",
+    "platform": "Dutchie"
+  },
+  "https://highlife.ca/pages/brantford-cannabis-store?": {
+    "store": "HIGHLIFE CANNABIS BRANTFORD",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628521056961e20080ca2ad4.js",
+    "platform": "Dutchie"
+  },
+  "https://highlife.ca/pages/guelph-cannabis-store": {
+    "store": "HIGHLIFE CANNABIS GUELPH",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628521056961e20080ca2ad4.js",
+    "platform": "Dutchie"
+  },
+  "https://highlife.ca/pages/steeles-cannabis-store": {
+    "store": "HIGHLIFE YONGE AND STEELES",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628521056961e20080ca2ad4.js",
+    "platform": "Dutchie"
+  },
+  "https://highlife.ca/pages/tillsonburg-cannabis-store": {
+    "store": "HIGHLIFE CANNABIS TILLSONBURG",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628521056961e20080ca2ad4.js",
+    "platform": "Dutchie"
+  },
+  "https://highlitecannabis.ca/": {
+    "store": "High Lite Cannabis Store",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://highstreetcannabis.com/": {
+    "store": "High Street Cannabis Retail",
+    "src": null,
+    "platform": null
+  },
+  "https://highties.ca/": {
+    "store": "HIGHTIES CANNABIS STORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://himalayacannabis.ca/": {
+    "store": "HIMALAYA CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62e47330f7031b2f1778c465.js",
+    "platform": "Dutchie"
+  },
+  "https://hollanddaze.ca/": {
+    "store": "HOLLAND DAZE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://holycannabis.ca/": {
+    "store": "HOLY CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://hotbuds.ca/": {
+    "store": "HOT BUDS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ed826b6960b4a28966976fd.js",
+    "platform": "Dutchie"
+  },
+  "https://hsociety.ca/": {
+    "store": "High Society Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://hwcannabis.co/": {
+    "store": "Broadway Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://hyperboloid-marigold-934k.squarespace.com/cambridge-dispensary": {
+    "store": "Speak Easy Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63e3e6bf83b5fe0038325575.js",
+    "platform": "Dutchie"
+  },
+  "https://ilovecannabis.ca/": {
+    "store": "I LOVE CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://insalatamarket.com/": {
+    "store": "Insalata",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6275b2ecb40245007f858490.js",
+    "platform": "Dutchie"
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-cobourg/?utm_source=google&utm_medium=gmb&utm_campaign=cobourg_store": {
+    "store": "Inspired Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-gloucester/?utm_source=google&utm_medium=gmb&utm_campaign=gloucester_store": {
+    "store": "Inspired Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-kingston/?utm_source=google&utm_medium=gmb&utm_campaign=kingston_store": {
+    "store": "Inspired Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-orleans/?utm_source=google&utm_medium=gmb&utm_campaign=orleans_store": {
+    "store": "INSPIRED CANNABIS CO",
+    "src": null,
+    "platform": null
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-st-catharines/?utm_source=google&utm_medium=gmb&utm_campaign=st_catharines_store": {
+    "store": "Inspired Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://inspiredcannabis.ca/cannabis-dispensary-welland/?utm_source=google&utm_medium=gmb&utm_campaign=welland_store": {
+    "store": "Inspired Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://islandsmoke.com/shop-hamilton/?": {
+    "store": "Island Smoke",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ee7a5d6c58ca1012c93ac26.js",
+    "platform": "Dutchie"
+  },
+  "https://kalcanna.com/?UTM_source=GMB_listing&UTM_medium=organic": {
+    "store": "Olympia Cannabis Vernon O/C Vernon",
+    "src": null,
+    "platform": null
+  },
+  "https://kanaleaf.ca/": {
+    "store": "Kana Leaf Express",
+    "src": null,
+    "platform": null
+  },
+  "https://kapnchronic.com/": {
+    "store": "Kapn Chronic",
+    "src": null,
+    "platform": null
+  },
+  "https://kellyscannabis.ca/": {
+    "store": "Kelly's Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eda957d92d72300e33f7ae9.js",
+    "platform": "Dutchie"
+  },
+  "https://kingstoncannabisinc.ca/": {
+    "store": "KINGSTON CANNABIS INC.",
+    "src": null,
+    "platform": null
+  },
+  "https://kingstongiggles.com/": {
+    "store": "Giggles Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62e858e63967b40082a6aba1.js",
+    "platform": "Dutchie"
+  },
+  "https://kioskcannabis.com/": {
+    "store": "Kiosk Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6081d5527a4b1400a74ac920.js?menuType=rec",
+    "platform": "Dutchie"
+  },
+  "https://kroniclez.com/": {
+    "store": "Kroniclez",
+    "src": null,
+    "platform": null
+  },
+  "https://kushyscannabis.com/": {
+    "store": "Kushys",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://ladyleaf.ca/": {
+    "store": "Lady Leaf",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://landescapebox.ca/": {
+    "store": "LAND ESCAPE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://levelupcannabis.ca/": {
+    "store": "LEVEL UP",
+    "src": "https://dutchie.com/api/v2/embedded-menu/650219d221d145000989aba6.js",
+    "platform": "Dutchie"
+  },
+  "https://linktr.ee/wearenorthbound": {
+    "store": "Northbound Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://locations.timhortons.ca/en/on/burlington/2971-walkers-line/": {
+    "store": "Tweed",
+    "src": null,
+    "platform": null
+  },
+  "https://lotwcannabis.ca/": {
+    "store": "LAKE OF THE WOODS CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://macannabis.ca/": {
+    "store": "MA CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c16fadaaf2b700096839c4.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://mainstreet-420-shop-llc.business.site/?utm_source=gmb&utm_medium=referral": {
+    "store": "Cannabis County",
+    "src": null,
+    "platform": null
+  },
+  "https://mainstreetcannabis.ca/": {
+    "store": "Main Street Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://manistoke.com/": {
+    "store": "MANI'S TOKE",
+    "src": null,
+    "platform": null
+  },
+  "https://maryjanes.ca/": {
+    "store": "MaryJane's Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60d398cb2383aa00bc3842dd.js",
+    "platform": "Dutchie"
+  },
+  "https://maryjanes.ca/shop/north-york?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "MaryJane's Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60d398cb2383aa00bc3842dd.js",
+    "platform": "Dutchie"
+  },
+  "https://maryjanes.ca/shop/oshawa?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "MARYJANE\u2019S CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60d398cb2383aa00bc3842dd.js",
+    "platform": "Dutchie"
+  },
+  "https://matchboxcannabis.com/market-mall-sault-st-marie/": {
+    "store": "Matchbox Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022cb873e2de600c11866ff.js",
+    "platform": "Dutchie"
+  },
+  "https://matchboxcannabis.com/queen-st-e-sault-st-marie/": {
+    "store": "Matchbox Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6213cd2bd6a5a7009a290bd0.js",
+    "platform": "Dutchie"
+  },
+  "https://matchboxcannabis.com/rogers-road-toronto/": {
+    "store": "Matchbox Cannabis 605 Rogers",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6213cd2bd6a5a7009a290bd0.js",
+    "platform": "Dutchie"
+  },
+  "https://matchboxcannabis.com/steeles-north-toronto/": {
+    "store": "Matchbox Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6094122fc8107300df3d6b25.js",
+    "platform": "Dutchie"
+  },
+  "https://menu.oneplant.ca/menu/walkerville": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://mexicannabis.ca/": {
+    "store": "MEXICANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://mindyobudnizz.ca/": {
+    "store": "Mind Yo Budnizz",
+    "src": null,
+    "platform": null
+  },
+  "https://missjonescannabis.com/": {
+    "store": " Miss Jones",
+    "src": null,
+    "platform": null
+  },
+  "https://missjonescannabis.com/outposts/170-fort-york-blvd-toronto-on/": {
+    "store": "MISS JONES",
+    "src": null,
+    "platform": null
+  },
+  "https://missjonescannabis.com/outposts/955-mckeown-ave-north-bay-on/": {
+    "store": "Miss Jones",
+    "src": null,
+    "platform": null
+  },
+  "https://montrosecannabis.ca/": {
+    "store": "Montrose",
+    "src": null,
+    "platform": null
+  },
+  "https://moonwlkr.co/": {
+    "store": "MOONWLKR CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://moonwlkr-cannabis.grass.menu/menu/moonwlkr-cannabis-niagara/": {
+    "store": "MOONWLKR CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://mycannabisshoppe.ca/": {
+    "store": "My Cannabis Shoppe",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://mygreenmerchant.com/locations/bloor-dufferin/?utm_source=gmb&utm_medium=bloorcourt": {
+    "store": "Green Merchant Cannabis Boutique",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://mygreenmerchant.com/locations/danforth/?utm_source=gmb&utm_medium=danforth": {
+    "store": "GREEN MERCHANT A CANNABIS BOUTIQUE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://mygreenmerchant.com/locations/liberty-village/?utm_source=gmb&utm_medium=liberty-village": {
+    "store": "GREEN MERCHANT A CANNABIS BOUTIQUE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://mygreenmerchant.com/locations/scarborough/?utm_source=gmb&utm_medium=scarborough": {
+    "store": "Green Merchant Cannabis Boutique",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://mygreenmerchant.com/locations/yonge-bloor/?utm_source=gmb&utm_medium=yonge": {
+    "store": "GREEN MERCHANT A CANNABIS BOUTIQUE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://mysticscannabis.ca/kenilworth-ave-n-hamilton/": {
+    "store": "Mystic's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://mysticscannabis.ca/king-st-e-hamilton/": {
+    "store": "Mystic's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://mysticscannabis.ca/main-st-e-hamilton/": {
+    "store": "Mystic's Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://nekucannabis.com/": {
+    "store": "NEKU CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ff389d871214700d4e6d808.js",
+    "platform": "Dutchie"
+  },
+  "https://nirvanabudz.ca/": {
+    "store": "NIRVANA BUDZ",
+    "src": null,
+    "platform": null
+  },
+  "https://nuclearlettuce.com/": {
+    "store": "Nuclear Lettuce",
+    "src": null,
+    "platform": null
+  },
+  "https://offsidecannabis.ca/": {
+    "store": "Offside Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63626d705a8f5500a334daa1.js",
+    "platform": "Dutchie"
+  },
+  "https://offsidecannabis.ca/shop/?dtche%5Blocation%5D=spdr-cannabis": {
+    "store": "OFFSIDE CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/624b35fbc857e100a914ec9b.js",
+    "platform": "Dutchie"
+  },
+  "https://offsidecannabis.ca/shop/?dtche%5Blocation%5D=spdr-cannabis-pickering": {
+    "store": "OFFSIDE CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/624b35fbc857e100a914ec9b.js",
+    "platform": "Dutchie"
+  },
+  "https://okicannabis.ca/": {
+    "store": "Oki Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://olivejar.ca/toronto-dispensary/?utm_source=terrayn_cit&utm_medium=organic&utm_campaign=olive_jar_cannabis": {
+    "store": "Olive Jar",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61f997e29434a20098c604bb.js",
+    "platform": "Dutchie"
+  },
+  "https://ollibrands.com/": {
+    "store": "Olli Brands",
+    "src": null,
+    "platform": null
+  },
+  "https://on.valuebuds.com/": {
+    "store": "Value Buds",
+    "src": null,
+    "platform": null
+  },
+  "https://oneplant.ca/": {
+    "store": "ONE PLANT",
+    "src": null,
+    "platform": null
+  },
+  "https://ouid.com/": {
+    "store": "Ouid",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61dc7ab8fad0a10085f02ee3.js",
+    "platform": "Dutchie"
+  },
+  "https://ozstore.ca/centretown/": {
+    "store": "The Oz Store",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://paradisecannabis.ca/": {
+    "store": "PARADISE CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://paradisecannabis.ca/shop-fort-erie-store/?utm_source=google&utm_medium=click&utm_campaign=Fort+Erie+GMB": {
+    "store": "PARADISE CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://paradisecannabis.ca/shop-niagara-store/?utm_source=google&utm_medium=click&utm_campaign=Niagara+Falls+GMB": {
+    "store": "PARADISE CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://paradisecannabis.ca/shop-welland-store/?utm_source=google&utm_medium=click&utm_campaign=Welland+GMB": {
+    "store": "Paradise Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://pleasantreescorp.ca/": {
+    "store": "PEPE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://popscannabis.ca/": {
+    "store": "Pop's Cannabis Co.",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://potpalace.cc/": {
+    "store": "Pot Palace Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://puffinscannabis.ca/": {
+    "store": "PUFFIN\u2019S CANNABIS",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/5ed96b0085016f013c72e01a.js",
+    "platform": "Dutchie"
+  },
+  "https://puffshaven.com/": {
+    "store": "Puffs Haven",
+    "src": "https://dutchie.com/api/v2/embedded-menu/603930f510d24e00b05dc385.js",
+    "platform": "Dutchie"
+  },
+  "https://puffshaven.com/puffshaven-empress-5171-yonge-street/": {
+    "store": "Puffs Haven",
+    "src": "https://dutchie.com/api/v2/embedded-menu/635272a3c6b83000a377090d.js",
+    "platform": "Dutchie"
+  },
+  "https://puffshaven.com/puffshaven-northtown-way-north-york/": {
+    "store": "Puffs Haven",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6255b9803e7ba80098f6f413.js",
+    "platform": "Dutchie"
+  },
+  "https://purplemoosecannabis.com/": {
+    "store": "PURPLE MOOSE",
+    "src": null,
+    "platform": null
+  },
+  "https://rcbudshop.ca/": {
+    "store": "RC BUD SHOP",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://riocan.propertycapsule.com/properties/herongatesquare/#overview": {
+    "store": "SHINYBUD CANNABIS CO. HERONGATE SQUARE",
+    "src": null,
+    "platform": null
+  },
+  "https://ronincannabis.ca/cambridge": {
+    "store": "Ronin Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://royalblunt.ca/": {
+    "store": "Royal Blunt Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61082199d9cdd500d3f78879.js",
+    "platform": "Dutchie"
+  },
+  "https://runwaypot.com/products/": {
+    "store": "Runway Pot",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64aee99b4b8ec70009e96e62.js",
+    "platform": "Dutchie"
+  },
+  "https://runwaypot.com/shop-mississauga/": {
+    "store": "Runway Pot",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64aee99b4b8ec70009e96e62.js",
+    "platform": "Dutchie"
+  },
+  "https://runwaypot.com/shop-mount-pleasant/": {
+    "store": "Runway Pot",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6111f6efdab6dd00b76463b1.js",
+    "platform": "Dutchie"
+  },
+  "https://sagecannabiscanada.ca/": {
+    "store": "SAGE CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f74c7c727330a010ef9fa95.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-belleville/": {
+    "store": "SATIVA BLISS CANNABIS BOUTIQUE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc57695f023ba00a8fdec08.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-cambridge/": {
+    "store": "Sativa Bliss Cannabis Boutique",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc57695f023ba00a8fdec08.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-etobicoke/": {
+    "store": "Sativa Bliss Cannabis Boutique",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc57695f023ba00a8fdec08.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-guelph/": {
+    "store": "Sativa Bliss Cannabis Boutique",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc57695f023ba00a8fdec08.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-kitchener/": {
+    "store": "Sativa Bliss Cannabis Boutique",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc57695f023ba00a8fdec08.js",
+    "platform": "Dutchie"
+  },
+  "https://sativabliss.ca/shop-st-catharines/": {
+    "store": "Sativa Bliss Cannabis Boutique",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc576c3511fdd00c679710d.js",
+    "platform": "Dutchie"
+  },
+  "https://sevenpointcannabis.ca/toronto-dispensary/?utm_source=GMBlistingToronto&utm_medium=organic": {
+    "store": "Seven Point Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/601dd7fec751b4115807ea63.js",
+    "platform": "Dutchie"
+  },
+  "https://shinybud.com/hawkesbury-1500": {
+    "store": "Shinybud Cannabis Co. 1500 Main",
+    "src": null,
+    "platform": null
+  },
+  "https://shopguelph.jsupplyco.com/stores/j-supply-co-guelph": {
+    "store": "J. Supply Co. Guelph",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://shopkindling.ca/pages/kindling-cannabis-toronto-weed-delivery-dispensary-pickup?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=toronto": {
+    "store": "Kindling Cannabis Hamilton",
+    "src": null,
+    "platform": null
+  },
+  "https://shoppakalolo.com/locations/elgin-st-centretown/": {
+    "store": "Pakalolo",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ec3f9a51e302200eac3a9dc.js",
+    "platform": "Dutchie"
+  },
+  "https://shoppakalolo.com/locations/ottawa-findlay-creek/": {
+    "store": "PAKALOLO CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61913ca9e8ae0b0094e88fb3.js",
+    "platform": "Dutchie"
+  },
+  "https://shoppakalolo.com/locations/ottawa-lancaster/": {
+    "store": "PAKALOLO",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61913ca9e8ae0b0094e88fb3.js",
+    "platform": "Dutchie"
+  },
+  "https://shopsupergas.com/": {
+    "store": "SUPERGAS CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://shroomyz.com/": {
+    "store": "KUSH KLUB",
+    "src": null,
+    "platform": null
+  },
+  "https://silverleafcannabis.ca/": {
+    "store": "SilverLeaf Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://skelevatedminds.com/": {
+    "store": "ELEVATED MINDS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/609198c1d0f78100d7e968c5.js",
+    "platform": "Dutchie"
+  },
+  "https://soocannabis.ca/": {
+    "store": "SOO CANNABIS SSM",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8de613b2fc18009a58e1e1.js",
+    "platform": "Dutchie"
+  },
+  "https://soul-cannabis.ca/": {
+    "store": "SOUL CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://sparklecannabis.ca/shop-burlington": {
+    "store": "Sparkle Cannabis Company",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://sparqretail.ca/": {
+    "store": "SPARQ RETAIL",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://speakeasycannabis.ca/": {
+    "store": "Speakeasy Cannabis Colborne",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63e3e6bf83b5fe0038325575.js",
+    "platform": "Dutchie"
+  },
+  "https://speakeasycannabis.ca/bowmanville-dispensary-menu?": {
+    "store": "SPEAK EASY CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63e3e6bf83b5fe0038325575.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/": {
+    "store": "Spiritleaf - Sandalwood",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-ambassador-plaza": {
+    "store": "SPIRITLEAF 1550 HURON CHURCH ROAD",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-ancaster": {
+    "store": "Spiritleaf Ancaster",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-cabbagetown": {
+    "store": "Spiritleaf 238 Carlton Street",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-campbellford": {
+    "store": "Spiritleaf",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-crossroads": {
+    "store": "SPIRITLEAF - CROSS ROADS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-grantham-plaza": {
+    "store": "Spiritleaf St. Catherines",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-hog-s-back": {
+    "store": "SPIRITLEAF 888 MEADOWLANDS DRIVE EAST",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-kingston": {
+    "store": "Spiritleaf Kingston",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-little-italy": {
+    "store": "Spiritleaf Little Italy",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-london-southdale": {
+    "store": "SPIRITLEAF 979 WELLINGTON ROAD",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-masonville": {
+    "store": "SPIRITLEAF",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-park-place": {
+    "store": "SPIRITLEAF PARK PLACE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-rexdale": {
+    "store": "Spiritleaf",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-scarborough": {
+    "store": "SPIRITLEAF 875 MILNER AVENUE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-south-keys": {
+    "store": "Spiritleaf South Keys",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-stittsville": {
+    "store": "Spiritleaf 1250 STITTSVILLE MAIN STREET",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-stockyards": {
+    "store": "SPIRITLEAF",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-sunrise": {
+    "store": "Spiritleaf Sunrise",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/collections/spiritleaf-taunton": {
+    "store": "Spiritleaf",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/collingwood?": {
+    "store": "Spiritleaf 10 Balsam Street",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/owen-sound/?": {
+    "store": "SPIRITLEAF OWEN SOUND",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/pickering/?": {
+    "store": "Spiritleaf Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/south-guelph/?": {
+    "store": "Reserved Cannabis Guelph",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/stratford/": {
+    "store": "SPIRITLEAF",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://spiritleaf.ca/locations/waterdown/?": {
+    "store": "SPIRITLEAF 64 HAMILTON STREET NORTH",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f735ade9ae76a00e822276e.js",
+    "platform": "Dutchie"
+  },
+  "https://stationhousecannabis.co/": {
+    "store": "STATION HOUSE CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60c8c3245dc51a00c296e23a.js",
+    "platform": "Dutchie"
+  },
+  "https://stickynuggzinc.ca/shop-queen/": {
+    "store": "Sticky Nuggz Queen East",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6296a28091036900afa92195.js",
+    "platform": "Dutchie"
+  },
+  "https://stickynuggzinc.ca/steeles-vaughan/?": {
+    "store": "STICKY NUGGZ (STEELES W)",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6296a28091036900afa92195.js",
+    "platform": "Dutchie"
+  },
+  "https://stores.tokyosmoke.com/on/toronto-open/450-yonge-st": {
+    "store": "Tokyo Smoke 450 Yonge",
+    "src": null,
+    "platform": null
+  },
+  "https://stores.tokyosmoke.com/on/waterloo-open/200-the-boardwalk-unit-2": {
+    "store": "Tokyo Smoke Waterloo Boardwalk",
+    "src": null,
+    "platform": null
+  },
+  "https://superetteshop.com/pages/annex-location?utm_source=GMBAnnex&utm_medium=OrganicSEO&utm_campaign=GMB_Annex": {
+    "store": "Superette",
+    "src": "https://dutchie.com/api/v2/embedded-menu/superette.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://superetteshop.com/pages/bellwoods-location?utm_source=GMBBellwoods&utm_medium=OrganicSEO&utm_campaign=GMB_Bellwoods": {
+    "store": "Superette",
+    "src": "https://dutchie.com/api/v2/embedded-menu/superette.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://superetteshop.com/pages/ottawa-wellington-location?utm_source=GMBWellington&utm_medium=OrganicSEO&utm_campaign=GMB_Wellington": {
+    "store": "SUPERETTE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/superette.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://superetteshop.com/pages/toronto-spadina-location?utm_source=GMBSpadina&utm_medium=OrganicSEO&utm_campaign=GMB_Spadina": {
+    "store": "Superette",
+    "src": "https://dutchie.com/api/v2/embedded-menu/superette.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://t.me/RocketBuds": {
+    "store": "Buds4Less",
+    "src": null,
+    "platform": null
+  },
+  "https://tcann.ca/": {
+    "store": "T CANNABIS - Renfrew",
+    "src": null,
+    "platform": null
+  },
+  "https://thccentre.ca/": {
+    "store": "THC Centre Cannabis Inc. ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://the420store.ca/": {
+    "store": "The 420 Store",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f5e8b918605c1444567d00c.js",
+    "platform": "Dutchie"
+  },
+  "https://the4ssst.ca/": {
+    "store": "The 4SSSt",
+    "src": null,
+    "platform": null
+  },
+  "https://thebakerycannabis.ca/menu/junction/": {
+    "store": "The Bakery Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://thecannabisguys.ca/brampton/?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "The Cannabis Guys",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615b40869ec11600d57326bf.js",
+    "platform": "Dutchie"
+  },
+  "https://thecannabisguys.ca/goderich/?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "The Cannabis Guys",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615b40869ec11600d57326bf.js",
+    "platform": "Dutchie"
+  },
+  "https://thecommunitystore.ca/": {
+    "store": "The Community Store",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://thecrownleaf.ca/": {
+    "store": "CROWN LEAF",
+    "src": null,
+    "platform": null
+  },
+  "https://thegreencloudcannabis.com/": {
+    "store": "The Green Cloud Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://thegreenhex.com/": {
+    "store": "THE GREEN HEX",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://thegrovecannabis.ca/": {
+    "store": "The Grove",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f07af5963848400c413048c.js",
+    "platform": "Dutchie"
+  },
+  "https://thehappyspliff.com/": {
+    "store": "The Happy Spliff",
+    "src": "https://dutchie.com/api/v2/embedded-menu/619bf12d9c155e00aa69dd12.js",
+    "platform": "Dutchie"
+  },
+  "https://thehempire.ca/": {
+    "store": "The Hempire",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fa9614f32967f00c691818d.js",
+    "platform": "Dutchie"
+  },
+  "https://theherbary.com/": {
+    "store": "The Herbary",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e4c66a59f6f8b007695ebe6.js",
+    "platform": "Dutchie"
+  },
+  "https://theherbary.com/locations/london-ontario/?": {
+    "store": "THE HERBARY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60f6fa1dd83aa400b13e2516.js",
+    "platform": "Dutchie"
+  },
+  "https://thehiddenleafcannabis.ca/": {
+    "store": "Hidden Leaf Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60ec97306768d53287824ade.js",
+    "platform": "Dutchie"
+  },
+  "https://thehousecannabis.ca/": {
+    "store": "The House of Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://thehunnypot.com/1166-yonge-street-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/14-2500-hurontario-st-mississauga-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/1642-merivale-rd-nepean-cannabis-menu/": {
+    "store": " The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e73d567a30878006b350303.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/2000-appleby-line-burlington-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/2103-yonge-street-cannabis-menu/": {
+    "store": "THE HUNNY POT CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/2173-yonge-street-toronto-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/2591-yonge-street-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/659-upper-james-street-hamilton-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/7481-oakwood-drive-niagara-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/980-burnhamthorpe-rd-e-mississauga-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/burlington-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co. Burlington",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/cambridge-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/downtown-toronto-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/iWuTC5A7S33baJjvR.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/hamilton-cannabis-menu/": {
+    "store": "THE HUNNY POT CANNABIS CO. CENTENNIAL",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/junction-toronto-cannabis-menu/": {
+    "store": "THE HUNNY POT CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/milton-cannabis-menu/": {
+    "store": "THE HUNNY POT CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/niagara-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/pickering-cannabis-menu?": {
+    "store": "The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/sarnia-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/scarborough-cannabis-menu/?": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thehunnypot.com/st-catharines-cannabis-menu/": {
+    "store": "The Hunny Pot Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64c136be72be8700095018ae.js",
+    "platform": "Dutchie"
+  },
+  "https://thekensary.ca/": {
+    "store": "The Kensary",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://theredrockcannabis.ca/": {
+    "store": "Red Rock Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://thereefstore.ca/live-menu/?utm_source=google&utm_medium=social&utm_campaign=gmb": {
+    "store": "THE REEF STORE BY THE LAKE",
+    "src": null,
+    "platform": null
+  },
+  "https://thespotcannabis.com/shop/burlington/?utm_source=google&utm_medium=search&utm_id=Burlington_google": {
+    "store": "The Spot Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://thestashandco.com/": {
+    "store": "Stash & Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61378ac596ad8b00ce864551.js",
+    "platform": "Dutchie"
+  },
+  "https://thestashandco.com/?utm_source=gmb&utm_medium=organic": {
+    "store": "Stash & Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61378ac596ad8b00ce864551.js",
+    "platform": "Dutchie"
+  },
+  "https://thestashandco.com/oshawa-whitby-location/": {
+    "store": "Stash & Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61378ac596ad8b00ce864551.js",
+    "platform": "Dutchie"
+  },
+  "https://thestashandco.com/ottawa-stittsville-location/": {
+    "store": "Stash & Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61378ac596ad8b00ce864551.js",
+    "platform": "Dutchie"
+  },
+  "https://thestashandco.com/toronto-location/?utm_source=gmb&utm_medium=organic": {
+    "store": "STASH AND CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61378ac596ad8b00ce864551.js",
+    "platform": "Dutchie"
+  },
+  "https://thetreehousecannabisco.com/": {
+    "store": "The Treehouse Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8b70ce3388022bd2c9009b.js",
+    "platform": "Dutchie"
+  },
+  "https://thewestore.com/": {
+    "store": "The We Store",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://topfinestcannabis.ca/": {
+    "store": "TOP FINEST CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6144e516fb232c009b6c8132.js",
+    "platform": "Dutchie"
+  },
+  "https://toronto.cantopia.ca/stores/cantopia-dupont": {
+    "store": "Cantopia Cannabis Co.",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://toughbud.ca/shop-missisauga/": {
+    "store": "Tough Bud Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://treescannabis.ca/": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5faac95d21821800ed10d300.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/burlington-new-street/": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8d3cb5188e4e00b56a3553.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/dundas-street/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/607b1bc34ddc6200a00fdd25.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/kipling-ave/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/607b1c176da27e00a7a1bc99.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/rexdale-boulevard/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6021a1b33740f200a90a7832.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/scarborough-port-union/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6021a1996dafd238a3d1af74.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/st-catharines/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eb5c1b8b459c600b781dd8a.js",
+    "platform": "Dutchie"
+  },
+  "https://treescannabis.ca/shop/st-clair-ave/?": {
+    "store": "TREES CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/607b1beecfec0c00c849d047.js",
+    "platform": "Dutchie"
+  },
+  "https://treetzcannabis.com/": {
+    "store": "TREETZ",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://tumbleweedhines.business.site/": {
+    "store": "Cannabis North",
+    "src": null,
+    "platform": null
+  },
+  "https://twistedterpsdispensary.com/": {
+    "store": "Twisted Terps Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://upliftcannabis.ca/": {
+    "store": "Uplift Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/607723890e063800b50cdc41.js",
+    "platform": "Dutchie"
+  },
+  "https://valleycannabispembroke.ca/": {
+    "store": "Valley Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://valuebuds.com/": {
+    "store": "Value Buds",
+    "src": null,
+    "platform": null
+  },
+  "https://velvetcannabis.com/martinez/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=martinez%20": {
+    "store": "VIP Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "https://villagebud.ca/": {
+    "store": "Village Bud",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://vipcannabis.ca/": {
+    "store": "VIP Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/628bb955053b8400806e3136.js",
+    "platform": "Dutchie"
+  },
+  "https://weedjar.ca/": {
+    "store": "WEEDJAR",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60de2b7aca979f00b35d77c8.js",
+    "platform": "Dutchie"
+  },
+  "https://welcometofarmhouse.com/": {
+    "store": "THE FARMHOUSE CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6256ca4767dece009d2848c7.js",
+    "platform": "Dutchie"
+  },
+  "https://westendcannabisco.com/": {
+    "store": "West End Cannabis VB",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://willys420.com/": {
+    "store": "WILLY'S CANNABIS SUPPLY CO.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.1922cannabisretail.com/": {
+    "store": 1922,
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.420pm.ca/": {
+    "store": "Four20 Premium Market",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.7thheavencannabis.ca/": {
+    "store": "7th Heaven Cannabis ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.ashario.com/pages/ashario-aurora": {
+    "store": "ASHARIO",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62e2f833c37b526cbc4eaf6d.js",
+    "platform": "Dutchie"
+  },
+  "https://www.ashario.com/pages/ashario-centerpoint-mall": {
+    "store": "ASHARIO",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62e2f7e9b5fb8064976fb4c6.js",
+    "platform": "Dutchie"
+  },
+  "https://www.ashario.com/pages/ashario-finch": {
+    "store": "ASHARIO",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62e2f859eb1eb12e116e97c3.js",
+    "platform": "Dutchie"
+  },
+  "https://www.bakerandblazer.ca/": {
+    "store": "Baker and Blazer Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.bestbudzcannabis.ca/": {
+    "store": "BEST BUDZ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.breakingbudcannabis.ca/": {
+    "store": "Breaking Bud Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.brocannabis.ca/": {
+    "store": "BRO CANNABIS INC.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62cafd003b150b0080d2a796.js",
+    "platform": "Dutchie"
+  },
+  "https://www.budget-bud.com/oshawa": {
+    "store": "BUDGET BUD OSHAWA",
+    "src": null,
+    "platform": null
+  },
+  "https://www.buds4less.ca/": {
+    "store": "Buds 4 Less Cannabis Outlet",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61fc57c00da8cf0085c6d286.js",
+    "platform": "Dutchie"
+  },
+  "https://www.buds4lessdispensary.com/": {
+    "store": "BUDS 4 LESS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60510ce4b0771f00d6588cb9.js",
+    "platform": "Dutchie"
+  },
+  "https://www.budside.com/": {
+    "store": "BUDSIDE",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.buzzedbuds.co/": {
+    "store": "Buzzed Buds",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6011df4c46e47500d5c29ef2.js?menuType=rec",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabiscupboard.ca/beamsville": {
+    "store": "Cannabis Cupboard",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc80273d762c000c4c720de.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabiscupboard.ca/brantford": {
+    "store": "Cannabis Cupboard",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc80273d762c000c4c720de.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabiscupboard.ca/cambridge?": {
+    "store": "CANNABIS CUPBOARD",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc80273d762c000c4c720de.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabiscupboard.ca/hamilton": {
+    "store": "Cannabis Cupboard",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc80273d762c000c4c720de.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabiscupboard.ca/stoney-creek": {
+    "store": "Cannabis Cupboard",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc80273d762c000c4c720de.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabisfields.ca/": {
+    "store": "Cannabis Fields Inc.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.cannabisgreybruce.ca/": {
+    "store": "Cannabis Grey Bruce",
+    "src": "https://dutchie.com/api/v2/embedded-menu/618c0ee2dab759009c270043.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabishut.ca/": {
+    "store": "Cannabis Hut ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cannabisjacks.ca/": {
+    "store": "Cannabis Jacks",
+    "src": "https://dutchie.com/api/v2/embedded-menu/640663159c07e70031de8630.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabisstopinc.com/cannabis-stop-arthur-store/?utm_source=google&utm_medium=click&utm_campaign=Arthur+GMB": {
+    "store": "Cannabis Stop Inc ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60dcd8c353aab800dfa33c97.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabisstopinc.com/cannabis-stop-grand-valley-store/?utm_source=google&utm_medium=click&utm_campaign=Grand+Valley+GMB": {
+    "store": "Cannabis stop Inc ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60dcd9f72d4b2f00cc628471.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabisstopinc.com/cannabis-stop-markdale-store/?dtche%5Blocation%5D=cannabis-stop-markdale&utm_source=google&utm_medium=click&utm_campaign=Markdale+GMB": {
+    "store": "Cannabis Stop Inc ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60dcd8c353aab800dfa33c97.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabisstopinc.com/cannabis-stop-shelburne-store/?utm_source=google&utm_medium=click&utm_campaign=Shelburne+GMB": {
+    "store": "Cannabis Stop Inc.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60915a8b0a6ffd00a1d78832.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cannabissupplyco.ca/": {
+    "store": "Cannabis Supply Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cannabistshop.ca/": {
+    "store": "THE CANNABIST SHOP",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cannabis-xpress.com/": {
+    "store": "CANNABIS XPRESS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cannasavvy.ca/": {
+    "store": "CannaSavvy Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cannaversedispensaries.com/": {
+    "store": "Cannaverse",
+    "src": null,
+    "platform": null
+  },
+  "https://www.canvascannabis.ca/": {
+    "store": "Canvas Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.capturingeden.com/": {
+    "store": "Capturing Eden",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cculture.ca/": {
+    "store": "CONNOISSEUR CULTURE",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cfshops.com/lime-ridge.html?cid=lis_lim_en_hp_gb": {
+    "store": "Tokyo Smoke Lime Ridge Mall",
+    "src": null,
+    "platform": null
+  },
+  "https://www.chamba.ca/?utm_source=Google+&utm_medium=organic&utm_campaign=Google_My_Business_Brampton+": {
+    "store": "Chamba Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://www.chamba.ca/?utm_source=Google+&utm_medium=organic&utm_campaign=Google_My_Business_Waterloo": {
+    "store": "Chamba Cannabis Co",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cheechandchung.ca/": {
+    "store": "Cheech & Chung Cannabis ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.chroniclescannabis.ca/": {
+    "store": "Chronicles Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.chrontact.ca/online/": {
+    "store": "CHRONTACT CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.cloudninecannabis.ca/london": {
+    "store": "Cloud Nine Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/pLMKKtFd95TwDjqcr.js",
+    "platform": "Dutchie"
+  },
+  "https://www.cloudninecannabis.ca/shop?": {
+    "store": "CLOUD NINE CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6035193db5b87600c2946d0d.js",
+    "platform": "Dutchie"
+  },
+  "https://www.daynnite.ca/": {
+    "store": "DAY 'N' NITE CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fce6c9da7f50900dd356b98.js",
+    "platform": "Dutchie"
+  },
+  "https://www.discountedcannabis.ca/": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.discountedcannabis.ca/ontario": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.discountedcannabis.ca/shop/?store_id=4997#/menu": {
+    "store": "Discounted Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.esso.ca/en-ca/find-station/ESSO-OTTAWA-ON-ESSOCIRCLEK-200302723?utm_source=google&utm_medium=organic&utm_campaign=gmb": {
+    "store": "Tweed",
+    "src": null,
+    "platform": null
+  },
+  "https://www.flowertowncannabis.ca/": {
+    "store": "Flowertown Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.fogtown.ca/": {
+    "store": "Fogtown Flower",
+    "src": null,
+    "platform": null
+  },
+  "https://www.forestcitymarijuana.com/": {
+    "store": "Forest City Marijuana",
+    "src": null,
+    "platform": null
+  },
+  "https://www.forestplant.ca/": {
+    "store": "FOREST PLANT",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.foreverbuds.ca/shop?utm_source=googlebusiness&utm_medium=googlebusiness&utm_campaign=google_business": {
+    "store": "FOREVER BUDS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.fratelliandco.ca/": {
+    "store": "FRATELLI AND CO",
+    "src": null,
+    "platform": null
+  },
+  "https://www.fridayscannabis.com/": {
+    "store": "FRIDAYS CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.ganjika-house.com/": {
+    "store": "GANJIKA HOUSE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8d1a11f3f2831db6fb61bf.js",
+    "platform": "Dutchie"
+  },
+  "https://www.ganjika-house.com/locations-queenandairport": {
+    "store": "Ganjika House Queen and Airport",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e8d1a11f3f2831db6fb61bf.js",
+    "platform": "Dutchie"
+  },
+  "https://www.getganja.ca/": {
+    "store": "GANJA GARDEN",
+    "src": "https://dutchie.com/api/v2/embedded-menu/622b881a70c86a009c8bf4cd.js",
+    "platform": "Dutchie"
+  },
+  "https://www.gigglestoronto.com/": {
+    "store": "Giggles Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6064f163c4b4e900c1f95f14.js",
+    "platform": "Dutchie"
+  },
+  "https://www.goldentreecannabis.com/?utm_source=gmb&utm_campaign=dispenza": {
+    "store": "Golden Tree Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.gramssmokeydreams.com/": {
+    "store": "Gram's Smokey Dreams",
+    "src": null,
+    "platform": null
+  },
+  "https://www.grasshopperclub.com/shop/logan-square": {
+    "store": "Grasshopper Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.grasshutco.com/": {
+    "store": "The Grass Hut",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.grasshutco.com/#/menu": {
+    "store": "The Grass Hut Inc",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.grassstationonline.ca/": {
+    "store": "GRASS STATION",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.greenleafcannabis.me/": {
+    "store": "GreenLeaf Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.greenlightcannabisshop.com/": {
+    "store": "Green Light Cannabis Shop",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.happyhippycannabis.ca/": {
+    "store": "Happy Hippy Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "https://www.happyleafcannabis.ca/": {
+    "store": "Happy Leaf Cannabis ",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.havoksmoke.com/": {
+    "store": "HAVOK SMOKE CANNABIS & ACCESSORIES",
+    "src": null,
+    "platform": null
+  },
+  "https://www.hazebuds.ca/": {
+    "store": "Haze Buds Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.hemispherecannabis.com/": {
+    "store": "HEMISPHERE CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.hey-bud.ca/": {
+    "store": "Hey Bud",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.highlandonhighland.com/": {
+    "store": "HIGHLAND CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.highleafcannabis.com/": {
+    "store": "High Leaf Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.highsupplycannabisco.ca/": {
+    "store": "High Supply Cannabis Co., Brantford",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.highties.ca/alexandria/": {
+    "store": "HIGHTIES CANNABIS STORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.highties.ca/blackburn/": {
+    "store": "HIGHTIES CANNABIS STORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.highties.ca/downtown/": {
+    "store": "Highties Cannabis Store",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.highties.ca/tenth-line/": {
+    "store": "Highties Cannabis Store",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.highties.ca/vanier/?": {
+    "store": "HIGHTIES CANNABIS STORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022ac12deb85e00d8c3e66a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.hiqcannabis.com/": {
+    "store": "HIGH Q SOLUTIONS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.ilovesmoke519.com/weed-delivery-london-ontario/": {
+    "store": "I Love Smoke 420 ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.inbloomshop.ca/": {
+    "store": "In Bloom Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.ingramandsons.ca/": {
+    "store": "Ingram & Sons Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.jamesstreetcannabis.com/": {
+    "store": "Black Gold Cannabis & Co ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.janescannabis.ca/": {
+    "store": "JANE'S CANNABIS SHOP",
+    "src": null,
+    "platform": null
+  },
+  "https://www.jsupplyco.com/arthur?": {
+    "store": "J Supply - Arthur",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615d96a4b71d0700c5f64547.js",
+    "platform": "Dutchie"
+  },
+  "https://www.jsupplyco.com/memorial?": {
+    "store": "J. Supply Co. Geraldton",
+    "src": "https://dutchie.com/api/v2/embedded-menu/615d96804dd0cd00a8845e66.js",
+    "platform": "Dutchie"
+  },
+  "https://www.jsupplyco.com/windsor#/menu": {
+    "store": "J. SUPPLY CO. - WINDSOR OUELETTE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.kanaleaf.ca/": {
+    "store": "Kana Leaf",
+    "src": null,
+    "platform": null
+  },
+  "https://www.kraftcannabisguelph.com/": {
+    "store": "Kraft Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "https://www.lakeshorecannabis.com/": {
+    "store": "CANNABIS ESTATES",
+    "src": null,
+    "platform": null
+  },
+  "https://www.leaflitinc.com/": {
+    "store": "Leaflit",
+    "src": null,
+    "platform": null
+  },
+  "https://www.lollycannabis.com/": {
+    "store": "Lolly",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eab4cd0b44a2b00efdae3fc.js",
+    "platform": "Dutchie"
+  },
+  "https://www.lushcannabis.ca/peterborough/": {
+    "store": "Lush Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64dcca6ae562dc00098ae0dd.js",
+    "platform": "Dutchie"
+  },
+  "https://www.maryjanemuskoka.ca/": {
+    "store": "Mary Jane Muskoka",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63b44d0f878b2d0091fc712f.js",
+    "platform": "Dutchie"
+  },
+  "https://www.mindflower.ca/": {
+    "store": "Mind Flower Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/mind-flower.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://www.minervacannabis.ca/weed-dispensary-toronto/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=toronto": {
+    "store": "Minerva Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.moderndaycannabis.ca/": {
+    "store": "Modern Day Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.moderndaycannabis.ca/shop-cambridge": {
+    "store": "Modern Day Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.moderndaycannabis.ca/shop-kensington": {
+    "store": "Modern Day Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.mokshacannabis.ca/": {
+    "store": "Moksha Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.munchiescannabis.ca/": {
+    "store": "Munchies Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.mycannaverse.ca/": {
+    "store": "Cannaverse",
+    "src": null,
+    "platform": null
+  },
+  "https://www.mycannaverse.ca/niagara/all/": {
+    "store": "Cannaverse",
+    "src": null,
+    "platform": null
+  },
+  "https://www.naturescanopyhouse.com/shop.html?dtche%5Blocation%5D=natures-canopy-house-weston": {
+    "store": "Nature's Canopy House",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fdd16943b786600f0d98e33.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://www.naturescanopyhouse.com/shop.html?dtche%5Blocation%5D=natures-canopy-house-woodbine": {
+    "store": "NATURE\u2019S CANOPY HOUSE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fdd16943b786600f0d98e33.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://www.niagaracannabiscompany.com/": {
+    "store": "Cannabis Supply Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.northernhelm.com/shopbowmanville?&utm_source=google&utm_medium=click&utm_campaign=Bowmanville+GMB": {
+    "store": "NORTHERN HELM CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60bfb8347fa91500c132fae7.js",
+    "platform": "Dutchie"
+  },
+  "https://www.northernhelm.com/shopcourtice?&utm_source=google&utm_medium=click&utm_campaign=Courtice+GMB": {
+    "store": "Northern Helm",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60bfb881a3430500ad75c8d3.js",
+    "platform": "Dutchie"
+  },
+  "https://www.northernhelm.com/shopdanforth": {
+    "store": "NORTHERN HELM CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6047e9c465b77149a7e7ac74.js",
+    "platform": "Dutchie"
+  },
+  "https://www.northernhelm.com/shopkingeast": {
+    "store": "Northern Helm Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63cb0e5f0ac0f5008322c29b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.northernhelm.com/shoposhawa?&utm_source=google&utm_medium=click&utm_campaign=Oshawa+GMB": {
+    "store": "Northern Helm Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60bfb8a7d69a3800c326b2b3.js",
+    "platform": "Dutchie"
+  },
+  "https://www.oldwestcannabis.ca/": {
+    "store": "Old West Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "https://www.olympiacannabis.ca/": {
+    "store": "Olympia Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/ajax": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/barrie-cundles": {
+    "store": "ONE PLANT BARRIE (CUNDLES)",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/barrie-essa": {
+    "store": "ONE PLANT ESSA ROAD",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/bradford": {
+    "store": "One Plant Bradford",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/brampton": {
+    "store": "One Plant Brampton",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/brockville": {
+    "store": "One Plant Brockville",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/burlington": {
+    "store": "One Plant Burlington",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/elmira": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/georgetown": {
+    "store": "One Plant Georgetown",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/hamilton": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/kensington": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/keswick": {
+    "store": "One Plant Keswick",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/kingston": {
+    "store": "One Plant Kingston",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/london-masonville": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/london-wonderland": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/north-bay": {
+    "store": "One Plant North Bay",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/north-york": {
+    "store": "One Plant North York",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/ottawa-barrhaven": {
+    "store": "One Plant Barrhaven",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/ottawa-glebe": {
+    "store": "ONE PLANT GLEBE",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/ottawa-orleans": {
+    "store": "One Plant Orleans",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/peterborough": {
+    "store": "One Plant Peterborough Landsdowne",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/pickering": {
+    "store": "One Plant Pickering",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/scarborough": {
+    "store": "ONE PLANT SCARBOROUGH",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/shelburne": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/stouffville": {
+    "store": "One Plant Stouffville",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/strathroy": {
+    "store": "One Plant Strathroy",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/st-thomas": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/thunder-bay": {
+    "store": "ONE PLANT THUNDER BAY",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/toronto-avenue-road": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/locations/windsor-tecumseh": {
+    "store": "One Plant",
+    "src": null,
+    "platform": null
+  },
+  "https://www.oneplant.ca/stcatharines": {
+    "store": "One Plant St. Catharines",
+    "src": null,
+    "platform": null
+  },
+  "https://www.ontheridgeco.com/": {
+    "store": "On The Ridge Co. Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.paradisecannabis.ca/shop-brockville/": {
+    "store": "PARADISE CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.paramountcannabis.ca/orangeville/": {
+    "store": "PARAMOUNT CANNABIS CO.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.paramountcannabis.ca/shop-guelph": {
+    "store": "Paramount Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.paramountcannabis.ca/shop-shelburne/": {
+    "store": "Paramount Cannabis Co",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.phoenixcannabis.ca/": {
+    "store": "Phoenix Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.plateaushop.com/": {
+    "store": "Plateau",
+    "src": null,
+    "platform": null
+  },
+  "https://www.plugcanna6is.ca/": {
+    "store": "Plug Canna6is",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6052164be33bf600e87c4fad.js",
+    "platform": "Dutchie"
+  },
+  "https://www.premiumcannabisinc.ca/": {
+    "store": "Premium Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.pureleafcannabis.com/": {
+    "store": "PURE LEAF CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5eb1e3b958fc470140e97884.js",
+    "platform": "Dutchie"
+  },
+  "https://www.purplemeadow.ca/": {
+    "store": "Purple Meadow Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.purpletreecannabis.com/mississauga": {
+    "store": "Purple Tree Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60f5c5f3b7905200d9904fd2.js",
+    "platform": "Dutchie"
+  },
+  "https://www.purpletreecannabis.com/work": {
+    "store": "Purple Tree Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64e35ed631ddef00092595e4.js",
+    "platform": "Dutchie"
+  },
+  "https://www.queengeorge.ca/": {
+    "store": "Queen George Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.qunubucannabis.ca/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-website": {
+    "store": "QUNUBU CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f91ac6528be6e049a9f5b07.js",
+    "platform": "Dutchie"
+  },
+  "https://www.rainbowcannabisplace.com/": {
+    "store": "Cannabis Place",
+    "src": null,
+    "platform": null
+  },
+  "https://www.rainbowtbay.com/": {
+    "store": "Rainbow Thunder Bay Cannabis Accessories",
+    "src": null,
+    "platform": null
+  },
+  "https://www.redstarcannabisco.com/": {
+    "store": "Red Star Cannabis Co.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.reservedcannabis.ca/etobicoke-shop": {
+    "store": "RESERVED CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6111f285d353f500a266e074.js",
+    "platform": "Dutchie"
+  },
+  "https://www.reservedcannabis.ca/waterloo-shop": {
+    "store": "Reserved Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6111f285d353f500a266e074.js",
+    "platform": "Dutchie"
+  },
+  "https://www.rockwoodcannabis.com/?UTM_source=GMB_listing&UTM_medium=organic": {
+    "store": "Rockwood Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.rollnrock.ca/": {
+    "store": "ROLL N ROCK CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61eb3bfc6ae27f00860f63c5.js",
+    "platform": "Dutchie"
+  },
+  "https://www.royalleafs.ca/": {
+    "store": "ROYAL LEAFS WATERDOWN",
+    "src": null,
+    "platform": null
+  },
+  "https://www.rusticcannabis.ca/fenelonfalls": {
+    "store": "Rustic Cannabis Corp.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.sessions.ca/aurora-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - AURORA",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6055145c1a94e800d931b2a1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/barton-hamilton-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Retail",
+    "src": "https://dutchie.com/api/v2/embedded-menu/641cb4f68cc3e1002aabceb0.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/binbrook-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - BINBROOK",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7ae38898dfd00ef761858.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/brantford-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis - Brantford",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6055143483a8f800b79ada31.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/brockville-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Brockville",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea314982004300ae6b9475.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/cambridge-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Cambridge",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e6f90b1c706d4006afc5033.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/carlisle-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - CARLISLE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/605513b5e2d86a00cd247e75.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/dundurn-dispensary-menu?": {
+    "store": "Sessions Cannabis - Dundurn",
+    "src": "https://dutchie.com/api/v2/embedded-menu/605514e1f7870800d5cda18f.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/elliot-lake-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Elliot Lake",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60086d117a217b4dd24b8ef4.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/etobicoke-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - ETOBICOKE ALBION CENTRE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea31bedc57b945f962bce6.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/hamilton-mohawk-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7ae4def30c200b6b30b28.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/hamilton-rymal-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis - Rymal",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea319c160b7d00eaad751b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/humberlea-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - HUMBERLEA",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60a7cc0e134d4200b5daa81a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/keswick-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS KESWICK",
+    "src": "https://dutchie.com/api/v2/embedded-menu/618165faa433cc009c98378a.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/kincardine-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - KINCARDINE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60e72d4973da61009ff6308c.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/kitchener-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis - Homer Watson",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7ae0e8cff8200e1350295.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/kitchener-highland-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/618165052d27cd00872df533.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/lakeshore-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS LAKESHORE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fe9f4974226fe00de8dc4b1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/locations/130-mill-st-e-tottenham-dispensary": {
+    "store": "SESSIONS CANNABIS- TOTTENHAM",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62ed6d0e14cab500a31d1b17.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/locations/1850-adelaide-street-north-unit-5": {
+    "store": "SESSIONS CANNABIS STONEY CREEK LONDON",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62ed6ce856d2e00087f90573.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/locations/450-columbia-street-west-waterloo-dispensary": {
+    "store": "Sessions-Laurelwood",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63580c72ac5e5400f844e7d4.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/london-south-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61b2d2a84040c500a7df9ced.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/north-york-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS NORTH YORK",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7e0c7dea6ff00d39753a3.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/orillia-barrie-simcoe-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Orillia",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7ab0d1fbb6c00e2fc008c.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/oshawa-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Oshawa",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7e0f6e1d1984b99ac982e.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/peterborough-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Peterborough",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60086cc37631cb00bfae370e.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/port-colborne-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS PORT COLBORNE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60a7cc4664480400c1fda2aa.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/port-perry-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Port Perry",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60e62f52b23a3300d2dcd135.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/rosedale-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - ROSEDALE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea3175f8903500c7cd8b67.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/sarnia-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS SARNIA",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60086c94f8526427d535d1d1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/sault-ste-marie-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis - Sault Ste Marie",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fea310977b22200aa316ca1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/somerset-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - OTTAWA",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60a7ca61ccb74f00a7caee05.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/south-porcupine-dispansary-menu": {
+    "store": "SESSIONS CANNABIS - SOUTH PORCUPINE",
+    "src": "https://dutchie.com/api/v2/embedded-menu/641cb4f68cc3e1002aabceb0.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/stoney-creek-369-highway-8-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/61b98e2677e42200926f8e15.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/stoney-creek-hamilton-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Stoney Creek",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f0733d17da2bb00d5603322.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/sudbury-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS - NICKLE CITY",
+    "src": "https://dutchie.com/api/v2/embedded-menu/618165956699b300a169baac.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/timmins-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis - Timmins",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60086d3320e3fc0fef619aba.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/toronto-beaches-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS ON THE BEACHES",
+    "src": "https://dutchie.com/api/v2/embedded-menu/qoJoJc6cgm3abt5dY.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/wasaga-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS CANNABIS WASAGA BEACH",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6055149116381600d24cd5b1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/waterloo-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis-Waterloo",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6048e339c2537100aa662cb5.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/welland-niagara-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "Sessions Cannabis Retail",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fd7ab8ac0bf8200d5781daf.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sessions.ca/windsor-essex-dispensary-menu?utm_source=gmb&utm_medium=organic": {
+    "store": "SESSIONS WINDSOR",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5fc562a8ba543800e65194be.js",
+    "platform": "Dutchie"
+  },
+  "https://www.shinybud.com/": {
+    "store": "Shinybud Cannabis Co. Cardinal",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/brampton/": {
+    "store": "SHINYBUD CANNABIS CO. SEACHART",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/cornwall-montreal/": {
+    "store": "SHINYBUD CANNABIS CO. 410 MONTREAL",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/cornwall-pitt/": {
+    "store": "SHINYBUD CANNABIS CO. 621 PITT",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/orleans": {
+    "store": "Shiny Bud",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/stittsville/?": {
+    "store": "SHINYBUD CANNABIS CO. STITTSVILLE",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shinybud.com/toronto/": {
+    "store": "SHINYBUD CANNABIS CO. 182 KING ST WEST",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shopcannabuds.ca/?utm_source=GMB_listing&utm_medium=gmb_organic&utm_campaign=gmb": {
+    "store": "Cannabuds",
+    "src": null,
+    "platform": null
+  },
+  "https://www.shoppersdrugmart.ca/en/store-locator/store/4639": {
+    "store": "To Be Determined",
+    "src": null,
+    "platform": null
+  },
+  "https://www.somaleaf.ca/": {
+    "store": "Soma Leaf Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60b8026f63bc3500cf1792ce.js",
+    "platform": "Dutchie"
+  },
+  "https://www.soulrebelcannabis.ca/": {
+    "store": "Soul Rebel Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6022e8e0d227c400d75c7d1f.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sparkonline.ca/": {
+    "store": "Spark Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6421f062dec24c01013d620b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.spot420.ca/": {
+    "store": "Spot420 The Cannabis Store",
+    "src": null,
+    "platform": null
+  },
+  "https://www.steelcitygreen.ca/": {
+    "store": "AB LABORATORIES",
+    "src": null,
+    "platform": null
+  },
+  "https://www.stokd.ca/locations/dispensary-niagara-falls-cannabis-store/?utm_source=google&utm_medium=gbp&utm_campaign=niagara": {
+    "store": "Stok'd Cannabis ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/6213cb63d1cc8a009974fec2.js",
+    "platform": "Dutchie"
+  },
+  "https://www.stokd.ca/locations/dispensary-scarborough-cannabis-store/?utm_source=google&utm_medium=gbp&utm_campaign=gbp": {
+    "store": "STOK'D CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5f9f0d238ff07800db4566a3.js",
+    "platform": "Dutchie"
+  },
+  "https://www.stokd.ca/locations/eglinton-dispensary-scarborough-cannabis-store/?utm_source=google&utm_medium=gbp&utm_campaign=eglinton": {
+    "store": "STOK'D CANNABIS",
+    "src": "https://dutchie.com/api/v2/embedded-menu/62963665263dbe1c7aa76502.js",
+    "platform": "Dutchie"
+  },
+  "https://www.stokd.ca/locations/scarborough-weed-dispensary-cannabis-store/?utm_source=google&utm_medium=gbp&utm_campaign=cliffside": {
+    "store": "Stok'd ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/605133e8d0cca65a8ca4d493.js",
+    "platform": "Dutchie"
+  },
+  "https://www.sweetreleafsburlington.store/": {
+    "store": "Sweet Releafs Inc",
+    "src": null,
+    "platform": null
+  },
+  "https://www.sweetsevencannabis.ca/": {
+    "store": "SWEET SEVEN CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thcco.ca/windsor": {
+    "store": "The Higher Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.the6ixcannabis.ca/": {
+    "store": "The 6ix Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thecanadiancannabisstore.org/": {
+    "store": "The Canadian Cannabis Store ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60806e886208e400d0a91a76.js",
+    "platform": "Dutchie"
+  },
+  "https://www.thegreencloset.ca/": {
+    "store": "THE GREEN CLOSET",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5e9a8e6923d4df00b1fe115e.js",
+    "platform": "Dutchie"
+  },
+  "https://www.thelcc.ca/": {
+    "store": "The LaSalle Cannabis Company",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.theoldebarber.com/": {
+    "store": "The Olde Barber Cannabis Co.",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.thepotery.com/": {
+    "store": "The POTery",
+    "src": null,
+    "platform": null
+  },
+  "https://www.therch.ca/": {
+    "store": "Royal Cannabis Haus",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.thesmokeandleaf.com/": {
+    "store": "The Smoke and Leaf Ltd.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.theunderground.store/": {
+    "store": "The Underground",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.thewestore.com/": {
+    "store": "The We Store",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thewoodscannabis.ca/": {
+    "store": "THE WOODS CANNABIS",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thewoodscannabis.ca/aurora-cannabis-dispensary-delivery/": {
+    "store": "The Woods Cannabis ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thewoodscannabis.ca/dispensary-mississauga": {
+    "store": "The Woods Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://www.thrivefarmgate.ca/": {
+    "store": "Thrive Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60415e1f04dff800d76268c7.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/aylmer/?utm_source=GMB_Aylmer&utm_medium=organic": {
+    "store": "True North Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/belleville/?utm_source=GMB_Belleville&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/brantford/?utm_source=GMB_Brantford&utm_medium=organic": {
+    "store": "True North Cannabis Co",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/brighton/?utm_source=GMB_brighton&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/brockville/?utm_source=GMB_Brockville&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/604beccec6289600c0da62dd.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/cambridge-galt/?utm_source=GMB_CambridgeGalt&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/cambridge-preston/?utm_source=GMB_CambridgePreston&utm_medium=organic": {
+    "store": "True North Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/chatham-mcnaughton/?utm_source=GMB_chathammcnaughton&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/cornwall/?utm_source=GMB_cornwall&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/fort-erie/?utm_source=GMB_fort-erie&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/604f931d337f4b00e20b96d8.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/goderich/?utm_source=GMB_Goderich&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/gravenhurst/?utm_source=GMB_Gravenhurst&utm_medium=organic": {
+    "store": "TRUE NORTH CANNABIS CO.",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/600efb6fea0e4c42cfce14cf.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/guelph-wellington-st-west/?utm_source=GMB_guelph-wellington-st-west&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/hamilton/?utm_source=GMB_hamilton&utm_medium=organic": {
+    "store": "True North Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/hanover/?utm_source=GMB_Hanover&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/kitchener/?utm_source=GMB_Kitchener&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/leamington/?utm_source=GMB_Leamington&utm_medium=organic": {
+    "store": "TRUE NORTH CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/listowel/?utm_source=GMB_Listowel&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/604ab8a99db7e200cbba1884.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/midland/?utm_source=GMB_midland&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/mississauga/?utm_source=GMB_Mississauga&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/napanee/?utm_source=GMB_napanee&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/new-liskeard/?utm_source=GMB_newliskeard&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/63cecc029ae4f500ae255c90.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/niagara-falls/?utm_source=GMB_NiagaraFalls&utm_medium=organic": {
+    "store": "True North Cannabis Co",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/6006ff3ed5db5500bbf79372.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/north-bay-algonquin/?utm_source=GMB_NorthbayAlgonquin&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/ottawa/?utm_source=GMB_Ottawa&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/60e62f0d202b7100b41eb9c1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/parry-sound/?utm_source=GMB_parrysound&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/port-colborne/?utm_source=GMB_PortColborne&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/simcoe/?utm_source=GMB_Simcoe&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/south-sarnia/?utm_source=GMB_Sarnia&utm_medium=organic": {
+    "store": "True North Cannabis Company",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/st-catharines/?utm_source=GMB_StCatherines&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/stratford/?utm_source=GMB_Stratford&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/strathroy/?utm_source=GMB_Strathroy&utm_medium=organic": {
+    "store": "TRUE NORTH CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/sudbury/?utm_source=GMB_sudbury&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/tillsonburg/?utm_source=GMB_Tillsonburg&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/604c0df7bc4b5100aaf4bac6.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/timmins-riverside-drive/?utm_source=GMB_Timmins&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/timmins-third-ave?utm_source=GMB_timmins-third-ave&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://api.dutchie.com/api/v2/embedded-menu/625ef5b69937250088cfda97.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/trenton/?utm_source=GMB_Trenton&utm_medium=organic": {
+    "store": "True North Cannabis Co. ",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/welland/?utm_source=GMB_Welland&utm_medium=organic": {
+    "store": "True North Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tncc.ca/shop/windsor/?utm_source=GMB_Windsor&utm_medium=organic": {
+    "store": "TRUE NORTH CANNABIS CO.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/64add7a52269380009c41b3b.js",
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/hamilton/store": {
+    "store": "TOKE CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/midland/store": {
+    "store": "TOKE",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/niagara-falls/store": {
+    "store": "TOKE CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/st-catharines/store": {
+    "store": "TOKE CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/toronto-bloordale/store": {
+    "store": "TOKE CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/toronto-eglinton/store": {
+    "store": "TOKE CANNABIS",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tokecannabis.com/welland/store": {
+    "store": "Toke Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.tonysjoint.com/": {
+    "store": "Tony\u2019s Joint",
+    "src": "https://dutchie.com/api/v2/embedded-menu/609999703a003500de023c2f.js",
+    "platform": "Dutchie"
+  },
+  "https://www.totallybakedcannabis.ca/": {
+    "store": "TOTALLY BAKED CANNABIS",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.tree-top-cannabis.ca/": {
+    "store": "TREETOP",
+    "src": "https://dutchie.com/api/v2/embedded-menu/644c5cb6dbcb6f01de148411.js?chainLocations=true",
+    "platform": "Dutchie"
+  },
+  "https://www.treetopscannabis.ca/": {
+    "store": "Tree Tops Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ee14ca9b93318012782e3d7.js",
+    "platform": "Dutchie"
+  },
+  "https://www.treetopscannabis.ca/dorchester/?": {
+    "store": "Tree Tops Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/5ee14ca9b93318012782e3d7.js",
+    "platform": "Dutchie"
+  },
+  "https://www.twist-cannabis.ca/": {
+    "store": "Twist Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://www.uphicannabis.com/": {
+    "store": "UpHi Cannabis Emporium",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60b7dea6bac2f500a6ac5fa1.js",
+    "platform": "Dutchie"
+  },
+  "https://www.villagecannabisco.ca/pages/shopcrystalbeach?": {
+    "store": "VILLAGE CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.villagecannabisco.ca/pages/shophamilton?": {
+    "store": "VILLAGE CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.villagecannabisco.ca/pages/shopportdover?": {
+    "store": "VILLAGE CANNABIS CO.",
+    "src": null,
+    "platform": null
+  },
+  "https://www.vipcannabis.ca/": {
+    "store": "VIP Cannabis Company",
+    "src": null,
+    "platform": null
+  },
+  "https://www.weedpanion.com/stores/highq-thamesford": {
+    "store": "HIGHQ",
+    "src": null,
+    "platform": null
+  },
+  "https://www.whiterabbitcann.com/": {
+    "store": "White Rabbit Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://www.wonderlandreserve.com/": {
+    "store": "Wonderland Cannabis",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60ae7b9390c57200d890b954.js",
+    "platform": "Dutchie"
+  },
+  "https://www.woweeds.ca/": {
+    "store": "WOW World of Weed",
+    "src": "https://dutchie.com/api/v2/embedded-menu/60806bc5ece0aa00d28bff8d.js",
+    "platform": "Dutchie"
+  },
+  "https://www.woweeds.ca/lakeshore/": {
+    "store": "WOW WORLD OF WEED",
+    "src": null,
+    "platform": null
+  },
+  "https://www.yourindependentgrocer.ca/store-locator/details/0839?utm_source=G&utm_medium=LPM&utm_campaign=Loblaws": {
+    "store": "C SHOP",
+    "src": null,
+    "platform": null
+  },
+  "https://www.yourkushhouse.com/": {
+    "store": "YOUR KUSH HOUSE",
+    "src": null,
+    "platform": null
+  },
+  "https://www.zencann.ca/": {
+    "store": "Zen Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://wychwoodcannabis.ca/": {
+    "store": "Wychwood Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://ybcannabis.com/": {
+    "store": "Yerba Buena Cannabis",
+    "src": null,
+    "platform": "Dutchie"
+  },
+  "https://yieldcannabis.com/": {
+    "store": "Yield Cannabis Co.",
+    "src": "https://dutchie.com/api/v2/embedded-menu/602be64188f00800c9c45a5c.js",
+    "platform": "Dutchie"
+  },
+  "https://yolocan.ca/": {
+    "store": "Yolo Cannabis",
+    "src": null,
+    "platform": null
+  },
+  "https://yourhighnesscannabis.ca/": {
+    "store": "Your Highness Cannabis",
+    "src": null,
+    "platform": "Buddi"
+  },
+  "https://yourlocalcannabis.com/": {
+    "store": "Your Local Cannabis",
+    "src": null,
+    "platform": "Buddi"
   }
 }

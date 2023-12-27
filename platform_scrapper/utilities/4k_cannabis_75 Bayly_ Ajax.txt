@@ -4,17 +4,14 @@ Address - 75 Bayly St W Unit 12-14, Ajax, ON L1S 7L7, Canada
 -------------------------------------------------------------
 Authorized to Open
 -------------------------------------------------------------
-
 URL http://4kcannabis.ca/
 -------------------------------------------------------------
-
 Platform - Buddi/Dutchie
 -------------------------------------------------------------
 service options
 ['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
-
-
-Delivery Zones according to the price,
+-------------------------------------------------------------
+Delivery Zones according to the price
 for EXAMPLE, in first area 2.99 is price inside the area with coordinates of 'perimeter'
 and 'minimum_order': 19.98
 {

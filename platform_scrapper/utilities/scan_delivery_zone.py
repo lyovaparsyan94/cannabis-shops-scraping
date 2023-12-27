@@ -1,9 +1,11 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
+import json
 import pprint
 import time
 import gevent
 import requests
+from data_collector import clean_data_and_save
 # from queue import Queue
 from geo import GeoLocator
 from gevent.queue import Queue
@@ -17,14 +19,14 @@ class ScanDutchieDelivery:
     step = 0.4
     base_distantion = 0.5
 
-    def __init__(self, shop_address):
+    def __init__(self, shop_address, despensary_id):
         self.geolocator = GeoLocator()
         self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address)
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
-        self.__dispensaryId = 'tweed-ajax'
+        self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        time.sleep(5)
+        time.sleep(3)
         city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
         _city = '' or city
         zipcode = '' or zipcode
@@ -42,14 +44,24 @@ class ScanDutchieDelivery:
         else:
             print(f"Error with status code {response.status_code}")
 
-    def multi_scan_total_area(self):
-        """scan total area and sort with radius zones with fee cost"""
+    def multi_scan_total_area(self, store, address):
+        # gevent.sleep(15)
+        """scan total area and sort according radius zones with fee cost"""
         s = time.time()
+        store = str(store).replace(' ', '')
+        address = str(address).replace(' ', '')
         radians = [(0, 90), (90, 180), (180, 270), (270, 360)]
         jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
+        print('------------------GEVENT FINISHED-----------------------')
         gevent.joinall(jobs)
+        global_data = []
+        for job in jobs:
+            global_data.append(job.value)
+        final_data = clean_data_and_save(list_of_circle_sections=global_data, store=store,
+                                         address=address)
         e = time.time()
         print(f'Done in {e - s} seconds')
+        return final_data
 
     def _scan_delivery_perimeter(self, degree, until):
         """find borders of delivery figure on map."""
@@ -66,7 +78,6 @@ class ScanDutchieDelivery:
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
             gevent.sleep(0.5)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
-            print("worked get_delivery_info(point), degree is", degree)
             gevent.sleep(0.5)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
@@ -82,8 +93,6 @@ class ScanDutchieDelivery:
                         delivery_area[fee][degree] = {distantion: [point]}
                 else:
                     delivery_area[fee] = {degree: {distantion: [point]}}
-                # delivery_area['minimum_order'] = minimum
-                # delivery_area[fee][degree]['minimum_order'] = minimum
                 print(f"delivery_area is--->")
                 pprint.pprint(delivery_area)
                 distantion += self.step
@@ -95,93 +104,7 @@ class ScanDutchieDelivery:
                 print(f"changed degree to {degree} and distantion to {distantion}")
                 point = start_point
                 queue.put(point)
-            with open(f"{file_name}", 'w') as file:
-                print(f"wrote to {file_name}")
-                file = file.write(str(delivery_area))
-        print(delivery_area)
         return delivery_area
-
-    # def find_delivery_perimeter(self, degree, until):
-    #     """find borders of delivery figure on map."""
-    #     start_point = self.__shop_address
-    #     distantion = self.base_distantion
-    #     degree = degree
-    #     queue = Queue()
-    #     queue.put(start_point)
-    #     delivery_area = {}
-    #     zapasdelivery_area_id, zapasfee, zapasfee_varies, zapasminimum_varies, zapasminimum, zapaswithin_bounds = None, None, None, None, None, None
-    #     # while not queue.empty() and degree <= until:
-    #     while  degree <= until:
-    #         print("DEGREE IS", degree)
-    #         point = queue.get()
-    #         # point = (43.92348294095433, -79.0211127)
-    #         point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
-    #         time.sleep(1)
-    #         delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
-    #         print(
-    #             f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-    #         if fee != zapasfee:
-    #             if delivery_area.get(zapasfee, None) is None:
-    #                 delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
-    #             else:
-    #                 delivery_area[zapasfee]['perimeter'] += [point]
-    #                 delivery_area[zapasfee]['minimum_order'] = zapasminimum
-    #             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
-    #         if delivery_area_id == "Out of Region" and within_bounds is True:
-    #             if delivery_area.get(fee, None) is None:
-    #                 delivery_area[fee] = {'perimeter': [point], 'minimum_order': minimum}
-    #             else:
-    #                 delivery_area[fee]['perimeter'] += [point]
-    #                 delivery_area[fee]['minimum_order'] = minimum
-    #             if delivery_area.get(zapasfee, None) is None:
-    #                 delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
-    #             else:
-    #                 delivery_area[zapasfee]['perimeter'] += [point]
-    #                 delivery_area[zapasfee]['minimum_order'] = zapasminimum
-    #             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
-    #             delivery_area[fee]['perimeter'] = list(set(delivery_area[fee]['perimeter']))
-    #
-    #             print(f'delivery_area is {delivery_area}')
-    #             distantion += self.step
-    #             print("change distantion to", distantion)
-    #             queue.put(point)
-    #         elif delivery_area_id is not None and within_bounds is True:
-    #             distantion += self.step
-    #             print(f"distantion changed, --> {distantion}km")
-    #             queue.put(point)
-    #         elif delivery_area_id is None and within_bounds is False:
-    #             print("delivery_area_id is None and within_bounds is False, distan = ", distantion - self.step)
-    #             next_point = self.get_next_radial_point(start_point=point, distantion=distantion - self.step,
-    #                                                     bearing=degree)
-    #             next_delivery_area_id, nextfee, nextfee_varies, nextminimum_varies, nextminimum, nextwithin_bounds = self.get_delivery_info(
-    #                 next_point)
-    #             print("checking nearest point to make sure of No delivery area...", next_delivery_area_id, nextfee,
-    #                   nextfee_varies, nextminimum_varies, nextminimum, nextwithin_bounds)
-    #             if next_delivery_area_id is None and nextwithin_bounds is False:
-    #                 print("nearest point also No delivered ")
-    #                 if delivery_area.get(fee, None) is None:
-    #                     delivery_area[fee] = {'perimeter': [point], 'minimum_order': minimum}
-    #                 else:
-    #                     delivery_area[fee]['perimeter'] += [point]
-    #                     delivery_area[fee]['minimum_order'] = minimum
-    #                 if delivery_area.get(zapasfee, None) is None:
-    #                     delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
-    #                 else:
-    #                     delivery_area[zapasfee]['perimeter'] += [point]
-    #                     delivery_area[zapasfee]['minimum_order'] = zapasminimum
-    #                 print(f"saving data: {delivery_area}")
-    #             degree += 15
-    #             distantion = self.base_distantion
-    #             print(f"changed degree to {degree} and distantion to {distantion}")
-    #             point = start_point
-    #             queue.put(point)
-    #         with open(f"{degree}".replace(' ', '_'), 'w') as file:
-    #             file = file.write(str(delivery_area))
-    #         zapasdelivery_area_id, zapasfee, zapasfee_varies, zapasminimum_varies, zapasminimum, zapaswithin_bounds = delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
-    #         if delivery_area.get(zapasfee, None):
-    #             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
-    #     print(delivery_area)
-    #     return delivery_area
 
     def get_next_radial_point(self, start_point, distantion, bearing):
         bearing = float(bearing)
@@ -197,11 +120,3 @@ class ScanDutchieDelivery:
             print(f"neighbor is {neighbor}")
             time.sleep(5)
             return neighbor
-
-
-scanner = ScanDutchieDelivery("75 Bayly St Ajax canada")
-# perimeter = scanner.find_delivery_perimeter()
-perimeter = scanner.multi_scan_total_area()
-# perimeter = scanner._scan_delivery_perimeter(0, 90)
-# perimeter = scanner.delivery_info("9483 Mississauga Rd, Brampton, ON L6X 0Z8, Canada")
-# print(perimeter)

@@ -209,3 +209,85 @@ from pprint import pprint
 #             else:
 #                 print("Delivery area status", c_resp.status_code)
 #                 return None, c_delivery_info
+
+# def find_delivery_perimeter(self, degree, until):
+#     """find borders of delivery figure on map."""
+#     start_point = self.__shop_address
+#     distantion = self.base_distantion
+#     degree = degree
+#     queue = Queue()
+#     queue.put(start_point)
+#     delivery_area = {}
+#     zapasdelivery_area_id, zapasfee, zapasfee_varies, zapasminimum_varies, zapasminimum, zapaswithin_bounds = None, None, None, None, None, None
+#     # while not queue.empty() and degree <= until:
+#     while  degree <= until:
+#         print("DEGREE IS", degree)
+#         point = queue.get()
+#         # point = (43.92348294095433, -79.0211127)
+#         point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
+#         time.sleep(1)
+#         delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
+#         print(
+#             f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
+#         if fee != zapasfee:
+#             if delivery_area.get(zapasfee, None) is None:
+#                 delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
+#             else:
+#                 delivery_area[zapasfee]['perimeter'] += [point]
+#                 delivery_area[zapasfee]['minimum_order'] = zapasminimum
+#             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
+#         if delivery_area_id == "Out of Region" and within_bounds is True:
+#             if delivery_area.get(fee, None) is None:
+#                 delivery_area[fee] = {'perimeter': [point], 'minimum_order': minimum}
+#             else:
+#                 delivery_area[fee]['perimeter'] += [point]
+#                 delivery_area[fee]['minimum_order'] = minimum
+#             if delivery_area.get(zapasfee, None) is None:
+#                 delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
+#             else:
+#                 delivery_area[zapasfee]['perimeter'] += [point]
+#                 delivery_area[zapasfee]['minimum_order'] = zapasminimum
+#             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
+#             delivery_area[fee]['perimeter'] = list(set(delivery_area[fee]['perimeter']))
+#
+#             print(f'delivery_area is {delivery_area}')
+#             distantion += self.step
+#             print("change distantion to", distantion)
+#             queue.put(point)
+#         elif delivery_area_id is not None and within_bounds is True:
+#             distantion += self.step
+#             print(f"distantion changed, --> {distantion}km")
+#             queue.put(point)
+#         elif delivery_area_id is None and within_bounds is False:
+#             print("delivery_area_id is None and within_bounds is False, distan = ", distantion - self.step)
+#             next_point = self.get_next_radial_point(start_point=point, distantion=distantion - self.step,
+#                                                     bearing=degree)
+#             next_delivery_area_id, nextfee, nextfee_varies, nextminimum_varies, nextminimum, nextwithin_bounds = self.get_delivery_info(
+#                 next_point)
+#             print("checking nearest point to make sure of No delivery area...", next_delivery_area_id, nextfee,
+#                   nextfee_varies, nextminimum_varies, nextminimum, nextwithin_bounds)
+#             if next_delivery_area_id is None and nextwithin_bounds is False:
+#                 print("nearest point also No delivered ")
+#                 if delivery_area.get(fee, None) is None:
+#                     delivery_area[fee] = {'perimeter': [point], 'minimum_order': minimum}
+#                 else:
+#                     delivery_area[fee]['perimeter'] += [point]
+#                     delivery_area[fee]['minimum_order'] = minimum
+#                 if delivery_area.get(zapasfee, None) is None:
+#                     delivery_area[zapasfee] = {'perimeter': [point], 'minimum_order': zapasminimum}
+#                 else:
+#                     delivery_area[zapasfee]['perimeter'] += [point]
+#                     delivery_area[zapasfee]['minimum_order'] = zapasminimum
+#                 print(f"saving data: {delivery_area}")
+#             degree += 15
+#             distantion = self.base_distantion
+#             print(f"changed degree to {degree} and distantion to {distantion}")
+#             point = start_point
+#             queue.put(point)
+#         with open(f"{degree}".replace(' ', '_'), 'w') as file:
+#             file = file.write(str(delivery_area))
+#         zapasdelivery_area_id, zapasfee, zapasfee_varies, zapasminimum_varies, zapasminimum, zapaswithin_bounds = delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
+#         if delivery_area.get(zapasfee, None):
+#             delivery_area[zapasfee]['perimeter'] = list(set(delivery_area[zapasfee]['perimeter']))
+#     print(delivery_area)
+#     return delivery_area

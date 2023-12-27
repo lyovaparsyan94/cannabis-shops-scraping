@@ -28,6 +28,7 @@ class GeoLocator:
         while not response and retry >= 1:
             try:
                 time.sleep(interval)
+                # location = self.get_latitude_longtitude(address)
                 location = self.geolocator.reverse(address, timeout=None)
                 print(location.raw.get('type'), "No type")
                 _lat = location.raw['lat']

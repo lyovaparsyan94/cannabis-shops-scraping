@@ -1,24 +1,19 @@
-import turtle
 import pprint
 import requests
 
-# dispensaryId = "tweed-ajax"
-dispensaryId = "5eb9a5221c1db800f8bd2a7d"
-name = '6548f8995592fc0009fbe149'
-# dispensaryId = "tokyo-smoke-hanover-10th" 49 Lorne St, , ON L0E 1L0, Canada
-# city = "Whitby"
-city = "Toronto"
-state = "ON"
-zipcode = ""
-lat = ''
-lng = ''
+# dispensaryId = "5eb9a5221c1db800f8bd2a7d"
+# # city = "Whitby"
+# city = "Toronto"
+# state = "ON"
+# zipcode = ""
+# lat = ''
+# lng = ''
 hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
-url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{dispensaryId}%22%2C%22city%22%3A%22{city}%22%2C%22state%22%3A%22{state}%22%2C%22zipcode%22%3A%22%201B9%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{hsh}%22%7D%7D"
-# # url = "https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22blue-bird-cannabis%22%2C%22city%22%3A%22Kanata%22%2C%22state%22%3A%22ON%22%2C%22zipcode%22%3A%22K2T%201J8%22%2C%22lat%22%3A45.311257%2C%22lng%22%3A-75.917461%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b%22%7D%7D"
-# # url = "https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22tweed-ajax%22%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b%22%7D%7D"
-# # url = "https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22tokyo-smoke-hanover-10th%22%2C%22city%22%3A%22Pickering%22%2C%22state%22%3A%22ON%22%2C%22zipcode%22%3A%22L1V%201B5%22%2C%22lat%22%3A43.8301685%2C%22lng%22%3A-79.0966997%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b%22%7D%7D"
-# url = "https://dutchie.com/graphql?operationName=GetDeliveryInfo&variables=%7B%22input%22%3A%7B%22city%22%3A%22Pickering%22%2C%22dispensaryId%22%3A%225ed80d3e5bec1100f0e9d957%22%2C%22lat%22%3A43.8340039%2C%22lng%22%3A-79.0882919%2C%22state%22%3A%22ON%22%2C%22zipcode%22%3A%22L1V%201B8%22%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22041cbe9f45b8b227894b91d937f500ee3dd4af83f4f7443c15daab778c5ef5e6%22%7D%7D"
-consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"4f415a7b945a5c58d2cf92ace12a3e24e40815f05f0755adc285d86f584d15c3"}}'%name
+src_id = '6548f8995592fc0009fbe149'
+
+consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID' \
+               '":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"4f415a7b945a5c58d2cf92ace12a3e24e40815' \
+               'f05f0755adc285d86f584d15c3"}}' % src_id
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Content-Type": "application/json",
@@ -26,22 +21,22 @@ headers = {
 }
 
 res = requests.get(url=consumer_url, headers=headers)
-pprint.pprint(res.json())
+# pprint.pprint(res.json()['data']['filteredDispensaries'][0]['location'])
 # resp = res.json()['data']['getAddressBasedDispensaryData']['deliveryInfo']['deliveryAreaId']
-
-
-# Set up the turtle
-# t = turtle.Turtle()
-# t.speed(0)
-
-# # Draw the circle
-# for i in range(0, 360, 10):
-#     t.penup()
-#     t.goto(0, 0)
-#     t.pendown()
-#     t.setheading(i)
-#     t.forward(200)
-#     t.write(str(i) + "°")
-#
-# # Keep the window open
-# turtle.done()
+resp = res.json()['data']['filteredDispensaries']
+address = res.json()['data']['filteredDispensaries'][0]['address']
+delivery_hours = res.json()['data']['filteredDispensaries'][0]['deliveryHours']['Monday']['active']
+delivery_enabled = res.json()['data']['filteredDispensaries'][0]['orderTypesConfig']['delivery']['enabled']
+url_with_endpoint = res.json()['data']['filteredDispensaries'][0]['embeddedMenuUrl']
+cName = res.json()['data']['filteredDispensaries'][0]['cName']
+city = res.json()['data']['filteredDispensaries'][0]['location']['city']
+coordinates = res.json()['data']['filteredDispensaries'][0]['location']['geometry']['coordinates']
+ln1 = res.json()['data']['filteredDispensaries'][0]['location']['ln1']
+ln2 = res.json()['data']['filteredDispensaries'][0]['location']['ln2']
+state_short = res.json()['data']['filteredDispensaries'][0]['location']['state']
+zipcode = res.json()['data']['filteredDispensaries'][0]['location']['zipcode']
+# url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{dispensaryId}%22%2C%22city%22%3A%22{city}%22%2C%22state%22%3A%22{state}%22%2C%22zipcode%22%3A%22%201B9%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{hsh}%22%7D%7D"
+url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{cName}%22%2C%22city%22%3A%22{city}%22%2C%22state%22%3A%22{state_short}%22%2C%22zipcode%22%3A%22%201B9%22%2C%22lat%22%3A{coordinates[0]}%2C%22lng%22%3A{coordinates[1]}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{hsh}%22%7D%7D"
+res = requests.get(url=consumer_url, headers=headers)
+# pprint.pprint(delivery_enabled)
+print(len("-------------------------------------------------------------"))
