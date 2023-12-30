@@ -2518,7 +2518,7 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
             json.dump(result, file, indent=2)
         else:
             json.dump(global_data, file, indent=2)
-    with open(f"{index}{filename}.txt", "a") as f:
+    with open(f"14{index}{filename}.txt", "a") as f:
         report = f"Store - {store}{liner}Address - {address}{liner}{status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Delivery Zones according to the price\nfirst number is the price, and in brackets are the coordinates of area according to that price \n"
         f.write(report)
         with open(f'{index}glob.txt', 'r') as glob_file:
