@@ -1,0 +1,22 @@
+Store - SHINYBUD CANNABIS CO. 191 BOWMANVILLE
+------------------------------------------------------------
+Address - 191 CHURCH ST, LOWER FLOOR 
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.shinybud.com/bowmanville
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

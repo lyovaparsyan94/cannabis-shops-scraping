@@ -1,0 +1,22 @@
+Store - SHINYBUD CANNABIS CO. 8 BECKWITH ST
+------------------------------------------------------------
+Address - 8 BECKWITH ST N
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/smiths-falls/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

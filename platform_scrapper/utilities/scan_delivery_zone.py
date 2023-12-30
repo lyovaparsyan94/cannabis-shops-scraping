@@ -1,32 +1,28 @@
-from gevent import monkey
-# monkey.patch_all()
 import json
 import pprint
 import time
 import gevent
 import requests
-from data_collector import clean_data_and_save
-# from queue import Queue
+from data_collector import clean_data
 from geo import GeoLocator
 from gevent.queue import Queue
 from geopy.distance import distance
-from platform_scrapper.helpers.file_handler import load_xlsx
 from platform_scrapper.configs.constants import HEADERS
 
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
+    # step = 2.8
     base_distantion = 0.5
 
-    def __init__(self, shop_address, despensary_id):
+    def __init__(self, shop_address, despensary_id, store, state):
         self.geolocator = GeoLocator()
-        self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address)
+        self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
         self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        time.sleep(3)
         city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
         _city = '' or city
         zipcode = '' or zipcode
@@ -35,54 +31,68 @@ class ScanDutchieDelivery:
         if response.status_code == 200:
             delivery_info = response.json()['data']['getAddressBasedDispensaryData']['deliveryInfo']
             delivery_area_id = delivery_info['deliveryAreaId']
-            fee = float(delivery_info['fee']) / 100
+            fee = delivery_info.get('fee', None)
+            if fee:
+                fee = float(fee) / 100
             fee_varies = delivery_info['feeVaries']
-            minimum = float(delivery_info['minimum']) / 100
-            minimum_varies = float(delivery_info['minimumVaries']) / 100
+            print(f"FEE VARIES ----- {fee_varies}!!!!!!!!!!!!!!!!!!!!!!!!!")
+            minimum = delivery_info.get('minimum', None)
+            if minimum:
+                minimum = float(minimum) / 100
+            minimum_varies = delivery_info.get('minimumVaries', None)
+            if minimum_varies:
+                minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
 
     def multi_scan_total_area(self, store, address):
-        # gevent.sleep(15)
         """scan total area and sort according radius zones with fee cost"""
-        s = time.time()
-        store = str(store).replace(' ', '')
-        address = str(address).replace(' ', '')
-        radians = [(0, 90), (90, 180), (180, 270), (270, 360)]
-        jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
-        print('------------------GEVENT FINISHED-----------------------')
-        gevent.joinall(jobs)
+        store1 = str(store).replace(' ', '')
+        address1 = str(address).replace(' ', '')
+        filename = store1 + address1
         global_data = []
-        for job in jobs:
-            global_data.append(job.value)
-        final_data = clean_data_and_save(list_of_circle_sections=global_data, store=store,
-                                         address=address)
-        e = time.time()
-        print(f'Done in {e - s} seconds')
-        return final_data
+        try:
+            s = time.time()
+            # radians = [(0, 90), (90, 180), (180, 270), (270, 360)]
+            radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
+            print(f'------------------GEVENT STARTED {store} {address}-----------------------')
+            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
+            gevent.joinall(jobs)
+            print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
+            for job in jobs:
+                global_data.append(job.value)
+            final_data = clean_data(list_of_circle_sections=global_data, store=store,address=address)
+            with open(f"t_{filename}.json", "w") as j:
+                json.dump(global_data, j)
+            e = time.time()
+            print(f"FINAL DATA AFTER of {store} {address} GEVENT IS {final_data}")
+            print(f'Done in {e - s} seconds')
+            return global_data, f"{filename}"
+        except Exception:
+            print("Error in scanning")
+            with open(f"e_{filename}.txt", "w") as fe:
+                fe.write(final_data)
+
 
     def _scan_delivery_perimeter(self, degree, until):
         """find borders of delivery figure on map."""
-        file_name = f'{degree} - {until}'
         start_point = self.__shop_address
         distantion = self.base_distantion
         degree = degree
         queue = Queue()
         queue.put(start_point)
         delivery_area = {}
-        while degree <= until:
+        while degree <= until and degree < 360:
             print("DEGREE IS", degree)
             point = queue.get()
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
-            gevent.sleep(0.5)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
-            gevent.sleep(0.5)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
             if delivery_area_id is not None and within_bounds is True:
-                if fee in delivery_area:
+                if fee in delivery_area and not False:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:
                             delivery_area[fee][degree][distantion].append(point)
@@ -98,12 +108,12 @@ class ScanDutchieDelivery:
                 distantion += self.step
                 queue.put(point)
             else:
-                degree += 10
-                print("Not delivery area")
+                degree += 15
                 distantion = self.base_distantion
-                print(f"changed degree to {degree} and distantion to {distantion}")
+                print(f"Not delivery area, changed degree to {degree} and distantion to {distantion}")
                 point = start_point
                 queue.put(point)
+
         return delivery_area
 
     def get_next_radial_point(self, start_point, distantion, bearing):

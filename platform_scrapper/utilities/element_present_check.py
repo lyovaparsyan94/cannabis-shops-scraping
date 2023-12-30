@@ -19,7 +19,3 @@ class Element_present_check:
         print(element_result2)
 
         driver.quit()
-
-
-checker = Element_present_check()
-checker.run_test()

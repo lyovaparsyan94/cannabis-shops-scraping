@@ -1,19 +1,17 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
-import pprint
 import time
 import gevent
 import requests
 from data_collector import write_report
-from platform_scrapper.configs.constants import HEADERS, consumer_headers
+from platform_scrapper.configs.constants import consumer_headers
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
 
 
 class Manager:
     def __init__(self):
-        # self.scanner = ScanDutchieDelivery()
         ...
 
     def load_src_data(self):
@@ -39,17 +37,14 @@ class Manager:
                        'f05f0755adc285d86f584d15c3"}}' % src_id
         gevent.sleep(3)
         response = requests.get(url=consumer_url, headers=consumer_headers)
-        print(f"SRC {src_id} response  {response.status_code}")
         if response.status_code == 200:
             if response.json()['data']['filteredDispensaries']:
                 res = response.json()['data']['filteredDispensaries'][0]
                 address = res['address']
-                print(address)
                 delivery_hours = res['deliveryHours']['Monday']['active']
                 delivery_enabled = res['orderTypesConfig']['delivery']['enabled']
                 url_with_endpoint = res['embeddedMenuUrl']
                 cName = res['cName']
-                print(f"got ---- cName {cName}")
                 city = res['location']['city']
                 coordinates = res['location']['geometry']['coordinates']
                 ln1 = res['location']['ln1']
@@ -61,16 +56,16 @@ class Manager:
                          "coordinates": coordinates,
                          "zipcode": zipcode,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
+                print(f"Got query for {address}, ln1 - {ln1}, ln2: {ln2}")
                 return query
             else:
                 return None
-        print(response.status_code, 'with', src_id)
         return None
 
     def start(self):
         df = load_xlsx(
             # file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\test_cannabis_previous_for_apis.xlsx"
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\1FAKECOPY_test_cannabis_previous_for_apis.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx"
         )
         copy_df = df.fillna('', inplace=False)
 
@@ -151,11 +146,11 @@ class Manager:
 
     def manage(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\1FAKECOPY_test_cannabis_previous_for_apis.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx"
         )
-        copy_df = df.fillna('', inplace=False)
+        df = df.fillna('', inplace=False)
         try:
-            for index, row in copy_df.iterrows():
+            for index, row in df.iterrows():
                 state = row.iloc[0]
                 store = str(row.iloc[1])
                 address = str(row.iloc[2])
@@ -168,373 +163,55 @@ class Manager:
                 delivery_qualifications = row.iloc[10]
                 min_delivery_fee = row.iloc[11]
                 zones = row.iloc[12]
+                checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if store_id and len(store_id) == 24:
-                    if ended_licension.lower() not in status.lower():
-                        print(f"Licenzion is {ended_licension.lower() not in status.lower()}")
-                        print(f"Trying to get query ... {index}, platform {ecom_provider}")
-                    query = self.query_maker(src_id=store_id)
-                    print(f"query is {query} for {store} {address}, url - {url} and store_id - {store_id}")
-                    if query and query.get('delivery_enabled', None):
-                        ln1 = query.get('ln1', None)
-                        despensary_id = query.get('cName', None)
-                        if ln1 and despensary_id:
-                            print(f"getting coordinates: ln1 - {ln1}")
-                            print(f"Preparing for scanning {store} {address} with {store}")
-                            self.scanner = ScanDutchieDelivery(shop_address=ln1, despensary_id=despensary_id)
-                            time.sleep(5)
-                            global_data = {
-                                "5.0": {
-                                    "0": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.45168773119106,
-                                                -79.8432439
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "10": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.45026487370072,
-                                                -79.82094379617504
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "20": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.44603959903164,
-                                                -79.79932331788973
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "30": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.43914047710801,
-                                                -79.77904119233023
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "40": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.42977742071154,
-                                                -79.76071501523997
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "50": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.418235272610865,
-                                                -79.7449023244032
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "60": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.40486510819147,
-                                                -79.73208357430255
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "70": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.39007352304656,
-                                                -79.7226475393987
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "80": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.37431023651128,
-                                                -79.71687958910331
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "90": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.3580543929145,
-                                                -79.71495317979559
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "100": {
-                                        "3.3": [
-                                            [
-                                                43.34916031350601,
-                                                -79.77400628800393
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "110": {
-                                        "3.3": [
-                                            [
-                                                43.34052277916381,
-                                                -79.7771849493928
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "120": {
-                                        "3.3": [
-                                            [
-                                                43.33241885662314,
-                                                -79.78236952803427
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "130": {
-                                        "3.3": [
-                                            [
-                                                43.32509466437931,
-                                                -79.7894020609542
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "140": {
-                                        "3.3": [
-                                            [
-                                                43.318772603332576,
-                                                -79.79806863898136
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "150": {
-                                        "3.3": [
-                                            [
-                                                43.31364461623945,
-                                                -79.80810593368385
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "160": {
-                                        "3.3": [
-                                            [
-                                                43.3098663736685,
-                                                -79.81920919816095
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "170": {
-                                        "3.3": [
-                                            [
-                                                43.307552560951976,
-                                                -79.83104149867326
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "180": {
-                                        "3.3": [
-                                            [
-                                                43.30677340730886,
-                                                -79.8432439
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "190": {
-                                        "3.3": [
-                                            [
-                                                43.307552560951976,
-                                                -79.85544630132675
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "200": {
-                                        "3.3": [
-                                            [
-                                                43.3098663736685,
-                                                -79.86727860183906
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "210": {
-                                        "3.3": [
-                                            [
-                                                43.31364461623945,
-                                                -79.87838186631616
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "220": {
-                                        "3.3": [
-                                            [
-                                                43.318772603332576,
-                                                -79.88841916101865
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "230": {
-                                        "3.3": [
-                                            [
-                                                43.32509466437931,
-                                                -79.8970857390458
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "240": {
-                                        "3.3": [
-                                            [
-                                                43.33241885662314,
-                                                -79.90411827196574
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "250": {
-                                        "3.3": [
-                                            [
-                                                43.34052277916381,
-                                                -79.9093028506072
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "260": {
-                                        "3.3": [
-                                            [
-                                                43.34916031350601,
-                                                -79.91248151199608
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "270": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.3580543929145,
-                                                -79.97153462020442
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "280": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.37431023651128,
-                                                -79.9696082108967
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "290": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.39007352304656,
-                                                -79.96384026060132
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "300": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.40486510819147,
-                                                -79.95440422569746
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "310": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.418235272610865,
-                                                -79.94158547559681
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "320": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.42977742071154,
-                                                -79.92577278476004
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "330": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.43914047710801,
-                                                -79.90744660766978
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "340": {
-                                        "3.3": [
-                                            [
-                                                43.40628872274739,
-                                                -79.86730628558918
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "350": {
-                                        "3.3": [
-                                            [
-                                                43.40860419921312,
-                                                -79.85546103154451
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    },
-                                    "360": {
-                                        "4.699999999999999": [
-                                            [
-                                                43.45168773119106,
-                                                -79.8432439
-                                            ],
-                                            "min order - 50.0"
-                                        ]
-                                    }
-                                }
-                            }
-                            global_data = self.scanner.multi_scan_total_area(store=store, address=address)
-                            write_report(global_data=global_data, store=store, address=address, status=status, url=url,
-                                         ecom_provider=ecom_provider, service_options=service_options, index=index)
-
-                            raise Exception
-                    else:
-                        continue
+                if not checked:
+                    try:
+                        if store_id and len(store_id) == 24:
+                            if ended_licension.lower() not in status.lower():
+                                print(f"Trying to get query {store} {address} {index}, platform {ecom_provider}")
+                            query = self.query_maker(src_id=store_id)
+                            if query:
+                                ln1 = query.get('ln1', None)
+                                despensary_id = query.get('cName', None)
+                                if ln1 and despensary_id:
+                                    time.sleep(10)
+                                    print(
+                                        f"Store{store} address: {address} {state}, check status - {checked}, licenzion - {status}, platform {ecom_provider},  url - {url}, and store_id - {store_id}, index - {index}")
+                                    self.scan_and_save(state=state, store=store, shop_address=address, despensary_id=despensary_id, status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,index=index)
+                            else:
+                                continue
+                    except Exception as check_error:
+                        df.at[index, 'checked'] = 'error with checking' + str(check_error)
+                else:
+                    continue
         except Exception as e:
             print(e)
-        finally:
-            copy_df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\2FAKECOPY_test_cannabis_previous_for_apis.xlsx',
-                index=False)
 
 
+    def scan_and_save(self,  store, shop_address, state, despensary_id, status, url, ecom_provider, service_options,
+                      index):
+        self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state,store=store, despensary_id=despensary_id)
+        try:
+            global_data = self.scanner.multi_scan_total_area(store=store,
+                                                             address=shop_address)
+            write_report(global_data=global_data[0], store=store, address=shop_address,
+                         status=status,
+                         url=url,
+                         ecom_provider=ecom_provider, service_options=service_options,
+                         index=index)
+            print(f"Wrote {global_data[0]} file, removed json with same name and marked status to True, at index {index}")
+            copy_df.at[index, 'checked'] = 'True'
+        except Exception as n:
+            print(f"ERROR in saving {n}")
+
+
+copy_df = load_xlsx(
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx")
 manager = Manager()
 # manager.start()
 manager.manage()
+# disp = manager.query_maker('5fd7995b81bf8a00d277da44').get('cName', None)
+# if disp:
+#     manager.scan_and_save(copy_df=copy_df, ecom_provider='Dutchie', store="The Peace Pipe", shop_address="31 CELINA ST", state="OSHAWA", status="Authorized to Open",
+#                           url="http://peacepipe420.com/", index=3, despensary_id=disp, service_options="['Delivery', 'In-store pickup', 'In-store shopping']")

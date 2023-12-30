@@ -1,0 +1,22 @@
+Store - The Treehouse Cannabis Company
+------------------------------------------------------------
+Address - 1845 MAIN ST W
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://thetreehousecannabisco.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

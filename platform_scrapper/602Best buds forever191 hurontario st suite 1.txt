@@ -1,0 +1,22 @@
+Store - BEST BUDS FOREVER
+------------------------------------------------------------
+Address - 191 HURONTARIO ST SUITE 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://bestbudsforever.ca/shop-collingwood/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

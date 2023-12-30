@@ -1,0 +1,22 @@
+Store - Northern Helm Cannabis
+------------------------------------------------------------
+Address - 199 WENTWORTH ST W UNIT 9
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.northernhelm.com/shoposhawa?&utm_source=google&utm_medium=click&utm_campaign=Oshawa+GMB
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]
