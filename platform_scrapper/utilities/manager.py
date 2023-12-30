@@ -165,7 +165,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if not checked:
+                if not checked and index > 172:
                     try:
                         if store_id and len(store_id) == 24:
                             if ended_licension.lower() not in status.lower():

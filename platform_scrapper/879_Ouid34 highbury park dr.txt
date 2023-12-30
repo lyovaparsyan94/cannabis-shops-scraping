@@ -14,9 +14,9 @@ Service options
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
 [
-  null,
-  null,
-  null,
-  null,
-  null
+  {},
+  {},
+  {},
+  {},
+  {}
 ]
