@@ -1,0 +1,22 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 324 WHITEWOOD AVE
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/new-liskeard/?utm_source=GMB_newliskeard&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

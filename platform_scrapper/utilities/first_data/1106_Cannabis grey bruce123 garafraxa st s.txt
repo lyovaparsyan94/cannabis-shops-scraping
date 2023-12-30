@@ -1,0 +1,22 @@
+Store - Cannabis Grey Bruce
+------------------------------------------------------------
+Address - 123 GARAFRAXA ST S
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabisgreybruce.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

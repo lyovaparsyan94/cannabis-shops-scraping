@@ -1,0 +1,22 @@
+Store - ASHARIO
+------------------------------------------------------------
+Address - 6464 YONGE ST UNIT 187
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.ashario.com/pages/ashario-centerpoint-mall
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

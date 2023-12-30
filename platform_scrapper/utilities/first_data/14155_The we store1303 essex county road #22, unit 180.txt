@@ -1,0 +1,22 @@
+Store - The We Store
+------------------------------------------------------------
+Address - 1303 ESSEX COUNTY ROAD #22, UNIT 180
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://thewestore.com/shop/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'Delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

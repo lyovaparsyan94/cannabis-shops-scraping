@@ -1,0 +1,22 @@
+Store - SESSIONS CANNABIS - OTTAWA
+------------------------------------------------------------
+Address - 603 SOMERSET ST W
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/somerset-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

@@ -1,0 +1,22 @@
+Store - Toke House
+------------------------------------------------------------
+Address - 105 MAIN ST HWY 17 UNIT 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://tokehouse.ca/shop-ignace/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

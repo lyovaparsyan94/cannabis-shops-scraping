@@ -1,0 +1,22 @@
+Store - Ouid
+------------------------------------------------------------
+Address - 34 HIGHBURY PARK DR
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://ouid.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

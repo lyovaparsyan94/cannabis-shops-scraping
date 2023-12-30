@@ -1,0 +1,22 @@
+Store - BUDS 4 LESS
+------------------------------------------------------------
+Address - 145 MAPLEVIEW DR W UNIT A
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.buds4lessdispensary.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

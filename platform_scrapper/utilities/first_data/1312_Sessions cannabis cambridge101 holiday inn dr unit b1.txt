@@ -1,0 +1,22 @@
+Store - Sessions Cannabis Cambridge
+------------------------------------------------------------
+Address - 101 HOLIDAY INN DR UNIT B1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/cambridge-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

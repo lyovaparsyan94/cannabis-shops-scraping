@@ -1,0 +1,22 @@
+Store - Olive Jar
+------------------------------------------------------------
+Address - 554 ANNETTE ST
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://olivejar.ca/toronto-dispensary/?utm_source=terrayn_cit&utm_medium=organic&utm_campaign=olive_jar_cannabis
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

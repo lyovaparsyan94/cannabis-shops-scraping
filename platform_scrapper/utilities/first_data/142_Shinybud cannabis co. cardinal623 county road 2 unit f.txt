@@ -1,0 +1,22 @@
+Store - Shinybud Cannabis Co. Cardinal
+------------------------------------------------------------
+Address - 623 COUNTY ROAD 2 UNIT F
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/cardinal/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

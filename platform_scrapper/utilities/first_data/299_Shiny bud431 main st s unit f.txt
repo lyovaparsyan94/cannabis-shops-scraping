@@ -1,0 +1,22 @@
+Store - Shiny Bud
+------------------------------------------------------------
+Address - 431 MAIN ST S UNIT F
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.shinybud.com/alexandria
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

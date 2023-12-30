@@ -1,0 +1,22 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 1370 DUNDAS ST E SUITE 7
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/mississauga/?utm_source=GMB_Mississauga&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

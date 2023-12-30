@@ -1,0 +1,22 @@
+Store - The Cannabis Guys
+------------------------------------------------------------
+Address - 8335 FINANCIAL DR UNIT 5-6
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://thecannabisguys.ca/brampton/?utm_source=gmb&utm_campaign=dispenza
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

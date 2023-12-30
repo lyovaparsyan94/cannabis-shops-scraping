@@ -1,0 +1,22 @@
+Store - BUDSSMOKE
+------------------------------------------------------------
+Address - 6 MAIN ST S UNIT 4
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://budssmoke.com/6-main-street-south-callander/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

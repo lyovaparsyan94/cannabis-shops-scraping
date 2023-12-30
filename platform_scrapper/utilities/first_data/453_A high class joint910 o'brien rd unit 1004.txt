@@ -1,0 +1,22 @@
+Store - A High Class Joint
+------------------------------------------------------------
+Address - 910 O'BRIEN RD UNIT 1004
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://ahighclassjoint.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

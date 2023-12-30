@@ -1,0 +1,22 @@
+Store - NORTHERN HELM CANNABIS
+------------------------------------------------------------
+Address - 2377 HIGHWAY 2 UNIT 226
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.northernhelm.com/shopbowmanville?&utm_source=google&utm_medium=click&utm_campaign=Bowmanville+GMB
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

@@ -1,0 +1,22 @@
+Store - STICKY NUGGZ (STEELES W)
+------------------------------------------------------------
+Address - 1 STEINWAY BLVD UNIT 10
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://stickynuggzinc.ca/steeles-vaughan/?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]
