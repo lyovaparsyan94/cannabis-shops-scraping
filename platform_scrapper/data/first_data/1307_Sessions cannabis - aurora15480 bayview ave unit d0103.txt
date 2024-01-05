@@ -9,7 +9,7 @@ URL https://www.sessions.ca/aurora-dispensary-menu?utm_source=gmb&utm_medium=org
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+['Curbside pickup', 'No delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 

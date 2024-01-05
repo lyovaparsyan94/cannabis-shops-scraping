@@ -9,7 +9,7 @@ URL https://www.sessions.ca/stoney-creek-369-highway-8-dispensary-menu?utm_sourc
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 

@@ -1,15 +1,15 @@
-Store - The Hunny Pot Cannabis Co.
+Store - T CANNABIS NW
 ------------------------------------------------------------
-Address - 145 SILVER REIGN DR
+Address - 3 15TH ST UNIT 5
 ------------------------------------------------------------
-Public Notice Period: Ended 2023/11/16
+Authorized to Open
 ------------------------------------------------------------
-URL https://thehunnypot.com/145-silver-reign-dr-etobicoke-cannabis-menu/
+URL https://tcann.ca/order/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 

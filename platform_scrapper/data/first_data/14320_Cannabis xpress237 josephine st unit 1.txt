@@ -9,7 +9,7 @@ URL https://cannabis-xpress.com/wingham-store/?
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-
+['Curbside pickup', 'No-delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
