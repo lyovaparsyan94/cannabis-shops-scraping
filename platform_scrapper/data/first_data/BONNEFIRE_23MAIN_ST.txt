@@ -1,0 +1,16 @@
+Store - BONNEFIRE
+------------------------------------------------------------
+Address - 23 MAIN ST
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://bonnefire.ca/click-and-collect-brighton/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+{}
