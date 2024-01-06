@@ -1,22 +1,16 @@
-Store - NORTHERN HELM CANNABIS
+Store - Body and Spirit Cannabis
 ------------------------------------------------------------
-Address - 1338 DANFORTH AVE
+Address - 361 YONGE ST
 ------------------------------------------------------------
-Authorized to Open
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.northernhelm.com/shopdanforth
+URL https://bodyandspiritcannabis.com/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
-Delivery Zones according to the price
+Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Body and Spirit Cannabis at address 361 YONGE ST NOT Found from Dutchie ecommerse provider's server"

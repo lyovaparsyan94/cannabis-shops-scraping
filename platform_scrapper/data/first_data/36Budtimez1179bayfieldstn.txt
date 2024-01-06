@@ -1,0 +1,16 @@
+Store - Budtimez
+------------------------------------------------------------
+Address - 1179 BAYFIELD ST N
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://budtimez.ca/shop-midhurst
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Budtimez at address 1179 BAYFIELD ST N NOT Found from Dutchie ecommerse provider's server"
