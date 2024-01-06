@@ -32,7 +32,7 @@ def start():
     try:
         counter = 1
         df = load_xlsx(
-            r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\utilities\test_cannabis.xlsx', )
+            r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx')
         for index, row in df.iterrows():
             store = row.iloc[1]
             url = row.iloc[4]

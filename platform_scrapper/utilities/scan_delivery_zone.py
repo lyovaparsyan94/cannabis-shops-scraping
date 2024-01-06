@@ -55,7 +55,6 @@ class ScanDutchieDelivery:
         global_data = []
         try:
             s = time.time()
-            # radians = [(0, 90), (90, 180), (180, 270), (270, 360)]
             radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
             print(f'------------------GEVENT STARTED {store} {address}-----------------------')
             jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
@@ -63,18 +62,14 @@ class ScanDutchieDelivery:
             print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
             for job in jobs:
                 global_data.append(job.value)
-            final_data = clean_data(list_of_circle_sections=global_data, store=store,address=address)
+            final_data = clean_data(list_of_circle_sections=global_data, store=store, address=address)
             with open(f"t_{filename}.json", "w") as j:
                 json.dump(global_data, j)
             e = time.time()
-            print(f"FINAL DATA AFTER of {store} {address} GEVENT IS {final_data}")
             print(f'Done in {e - s} seconds')
-            return global_data, f"{filename}"
+            return final_data, f"{filename}"
         except Exception:
             print("Error in scanning")
-            with open(f"e_{filename}.txt", "w") as fe:
-                fe.write(final_data)
-
 
     def _scan_delivery_perimeter(self, degree, until):
         """find borders of delivery figure on map."""

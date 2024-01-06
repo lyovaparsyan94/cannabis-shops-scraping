@@ -16,17 +16,17 @@ class GeoLocator:
     def get_latitude_longtitude(self, address, store, state):
         location = None
         retry = 0
-        query = [f" {state} {address}", f"Canada {address} ", f"Canada {store} {address} ",
-                 f"{address} Canada {state} {store} ",
-                 f"{' '.join(address.split()[:3])} {store} {state} Canada"]
+        query = [f"{' '.join(address.split()[:3])} {state} Canada",
+                 f"{' '.join(address.split()[:2])} {state} Canada",
+                 f" {state} {address} Canada",
+                 f"Canada {address} ", f"Canada {store} {address} ",
+                 f"{address} Canada {state} {store}"]
         while not location and retry <= 5:
             try:
-                print("get lang long")
-                location = self.geolocator.geocode(query[0], timeout=None)
+                location = self.geolocator.geocode(query[retry], timeout=None)
                 print(f"COMAPARE address and coords - {address} vs {location.latitude} {location.longitude}")
             except Exception:
                 retry += 1
-                query = query[retry]
         return location.latitude, location.longitude
 
 

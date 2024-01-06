@@ -51,9 +51,11 @@ class Manager:
                 ln2 = str(res['location']['ln2'])
                 state_short = res['location']['state']
                 zipcode = res['location']['zipcode']
+                offer_delivery = res["offerDelivery"]
+                print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery}")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
-                         "coordinates": coordinates,
+                         "coordinates": coordinates, 'offer_delivery': offer_delivery,
                          "zipcode": zipcode,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
                 print(f"Got query for {address}, ln1 - {ln1}, ln2: {ln2}")
@@ -146,7 +148,7 @@ class Manager:
 
     def manage(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
         )
         df = df.fillna('', inplace=False)
         try:
@@ -165,53 +167,47 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if not checked and index > 172:
-                    try:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                         if store_id and len(store_id) == 24:
-                            if ended_licension.lower() not in status.lower():
-                                print(f"Trying to get query {store} {address} {index}, platform {ecom_provider}")
-                            query = self.query_maker(src_id=store_id)
-                            if query:
-                                ln1 = query.get('ln1', None)
-                                despensary_id = query.get('cName', None)
-                                if ln1 and despensary_id:
-                                    time.sleep(10)
-                                    print(
-                                        f"Store{store} address: {address} {state}, check status - {checked}, licenzion - {status}, platform {ecom_provider},  url - {url}, and store_id - {store_id}, index - {index}")
-                                    self.scan_and_save(state=state, store=store, shop_address=address, despensary_id=despensary_id, status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,index=index)
-                            else:
-                                continue
-                    except Exception as check_error:
-                        df.at[index, 'checked'] = 'error with checking' + str(check_error)
-                else:
-                    continue
+                            try:
+                                query = self.query_maker(src_id=store_id)
+                                if query:
+                                    despensary_id = query.get('cName', None)
+                                    check_status = False
+                                    if despensary_id:
+                                        time.sleep(10)
+                                        print(f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
+                                        self.scan_and_save(state=state, store=store, shop_address=address,
+                                                           despensary_id=despensary_id, status=status, url=url,
+                                                           ecom_provider=ecom_provider, service_options=service_options,
+                                                           index=index)
+                                        check_status = True
+                                    df.at[index, 'checked'] = check_status
+                                    print(f"Saved checked -  {check_status} to excel")
+                            except Exception as check_error:
+                                df.at[index, 'checked'] = 'Error'
+                                print(check_error)
+                                print('Wrote Error to  excel!!!')
+                            finally:
+                                df.to_excel(r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx', index=False)
+
         except Exception as e:
             print(e)
+        finally:
+            df.to_excel(
+                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
+                index=False)
 
-
-    def scan_and_save(self,  store, shop_address, state, despensary_id, status, url, ecom_provider, service_options,
-                      index):
-        self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state,store=store, despensary_id=despensary_id)
+    def scan_and_save(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, index):
+        self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store, despensary_id=despensary_id)
         try:
-            global_data = self.scanner.multi_scan_total_area(store=store,
-                                                             address=shop_address)
+            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
             write_report(global_data=global_data[0], store=store, address=shop_address,
-                         status=status,
-                         url=url,
-                         ecom_provider=ecom_provider, service_options=service_options,
-                         index=index)
-            print(f"Wrote {global_data[0]} file, removed json with same name and marked status to True, at index {index}")
-            copy_df.at[index, 'checked'] = 'True'
+                         status=status, url=url, ecom_provider=ecom_provider, service_options=service_options, index=index)
         except Exception as n:
             print(f"ERROR in saving {n}")
 
 
-copy_df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx")
 manager = Manager()
 # manager.start()
 manager.manage()
-# disp = manager.query_maker('5fd7995b81bf8a00d277da44').get('cName', None)
-# if disp:
-#     manager.scan_and_save(copy_df=copy_df, ecom_provider='Dutchie', store="The Peace Pipe", shop_address="31 CELINA ST", state="OSHAWA", status="Authorized to Open",
-#                           url="http://peacepipe420.com/", index=3, despensary_id=disp, service_options="['Delivery', 'In-store pickup', 'In-store shopping']")
