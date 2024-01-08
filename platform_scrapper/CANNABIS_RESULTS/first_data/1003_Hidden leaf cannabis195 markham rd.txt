@@ -1,0 +1,22 @@
+Store - Hidden Leaf Cannabis
+------------------------------------------------------------
+Address - 195 MARKHAM RD
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://thehiddenleafcannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

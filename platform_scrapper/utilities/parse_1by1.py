@@ -1,4 +1,8 @@
-# disp = manager.query_maker('623c97081ec27f0099c327ab').get('cName', None)
+from platform_scrapper.utilities.manager import Manager
+
+
+manager = Manager()
+disp = manager.query_maker('636536f141c9a200b6e1ab48').get('cName', None)
 # if disp:
 #     manager.scan_and_save(ecom_provider='Dutchie', store="Due North Cannabis",
 #                           shop_address="150 CHURCHILL BLVD UNIT C001", state="SAULT STE. MARIE",

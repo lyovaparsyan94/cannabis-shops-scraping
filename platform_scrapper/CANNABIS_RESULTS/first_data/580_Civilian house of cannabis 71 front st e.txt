@@ -1,0 +1,22 @@
+Store - Civilian House of Cannabis 
+------------------------------------------------------------
+Address - 71 FRONT ST E
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://civiliancannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

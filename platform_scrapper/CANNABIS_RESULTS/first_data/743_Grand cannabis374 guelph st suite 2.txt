@@ -1,0 +1,22 @@
+Store - Grand Cannabis
+------------------------------------------------------------
+Address - 374 GUELPH ST SUITE 2
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://grandcannabis.ca/locations/georgetown-cannabis-dispensary/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

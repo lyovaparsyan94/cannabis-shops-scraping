@@ -1,0 +1,16 @@
+Store - Canna Savanna
+------------------------------------------------------------
+Address - 1149 QUEEN ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://cannasavanna.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Canna Savanna at address 1149 QUEEN ST W NOT Found from Dutchie ecommerse provider's server"

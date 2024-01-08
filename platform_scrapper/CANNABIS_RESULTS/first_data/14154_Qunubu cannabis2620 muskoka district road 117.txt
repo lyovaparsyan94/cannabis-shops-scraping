@@ -1,0 +1,22 @@
+Store - Qunubu Cannabis
+------------------------------------------------------------
+Address - 2620 MUSKOKA DISTRICT ROAD 117
+------------------------------------------------------------
+In Progress
+------------------------------------------------------------
+URL https://qunubucannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'Same-day Delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

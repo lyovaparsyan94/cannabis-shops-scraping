@@ -1,0 +1,22 @@
+Store - HURBN CANNABIS COMPANY
+------------------------------------------------------------
+Address - 767 SILVER SEVEN RD UNIT 26
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://hurbn.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

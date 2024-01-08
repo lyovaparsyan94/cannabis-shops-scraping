@@ -1,0 +1,22 @@
+Store - Northern Helm Cannabis
+------------------------------------------------------------
+Address - 225 GORE RD UNIT 2
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://northernhelm.com/shopkingston
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

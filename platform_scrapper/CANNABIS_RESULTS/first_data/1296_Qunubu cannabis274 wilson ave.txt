@@ -1,0 +1,22 @@
+Store - QUNUBU CANNABIS
+------------------------------------------------------------
+Address - 274 WILSON AVE
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.qunubucannabis.ca/?utm_source=GMB&utm_medium=organic&utm_campaign=gmb-website
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

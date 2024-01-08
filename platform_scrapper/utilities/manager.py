@@ -1,5 +1,5 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
 import json
 import time
 import gevent
@@ -208,6 +208,6 @@ class Manager:
             print(f"ERROR in saving {n}")
 
 
-manager = Manager()
+# manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()

@@ -1,0 +1,22 @@
+Store - SHINYBUD CANNABIS CO. 2600 KEMPTVILLE
+------------------------------------------------------------
+Address - 2600 COUNTY ROAD 43 UNIT 32D
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.shinybud.com/kemptville
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

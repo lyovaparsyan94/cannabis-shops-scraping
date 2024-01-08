@@ -1,0 +1,22 @@
+Store - Shinybud Cannabis Co. Ingleside
+------------------------------------------------------------
+Address - 21 THOROLD LANE
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/ingleside/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

@@ -1,0 +1,22 @@
+Store - STOK'D CANNABIS
+------------------------------------------------------------
+Address - 2978 EGLINTON AVE E UNIT 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.stokd.ca/locations/eglinton-dispensary-scarborough-cannabis-store/?utm_source=google&utm_medium=gbp&utm_campaign=eglinton
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'No-delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+[
+  {},
+  {},
+  {},
+  {},
+  {}
+]

@@ -1,0 +1,17 @@
+Store - ARCADE CANNABIS
+------------------------------------------------------------
+Address - 6758 KINGSTON RD UNIT 1B
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://arcadecanna.com/shop-scarborough/?store_id=5177#/menu
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price
+
+{'Sorry, we found no matching products at branch menu.'}
