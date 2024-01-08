@@ -1,0 +1,19 @@
+Store - BLUEBIRD CANNABIS MARCH ROAD
+------------------------------------------------------------
+Address - 806 MARCH RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://bluebirdcannabis.store/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16135923222
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+{}

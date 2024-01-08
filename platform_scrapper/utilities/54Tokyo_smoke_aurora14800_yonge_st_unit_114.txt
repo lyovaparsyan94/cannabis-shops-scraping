@@ -1,0 +1,19 @@
+Store - Tokyo Smoke Aurora
+------------------------------------------------------------
+Address - 14800 YONGE ST UNIT 114
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://dutchie.com/stores/tokyo-smoke-aurora-yonge-st
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14378804574
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

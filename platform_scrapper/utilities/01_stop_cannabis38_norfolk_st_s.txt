@@ -1,0 +1,19 @@
+Store - 1 Stop Cannabis
+------------------------------------------------------------
+Address - 38 NORFOLK ST S
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://1stopcannabis.ca/
+------------------------------------------------------------
+Platform - Custom website  / No ecommerce provider
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15194290202
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

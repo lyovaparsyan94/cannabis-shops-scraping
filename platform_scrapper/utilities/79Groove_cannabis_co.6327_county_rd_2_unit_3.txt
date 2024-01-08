@@ -1,0 +1,19 @@
+Store - Groove Cannabis Co.
+------------------------------------------------------------
+Address - 6327 COUNTY RD 2 UNIT 3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://groovecannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16133130555
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

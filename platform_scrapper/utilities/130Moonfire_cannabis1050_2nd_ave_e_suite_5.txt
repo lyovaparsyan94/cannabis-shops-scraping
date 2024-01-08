@@ -1,0 +1,19 @@
+Store - Moonfire Cannabis
+------------------------------------------------------------
+Address - 1050 2ND AVE E SUITE 5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://moonfirecannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12266640155
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

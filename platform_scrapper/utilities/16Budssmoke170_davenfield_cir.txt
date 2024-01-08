@@ -1,0 +1,19 @@
+Store - BUDSSMOKE
+------------------------------------------------------------
+Address - 170 DAVENFIELD CIR
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://budssmoke.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping',]
+------------------------------------------------------------
+Phone
+16479552837
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

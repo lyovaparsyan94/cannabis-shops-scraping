@@ -1,0 +1,19 @@
+Store - BLUEBIRD CANNABIS CO.
+------------------------------------------------------------
+Address - 499 TERRY FOX DR UNIT 60
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://bluebirdcannabis.store/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16136722233
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+{}

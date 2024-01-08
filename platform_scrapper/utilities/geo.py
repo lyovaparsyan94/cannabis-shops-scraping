@@ -5,6 +5,7 @@ from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 from random import choice, shuffle
 
+
 class GeoLocator:
     half_km = 0.004501
 
@@ -23,12 +24,11 @@ class GeoLocator:
                  f"{address} Canada {state} {store}"]
         while not location and retry <= 5:
             try:
-                location = self.geolocator.geocode(query[retry], timeout=None)
+                location = self.geolocator.geocode(query[retry], timeout=30)
                 print(f"COMAPARE address and coords - {address} vs {location.latitude} {location.longitude}")
             except Exception:
                 retry += 1
         return location.latitude, location.longitude
-
 
     def get_city_state_zipcode_lat_long(self, address, retry=10, interval=1):
         response = None
@@ -91,7 +91,6 @@ class GeoLocator:
         new_coords = (long, lang)
         print(f"New coords after movement are {new_coords}")
         return new_coords
-
 
 # geo = GeoLocator()
 # state = "CORNWALL"

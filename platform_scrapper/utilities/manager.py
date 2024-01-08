@@ -1,5 +1,5 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import time
 import gevent
@@ -66,7 +66,6 @@ class Manager:
 
     def start(self):
         df = load_xlsx(
-            # file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\test_cannabis_previous_for_apis.xlsx"
             file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx"
         )
         copy_df = df.fillna('', inplace=False)
@@ -161,35 +160,49 @@ class Manager:
                 ecom_provider = row.iloc[5]
                 store_id = row.iloc[6]
                 service_options = row.iloc[7]
+                phone = str(int(row.iloc[8]))
                 type_of_delivery_offered = row.iloc[9]
                 delivery_qualifications = row.iloc[10]
                 min_delivery_fee = row.iloc[11]
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                        if store_id and len(store_id) == 24:
-                            try:
-                                query = self.query_maker(src_id=store_id)
-                                if query:
-                                    despensary_id = query.get('cName', None)
-                                    check_status = False
-                                    if despensary_id:
-                                        time.sleep(10)
-                                        print(f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
-                                        self.scan_and_save(state=state, store=store, shop_address=address,
-                                                           despensary_id=despensary_id, status=status, url=url,
-                                                           ecom_provider=ecom_provider, service_options=service_options,
-                                                           index=index)
-                                        check_status = True
-                                    df.at[index, 'checked'] = check_status
-                                    print(f"Saved checked -  {check_status} to excel")
-                            except Exception as check_error:
-                                df.at[index, 'checked'] = 'Error'
-                                print(check_error)
-                                print('Wrote Error to  excel!!!')
-                            finally:
-                                df.to_excel(r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx', index=False)
+                if index > 240:
+                    break
+                if index > 152 and checked not in ['True', 'true', 'ИСТИНА', 1.0]:
+                    if 'no' in type_of_delivery_offered.lower():  # if no delivery
+                        # create report that there is no delivery and continue
+                        write_report(global_data=type_of_delivery_offered, store=store, address=address,
+                                     status=status, url=url, ecom_provider=ecom_provider,
+                                     service_options=service_options, phone=phone,
+                                     index=index)
+                        df.at[index, 'checked'] = True
+                        continue
+                    if store_id and len(store_id) == 24:
+                        try:
+                            query = self.query_maker(src_id=store_id)
+                            if query:
+                                despensary_id = query.get('cName', None)
+                                check_status = False
+                                if despensary_id:
+                                    time.sleep(10)
+                                    print(
+                                        f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
+                                    self.scan_area(state=state, store=store, shop_address=address,
+                                                   despensary_id=despensary_id, status=status, url=url,
+                                                   ecom_provider=ecom_provider, service_options=service_options,phone=phone,
+                                                   index=index)
+                                    check_status = True
+                                df.at[index, 'checked'] = check_status
+                                print(f"Saved checked -  {check_status} to excel")
+                        except Exception as check_error:
+                            df.at[index, 'checked'] = 'Error'
+                            print(check_error)
+                            print('Wrote Error to  excel!!!')
+                        finally:
+                            df.to_excel(
+                                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
+                                index=False)
 
         except Exception as e:
             print(e)
@@ -198,16 +211,18 @@ class Manager:
                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                 index=False)
 
-    def scan_and_save(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, index):
-        self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store, despensary_id=despensary_id)
+    def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone, index):
+        self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
+                                           despensary_id=despensary_id)
         try:
             global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
             write_report(global_data=global_data[0], store=store, address=shop_address,
-                         status=status, url=url, ecom_provider=ecom_provider, service_options=service_options, index=index)
+                         status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,phone=phone,
+                         index=index)
         except Exception as n:
             print(f"ERROR in saving {n}")
 
 
-# manager = Manager()
+manager = Manager()
 # manager.start()
-# manager.manage()
+manager.manage()

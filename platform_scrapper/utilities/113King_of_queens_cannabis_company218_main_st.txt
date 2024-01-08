@@ -1,0 +1,19 @@
+Store - KING OF QUEENS CANNABIS COMPANY
+------------------------------------------------------------
+Address - 218 MAIN ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://kingofqueenscannabis.com/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17054821716
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

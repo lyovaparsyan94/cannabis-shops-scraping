@@ -1,0 +1,19 @@
+Store - Northern Leaf Cannabis Company
+------------------------------------------------------------
+Address - 29 ALICE STREET
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://northernleaf.ca/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15194432107
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

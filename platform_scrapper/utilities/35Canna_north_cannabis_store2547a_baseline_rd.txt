@@ -1,0 +1,19 @@
+Store - CANNA NORTH CANNABIS STORE
+------------------------------------------------------------
+Address - 2547A BASELINE RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://cannanorth.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16135964738
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"
