@@ -9,7 +9,8 @@ import requests
 # lat = ''
 # lng = ''
 hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
-src_id = '6548f8995592fc0009fbe149'
+# src_id = '6548f8995592fc0009fbe149'
+src_id = '5e6bd36d4e5087006a687a15'
 
 consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID' \
                '":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"4f415a7b945a5c58d2cf92ace12a3e24e40815' \
@@ -23,20 +24,8 @@ headers = {
 res = requests.get(url=consumer_url, headers=headers)
 # pprint.pprint(res.json()['data']['filteredDispensaries'][0]['location'])
 # resp = res.json()['data']['getAddressBasedDispensaryData']['deliveryInfo']['deliveryAreaId']
-resp = res.json()['data']['filteredDispensaries']
+resp = res.json()['data']['filteredDispensaries'][0]
 address = res.json()['data']['filteredDispensaries'][0]['address']
 delivery_hours = res.json()['data']['filteredDispensaries'][0]['deliveryHours']['Monday']['active']
-delivery_enabled = res.json()['data']['filteredDispensaries'][0]['orderTypesConfig']['delivery']['enabled']
-url_with_endpoint = res.json()['data']['filteredDispensaries'][0]['embeddedMenuUrl']
-cName = res.json()['data']['filteredDispensaries'][0]['cName']
-city = res.json()['data']['filteredDispensaries'][0]['location']['city']
-coordinates = res.json()['data']['filteredDispensaries'][0]['location']['geometry']['coordinates']
-ln1 = res.json()['data']['filteredDispensaries'][0]['location']['ln1']
-ln2 = res.json()['data']['filteredDispensaries'][0]['location']['ln2']
-state_short = res.json()['data']['filteredDispensaries'][0]['location']['state']
-zipcode = res.json()['data']['filteredDispensaries'][0]['location']['zipcode']
-# url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{dispensaryId}%22%2C%22city%22%3A%22{city}%22%2C%22state%22%3A%22{state}%22%2C%22zipcode%22%3A%22%201B9%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{hsh}%22%7D%7D"
-url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{cName}%22%2C%22city%22%3A%22{city}%22%2C%22state%22%3A%22{state_short}%22%2C%22zipcode%22%3A%22%201B9%22%2C%22lat%22%3A{coordinates[0]}%2C%22lng%22%3A{coordinates[1]}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{hsh}%22%7D%7D"
-res = requests.get(url=consumer_url, headers=headers)
-# pprint.pprint(delivery_enabled)
-print(len("-------------------------------------------------------------"))
+
+pprint.pprint(resp)

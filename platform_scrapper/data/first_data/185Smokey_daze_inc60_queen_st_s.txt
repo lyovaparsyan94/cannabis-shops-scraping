@@ -1,0 +1,19 @@
+Store - Smokey Daze Inc
+------------------------------------------------------------
+Address - 60 QUEEN ST S
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://smokeydaze.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+19054069511
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

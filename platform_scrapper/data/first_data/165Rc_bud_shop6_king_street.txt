@@ -1,0 +1,19 @@
+Store - RC BUD SHOP
+------------------------------------------------------------
+Address - 6 KING STREET
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://rcbudshop.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15197380869
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

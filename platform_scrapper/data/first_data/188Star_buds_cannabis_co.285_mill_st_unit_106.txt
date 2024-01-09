@@ -1,0 +1,19 @@
+Store - Star Buds Cannabis Co.
+------------------------------------------------------------
+Address - 285 MILL ST UNIT 106
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://starbuds.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+17054240404
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

@@ -2514,7 +2514,7 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
     return res
 
 
-def write_report(global_data, store, address, status, url, ecom_provider, service_options,phone, index):
+def write_report(global_data, store, address, status, url, ecom_provider, service_options,phone, index, special_hours):
     store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
     address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
     filename = store1 + address1
@@ -2526,7 +2526,7 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
         else:
             json.dump(global_data, file, indent=2)
     with open(f"{index}{filename}.txt", "a") as f:
-        report = f"Store - {store}{liner}Address - {address}{liner}Store Application Status - {status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Phone\n{phone}{liner}Delivery Zones according to the price:\nfirst number is the price, and in brackets are the coordinates of area according to that price \n"
+        report = f"Store - {store}{liner}Address - {address}{liner}Store Application Status - {status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Phone\n{phone}{liner}Special hours:\n{special_hours}\nDelivery Zones according to the price:\nfirst number is the price, and in brackets are the coordinates of area according to that price \n"
         f.write(report)
         with open(f'{index}glob.txt', 'r') as glob_file:
             for line in glob_file:

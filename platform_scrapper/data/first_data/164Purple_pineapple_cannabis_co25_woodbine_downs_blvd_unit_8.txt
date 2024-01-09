@@ -1,0 +1,19 @@
+Store - Purple Pineapple Cannabis Co
+------------------------------------------------------------
+Address - 25 WOODBINE DOWNS BLVD UNIT 8
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://purplepineapplecannabis.com/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14166744728
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

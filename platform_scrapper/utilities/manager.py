@@ -40,6 +40,8 @@ class Manager:
         if response.status_code == 200:
             if response.json()['data']['filteredDispensaries']:
                 res = response.json()['data']['filteredDispensaries'][0]
+                graphql_shop_id = res['id']
+                special_hours = res.get("specialHours", None)
                 address = res['address']
                 delivery_hours = res['deliveryHours']['Monday']['active']
                 delivery_enabled = res['orderTypesConfig']['delivery']['enabled']
@@ -52,11 +54,13 @@ class Manager:
                 state_short = res['location']['state']
                 zipcode = res['location']['zipcode']
                 offer_delivery = res["offerDelivery"]
+                is_open_status = res['status']
                 print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery}")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
-                         "zipcode": zipcode,
+                         "zipcode": zipcode, "is_open_status": is_open_status,
+                         "graphql_shop_id": graphql_shop_id, "special_hours": special_hours,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
                 print(f"Got query for {address}, ln1 - {ln1}, ln2: {ln2}")
                 return query
@@ -185,13 +189,22 @@ class Manager:
                                 despensary_id = query.get('cName', None)
                                 check_status = False
                                 if despensary_id:
+                                    if not query.get('delivery_enabled', None):
+                                        write_report(global_data=type_of_delivery_offered, store=store, address=address,
+                                                     status=status, url=url, ecom_provider=ecom_provider,
+                                                     service_options=service_options, phone=phone,
+                                                     index=index)
+                                        df.at[index, 'checked'] = True
+                                        continue
                                     time.sleep(10)
+                                    coordinates = query.get('coordinates')
+                                    special_hours = query.get('special_hours')
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
                                     self.scan_area(state=state, store=store, shop_address=address,
                                                    despensary_id=despensary_id, status=status, url=url,
                                                    ecom_provider=ecom_provider, service_options=service_options,phone=phone,
-                                                   index=index)
+                                                   index=index, coordinates=coordinates, special_hours=special_hours)
                                     check_status = True
                                 df.at[index, 'checked'] = check_status
                                 print(f"Saved checked -  {check_status} to excel")
@@ -211,14 +224,14 @@ class Manager:
                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                 index=False)
 
-    def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone, index):
+    def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone, index, coordinates, special_hours):
         self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
-                                           despensary_id=despensary_id)
+                                           despensary_id=despensary_id, coordinates=coordinates)
         try:
             global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,phone=phone,
-                         index=index)
+                         index=index, special_hours=special_hours)
         except Exception as n:
             print(f"ERROR in saving {n}")
 

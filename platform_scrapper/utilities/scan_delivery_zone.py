@@ -16,9 +16,10 @@ class ScanDutchieDelivery:
     # step = 2.8
     base_distantion = 0.5
 
-    def __init__(self, shop_address, despensary_id, store, state):
+    def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
+        self.__shop_address = coordinates[1], coordinates[0]
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
         self.__dispensaryId = despensary_id
 
@@ -49,8 +50,8 @@ class ScanDutchieDelivery:
 
     def multi_scan_total_area(self, store, address):
         """scan total area and sort according radius zones with fee cost"""
-        store1 = str(store).replace(' ', '')
-        address1 = str(address).replace(' ', '')
+        store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
+        address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
         filename = store1 + address1
         global_data = []
         try:

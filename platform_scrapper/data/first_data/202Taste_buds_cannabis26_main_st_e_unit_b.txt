@@ -1,0 +1,19 @@
+Store - Taste Buds Cannabis
+------------------------------------------------------------
+Address - 26 MAIN ST E UNIT B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://tbcontario.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12263382936
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

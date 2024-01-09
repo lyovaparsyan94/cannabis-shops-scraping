@@ -1,0 +1,19 @@
+Store - ShinyBud Cannabis Co. 48 Dundas Belleville
+------------------------------------------------------------
+Address - 48 DUNDAS ST W UNIT 4
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/belleville-dundas-west/?store_id=3528#/menu
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16137799700
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

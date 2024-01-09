@@ -1,0 +1,19 @@
+Store - Silverleaf Cannabis
+------------------------------------------------------------
+Address - 736A QUEENSTON RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://silverleafcannabis.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+19056618110
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"
