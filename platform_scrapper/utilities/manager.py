@@ -1,5 +1,6 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
+from pprint import pprint
 import json
 import time
 import gevent
@@ -151,7 +152,7 @@ class Manager:
 
     def manage(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\copfake_cannabis_used_IDs.xlsx"
         )
         df = df.fillna('', inplace=False)
         try:
@@ -173,9 +174,8 @@ class Manager:
                 ended_licension = "Public Notice Period: Ended"
                 if index > 240:
                     break
-                if index > 152 and checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                    if 'no' in type_of_delivery_offered.lower():  # if no delivery
-                        # create report that there is no delivery and continue
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
+                    if 'no' in type_of_delivery_offered.lower():
                         write_report(global_data=type_of_delivery_offered, store=store, address=address,
                                      status=status, url=url, ecom_provider=ecom_provider,
                                      service_options=service_options, phone=phone,
@@ -189,21 +189,22 @@ class Manager:
                                 despensary_id = query.get('cName', None)
                                 check_status = False
                                 if despensary_id:
+                                    special_hours = query.get('special_hours', '')
                                     if not query.get('delivery_enabled', None):
                                         write_report(global_data=type_of_delivery_offered, store=store, address=address,
                                                      status=status, url=url, ecom_provider=ecom_provider,
                                                      service_options=service_options, phone=phone,
-                                                     index=index)
+                                                     index=index, special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
                                     time.sleep(10)
                                     coordinates = query.get('coordinates')
-                                    special_hours = query.get('special_hours')
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
                                     self.scan_area(state=state, store=store, shop_address=address,
                                                    despensary_id=despensary_id, status=status, url=url,
-                                                   ecom_provider=ecom_provider, service_options=service_options,phone=phone,
+                                                   ecom_provider=ecom_provider, service_options=service_options,
+                                                   phone=phone,
                                                    index=index, coordinates=coordinates, special_hours=special_hours)
                                     check_status = True
                                 df.at[index, 'checked'] = check_status
@@ -224,13 +225,15 @@ class Manager:
                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                 index=False)
 
-    def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone, index, coordinates, special_hours):
+    def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone,
+                  index, coordinates, special_hours):
         self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
                                            despensary_id=despensary_id, coordinates=coordinates)
         try:
             global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
             write_report(global_data=global_data[0], store=store, address=shop_address,
-                         status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,phone=phone,
+                         status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
+                         phone=phone,
                          index=index, special_hours=special_hours)
         except Exception as n:
             print(f"ERROR in saving {n}")
