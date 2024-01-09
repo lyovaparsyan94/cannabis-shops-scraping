@@ -167,12 +167,10 @@ class Manager:
                 service_options = row.iloc[7]
                 phone = str(int(row.iloc[8]))
                 type_of_delivery_offered = row.iloc[9]
-                delivery_qualifications = row.iloc[10]
-                min_delivery_fee = row.iloc[11]
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if index > 240:
+                if index > 5:
                     break
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                     if 'no' in type_of_delivery_offered.lower():
@@ -191,7 +189,7 @@ class Manager:
                                 if despensary_id:
                                     special_hours = query.get('special_hours', '')
                                     if not query.get('delivery_enabled', None):
-                                        write_report(global_data=type_of_delivery_offered, store=store, address=address,
+                                        write_report(global_data="['No delivery']", store=store, address=address,
                                                      status=status, url=url, ecom_provider=ecom_provider,
                                                      service_options=service_options, phone=phone,
                                                      index=index, special_hours=special_hours)
