@@ -1,19 +1,19 @@
-Store - Green Grove
+Store - POPS CANNABIS CO. STURGEON FALLS
 ------------------------------------------------------------
-Address - 2 THOMPSON CRES UNIT 6 SS 1
+Address - 12006 17 HWY E SUITE 2
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://greengrove.ca/
+URL http://popscannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-15192157058
+17057071001
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for Pop's Cannabis (Sturgeon Falls) at address 1-12006 Hwy 17 NOT Found from Dutchie ecommerse provider's server

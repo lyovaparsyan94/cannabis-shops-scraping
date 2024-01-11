@@ -1,18 +1,18 @@
-Store - Moonfire Cannabis
+Store - Green Grove
 ------------------------------------------------------------
-Address - 1050 2ND AVE E SUITE 5
+Address - 2 THOMPSON CRES UNIT 6 SS 1
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://moonfirecannabis.ca/
+URL https://www.greengrove.ca/erinmenu/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-12266640155
+15192157058
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 

@@ -1,19 +1,19 @@
-Store - POPS CANNABIS CO. STURGEON FALLS
+Store - Moonfire Cannabis
 ------------------------------------------------------------
-Address - 12006 17 HWY E SUITE 2
+Address - 1050 2ND AVE E SUITE 5
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://popscannabis.ca/
+URL http://moonfirecannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping']
+['Kerbside pickup', 'No-Delivery', 'In-store pick-up', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-17057071001
+12266640155
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for Moonfire Cannabis - Owen Sound at address 1050 2nd Ave E NOT Found from Dutchie ecommerse provider's server

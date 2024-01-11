@@ -1,19 +1,19 @@
-Store - Tokyo Smoke Hanover
+Store - Cannaverse
 ------------------------------------------------------------
-Address - 937 10TH ST UNIT B1
+Address - 1190 FISCHER HALLMAN RD
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://dutchie.com/stores/tokyo-smoke-hanover-10th
+URL http://mycannaverse.ca/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Weedmaps
 ------------------------------------------------------------
 Service options
-['Delivery', 'In-store pickup', 'In-store shopping']
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-18335186596
+12264761062
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+"['No delivery']"

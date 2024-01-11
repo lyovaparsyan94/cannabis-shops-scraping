@@ -1,19 +1,19 @@
-Store - CANNACO THE CANNABIS COMPANY
+Store - BUDSSMOKE
 ------------------------------------------------------------
-Address - 28 MAIN ST S
+Address - 170 DAVENFIELD CIR
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://cannacocannabis.ca/
+URL http://budssmoke.com/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup',  'In-store pickup', 'In-store shopping',]
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping',]
 ------------------------------------------------------------
 Phone
-19057028828
+16479552837
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for BUDSSMOKE (Brampton) at address 170 Davenfield Cir NOT Found from Dutchie ecommerse provider's server

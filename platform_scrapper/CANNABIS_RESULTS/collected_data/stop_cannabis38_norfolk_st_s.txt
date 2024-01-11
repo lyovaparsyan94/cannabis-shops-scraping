@@ -1,19 +1,21 @@
-Store - BUDSSMOKE
+Store - 1 Stop Cannabis
 ------------------------------------------------------------
-Address - 170 DAVENFIELD CIR
+Address - 38 NORFOLK ST S
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://budssmoke.com/
+URL http://1stopcannabis.ca/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Custom website  / No ecommerce provider
 ------------------------------------------------------------
 Service options
-['Kerbside pickup', 'In-store pick-up', 'In-store shopping',]
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-16479552837
+15194290202
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+"['No delivery']
+"once you place your order, and you arrive at the store, head
+to the counter and one of our Budtenders will happy to help you out"

@@ -1,19 +1,19 @@
-Store - COST CANNABIS
+Store - FAMOUS FLOWER CANNABIS CO.
 ------------------------------------------------------------
-Address - 32 BARTON ST E
+Address - 1777 DUNDAS ST UNIT A2
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://costcan.ca/
+URL http://famousflower.ca/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Buddi
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-19055230606
+15192071636
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['Delivery - Time unknown']"
+"['No delivery']"
