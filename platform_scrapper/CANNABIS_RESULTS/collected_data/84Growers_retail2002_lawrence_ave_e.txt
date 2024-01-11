@@ -16,4 +16,4 @@ Phone
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for Growers Retail (2002 Lawrence Ave E) at address 2002 Lawrence Ave E NOT Found from Dutchie ecommerse provider's server

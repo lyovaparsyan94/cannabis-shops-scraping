@@ -16,4 +16,4 @@ Phone
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for Ronin Cannabis - Guelph at address 86 Gordon St NOT Found from Dutchie ecommerse provider's server
