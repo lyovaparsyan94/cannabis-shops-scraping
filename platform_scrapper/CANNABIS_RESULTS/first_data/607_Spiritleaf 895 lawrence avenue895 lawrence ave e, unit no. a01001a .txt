@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for SPIRITLEAF 895 LAWRENCE AVENUE at address 895 LAWRENCE AVE E, UNIT NO. A01001A NOT Found from Dutchie ecommerse provider's server"

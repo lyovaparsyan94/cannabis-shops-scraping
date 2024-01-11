@@ -4,7 +4,7 @@ Address - 165 MILL ST UNIT 2
 ------------------------------------------------------------
 Authorized to Open
 ------------------------------------------------------------
-URL https://upliftcannabis.ca/
+URL https://upliftcannabis.ca/order-pickup-angus/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Uplift Cannabis at address 165 MILL ST UNIT 2 NOT Found from Dutchie ecommerse provider's server"

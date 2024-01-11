@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Spiritleaf 10 Balsam Street at address 10 BALSAM ST UNIT 3 NOT Found from Dutchie ecommerse provider's server"

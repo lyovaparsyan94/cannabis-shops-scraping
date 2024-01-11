@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Shinybud Cannabis Co. 1500 Main at address 1500 MAIN ST E NOT Found from Dutchie ecommerse provider's server"

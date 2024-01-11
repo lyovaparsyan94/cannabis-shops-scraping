@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for TREES CANNABIS at address 1735 KIPLING AVE, BLDG B, UNIT 17 NOT Found from Dutchie ecommerse provider's server"

@@ -1,4 +1,4 @@
-Store - shinybud cannabis co. 420 Kanata 
+Store - Shinybud cannabis co. 420 Kanata
 ------------------------------------------------------------
 Address - 420 HAZELDEAN RD UNIT 8
 ------------------------------------------------------------
@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Shinybud cannabis co. 420 Kanata at address 420 HAZELDEAN RD UNIT 8 NOT Found from Dutchie ecommerse provider's server"

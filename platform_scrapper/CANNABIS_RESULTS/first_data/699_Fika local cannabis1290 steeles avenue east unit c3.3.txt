@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for FIKA LOCAL CANNABIS at address 1290 STEELES AVENUE EAST UNIT C3.3 NOT Found from Dutchie ecommerse provider's server"

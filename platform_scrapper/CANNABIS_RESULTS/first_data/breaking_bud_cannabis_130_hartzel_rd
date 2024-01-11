@@ -1,22 +1,16 @@
-Store - Matchbox Cannabis 605 Rogers
+Store - BREAKING BUD CANNABIS
 ------------------------------------------------------------
-Address - 605 ROGERS RD UNIT D6C
+Address - 130 HARTZEL RD
 ------------------------------------------------------------
 Authorized to Open
 ------------------------------------------------------------
-URL https://matchboxcannabis.com/rogers-road-toronto/
+URL http://breakingbudcannabis.ca/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Unknown
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
 ------------------------------------------------------------
 Delivery Zones according to the price
-first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BREAKING BUD CANNABIS at address 130 HARTZEL RD NOT Found from because of Public Notice Period: Ended 2023/08/12"

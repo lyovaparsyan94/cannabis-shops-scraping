@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+Delivery info for Shiny Bud (Hawkesbury 299) at address 299 Main St E NOT Found from Dutchie ecommerse provider's server

@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for KUSH KORNER CANNABIS at address 2807 LAKE SHORE BLVD W NOT Found from Dutchie ecommerse provider's server"

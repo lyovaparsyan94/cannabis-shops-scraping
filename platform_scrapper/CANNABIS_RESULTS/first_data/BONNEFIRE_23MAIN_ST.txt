@@ -13,4 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+"Delivery info for BONNEFIRE at address 23 MAIN ST NOT Found from Dutchie ecommerse provider's server"

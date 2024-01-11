@@ -13,10 +13,4 @@ website not avialable
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Island Smoke at address 220 DUNDAS ST E NOT Found from Dutchie ecommerse provider's server"

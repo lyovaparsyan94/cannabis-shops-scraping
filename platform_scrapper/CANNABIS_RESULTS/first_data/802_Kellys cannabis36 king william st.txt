@@ -4,19 +4,13 @@ Address - 36 KING WILLIAM ST
 ------------------------------------------------------------
 Authorized to Open
 ------------------------------------------------------------
-URL https://kellyscannabis.ca/
+URL https://kellyscannabis.ca/shop/#/menu
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Buddi
 ------------------------------------------------------------
 Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Kelly's Cannabis at address 36 KING WILLIAM ST NOT Found from Buddi ecommerse provider's server"

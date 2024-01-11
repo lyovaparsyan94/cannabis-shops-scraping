@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Toke House at address 105 MAIN ST HWY 17 UNIT 1 NOT Found from Dutchie ecommerse provider's server"

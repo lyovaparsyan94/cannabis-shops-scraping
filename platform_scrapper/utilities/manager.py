@@ -43,7 +43,9 @@ class Manager:
                 res = response.json()['data']['filteredDispensaries'][0]
                 graphql_shop_id = res['id']
                 special_hours = res.get("specialHours", None)
+                name = res['name']
                 address = res['address']
+                print(address)
                 delivery_hours = res['deliveryHours']['Monday']['active']
                 delivery_enabled = res['orderTypesConfig']['delivery']['enabled']
                 url_with_endpoint = res['embeddedMenuUrl']
@@ -57,13 +59,14 @@ class Manager:
                 offer_delivery = res["offerDelivery"]
                 is_open_status = res['status']
                 print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery}")
+                if not offer_delivery:
+                    print(f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
                          "zipcode": zipcode, "is_open_status": is_open_status,
                          "graphql_shop_id": graphql_shop_id, "special_hours": special_hours,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
-                print(f"Got query for {address}, ln1 - {ln1}, ln2: {ln2}")
                 return query
             else:
                 return None
@@ -152,7 +155,7 @@ class Manager:
 
     def manage(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\copfake_cannabis_used_IDs.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\parse_by_one.xlsx"
         )
         df = df.fillna('', inplace=False)
         try:
@@ -170,8 +173,6 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if index > 5:
-                    break
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                     if 'no' in type_of_delivery_offered.lower():
                         write_report(global_data=type_of_delivery_offered, store=store, address=address,
@@ -220,7 +221,7 @@ class Manager:
             print(e)
         finally:
             df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
+                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\parse_by_one.xlsx',
                 index=False)
 
     def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone,
@@ -239,4 +240,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()

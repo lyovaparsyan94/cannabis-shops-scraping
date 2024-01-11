@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+Delivery info for Sessions Cannabis (Windsor) at address 650 Division Rd NOT Found from Dutchie ecommerse provider's server

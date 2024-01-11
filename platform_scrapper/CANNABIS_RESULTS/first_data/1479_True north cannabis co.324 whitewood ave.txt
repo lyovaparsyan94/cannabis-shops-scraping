@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+Delivery info for True North Cannabis - New Liskeard at address 324 Whitewood Ave W NOT Found from Dutchie ecommerse provider's server

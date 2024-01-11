@@ -13,4 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for Bud's Cannabis Store at address 23721 HIGHWAY 48 SUITE 7 NOT Found from Dutchie/Buddi ecommerse provider's server"

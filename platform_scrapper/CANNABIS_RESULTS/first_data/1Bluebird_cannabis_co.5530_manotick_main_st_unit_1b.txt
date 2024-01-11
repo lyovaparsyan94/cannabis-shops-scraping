@@ -1,0 +1,57 @@
+Store - BLUEBIRD CANNABIS CO.
+------------------------------------------------------------
+Address - 5530 MANOTICK MAIN ST UNIT 1B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://bluebirdcannabis.store/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+13436980810
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"['No delivery']"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 04-15 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+MAY 2/4 WEEKEND at 05-24 - active - True, hours per day: from - 11:00 AM, to - 4:30 PM
+CANADA DAY at 07-01 - hours per day - None
+CIVIC HOLIDAY at 08-02 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+HOLIDAY HOURS at 09-06 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+Thanksgiving Monday at 10-11 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+remembrance day  at 11-11 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+Christmas eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New years Day at 01-01 - hours per day - None
+Snow day! at 01-17 - hours per day - None
+FAMILY DAY at 02-21 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+MAY LONG WEEKEND at 05-23 - hours per day - None
+CIVIC HOLIDAY at 08-01 - hours per day - None
+LABOUR DAY at 09-05 - hours per day - None
+THANKSGIVING MONDAY at 10-10 - hours per day - None
+REMEMBRANCE DAY at 11-11 - hours per day - None
+Staff x-mas party at 12-11 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+STORM NIGHT at 12-23 - hours per day - None
+FAMILY DAY at 02-20 - hours per day - None
+GOOD FRIDAY at 04-07 - hours per day - None
+EASTER SUNDAY at 04-09 - hours per day - None
+VICTORIA DAY at 05-22 - hours per day - None
+Civic holiday at 08-07 - hours per day - None
+labour day at 09-04 - hours per day - None
+THANKSGIVING at 10-08 - hours per day - None
+XMAS EVE at 12-24 - hours per day - None
+XMAS DAY at 12-25 - hours per day - None
+NEW YEARS EVE at 12-31 - hours per day - None
+NEW YEARS DAY at 01-01 - hours per day - None
+------------------------------------------------------------
+

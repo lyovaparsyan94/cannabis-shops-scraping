@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for HIGH-WAY GRASS BAR at address 230 OAKLAND RD RR 1 NOT Found from Dutchie ecommerse provider's server"

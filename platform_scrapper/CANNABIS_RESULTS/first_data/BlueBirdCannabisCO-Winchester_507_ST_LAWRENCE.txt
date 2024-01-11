@@ -13,4 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+"Delivery info for BlueBird Cannabis Co - Winchester at address 507 ST LAWRENCE ST LOWER LEVEL NOT Found from Dutchie ecommerse provider's server"

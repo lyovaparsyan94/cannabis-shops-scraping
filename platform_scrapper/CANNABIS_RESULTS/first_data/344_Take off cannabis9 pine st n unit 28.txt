@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for TAKE OFF CANNABIS at address 9 PINE ST N UNIT 28 NOT Found from Dutchie ecommerse provider's server"

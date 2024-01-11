@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for BEST BUDS FOREVER at address 191 HURONTARIO ST SUITE 1 NOT Found from Dutchie ecommerse provider's server"

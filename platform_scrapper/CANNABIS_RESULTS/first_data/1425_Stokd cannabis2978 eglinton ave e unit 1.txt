@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+Delivery info for Stok'd Cannabis (Eglinton East) at address 2978 Eglinton Ave E NOT Found from Dutchie ecommerse provider's server

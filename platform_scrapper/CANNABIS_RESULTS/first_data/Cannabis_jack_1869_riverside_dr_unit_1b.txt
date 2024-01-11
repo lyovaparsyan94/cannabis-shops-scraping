@@ -1,22 +1,16 @@
-Store - The Treehouse Cannabis Company
+Store - Cannabis Jacks
 ------------------------------------------------------------
-Address - 1845 MAIN ST W
+Address - 1869 RIVERSIDE DR UNIT 1B
 ------------------------------------------------------------
 Authorized to Open
 ------------------------------------------------------------
-URL https://thetreehousecannabisco.com/
+URL https://www.cannabisjacks.ca/order-timmins
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Cannabis Jacks at address 1869 RIVERSIDE DR UNIT 1B NOT Found from Dutchie ecommerse provider's server"

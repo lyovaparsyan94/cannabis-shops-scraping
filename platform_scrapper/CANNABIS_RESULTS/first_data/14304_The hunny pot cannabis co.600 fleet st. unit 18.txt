@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for The The Hunny Pot Cannabis Co at address 600 FLEET ST. UNIT 18 NOT Found from Dutchie ecommerse provider's server"

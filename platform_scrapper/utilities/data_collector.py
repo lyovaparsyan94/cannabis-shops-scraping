@@ -33,7 +33,6 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
     filename = str(store) + str(address)
     with open(f"gd_{filename}.json", 'w') as file:
         json.dump(res, file)
-    pprint.pprint(res)
     return res
 
 
@@ -78,5 +77,3 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
         f"Wrote {global_data} to {index}{filename}.txt,\n removed json with same name and marked status to True, at index {index}")
 
 # clean_data(x)
-# clean_data(null, "null31 CELINA ST", "The Peace Pipe")
-# write_report({}, 'ispace', 'erevan 13', 'open', 'blabla.com', 'Dutchie', 'custom service options', 13)

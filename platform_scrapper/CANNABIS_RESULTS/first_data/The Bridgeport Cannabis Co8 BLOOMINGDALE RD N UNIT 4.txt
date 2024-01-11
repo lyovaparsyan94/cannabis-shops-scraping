@@ -12,5 +12,5 @@ Service options
 ['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
 ------------------------------------------------------------
 Delivery Zones according to the price
-first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Bridgeport Cannabis Co. at address 8 BLOOMINGDALE RD N UNIT 4 NOT Found from Buddi ecommerse provider's server"

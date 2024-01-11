@@ -16,4 +16,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+"Delivery info for BUD'S CANNABIS STORE at address 300 MAIN ST E NOT Found from Dutchie/Buddi ecommerse provider's server"

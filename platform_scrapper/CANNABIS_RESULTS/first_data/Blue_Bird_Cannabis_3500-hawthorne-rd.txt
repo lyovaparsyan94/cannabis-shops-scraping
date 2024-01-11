@@ -1,4 +1,4 @@
-Store - BlueBird Cannabis Co - Winchester
+Store - BlueBird Cannabis Express
 ------------------------------------------------------------
 Address - 3500 HAWTHORNE RD UNIT C
 ------------------------------------------------------------
@@ -13,4 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-{}
+"Delivery info for BlueBird Cannabis Express at address 3500 HAWTHORNE RD UNIT C NOT Found from Dutchie ecommerse provider's server"

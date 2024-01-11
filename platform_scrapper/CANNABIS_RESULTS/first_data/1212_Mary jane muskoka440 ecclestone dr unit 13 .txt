@@ -13,10 +13,4 @@ Service options
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Mary Jane Muskoka at address 440 ECCLESTONE DR UNIT 13  NOT Found from Dutchie ecommerse provider's server"

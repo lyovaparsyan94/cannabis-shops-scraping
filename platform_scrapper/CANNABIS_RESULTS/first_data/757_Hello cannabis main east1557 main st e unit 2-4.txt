@@ -14,10 +14,4 @@ no currently available information about delivery
 ------------------------------------------------------------
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price 
-[
-  {},
-  {},
-  {},
-  {},
-  {}
-]
+"Delivery info for Hello Cannabis Main East at address 1557 MAIN ST E UNIT 2-4 NOT Found from Dutchie ecommerse provider's server"
