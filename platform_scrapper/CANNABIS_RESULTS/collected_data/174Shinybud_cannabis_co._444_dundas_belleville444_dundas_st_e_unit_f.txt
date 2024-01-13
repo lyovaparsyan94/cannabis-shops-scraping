@@ -1,18 +1,18 @@
-Store - Mary J's Cannabis Greely
+Store - SHINYBUD CANNABIS CO. 444 DUNDAS BELLEVILLE
 ------------------------------------------------------------
-Address - 6045 BANK ST. UNITS 302 & 303
+Address - 444 DUNDAS ST E UNIT F
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://maryjcannabis.ca/
+URL https://www.shinybud.com/belleville-dundas-east/?store_id=3347#/menu
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Buddi
 ------------------------------------------------------------
 Service options
 ['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-16138210095
+16137796262
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 

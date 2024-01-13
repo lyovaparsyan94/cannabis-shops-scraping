@@ -1,10 +1,10 @@
-Store - SHINYBUD CANNABIS CO. 444 DUNDAS BELLEVILLE
+Store - ShinyBud Cannabis Co. 83 Aberfoyle
 ------------------------------------------------------------
-Address - 444 DUNDAS ST E UNIT F
+Address - 83 ABERFOYLE RD UNIT 3
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.shinybud.com/belleville-dundas-east/?store_id=3347#/menu
+URL https://www.shinybud.com/kingston/?store_id=6276#/menu
 ------------------------------------------------------------
 Platform - Buddi
 ------------------------------------------------------------
@@ -12,7 +12,7 @@ Service options
 ['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-16137796262
+16137671083
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
