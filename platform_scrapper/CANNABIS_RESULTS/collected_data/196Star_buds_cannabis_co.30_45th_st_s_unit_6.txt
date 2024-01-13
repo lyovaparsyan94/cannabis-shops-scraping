@@ -16,4 +16,5 @@ Phone
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price 
-"['No delivery']"
+Delivery info for Star Buds (Wasaga Beach) at address 30 45th St S NOT Found from Dutchie ecommerse provider's server
+

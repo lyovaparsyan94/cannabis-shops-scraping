@@ -58,7 +58,7 @@ class Manager:
                 zipcode = res['location']['zipcode']
                 offer_delivery = res["offerDelivery"]
                 is_open_status = res['status']
-                print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery}")
+                print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
                     print(f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
@@ -155,7 +155,7 @@ class Manager:
 
     def manage(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\parse_by_one.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
         )
         df = df.fillna('', inplace=False)
         try:
@@ -174,13 +174,13 @@ class Manager:
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                    if 'no' in type_of_delivery_offered.lower():
-                        write_report(global_data=type_of_delivery_offered, store=store, address=address,
-                                     status=status, url=url, ecom_provider=ecom_provider,
-                                     service_options=service_options, phone=phone,
-                                     index=index)
-                        df.at[index, 'checked'] = True
-                        continue
+                    # if 'no' in type_of_delivery_offered.lower():
+                    #     write_report(global_data=type_of_delivery_offered, store=store, address=address,
+                    #                  status=status, url=url, ecom_provider=ecom_provider,
+                    #                  service_options=service_options, phone=phone,
+                    #                  index=index)
+                    #     df.at[index, 'checked'] = True
+                    #     continue
                     if store_id and len(store_id) == 24:
                         try:
                             query = self.query_maker(src_id=store_id)
@@ -221,7 +221,7 @@ class Manager:
             print(e)
         finally:
             df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\parse_by_one.xlsx',
+                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                 index=False)
 
     def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone,
@@ -240,4 +240,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()

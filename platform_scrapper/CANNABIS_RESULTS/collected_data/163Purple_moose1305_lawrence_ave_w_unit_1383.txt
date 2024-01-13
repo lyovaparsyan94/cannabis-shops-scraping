@@ -4,9 +4,9 @@ Address - 1305 LAWRENCE AVE W UNIT 1383
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://purplemoosecannabis.com/
+URL https://shop.purplemoosecannabis.com/menu/lawrence/
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Tymber
 ------------------------------------------------------------
 Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping']
