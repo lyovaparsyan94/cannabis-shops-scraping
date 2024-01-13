@@ -1,0 +1,47 @@
+Store - CANNACO THE CANNABIS COMPANY
+------------------------------------------------------------
+Address - 39 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://cannacocannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16133929888
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNACO THE CANNABIS COMPANY at address 39 DUNDAS ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening (delay) at 06-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-06 - active - True, hours per day: from - 10:30 AM, to - 6:15 PM
+Thanksgiving at 10-11 - active - False, hours per day: from - 10:30 AM, to - 6:15 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 5:45 PM
+Christmas at 12-25 - active - False, hours per day: from - 10:00 AM, to - 8:30 PM
+New Years Day at 01-01 - active - False, hours per day: from - 10:00 AM, to - 8:30 PM
+Family Day! at 02-21 - active - True, hours per day: from - 10:00 AM, to - 7:30 PM
+Good Friday at 04-15 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+420 at 04-19 - hours per day - None
+Victoria Day! at 05-23 - hours per day - None
+Pre Canada Day at 06-30 - hours per day - None
+Canada Day! at 07-01 - hours per day - None
+Monday at 07-04 - hours per day - None
+Labour Day <3 at 09-05 - hours per day - None
+Thanksgiving! at 10-10 - hours per day - None
+Holiday Hours <3 at 12-24 - hours per day - None
+New Years! at 12-31 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+May 24! at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------

@@ -168,7 +168,7 @@ class Manager:
                 ecom_provider = row.iloc[5]
                 store_id = row.iloc[6]
                 service_options = row.iloc[7]
-                phone = str(int(row.iloc[8]))
+                phone = str(row.iloc[8])
                 type_of_delivery_offered = row.iloc[9]
                 zones = row.iloc[12]
                 checked = row.iloc[13]
@@ -190,7 +190,7 @@ class Manager:
                                 if despensary_id:
                                     special_hours = query.get('special_hours', '')
                                     if not query.get('delivery_enabled', None):
-                                        write_report(global_data="['No delivery']", store=store, address=address,
+                                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server", store=store, address=address,
                                                      status=status, url=url, ecom_provider=ecom_provider,
                                                      service_options=service_options, phone=phone,
                                                      index=index, special_hours=special_hours)
@@ -240,4 +240,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-# manager.manage()
+manager.manage()

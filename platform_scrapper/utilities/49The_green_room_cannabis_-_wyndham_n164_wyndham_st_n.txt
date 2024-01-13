@@ -1,0 +1,24 @@
+Store - THE GREEN ROOM CANNABIS - WYNDHAM N
+------------------------------------------------------------
+Address - 164 WYNDHAM ST N
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://thegreenroomcannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15192650090
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for THE GREEN ROOM CANNABIS - WYNDHAM N at address 164 WYNDHAM ST N NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Early Close at 03-24 - hours per day - None
+------------------------------------------------------------

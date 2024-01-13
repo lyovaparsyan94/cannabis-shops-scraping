@@ -1,0 +1,43 @@
+Store - CANNACO - THE CANNABIS COMPANY
+------------------------------------------------------------
+Address - 42 VICTORIA ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://cannacocannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17054356888
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNACO - THE CANNABIS COMPANY at address 42 VICTORIA ST E NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas  at 12-25 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day! at 02-21 - active - True, hours per day: from - 11:00 AM, to - 7:45 PM
+Easter Sunday at 04-17 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+420 at 04-19 - hours per day - None
+Victoria Day! at 05-23 - hours per day - None
+Pre Canada Day at 06-30 - hours per day - None
+Canada Day! at 07-01 - hours per day - None
+Labour Day <3 at 09-05 - hours per day - None
+Thanksgiving! at 10-10 - hours per day - None
+Holiday Hours <3 at 12-24 - hours per day - None
+New Years! at 12-31 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+May 24! at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------

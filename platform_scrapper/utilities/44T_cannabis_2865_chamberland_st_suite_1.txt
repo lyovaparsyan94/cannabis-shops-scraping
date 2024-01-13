@@ -1,0 +1,136 @@
+Store - T CANNABIS 
+------------------------------------------------------------
+Address - 2865 CHAMBERLAND ST SUITE 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://tcann.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16134465416
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "5.0": [
+    [
+      [
+        45.5699018932266,
+        -75.23219803034222
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.565678302705,
+        -75.19467241267873
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.54625151881001,
+        -75.15213057147292
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.51838751574732,
+        -75.1552947058475
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.46343496107786,
+        -75.08884721889201
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.44913944024476,
+        -75.15980182124778
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.43001329507682,
+        -75.19003160357308
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.38190145210655,
+        -75.2177122019008
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.40465133183806,
+        -75.2839810252816
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.434912488438655,
+        -75.3281048958181
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.442848607711596,
+        -75.36620545955321
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.454037454443686,
+        -75.39377334077487
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.43362596466624,
+        -75.49215632732142
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.471469245541606,
+        -75.52521244428792
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Easter at 04-02 - active - False, hours per day: from - open, to - open
+4/15/2021 at 04-15 - active - True, hours per day: from - open, to - open
+MAY 24 - WEEKEND SPECIAL at 05-24 - active - True, hours per day: from - open, to - open
+Labour Day Hours at 09-06 - active - True, hours per day: from - open, to - open
+Thanksgiving at 10-11 - active - True, hours per day: from - open, to - open
+Christmas Hours at 12-25 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Holiday at 04-15 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day Hours at 09-05 - hours per day - None
+Temp at 10-10 - hours per day - None
+Temporary at 04-06 - hours per day - None
+------------------------------------------------------------

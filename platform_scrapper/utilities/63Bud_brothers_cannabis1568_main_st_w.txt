@@ -1,0 +1,26 @@
+Store - BUD BROTHERS CANNABIS
+------------------------------------------------------------
+Address - 1568 MAIN ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://budbrotherscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12897685659
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 07-28 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+VIP Event at 07-29 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Opening Day at 07-30 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

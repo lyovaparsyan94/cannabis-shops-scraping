@@ -1,0 +1,217 @@
+Store - Northern Helm
+------------------------------------------------------------
+Address - 1414 KING ST E., UNIT 32
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.northernhelm.com/shopcourtice?&utm_source=google&utm_medium=click&utm_campaign=Courtice+GMB
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12892228889
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "5.0": [
+    [
+      [
+        43.93209509447941,
+        -78.8124084
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.93126696557479,
+        -78.80370681909942
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.9288390387775,
+        -78.79559870737701
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.92497683966384,
+        -78.78863696375673
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.91994366136024,
+        -78.78329614538545
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.915302466382734,
+        -78.78043945601304
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.90906491168118,
+        -78.77884274415581
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.90274092941707,
+        -78.77953357392218
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.896761473769594,
+        -78.78246438559805
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.88129509598963,
+        -78.77171514880273
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.88813509074988,
+        -78.79265669217408
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.88510857444196,
+        -78.8003663622218
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.89526392700148,
+        -78.81058696772416
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.88379393256059,
+        -78.81766490022268
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.89628412739555,
+        -78.81949597185775
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.897601067090335,
+        -78.82265100052483
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.89250127607888,
+        -78.8385246256009
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.89790967565165,
+        -78.84311028555959
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.90399179949163,
+        -78.84560436201866
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.91033321203026,
+        -78.84583647981934
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.915302466382734,
+        -78.84437734398695
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.929360103734695,
+        -78.85835633077441
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.93722192291731,
+        -78.84907092610321
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.929446163258966,
+        -78.82767138840384
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.94652958102149,
+        -78.82380129612602
+      ],
+      "min order - 30.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving Monday Hours at 10-11 - active - True, hours per day: from - 11:00 AM, to - 6:00 PM
+Christmas Holiday Hours at 12-24 - active - True, hours per day: from - open, to - open
+Easter at 04-15 - active - True, hours per day: from - open, to - open
+Easter Hours at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+ Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Closed New Year's Day at 01-01 - hours per day - None
+Family Day Monday at 02-20 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day Hours at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+------------------------------------------------------------

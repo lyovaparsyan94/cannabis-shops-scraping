@@ -1,0 +1,40 @@
+Store - STAR BUDS CANNABIS CO. 
+------------------------------------------------------------
+Address - 22 BARRIE ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://starbuds.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19055517827
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for STAR BUDS CANNABIS CO.  at address 22 BARRIE ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+STAT at 08-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+"Closed Early"  at 12-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Pre-Launch at 01-12 - active - False, hours per day: from - 9:45 AM, to - 7:15 PM
+Pre-Lockdown at 01-13 - active - True, hours per day: from - 9:45 AM, to - 7:15 PM
+Civic Holiday at 08-02 - active - True, hours per day: from - 9:45 AM, to - 7:00 PM
+Staff Appreciation at 12-12 - active - True, hours per day: from - 9:45 AM, to - 7:00 PM
+Snow day at 12-05 - active - True, hours per day: from - 9:45 AM, to - 7:00 PM
+Christmas Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - hours per day - None
+Rogers Outage at 07-08 - hours per day - None
+Internet outage at 10-19 - hours per day - None
+Staff Christmas Party at 12-18 - hours per day - None
+Weather at 12-23 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Staff Appreciation Party at 11-08 - hours per day - None
+------------------------------------------------------------

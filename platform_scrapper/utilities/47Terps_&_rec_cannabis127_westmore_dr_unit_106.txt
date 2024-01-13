@@ -1,0 +1,25 @@
+Store - Terps & Rec Cannabis
+------------------------------------------------------------
+Address - 127 WESTMORE DR UNIT 106
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://terpsrec.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14166013734
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening; Temporary Hours at 11-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-23 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,24 @@
+Store - BUDSSMOKE
+------------------------------------------------------------
+Address - 10425 HWY 124 UNIT B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://budssmoke.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17053840899
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 5/13 at 05-12 - hours per day - None
+------------------------------------------------------------

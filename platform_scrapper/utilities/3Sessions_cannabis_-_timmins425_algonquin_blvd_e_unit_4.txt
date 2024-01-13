@@ -1,0 +1,32 @@
+Store - Sessions Cannabis - Timmins
+------------------------------------------------------------
+Address - 425 ALGONQUIN BLVD E UNIT 4
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/timmins-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17055312882
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+GOOD FRIDAY at 04-15 - hours per day - None
+family day  at 02-20 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+New years Eve at 12-31 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Staff Party at 12-09 - hours per day - None
+Christmas at 12-25 - hours per day - None
+New Years at 01-01 - hours per day - None
+early close delivery at 12-10 - hours per day - None
+------------------------------------------------------------

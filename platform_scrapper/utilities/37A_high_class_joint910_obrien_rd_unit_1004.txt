@@ -1,0 +1,131 @@
+Store - A High Class Joint
+------------------------------------------------------------
+Address - 910 O'BRIEN RD UNIT 1004
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://ahighclassjoint.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+13433610910
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "10.0": [
+    [
+      [
+        45.481640027208385,
+        -76.54174072907612
+      ]
+    ],
+    [
+      [
+        45.425910025150806,
+        -76.31284299762254
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.338913202670575,
+        -76.43839191172326
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.33982312970934,
+        -76.51480956223863
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.37745097633171,
+        -76.60220820951466
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.30828818402922,
+        -76.6314695391467
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.33982312970934,
+        -76.79857723776136
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.34714944362414,
+        -76.88500148285274
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.37672107423705,
+        -76.9776787768967
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.45077680986405,
+        -76.89537449507974
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.50321617056391,
+        -77.00656621767453
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.567426314565324,
+        -77.05113853504776
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        45.63612949706998,
+        -77.0047615713266
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 03-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-25 - hours per day - None
+Holiday hours at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Hours at 04-15 - hours per day - None
+Thanksgiving hours at 10-10 - hours per day - None
+Holiday Party at 12-17 - hours per day - None
+New Years at 01-01 - hours per day - None
+Freezing rain at 02-09 - hours per day - None
+Easter Hours at 04-07 - hours per day - None
+Easter Hours at 04-09 - hours per day - None
+May Long Weekend at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+August Long Weekend at 08-07 - hours per day - None
+Labour Day weekend at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------
