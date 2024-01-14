@@ -1,0 +1,220 @@
+Store - BUDDERS
+------------------------------------------------------------
+Address - 372 QUEEN ST E UNIT A4
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://budderscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15198531444
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.72443883726332,
+        -79.48743759999999
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.72244496831942,
+        -79.46656716613465
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.75868720258296,
+        -79.41359963723505
+      ],
+      "min order - 110.0"
+    ],
+    [
+      [
+        43.741662285420084,
+        -79.38303232211615
+      ],
+      "min order - 110.0"
+    ],
+    [
+      [
+        43.70642989353082,
+        -79.39076172233922
+      ],
+      "min order - 110.0"
+    ],
+    [
+      [
+        43.690957917140516,
+        -79.38128594742385
+      ],
+      "min order - 99.0"
+    ],
+    [
+      [
+        43.67016478575595,
+        -79.37599922604389
+      ],
+      "min order - 99.0"
+    ],
+    [
+      [
+        43.649084129002915,
+        -79.3783077674366
+      ],
+      "min order - 99.0"
+    ],
+    [
+      [
+        43.63937114392425,
+        -79.41565068622043
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.63943528784673,
+        -79.44690799645946
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.63389627351523,
+        -79.45538289230069
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.62896411505222,
+        -79.46789513414828
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.626551144866546,
+        -79.48173761719133
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.60815327084327,
+        -79.50003722756529
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.540951898087826,
+        -79.56399856420201
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.49844389537951,
+        -79.6547925116914
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.535632401766385,
+        -79.70878404697132
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.58170008322407,
+        -79.74774491882759
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.639293132419255,
+        -79.71882624303703
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.67204482398146,
+        -79.56759147091772
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.690957917140516,
+        -79.59358925257614
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.6977943837291,
+        -79.55504846859638
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.70940918681056,
+        -79.54138715803387
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.71806107723506,
+        -79.52404445506541
+      ],
+      "min order - 29.94"
+    ],
+    [
+      [
+        43.7231601304161,
+        -79.5042031325654
+      ],
+      "min order - 29.94"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Labour Day Holiday at 09-07 - active - True, hours per day: from - 12:00 AM, to - 3:00 PM
+Canada Day Hours at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas at 12-25 - hours per day - None
+January 1 at 12-31 - hours per day - None
+jan 1 new years  at 01-01 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Easter Monday at 04-10 - hours per day - None
+Canada Day Long Weekend at 07-02 - hours per day - None
+Canada Day Long Weekend at 07-03 - hours per day - None
+Long Weekend at 08-07 - hours per day - None
+Labour Day Holiday at 09-04 - hours per day - None
+Thanksgiving Holiday at 10-09 - hours per day - None
+Sp at 11-12 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+January 2nd at 01-02 - hours per day - None
+------------------------------------------------------------

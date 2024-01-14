@@ -1,0 +1,216 @@
+Store - Soma Leaf Company
+------------------------------------------------------------
+Address - 99 KING ST E UNIT C
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.somaleaf.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17054670067
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        44.64024093695273,
+        -80.4468136
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.615750083211246,
+        -80.42562600650629
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.60990532051078,
+        -80.40588485247604
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.600607920991344,
+        -80.38893732246379
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.579045182792164,
+        -80.39884134757465
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.57148249340077,
+        -80.39413557734426
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.56131867763534,
+        -80.39150677597839
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.55101414237527,
+        -80.39264729377263
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.482007274663516,
+        -80.23501268223075
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        44.467708817442706,
+        -80.30476520286602
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        44.47260740915007,
+        -80.3588507404462
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.4592716074519,
+        -80.39319052517139
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.452747375019314,
+        -80.43117388985053
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.453478951393556,
+        -80.47021973803895
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.485258796275815,
+        -80.49285380907986
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.51192533715656,
+        -80.49487827477645
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.522434725260695,
+        -80.51036984712704
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.5262986824846,
+        -80.5502652043206
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.542481249536195,
+        -80.59472626751406
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.57042711875274,
+        -80.59579150368185
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.59232682174972,
+        -80.58931185976938
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.61756244506994,
+        -80.57250484195336
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.68562877095214,
+        -80.60618863113747
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.611366850558184,
+        -80.48397670173225
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.638470620026894,
+        -80.47038511353135
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day Hours at 07-01 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Weekend Hours at 10-11 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Remembrance Day Hours at 11-11 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
+Christmas Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - active - False, hours per day: from - 6:00 PM, to - 8:00 PM
+Family Day at 02-21 - hours per day - None
+Thanksgiving Monday Hours at 10-10 - hours per day - None
+Family Day  at 02-20 - hours per day - None
+Thanksgiving CLOSED at 10-09 - hours per day - None
+Christmas Eve - Early closing at 12-24 - hours per day - None
+Christmas Day CLOSED at 12-25 - hours per day - None
+New Years Day CLOSED at 01-01 - hours per day - None
+Easter Monday CLOSED at 04-01 - hours per day - None
+Staff Party at 11-28 - hours per day - None
+Snow Day at 01-09 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,213 @@
+Store - Welcome Cannabis 
+------------------------------------------------------------
+Address - 1401 PLAINS RD E UNIT 5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://welcomecannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+19056395560
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.39560171524101,
+        -79.819519
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.39360773633606,
+        -79.79876167142632
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.387761771705996,
+        -79.77942130503607
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.365098259135614,
+        -79.78114129702396
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.36634381900469,
+        -79.750082878782
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.3551691410974,
+        -79.74327392048713
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.33916478462661,
+        -79.7653340099888
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.32885802984937,
+        -79.76645114140638
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.319112862406634,
+        -79.77118383249423
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.32083316623723,
+        -79.79478070167377
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.31743393302352,
+        -79.79995316547668
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.31440710541127,
+        -79.80759027553147
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.31292627897519,
+        -79.81603969782388
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.31309232795283,
+        -79.82472603909916
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.30091482149744,
+        -79.8415793282835
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.28976077491582,
+        -79.86660976925023
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.30027249491423,
+        -79.88178715614461
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.31329355596744,
+        -79.89272572191332
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.3279368881947,
+        -79.89867890899731
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.341231856906724,
+        -79.87348229412113
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.349330767962066,
+        -79.87112826868282
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.35866311823786,
+        -79.86503412556824
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.366525706141005,
+        -79.85583612360091
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.37238252467062,
+        -79.8441609055607
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.3758342666538,
+        -79.83080453973582
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Aug 3 Civic Holiday at 08-03 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Labour Day at 09-07 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Holiday Hours at 12-24 - active - True, hours per day: from - 9:00 AM, to - 5:30 PM
+Family Day at 02-15 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Canada Day  at 07-01 - active - True, hours per day: from - 9:00 AM, to - 7:30 PM
+Easter Friday at 04-15 - hours per day - None
+Monday May 23rd  at 05-23 - hours per day - None
+Civic Holiday at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+------------------------------------------------------------
