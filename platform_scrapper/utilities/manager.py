@@ -67,9 +67,6 @@ class Manager:
                          "zipcode": zipcode, "is_open_status": is_open_status,
                          "graphql_shop_id": graphql_shop_id, "special_hours": special_hours,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
-                for i in special_hours:
-                    print(i)
-                pprint(special_hours)
                 return query
             else:
                 return None
@@ -177,14 +174,14 @@ class Manager:
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                    if 'no' in type_of_delivery_offered.lower():
-                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
-                                     store=store, address=address,
-                                     status=status, url=url, ecom_provider=ecom_provider,
-                                     service_options=service_options, phone=phone,
-                                     index=index)
-                        df.at[index, 'checked'] = True
-                        continue
+                    # if 'no' in type_of_delivery_offered.lower():
+                    #     write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
+                    #                  store=store, address=address,
+                    #                  status=status, url=url, ecom_provider=ecom_provider,
+                    #                  service_options=service_options, phone=phone,
+                    #                  index=index)
+                    #     df.at[index, 'checked'] = True
+                    #     continue
                     if store_id and len(store_id) == 24:
                         try:
                             query = self.query_maker(src_id=store_id)
@@ -244,4 +241,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-# manager.manage()
+manager.manage()

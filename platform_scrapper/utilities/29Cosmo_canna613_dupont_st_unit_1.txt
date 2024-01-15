@@ -1,0 +1,25 @@
+Store - COSMO CANNA
+------------------------------------------------------------
+Address - 613 DUPONT ST UNIT 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cosmocanna.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14165320084.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+New Year's Day at 01-01 - hours per day - None
+NY Eve at 12-31 - hours per day - None
+------------------------------------------------------------

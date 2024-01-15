@@ -1,0 +1,25 @@
+Store - BUDGET BUD ORLEANS TOWN CENTER
+------------------------------------------------------------
+Address - 250 CENTRUM BLVD UNIT 105A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.budget-bud.com/orleans
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16138303335.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BUDGET BUD ORLEANS TOWN CENTER at address 250 CENTRUM BLVD UNIT 105A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Easter and Easter Monday hours at 04-17 - hours per day - None
+Setup at 12-09 - hours per day - None
+------------------------------------------------------------
