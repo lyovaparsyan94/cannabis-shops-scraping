@@ -1,0 +1,30 @@
+Store - TAKE OFF CANNABIS
+------------------------------------------------------------
+Address - 9 PINE ST N UNIT 28
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.takeoffcannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19052278288.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 04-12 - active - False, hours per day: from - 9:00 AM, to - 8:30 PM
+Holiday Hours at 12-24 - active - True, hours per day: from - 9:00 AM, to - 9:30 PM
+New Years Hours at 12-31 - active - True, hours per day: from - 9:00 AM, to - 9:30 PM
+Thanksgiving Day at 10-10 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+NEW YEARS EVE at 12-31 - hours per day - None
+NEW YEARS DAY at 01-01 - hours per day - None
+------------------------------------------------------------

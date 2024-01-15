@@ -1,0 +1,48 @@
+Store - Sessions Cannabis Cambridge
+------------------------------------------------------------
+Address - 101 HOLIDAY INN DR UNIT B1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/cambridge-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15192200201.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - hours per day - None
+Victoria Day at 05-24 - active - True, hours per day: from - 11:00 AM, to - 4:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Hours at 10-11 - active - False, hours per day: from - 11:00 AM, to - 4:00 PM
+EASTER at 04-15 - hours per day - None
+Civic Holiday at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Easter Weekend at 04-07 - hours per day - None
+4/20 at 04-20 - hours per day - None
+Labour Day Hours at 09-04 - hours per day - None
+No available driver today :( at 09-26 - hours per day - None
+Thanksgiving Day at 10-09 - hours per day - None
+Temp. Delivery Hours at 10-21 - hours per day - None
+Delivery today 1-8 at 10-28 - hours per day - None
+Closed today. All our drivers are sick.. sorry for the inconvenience. at 12-02 - hours per day - None
+Kind Festival Staff Shortage at 12-06 - hours per day - None
+Christmas eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+No drivers at 12-09 - hours per day - None
+Staff Christmas Party at 01-07 - hours per day - None
+Closed due to winter storm. at 01-12 - hours per day - None
+------------------------------------------------------------
