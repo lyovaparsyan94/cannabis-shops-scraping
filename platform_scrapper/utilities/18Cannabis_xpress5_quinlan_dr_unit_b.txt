@@ -1,23 +1,24 @@
-Store - BUD'S CANNABIS STORE
+Store - CANNABIS XPRESS
 ------------------------------------------------------------
-Address - 370 STONE RD W UNIT 4B
+Address - 5 QUINLAN DR UNIT B
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.budscannabisstore.ca/
+URL http://www.cannabis-xpress.com/
 ------------------------------------------------------------
-Platform - Dutchie/Buddi
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-15198212837
+12896343414
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for BUD'S CANNABIS STORE at address 370 STONE RD W UNIT 4B NOT Found from Dutchie/Buddi ecommerse provider's server"
+"Delivery info for CANNABIS XPRESS at address 5 QUINLAN DR UNIT B NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+07/28 at 07-28 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
 ------------------------------------------------------------

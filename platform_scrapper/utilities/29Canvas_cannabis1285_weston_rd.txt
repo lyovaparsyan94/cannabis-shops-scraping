@@ -1,23 +1,26 @@
-Store - Bud Bank
+Store - Canvas Cannabis
 ------------------------------------------------------------
-Address - 445 RICHMOND ST
+Address - 1285 WESTON RD
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.budbank.shop/
+URL http://www.canvascannabis.ca/
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping']
+['Delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-18774420420
+14165513065
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Bud Bank at address 445 RICHMOND ST NOT Found from Unknown ecommerse provider's server"
+"Delivery info for Canvas Cannabis at address 1285 WESTON RD NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Pre-Opening Day at 05-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-06 - active - True, hours per day: from - 11:00 AM, to - 7:00 PM
+HOLIDAY at 12-24 - hours per day - None
 ------------------------------------------------------------

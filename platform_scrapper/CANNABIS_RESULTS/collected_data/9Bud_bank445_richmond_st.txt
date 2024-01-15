@@ -1,22 +1,22 @@
-Store - BODEGA BOYZ
+Store - Bud Bank
 ------------------------------------------------------------
-Address - 68-78 MAIN ST N UNIT 2 & 3
+Address - 445 RICHMOND ST
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.bodegaboyz.ca/
+URL http://www.budbank.shop/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Unknown
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-19057028797
+18774420420
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for BODEGA BOYZ at address 68-78 MAIN ST N UNIT 2 & 3 NOT Found from Dutchie ecommerse provider's server"
+"Delivery info for Bud Bank at address 445 RICHMOND ST NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

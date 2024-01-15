@@ -1,10 +1,10 @@
-Store - Cannabis Jack's
+Store - Coconut Cannabis
 ------------------------------------------------------------
-Address - 518 GREAT NORTHERN RD UNIT 1
+Address - 50 FRONT ST N
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.cannabisjacks.ca/
+URL http://www.coconutcannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
@@ -12,12 +12,13 @@ Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-17052565225
+19056808403
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Cannabis Jack's at address 518 GREAT NORTHERN RD UNIT 1 NOT Found from Dutchie ecommerse provider's server"
+"Delivery info for Coconut Cannabis at address 50 FRONT ST N NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Launch Day Hours at 04-22 - hours per day - None
 ------------------------------------------------------------
