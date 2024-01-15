@@ -67,6 +67,9 @@ class Manager:
                          "zipcode": zipcode, "is_open_status": is_open_status,
                          "graphql_shop_id": graphql_shop_id, "special_hours": special_hours,
                          "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
+                for i in special_hours:
+                    print(i)
+                pprint(special_hours)
                 return query
             else:
                 return None
@@ -241,4 +244,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()

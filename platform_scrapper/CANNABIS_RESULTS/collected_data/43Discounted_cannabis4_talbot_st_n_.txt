@@ -1,22 +1,22 @@
-Store - Cannabis Hut 
+Store - DISCOUNTED CANNABIS
 ------------------------------------------------------------
-Address - 699 COXWELL AVE UNIT G01 & G02
+Address - 4 TALBOT ST N
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.cannabishut.ca/
+URL http://www.discountedcannabis.ca/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Buddi
 ------------------------------------------------------------
 Service options
-['Delivery', 'In-store pickup', 'In-store shopping']
+['In-store shopping']
 ------------------------------------------------------------
 Phone
-16473688582
+15197765335
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Cannabis Hut  at address 699 COXWELL AVE UNIT G01 & G02 NOT Found from Dutchie ecommerse provider's server"
+"Delivery info for DISCOUNTED CANNABIS at address 4 TALBOT ST N  NOT Found from Buddi ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

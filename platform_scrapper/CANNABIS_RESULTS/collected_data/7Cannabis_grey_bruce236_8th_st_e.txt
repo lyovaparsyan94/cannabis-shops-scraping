@@ -1,23 +1,24 @@
-Store - Discounted Cannabis
+Store - Cannabis Grey Bruce
 ------------------------------------------------------------
-Address - 282 ERIE ST S UNIT A
+Address - 236 8TH ST E
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.discountedcannabis.ca/
+URL http://www.cannabisgreybruce.ca/
 ------------------------------------------------------------
-Platform - Buddi
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-15193251313
+12266640681
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Discounted Cannabis at address 282 ERIE ST S UNIT A NOT Found from Buddi ecommerse provider's server"
+"Delivery info for Cannabis Grey Bruce at address 236 8TH ST E NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
 ------------------------------------------------------------
+
