@@ -1,0 +1,23 @@
+Store - Dab Cannabis
+------------------------------------------------------------
+Address - 3481 FALCONBRIDGE HWY UNIT 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.dabcannabisstore.com/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+17056934420
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Dab Cannabis at address 3481 FALCONBRIDGE HWY UNIT 1 NOT Found from Unknown ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

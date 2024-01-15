@@ -1,0 +1,23 @@
+Store - BUD'S CANNABIS STORE
+------------------------------------------------------------
+Address - 370 STONE RD W UNIT 4B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.budscannabisstore.ca/
+------------------------------------------------------------
+Platform - Dutchie/Buddi
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15198212837
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BUD'S CANNABIS STORE at address 370 STONE RD W UNIT 4B NOT Found from Dutchie/Buddi ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

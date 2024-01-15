@@ -1,0 +1,23 @@
+Store - Canada Buds
+------------------------------------------------------------
+Address - 1860 APPLEBY LINE UNIT 11B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.canada-buds.ca/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+19053192934
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canada Buds at address 1860 APPLEBY LINE UNIT 11B NOT Found from Unknown ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - Bud Bank
+------------------------------------------------------------
+Address - 445 RICHMOND ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.budbank.shop/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+18774420420
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Bud Bank at address 445 RICHMOND ST NOT Found from Unknown ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

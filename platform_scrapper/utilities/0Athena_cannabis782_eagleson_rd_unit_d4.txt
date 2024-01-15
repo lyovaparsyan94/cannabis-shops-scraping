@@ -1,0 +1,23 @@
+Store - Athena Cannabis
+------------------------------------------------------------
+Address - 782 EAGLESON RD UNIT D4
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.athenacannabis.ca/
+------------------------------------------------------------
+Platform - Techpos
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16135951420
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Athena Cannabis at address 782 EAGLESON RD UNIT D4 NOT Found from Techpos ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

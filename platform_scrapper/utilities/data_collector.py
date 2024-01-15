@@ -32,7 +32,7 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
 
     filename = str(store) + str(address)
     with open(f"gd_{filename}.json", 'w') as file:
-        json.dump(res, file)
+        json.dump(file, res)
     return res
 
 

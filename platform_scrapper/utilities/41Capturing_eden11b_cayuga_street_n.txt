@@ -1,0 +1,23 @@
+Store - Capturing Eden
+------------------------------------------------------------
+Address - 11B CAYUGA STREET N
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.capturingeden.com/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12895160070
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Capturing Eden at address 11B CAYUGA STREET N NOT Found from Unknown ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - CANNABIS XPRESS
+------------------------------------------------------------
+Address - 39 MAIN ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cannabis-xpress.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16472432664
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNABIS XPRESS at address 39 MAIN ST E NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

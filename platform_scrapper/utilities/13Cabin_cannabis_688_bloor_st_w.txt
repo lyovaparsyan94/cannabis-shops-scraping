@@ -1,0 +1,23 @@
+Store - CABIN CANNABIS 
+------------------------------------------------------------
+Address - 688 BLOOR ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cabincannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14165380688
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CABIN CANNABIS  at address 688 BLOOR ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------
