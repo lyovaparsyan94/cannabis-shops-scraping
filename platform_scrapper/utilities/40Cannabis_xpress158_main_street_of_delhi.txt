@@ -1,0 +1,25 @@
+Store - CANNABIS XPRESS
+------------------------------------------------------------
+Address - 158 MAIN STREET OF DELHI
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cannabis-xpress.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16472432124.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNABIS XPRESS at address 158 MAIN STREET OF DELHI NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 2/22 at 02-20 - hours per day - None
+Grand Opening 2/23 at 02-22 - hours per day - None
+------------------------------------------------------------

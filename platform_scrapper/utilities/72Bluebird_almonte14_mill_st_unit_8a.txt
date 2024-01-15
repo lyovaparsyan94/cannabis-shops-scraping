@@ -1,0 +1,57 @@
+Store - Bluebird Almonte
+------------------------------------------------------------
+Address - 14 MILL ST UNIT 8A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://bluebirdcannabis.store/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16134610091.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+06/10 at 06-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+CANADA DAY at 07-01 - active - True, hours per day: from - 11:00 AM, to - 3:00 PM
+Civic holiday at 08-02 - active - True, hours per day: from - 11:00 AM, to - 3:00 PM
+HOLIDAY HOURS at 09-06 - active - True, hours per day: from - 11:00 AM, to - 3:00 PM
+remembrance day  at 11-11 - active - True, hours per day: from - 11:00 AM, to - 5:00 PM
+Christmas Hours at 12-24 - hours per day - None
+Christmas Hours at 12-25 - hours per day - None
+New Year's Hours at 12-31 - hours per day - None
+Snow storm - Due to weather conditions we will not be doing delivery today at 01-17 - hours per day - None
+Judy at 01-20 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+Easter Monday at 04-18 - hours per day - None
+Victoria Day!!! at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Hours at 10-10 - hours per day - None
+No deliveries on this day at 10-29 - hours per day - None
+No deliveries today at 10-22 - hours per day - None
+Winter Storm at 12-23 - hours per day - None
+Winter storm at 01-12 - hours per day - None
+Winter storm at 01-26 - hours per day - None
+Winter Storm at 04-05 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+No Deliveries to\day at 06-08 - hours per day - None
+Canada Day Weekend at 07-01 - hours per day - None
+No deliveries at 07-04 - hours per day - None
+No deliveries today at 08-10 - hours per day - None
+No deliveries today at 08-29 - hours per day - None
+No deliveries today at 09-20 - hours per day - None
+Thanksgiving Monday at 10-09 - hours per day - None
+No deliveries today at 10-30 - hours per day - None
+No deliveries today at 12-01 - hours per day - None
+Christmas hours at 12-27 - hours per day - None
+Deliveries cancelled today due to weather at 01-09 - hours per day - None
+------------------------------------------------------------

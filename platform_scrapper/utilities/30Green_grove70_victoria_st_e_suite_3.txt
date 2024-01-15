@@ -1,0 +1,37 @@
+Store - Green Grove
+------------------------------------------------------------
+Address - 70 VICTORIA ST E SUITE 3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://greengrove.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+17052500187.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Family Day at 02-15 - active - False, hours per day: from - 12:00 PM, to - 5:00 PM
+Good Friday at 04-02 - active - False, hours per day: from - 12:00 PM, to - 5:00 PM
+Easter at 04-04 - active - True, hours per day: from - 12:00 PM, to - 3:00 PM
+Victoria Day at 05-24 - active - False, hours per day: from - 12:00 PM, to - 5:00 PM
+holiday at 04-17 - hours per day - None
+thanksgiving at 10-10 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Xmas at 12-24 - hours per day - None
+Xmas at 12-25 - hours per day - None
+Ny at 01-01 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,27 @@
+Store - T CANNABIS NW
+------------------------------------------------------------
+Address - 152 MISSION RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://tcann.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17058567777.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Hours at 12-25 - hours per day - None
+Family Day Hours at 02-20 - hours per day - None
+Temp at 04-07 - hours per day - None
+TG at 10-09 - hours per day - None
+------------------------------------------------------------

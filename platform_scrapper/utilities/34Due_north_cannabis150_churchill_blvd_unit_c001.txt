@@ -1,0 +1,48 @@
+Store - Due North Cannabis
+------------------------------------------------------------
+Address - 150 CHURCHILL BLVD UNIT C001
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://duenorthcannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17059981935.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - False, hours per day: from - 11:30 AM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-06 - active - False, hours per day: from - 9:00 AM, to - 6:00 PM
+Thanksgiving at 10-11 - active - False, hours per day: from - 9:00 AM, to - 6:30 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Jan. 27 2022 at 01-27 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Delivery Closed Due To Weather at 01-19 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------
