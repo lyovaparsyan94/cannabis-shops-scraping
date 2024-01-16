@@ -1,0 +1,28 @@
+Store - The We Store
+------------------------------------------------------------
+Address - 1303 ESSEX COUNTY ROAD #22, UNIT 180
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thewestore.com/shop/?dtche%5Bpath%5D=checkout
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'Delivery']
+------------------------------------------------------------
+Phone
+
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Holiday Hours at 12-24 - hours per day - None
+NEW YEARS DAY DELIVERY  at 01-01 - hours per day - None
+New years Day at 01-01 - hours per day - None
+December 25th Christmas Day at 12-25 - hours per day - None
+January 1st, New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

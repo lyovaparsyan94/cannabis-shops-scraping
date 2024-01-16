@@ -1,6 +1,5 @@
 import os
 import json
-import pprint
 
 
 def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
