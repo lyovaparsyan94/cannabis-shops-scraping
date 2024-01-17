@@ -1,0 +1,23 @@
+Store - Fratelli and Co.
+------------------------------------------------------------
+Address - 173004 COUNTY RD 25
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.fratelliandco.com.au/
+------------------------------------------------------------
+Platform - Tymber
+------------------------------------------------------------
+Service options
+['Delivery', 'Takeaway', 'Dine-in']
+------------------------------------------------------------
+Phone
+61287650199
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Fratelli and Co. at address 173004 COUNTY RD 25 NOT Found from Tymber ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

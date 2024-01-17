@@ -12,7 +12,7 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 0.4
+    step = 0.2
     # step = 2.8
     base_distantion = 0.5
 

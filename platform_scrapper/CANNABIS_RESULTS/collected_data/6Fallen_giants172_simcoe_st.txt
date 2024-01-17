@@ -1,0 +1,24 @@
+Store - Fallen Giants
+------------------------------------------------------------
+Address - 172 SIMCOE ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.fallengiants.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17058742804
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Fallen Giants at address 172 SIMCOE ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Staff Retreat at 09-10 - hours per day - None
+------------------------------------------------------------

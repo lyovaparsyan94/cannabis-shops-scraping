@@ -1,0 +1,23 @@
+Store - GREEN LINE CANNABIS
+------------------------------------------------------------
+Address - 3300 LAWRENCE AVE E SUITE 4
+------------------------------------------------------------
+Store Application Status - In Progress
+------------------------------------------------------------
+URL http://www.greenlinecannabis.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14164300655
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for GREEN LINE CANNABIS at address 3300 LAWRENCE AVE E SUITE 4 NOT Found from Buddi ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

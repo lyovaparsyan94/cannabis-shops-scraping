@@ -1,0 +1,461 @@
+Store - Grassroots Co
+------------------------------------------------------------
+Address - 1113 LASALLE BLVD UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.grassrootsco.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12498044727
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "5.0": [
+    [
+      [
+        46.56140300847794,
+        -80.95385872547467
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.57830136116084,
+        -80.9319199419644
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.66905415190077,
+        -80.83051276342651
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.563164208115474,
+        -80.89393117093012
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.56229351023234,
+        -80.85223593107328
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.539883618164126,
+        -80.8732776672964
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.52487392336134,
+        -80.86926132857373
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.51358751854646,
+        -80.89777473688544
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.495268715185276,
+        -80.87840381289357
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.48269045542702,
+        -80.89093446508043
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.45631588219155,
+        -80.88496618870988
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.48486741934533,
+        -80.9333179895658
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.415354900846204,
+        -80.9376664350181
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.49783105440145,
+        -80.95936158962351
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.48566029465953,
+        -80.97717205014509
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.489797016436675,
+        -80.98755104096026
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.49690872937896,
+        -80.99840909654249
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.50571811553219,
+        -81.00623374392511
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.515625016345396,
+        -81.01049111749063
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.52595440719153,
+        -81.01088991999711
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.534048823445666,
+        -81.0084026142339
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.54337604005119,
+        -81.00196250324768
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.55123434077241,
+        -80.99224174493375
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.573919571694915,
+        -80.99233928985473
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.579016181168136,
+        -80.97148249291867
+      ],
+      "min order - 1.0"
+    ]
+  ],
+  "20.0": [
+    [
+      [
+        46.602783800426614,
+        -80.95385872547467
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        46.60002427023973,
+        -80.92347523871472
+      ]
+    ],
+    [
+      [
+        46.53027208945949,
+        -81.07051859701852
+      ]
+    ],
+    [
+      [
+        46.574327680752354,
+        -81.18824413512205
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        46.56590817002289,
+        -81.05227552175545
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        46.60136704216049,
+        -81.0577202489294
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        46.67330301310762,
+        -81.0658595041349
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        46.65556830784044,
+        -80.9951029204548
+      ],
+      "min order - 0"
+    ]
+  ],
+  "16.0": [
+    [
+      [
+        46.6402318063071,
+        -80.85468807623457
+      ]
+    ],
+    [
+      [
+        46.575332795231276,
+        -80.81947323747251
+      ]
+    ],
+    [
+      [
+        46.527405440251215,
+        -80.7989764598567
+      ]
+    ]
+  ],
+  "8.0": [
+    [
+      [
+        46.526046319848106,
+        -80.83672247350417
+      ]
+    ],
+    [
+      [
+        46.499546266919815,
+        -80.8021986211846
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.485054824012124,
+        -80.84939350761084
+      ]
+    ],
+    [
+      [
+        46.45017913734039,
+        -80.83869658742643
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.43520767888726,
+        -80.86278668904069
+      ]
+    ],
+    [
+      [
+        46.44130064791046,
+        -80.94160928232714
+      ]
+    ],
+    [
+      [
+        46.44785498783338,
+        -81.00152666497797
+      ]
+    ],
+    [
+      [
+        46.45631588219155,
+        -81.02275126223947
+      ]
+    ],
+    [
+      [
+        46.470861731146194,
+        -81.04496023729051
+      ]
+    ],
+    [
+      [
+        46.48888018183256,
+        -81.06097100997712
+      ]
+    ],
+    [
+      [
+        46.539883618164126,
+        -81.03443978365294
+      ]
+    ]
+  ],
+  "7.0": [
+    [
+      [
+        46.474512291710276,
+        -80.90409383370823
+      ]
+    ],
+    [
+      [
+        46.46723018752655,
+        -80.92351997576148
+      ]
+    ],
+    [
+      [
+        46.463667568294674,
+        -80.94500990179836
+      ]
+    ],
+    [
+      [
+        46.46406705313457,
+        -80.96710169513116
+      ],
+      "min order - 1.0"
+    ],
+    [
+      [
+        46.46840143711978,
+        -80.9882927341598
+      ]
+    ],
+    [
+      [
+        46.474512291710276,
+        -81.00362361724112
+      ]
+    ],
+    [
+      [
+        46.48501792708879,
+        -81.01966369949537
+      ]
+    ],
+    [
+      [
+        46.49803152103996,
+        -81.03122477376137
+      ]
+    ],
+    [
+      [
+        46.512666548508335,
+        -81.03751765856383
+      ]
+    ],
+    [
+      [
+        46.52792585885969,
+        -81.03811107018953
+      ]
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving at 10-11 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Superbowl at 02-13 - active - True, hours per day: from - 12:00 PM, to - 3:00 PM
+Construction at 03-07 - active - True, hours per day: from - 10:30 AM, to - 6:00 PM
+Easter Weekend at 04-16 - hours per day - None
+Delivery at 05-06 - hours per day - None
+Victoria Day  at 05-23 - hours per day - None
+Sunday at 05-08 - hours per day - None
+Friday at 05-13 - hours per day - None
+CANADA DAY at 07-01 - hours per day - None
+SATURDAY at 06-04 - hours per day - None
+saturday at 06-11 - hours per day - None
+saturday at 06-18 - hours per day - None
+Sunday at 06-19 - hours per day - None
+Wednesday at 06-22 - hours per day - None
+saturday at 06-25 - hours per day - None
+Sunday at 07-03 - hours per day - None
+Weekend at 07-08 - hours per day - None
+Monday at 07-11 - hours per day - None
+Tuesday at 07-12 - hours per day - None
+sunday at 07-17 - hours per day - None
+Saturday at 07-30 - hours per day - None
+Saturday at 08-06 - hours per day - None
+Weekend at 08-20 - hours per day - None
+Thursday at 08-18 - hours per day - None
+Friday at 08-19 - hours per day - None
+Tuesday at 08-23 - hours per day - None
+Wednesday at 08-24 - hours per day - None
+Thursday at 08-25 - hours per day - None
+Friday at 08-26 - hours per day - None
+weekend at 08-27 - hours per day - None
+Monday at 08-29 - hours per day - None
+Friday at 09-02 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Tuesday at 09-06 - hours per day - None
+Wednesday at 09-07 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Friday at 09-30 - hours per day - None
+Tuesday at 10-18 - hours per day - None
+Wednesday at 10-19 - hours per day - None
+Friday-Saturday at 10-21 - hours per day - None
+Staff Party at 12-18 - hours per day - None
+New Years Day 2023 at 01-01 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Sunday November 5th at 11-05 - hours per day - None
+Weekend Delivery Jan 6 Jan 7 at 01-06 - hours per day - None
+------------------------------------------------------------

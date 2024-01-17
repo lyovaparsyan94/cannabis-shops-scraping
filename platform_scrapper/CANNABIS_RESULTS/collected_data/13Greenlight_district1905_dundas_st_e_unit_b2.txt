@@ -1,0 +1,23 @@
+Store - Greenlight District
+------------------------------------------------------------
+Address - 1905 DUNDAS ST E UNIT B2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.greenlightdistrict.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+12266631888
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Greenlight District at address 1905 DUNDAS ST E UNIT B2 NOT Found from Buddi ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

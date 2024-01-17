@@ -1,0 +1,30 @@
+Store - FIKA LOCAL CANNABIS
+------------------------------------------------------------
+Address - 91 FIRST COMMERCE DR UNIT 13
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12897968961
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA LOCAL CANNABIS at address 91 FIRST COMMERCE DR UNIT 13 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening at 02-04 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Monday at 10-10 - hours per day - None
+Dec 24 at 12-24 - hours per day - None
+NYE at 12-31 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,29 @@
+Store - Havok Smoke Cannabis & Accessories
+------------------------------------------------------------
+Address - 650 SHEPPARD AVE W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.havoksmoke.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16473409333
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Havok Smoke Cannabis & Accessories at address 650 SHEPPARD AVE W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Victoria Day at 05-18 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas 2020 & New Years 2021 at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Called in Sick at 01-08 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Last day of lock down at 03-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day Monday, 2023 at 09-04 - hours per day - None
+------------------------------------------------------------

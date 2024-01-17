@@ -1,0 +1,30 @@
+Store - HAPPY LIFE
+------------------------------------------------------------
+Address - 3702 HIGHWAY 144 UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.happylifepotshop.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14049487866
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for HAPPY LIFE at address 3702 HIGHWAY 144 UNIT 2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day Hours at 07-01 - hours per day - None
+December 11th Hours at 12-11 - hours per day - None
+New Year's hours at 12-31 - hours per day - None
+Cover Shift at 10-01 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------
