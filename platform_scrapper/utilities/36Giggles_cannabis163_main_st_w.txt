@@ -1,0 +1,32 @@
+Store - Giggles Cannabis
+------------------------------------------------------------
+Address - 163 MAIN ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.gigglescannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12893893803
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christms Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day at 12-25 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+New Years Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - True, hours per day: from - 10:00 AM, to - 6:30 PM
+Christmas Eve Hours at 12-24 - hours per day - None
+New Years Eve Hours at 12-31 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+------------------------------------------------------------

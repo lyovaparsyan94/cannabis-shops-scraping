@@ -29,9 +29,9 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
                 for km in final_data[price][degree]:
                     res[price].append(final_data[price][degree][km])
 
-    filename = str(store) + str(address)
-    with open(f"gd_{filename}.json", 'w') as file:
-        json.dump(res, file)
+    # filename = str(store) + str(address)
+    # with open(f"gd_{filename}.json", 'w') as file:
+    #     json.dump(res, file)
     return res
 
 
@@ -73,6 +73,6 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
             f.write(f"{liner}")
     os.remove(f'{index}glob.txt')
     print(
-        f"Wrote {global_data} to {index}{filename}.txt,\n removed json with same name and marked status to True, at index {index}")
+        f"Wrote {global_data} \nto {index}{filename}.txt,\n removed json with same name and marked status to True, at index {index}")
 
 # clean_data(x)

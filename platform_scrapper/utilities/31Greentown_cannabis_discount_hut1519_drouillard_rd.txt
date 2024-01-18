@@ -1,0 +1,28 @@
+Store - Greentown Cannabis Discount Hut
+------------------------------------------------------------
+Address - 1519 DROUILLARD RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://greentowndiscount.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12267042190
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+opening at 03-05 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day  at 12-25 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

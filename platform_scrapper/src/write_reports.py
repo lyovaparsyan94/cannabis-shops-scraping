@@ -32,9 +32,10 @@ def clean_data(list_of_circle_sections, store="aaa", address='bb'):
                     res[price].append(final_data[price][degree][km])
 
     filename = str(store) + str(address)
-    with open(f"gd_{filename}.json", 'w') as file:
-        json.dump(res, file)
-    print('res is: ', res)
+    if len(res) > 0:
+        with open(f"gd_{filename}.json", 'w') as file:
+            json.dump(res, file, indent=2)
+        print('res is: ', res)
     return res
 
 
@@ -62,3 +63,4 @@ x = ...
 
 clean_data(x)
 # clean_data(null, "null31 CELINA ST", "The Peace Pipe")
+

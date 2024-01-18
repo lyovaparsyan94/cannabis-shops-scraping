@@ -1,0 +1,27 @@
+Store - URBNBUD
+------------------------------------------------------------
+Address - 1614 LESPERANCE RD BUILDING F3 UNIT D
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.urbnbud.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15199567667
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas at 12-25 - active - True, hours per day: from - 9:00 AM, to - 10:00 PM
+christmas hours at 12-13 - hours per day - None
+Christmas Hours at 12-25 - hours per day - None
+Christmas Party at 12-11 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,38 @@
+Store - CanaCulture Cannabis Store
+------------------------------------------------------------
+Address - 914 EGLINTON AVE W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://canaculture.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14167858325
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 02-08 - active - False, hours per day: from - 10:30 AM, to - 8:00 PM
+good friday at 04-02 - active - True, hours per day: from - 10:30 AM, to - 7:00 PM
+LONG WEEKEND at 08-02 - active - True, hours per day: from - 10:30 AM, to - 10:45 AM
+Thanks Giving Hours at 10-11 - active - True, hours per day: from - 10:30 AM, to - 6:45 PM
+Holiday Hours at 12-25 - active - False, hours per day: from - 1:00 PM, to - 8:00 PM
+Holiday Hours at 12-24 - active - True, hours per day: from - 10:30 AM, to - 2:15 PM
+Holiday Hours at 12-26 - active - True, hours per day: from - 11:00 AM, to - 8:00 PM
+New Years Eve Hours at 12-31 - active - True, hours per day: from - 10:45 AM, to - 9:00 PM
+New Years Day Hours at 01-01 - active - True, hours per day: from - 10:45 AM, to - 9:00 PM
+Bad weather conditions at 01-17 - hours per day - None
+Bad road conditions  at 01-18 - hours per day - None
+Chritmas at 12-25 - hours per day - None
+New Year’s Hours at 12-31 - hours per day - None
+Christmas eve at 12-24 - hours per day - None
+Christmas day at 12-25 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,51 @@
+Store - Sessions Cannabis Retail
+------------------------------------------------------------
+Address - 200 FITCH ST UNIT 12A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/welland-niagara-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+19057880641
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Sessions Cannabis Retail at address 200 FITCH ST UNIT 12A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+New Years Day at 01-01 - hours per day - None
+Good Friday at 04-02 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+Easter Monday at 04-05 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+Victoria Day at 05-24 - active - False, hours per day: from - 10:00 AM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Civic at 08-02 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - active - True, hours per day: from - 4:00 PM, to - 7:00 PM
+Boxing Day at 12-26 - active - True, hours per day: from - 4:00 PM, to - 7:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 4:00 PM, to - 7:00 PM
+Closed Due to Weather at 01-17 - active - True, hours per day: from - 4:00 PM, to - 7:00 PM
+Good Friday at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Civic Day at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Temporarily Closed due to weather at 12-23 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Sales Training Presentation at 08-14 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+Holiday Hours at 12-26 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+Holiday Hours at 01-01 - hours per day - None
+------------------------------------------------------------

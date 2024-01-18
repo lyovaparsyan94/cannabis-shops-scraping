@@ -68,7 +68,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Accept": "*/*",
     "Content-Type": "application/json",
-    "Cookie": "_ga_1QQ3EPGGJ3=GS1.1.1702054947.1.1.1702055577.60.0.0; _ga_4TSZ0LK22W=GS1.1.1702150075.2.0.1702150153.60.0.0; _ga_7F3HGF7PL4=GS1.1.1702480932.1.1.1702481847.60.0.0; _ga_5CCKH1MX6Y=GS1.1.1702649940.1.0.1702649960.40.0.0; __cflb=04dToaXWHAPESU8RyBQBc8Yta2dmM5ditb4HAvghcb; _gid=GA1.2.1671156998.1702927830; _gat_UA-101536475-5=1; _ga=GA1.2.2137883691.1702927830; _ga_FZN7LD29Z4=GS1.1.1702927831.1.1.1702927840.0.0.0; _gat=1"
 }
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"

@@ -1,0 +1,37 @@
+Store - HIGHLIFE ANCASTER
+------------------------------------------------------------
+Address - 1142 WILSON ST W UNIT 9
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.highlife.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12894438880
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas/Boxing Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+May 24 at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Monday Inventory at 09-27 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

@@ -12,7 +12,7 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 0.2
+    step = 0.4
     # step = 2.8
     base_distantion = 0.5
 
@@ -44,6 +44,9 @@ class ScanDutchieDelivery:
             if minimum_varies:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
+            if within_bounds and fee is None:
+                fee = 0
+                print(f'within_bounds and fee is None so fee = {fee}')
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
@@ -87,7 +90,8 @@ class ScanDutchieDelivery:
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-            if delivery_area_id is not None and within_bounds is True:
+            # if delivery_area_id is not None and within_bounds is True:
+            if within_bounds:
                 if fee in delivery_area and not False:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:
