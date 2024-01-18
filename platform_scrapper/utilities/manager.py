@@ -1,5 +1,5 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
 from pprint import pprint
 import json
 import time
@@ -241,4 +241,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()

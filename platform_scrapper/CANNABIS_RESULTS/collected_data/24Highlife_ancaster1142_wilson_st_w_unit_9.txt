@@ -1,0 +1,215 @@
+Store - HIGHLIFE ANCASTER
+------------------------------------------------------------
+Address - 1142 WILSON ST W UNIT 9
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.highlife.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12894438880
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.27792182339992,
+        -80.01799079999999
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.27516076921006,
+        -79.98931020194816
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.267065905249865,
+        -79.96258854720989
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.25418925808227,
+        -79.93965009495088
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.23740886150351,
+        -79.92205923469041
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.22193563853374,
+        -79.9126561501305
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.20114081142076,
+        -79.90740974593258
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.180058411611846,
+        -79.90970015773654
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.16012508542409,
+        -79.91936680769368
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.14269892294913,
+        -79.9357474063695
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.13136875166449,
+        -79.95294817340381
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.142289083983755,
+        -79.98934778455995
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.11634429831484,
+        -80.00642568148993
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.15779399822066,
+        -80.02645570112632
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.160729934463134,
+        -80.04000060410351
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.13136875166449,
+        -80.08303342659617
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.14592344492846,
+        -80.10399979500048
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.163952733124155,
+        -80.11911338079659
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.184228420202615,
+        -80.12734216714934
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.2030209355019,
+        -80.09752800294761
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.22193563853374,
+        -80.12332544986948
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.24102557229053,
+        -80.11089550853339
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.25710925549562,
+        -80.09212623276693
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.26909008941376,
+        -80.06829599356178
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.27615110542273,
+        -80.04103040931734
+      ],
+      "min order - 0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas/Boxing Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+May 24 at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Monday Inventory at 09-27 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------
