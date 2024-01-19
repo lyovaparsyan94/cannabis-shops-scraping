@@ -1,0 +1,26 @@
+Store - Sativa Bliss Cannabis Boutique
+------------------------------------------------------------
+Address - 2291 KIPLING AVE UNIT 102
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://sativabliss.ca/shop-etobicoke/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14167406111.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas at 12-25 - active - True, hours per day: from - 9:00 AM, to - 10:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 10:00 PM
+New Years Day at 01-01 - active - True, hours per day: from - 9:00 AM, to - 10:00 PM
+------------------------------------------------------------

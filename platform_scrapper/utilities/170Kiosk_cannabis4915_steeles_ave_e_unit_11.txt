@@ -1,0 +1,23 @@
+Store - Kiosk Cannabis
+------------------------------------------------------------
+Address - 4915 STEELES AVE E UNIT 11
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://kioskcannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+14163219415.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Kiosk Cannabis at address 4915 STEELES AVE E UNIT 11 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

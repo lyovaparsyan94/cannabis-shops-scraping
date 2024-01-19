@@ -1,0 +1,32 @@
+Store - Matchbox Cannabis
+------------------------------------------------------------
+Address - 146 QUEEN ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://matchboxcannabis.com/queen-st-e-sault-st-marie/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17055757222.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Matchbox Cannabis at address 146 QUEEN ST E NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Holiday at 10-10 - hours per day - None
+moonlight at 11-17 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Long weekend at 09-04 - hours per day - None
+Holiday Hours at 10-09 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+Holiday Hours at 01-01 - hours per day - None
+------------------------------------------------------------

@@ -1,10 +1,10 @@
-Store - Body and Spirit Cannabis
+Store - MA CANNABIS
 ------------------------------------------------------------
-Address - 361 YONGE ST
+Address - 3373 BLOOR ST W
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://bodyandspiritcannabis.com/
+URL https://macannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
@@ -12,11 +12,11 @@ Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-16478125989.0
+14378807666.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for MA CANNABIS at address 3373 BLOOR ST W NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

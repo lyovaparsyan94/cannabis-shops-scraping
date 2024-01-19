@@ -1,0 +1,25 @@
+Store - MANI'S TOKE
+------------------------------------------------------------
+Address - 1164 QUEEN ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://manistoke.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+14165367777.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for MANI'S TOKE at address 1164 QUEEN ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+New Year's Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

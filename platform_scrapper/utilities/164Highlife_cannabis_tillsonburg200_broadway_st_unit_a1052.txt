@@ -1,23 +1,25 @@
-Store - Bodega Boyz
+Store - HIGHLIFE CANNABIS TILLSONBURG
 ------------------------------------------------------------
-Address - 69 BRAMALEA RD SUITE 3
+Address - 200 BROADWAY ST UNIT A1052
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.bodegaboyz.ca/
+URL https://highlife.ca/pages/tillsonburg-cannabis-store
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ------------------------------------------------------------
 Phone
-19054580439.0
+15194090113.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
 {}
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Holiday hours at 12-24 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+Thanksgiving at 10-10 - hours per day - None
 ------------------------------------------------------------
