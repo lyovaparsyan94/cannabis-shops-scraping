@@ -1,0 +1,46 @@
+Store - Tokyo Smoke 3003 Danforth
+------------------------------------------------------------
+Address - 3003 DANFORTH AVE UNIT 29
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/dispensary/tokyo-smoke-shoppers-world-danforth-and-victoria-park
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14166720501.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Pre-opening at 01-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Victoria Day at 05-23 - hours per day - None
+No Delivery 18-20 July at 07-18 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+No Delivery at 08-06 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+Delivery Cancelled at 12-28 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,62 @@
+Store - TOKYO SMOKE
+------------------------------------------------------------
+Address - 572 ARTHUR ST W UNIT 5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-thunder-bay-arthur-st
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+18072853849.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Victoria Day at 05-24 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+Christmas Eve - Boxing Day at 12-24 - active - True, hours per day: from - 12:00 PM, to - 4:00 PM
+NYE - NYD at 12-31 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+March 19 & 20  at 03-19 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery 23rd March at 03-23 - active - False, hours per day: from - 1:00 PM, to - 8:00 PM
+9th & 10th April - 12-4pm Delivery Only at 04-09 - hours per day - None
+Sick Call at 04-12 - hours per day - None
+No Delivery 13th April at 04-13 - hours per day - None
+Easter at 04-15 - hours per day - None
+No Delivery April 14th at 04-14 - hours per day - None
+Sick Call at 04-23 - hours per day - None
+Delivery Sunday May 1st 12-4 at 05-01 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+sick call at 07-09 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+No delivery Wednesday 7th Sept at 09-07 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Sick Call at 10-27 - hours per day - None
+31st OCT 1-6pm at 10-31 - hours per day - None
+No delivery 2nd Nov at 11-02 - hours per day - None
+No Delivery Sunday 20th Nov at 11-20 - hours per day - None
+No delivery at 12-14 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+no delivery at 02-06 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 03-17 - hours per day - None
+No Delivery at 04-05 - hours per day - None
+easter at 04-07 - hours per day - None
+no delivery at 04-17 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

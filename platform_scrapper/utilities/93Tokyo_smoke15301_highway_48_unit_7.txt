@@ -1,0 +1,76 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 15301 HIGHWAY 48 UNIT 7
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-ballantrae-hwy-48
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12895781000.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Preopening at 04-16 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - True, hours per day: from - 3:00 PM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Civic Holiday at 08-02 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Holiday at 12-24 - hours per day - None
+Holiday pt 2 at 12-31 - hours per day - None
+DEC 15 NO DELIVERY at 12-15 - hours per day - None
+December 20 at 12-20 - hours per day - None
+Snow Storm at 01-17 - hours per day - None
+No Delivery at 01-19 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Sick call at 02-18 - hours per day - None
+Sick Call at 03-11 - hours per day - None
+No Delivery FOR REST OF DAY 2:30pm at 03-25 - hours per day - None
+Sick Call at 03-27 - hours per day - None
+No Delivery Today at 03-30 - hours per day - None
+No Delivery April 2 at 04-02 - hours per day - None
+No Delivery at 04-05 - hours per day - None
+No Delivery April 6th at 04-06 - hours per day - None
+Special Hours at 04-07 - hours per day - None
+Easter at 04-15 - hours per day - None
+No delivery 18th April at 04-18 - hours per day - None
+Mother's Day at 05-08 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+No Delivery at 12-15 - hours per day - None
+No delivery  at 12-16 - hours per day - None
+No Delivery 22-23 Dec at 12-22 - hours per day - None
+No Delivery at 12-24 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+no delivery at 01-13 - hours per day - None
+No delivery at 01-19 - hours per day - None
+Delivery Closed at 01-25 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 02-22 - hours per day - None
+No Delivery at 02-27 - hours per day - None
+No Delivery at 03-03 - hours per day - None
+No Delivery at 03-10 - hours per day - None
+No Delivery at 03-17 - hours per day - None
+easter  at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Canada Day Jul 3 at 07-03 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+No Delivery at 01-09 - hours per day - None
+Delivery Cancelled at 01-11 - hours per day - None
+Delivery Cancelled at 01-16 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,28 @@
+Store - Cheerful Charlies Cannabis Co.
+------------------------------------------------------------
+Address - 16 OSPREY MIIKAN RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://cccanna.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17054729111.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+New Year's Eve Hours at 12-31 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+HOLIDAY HOURS at 12-24 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+Christmas and New Years at 12-24 - hours per day - None
+Christmas Holiday Hours at 12-24 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+------------------------------------------------------------

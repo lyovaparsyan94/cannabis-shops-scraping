@@ -1,0 +1,60 @@
+Store - TOKYO SMOKE
+------------------------------------------------------------
+Address - 1031 PAPE AVE
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-1031-pape-at-cosburn
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14166139449.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE at address 1031 PAPE AVE NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - hours per day - None
+Sept Long Weekend at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Day at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Staff issues at 11-23 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+Monday 27th December NO DELIVERY at 12-27 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Snow Storm at 01-17 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Staffing January 31 at 01-31 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No Power at 02-01 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery 6th April at 04-06 - hours per day - None
+No delivery 9th April at 04-09 - hours per day - None
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Sick call at 07-04 - hours per day - None
+No Delivery Tuesday July 26th at 07-26 - hours per day - None
+Sick call at 08-08 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+No Delivery 17th Sept at 09-17 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+No Delivery - November 10 (Sick Driver) at 11-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+No Delivery at 01-07 - hours per day - None
+No Delivery at 02-04 - hours per day - None
+No Delivery at 02-14 - hours per day - None
+No delivery at 02-21 - hours per day - None
+No Delivery at 03-04 - hours per day - None
+No Delivery at 03-25 - hours per day - None
+No Delivery at 03-28 - hours per day - None
+No Delivery at 04-06 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,72 @@
+Store - Tokyo Smoke 570 Bloor St W
+------------------------------------------------------------
+Address - 570 BLOOR ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-bloor/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14165518659.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-18 - active - True, hours per day: from - open, to - open
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-07 - active - False, hours per day: from - open, to - open
+Thanksgiving at 10-12 - active - False, hours per day: from - open, to - open
+Christmas at 12-25 - active - True, hours per day: from - open, to - open
+Christmas Eve at 12-24 - active - True, hours per day: from - open, to - open
+New Year's Eve at 12-31 - active - True, hours per day: from - open, to - open
+New Year's Day at 01-01 - active - True, hours per day: from - open, to - open
+Easter Friday at 04-02 - active - True, hours per day: from - open, to - open
+Delivery Sold out at 04-30 - active - True, hours per day: from - 8:00 AM, to - 3:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 1:00 PM, to - 7:00 PM
+DELIVERY HOURS SATURDAY 26th June at 06-26 - active - True, hours per day: from - 3:00 PM, to - 4:30 PM
+JULY 1 at 07-01 - active - False, hours per day: from - 1:00 PM, to - 7:00 PM
+No Delivery at 06-28 - active - True, hours per day: from - 1:00 PM, to - 4:00 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 1:00 PM, to - 7:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 1:00 PM, to - 7:00 PM
+Christmas Eve - Boxing Day  at 12-24 - hours per day - None
+NYE + NYD at 12-31 - hours per day - None
+1-4pm Delivery 29th Dec at 12-29 - hours per day - None
+Snow Storm at 01-17 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Easter at 04-15 - hours per day - None
+Temp Hours at 05-08 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Caribana 2022 at 07-29 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Delivery request disabled Sept 9-18 at 09-09 - hours per day - None
+Thaknksgiving at 10-10 - hours per day - None
+No delivery 3rd oct at 10-03 - hours per day - None
+No Delivery Sunday Dec 11 at 12-11 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 03-04 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+No Delivery at 06-03 - hours per day - None
+No delivery at 07-23 - hours per day - None
+Caribana Delivery at 08-04 - hours per day - None
+Delivery Cancelled at 08-12 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Deliveries Cancelled Oct 5th at 10-05 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Delivery Cancelled at 10-20 - hours per day - None
+Deliveries Cancelled at 10-21 - hours per day - None
+No Delivery at 10-28 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

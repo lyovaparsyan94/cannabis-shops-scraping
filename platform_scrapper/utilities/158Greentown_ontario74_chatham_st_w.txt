@@ -1,0 +1,30 @@
+Store - Greentown Ontario
+------------------------------------------------------------
+Address - 74 CHATHAM ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://greentowncannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15192581919.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Holiday Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Holiday Hours at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Eve at 12-31 - active - True, hours per day: from - 11:00 AM, to - 10:00 PM
+New Years Day at 01-01 - hours per day - None
+Christmas Day at 12-25 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+Christmas Hours at 12-24 - hours per day - None
+------------------------------------------------------------

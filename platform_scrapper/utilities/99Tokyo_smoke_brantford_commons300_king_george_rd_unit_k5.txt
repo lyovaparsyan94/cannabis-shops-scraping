@@ -1,0 +1,46 @@
+Store - TOKYO SMOKE BRANTFORD COMMONS
+------------------------------------------------------------
+Address - 300 KING GEORGE RD UNIT K5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-brantford-commons
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15197530714.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE BRANTFORD COMMONS at address 300 KING GEORGE RD UNIT K5 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+PreOpening at 01-08 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+May 24, 2021 at 05-24 - active - False, hours per day: from - 5:00 PM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Day at 10-11 - active - False, hours per day: from - 5:00 PM, to - 8:00 PM
+Christmas Eve - Boxing Day at 12-24 - hours per day - None
+NYE + NYD at 12-31 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+New Hours - Starting June 12 at 06-12 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Canada Day Jul 2 at 07-02 - hours per day - None
+Canada Day Jul 3 at 07-03 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

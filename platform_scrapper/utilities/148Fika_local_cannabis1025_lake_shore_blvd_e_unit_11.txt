@@ -1,0 +1,25 @@
+Store - FIKA LOCAL CANNABIS
+------------------------------------------------------------
+Address - 1025 LAKE SHORE BLVD E UNIT 11
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14166034592.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA LOCAL CANNABIS at address 1025 LAKE SHORE BLVD E UNIT 11 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening at 08-24 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+------------------------------------------------------------

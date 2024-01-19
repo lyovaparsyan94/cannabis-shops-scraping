@@ -1,0 +1,39 @@
+Store - Consumers Cannabis
+------------------------------------------------------------
+Address - 4864 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://consumerscannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14165514864.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+SNOW DAY at 01-17 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+Good Friday at 04-15 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Hours at 12-31 - hours per day - None
+Winter Storm at 01-25 - hours per day - None
+Winter Storm at 03-03 - hours per day - None
+Winter Storm at 03-04 - hours per day - None
+Short Staff at 04-13 - hours per day - None
+no car at 07-28 - hours per day - None
+no car at 09-07 - hours per day - None
+no car at 09-21 - hours per day - None
+Christmas hours at 12-25 - hours per day - None
+NYE at 12-31 - hours per day - None
+------------------------------------------------------------

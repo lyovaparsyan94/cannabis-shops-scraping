@@ -1,0 +1,58 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 645 COMMISSIONERS RD E UNIT 103
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-london-wellington-corners
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15192045300.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 08-05 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Sept Long Weekend at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Day at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Lead up to delivery turn on at 10-14 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Staffing Dec 20-21 at 12-20 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Christmas Eve - Boxing Day at 12-24 - active - True, hours per day: from - 12:00 PM, to - 6:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Snow Storm at 01-17 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Sick Call at 03-26 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Easter at 04-15 - hours per day - None
+No delivery 21st APril at 04-21 - hours per day - None
+No Delivery Friday 29th April at 04-29 - hours per day - None
+Staffing - April 30 & May 1  at 04-30 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+No delivery 30th July at 07-30 - hours per day - None
+No Delivery at 08-05 - hours per day - None
+August 19 - Staffing at 08-19 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Staffing (Delivery) at 09-09 - hours per day - None
+No delivery at 09-24 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Sick Call at 10-11 - hours per day - None
+No Delivery at 10-14 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Delivery Cancelled - Sick Call at 12-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,46 @@
+Store - TOKYO SMOKE SHOPS AT DON MILLS
+------------------------------------------------------------
+Address - 1090 DON MILLS RD UNIT H008
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-shops-at-don-mills
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14165198525.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 11/18 at 11-16 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+NO DELIVERY DEC 13TH at 12-13 - active - False, hours per day: from - 3:00 PM, to - 5:00 PM
+December 20  at 12-20 - active - False, hours per day: from - 3:00 PM, to - 5:00 PM
+Christmas Eve - Boxing Day at 12-24 - active - True, hours per day: from - 3:00 PM, to - 5:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 3:00 PM, to - 5:00 PM
+No Delivery 27th Dec at 12-27 - active - False, hours per day: from - 3:00 PM, to - 5:00 PM
+Family Day at 02-21 - active - False, hours per day: from - 3:00 PM, to - 5:00 PM
+Staffing - February 25-26 at 02-25 - active - False, hours per day: from - 10:00 AM, to - 5:00 PM
+NO DELIVERY MARCH 18-19 at 03-18 - active - False, hours per day: from - 2:00 PM, to - 5:00 PM
+No Delivery Until March 26th at 03-23 - active - False, hours per day: from - 2:00 PM, to - 5:00 PM
+Sick Call at 03-26 - active - False, hours per day: from - 2:00 PM, to - 5:00 PM
+No Delivery Until April 5th at 03-30 - hours per day - None
+Easter at 04-15 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Closed at 09-06 - hours per day - None
+Temporarily Closed at 10-18 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+Family Day at 02-20 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

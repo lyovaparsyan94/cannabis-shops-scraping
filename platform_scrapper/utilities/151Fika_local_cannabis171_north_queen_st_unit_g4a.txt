@@ -1,0 +1,32 @@
+Store - FIKA LOCAL CANNABIS
+------------------------------------------------------------
+Address - 171 NORTH QUEEN ST UNIT G4A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://fikasupply.com/stores/etobicoke/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16477990918.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA LOCAL CANNABIS at address 171 NORTH QUEEN ST UNIT G4A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 10-27 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYD at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Staff Party at 03-13 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-15 - hours per day - None
+Civic Holiday at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,42 @@
+Store - TOKYO SMOKE ST. THOMAS
+------------------------------------------------------------
+Address - 1055 TALBOT ST UNIT 7
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-st-thomas-talbot
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15196313059.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE ST. THOMAS at address 1055 TALBOT ST UNIT 7 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 12/16 at 12-15 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve - Boxing Day at 12-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE - NYD at 12-31 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+July 26-30 at 07-26 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Temporarily Closed at 11-08 - hours per day - None
+Special Open Hours at 02-09 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day  at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------
