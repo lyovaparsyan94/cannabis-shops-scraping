@@ -1,0 +1,24 @@
+Store - SESSIONS CANNABIS GOULAIS RIVER
+------------------------------------------------------------
+Address - 2771 ON-17 UNIT 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.sessions.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17059984743.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SESSIONS CANNABIS GOULAIS RIVER at address 2771 ON-17 UNIT 1 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-04 - hours per day - None
+------------------------------------------------------------

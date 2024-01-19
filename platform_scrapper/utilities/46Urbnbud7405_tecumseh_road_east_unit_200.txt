@@ -1,0 +1,28 @@
+Store - Urbnbud
+------------------------------------------------------------
+Address - 7405 TECUMSEH ROAD EAST UNIT 200
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.urbnbud.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12266744283.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening at 01-13 - active - True, hours per day: from - 4:00 PM, to - 8:30 PM
+Go Live at 01-14 - active - False, hours per day: from - 9:00 AM, to - 7:00 PM
+Christmas at 12-25 - hours per day - None
+christmas party at 12-13 - hours per day - None
+Christmas Party at 12-11 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,50 @@
+Store - Highties Cannabis Store
+------------------------------------------------------------
+Address - 5787 COUNTY RD 17
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.highties.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16136731313.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+New Years eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+New Years Day at 01-01 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Sorry Night Owls at 02-26 - hours per day - None
+Closing Early at 03-10 - hours per day - None
+Closing Early at 03-15 - hours per day - None
+Easter Hours at 04-06 - hours per day - None
+Powerless at 04-13 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+  at 09-22 - hours per day - None
+today  at 09-29 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+staff shortage at 10-10 - hours per day - None
+close at 10-21 - hours per day - None
+hours at 12-04 - hours per day - None
+JP at 12-22 - hours per day - None
+temporary tuesday hours at 01-02 - hours per day - None
+temporary sat at 01-06 - hours per day - None
+temporary mon tue at 01-08 - hours per day - None
+snowstorm temp delivery at 01-10 - hours per day - None
+snowstorm at 01-12 - hours per day - None
+------------------------------------------------------------

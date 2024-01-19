@@ -1,0 +1,39 @@
+Store - T Cannabis
+------------------------------------------------------------
+Address - 38 MILL ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.tcann.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15198539898.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Easter at 04-02 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+CANADA DAY at 07-01 - active - True, hours per day: from - 10:00 AM, to - 6:00 PM
+Labour day  at 09-06 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Thanksgiving at 10-11 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Hours at 12-25 - hours per day - None
+Family Day at 02-21 - hours per day - None
+HOLIDAY HOURS at 04-15 - hours per day - None
+HOLIDAY HOURS at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day Hours at 09-05 - hours per day - None
+Temp at 10-10 - hours per day - None
+Temporary Hours at 12-25 - hours per day - None
+Temporary Hours at 01-25 - hours per day - None
+Family Day Hours at 02-20 - hours per day - None
+temp at 04-07 - hours per day - None
+------------------------------------------------------------

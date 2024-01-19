@@ -1,0 +1,25 @@
+Store - ABOVE THE CLOUDS CANNABIS
+------------------------------------------------------------
+Address - 1126 THE QUEENSWAY UNIT 1 AND 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://abovethecloudscannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14169013434.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for ABOVE THE CLOUDS CANNABIS at address 1126 THE QUEENSWAY UNIT 1 AND 2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Lockdown Restriction Hours at 05-19 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+05/18 at 05-18 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

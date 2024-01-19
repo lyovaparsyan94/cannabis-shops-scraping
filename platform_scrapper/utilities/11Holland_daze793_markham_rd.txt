@@ -1,0 +1,24 @@
+Store - HOLLAND DAZE
+------------------------------------------------------------
+Address - 793 MARKHAM RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.hollanddaze.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14164383442.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Pre-Opening at 02-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

@@ -1,0 +1,35 @@
+Store - Kasa Kana Hunstville
+------------------------------------------------------------
+Address - 6 KING WILLIAM ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.kasakana.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17057899090.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Kasa Kana Hunstville at address 6 KING WILLIAM ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Easter at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-15 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Family at 02-20 - hours per day - None
+Good friday at 04-07 - hours per day - None
+Long weekend at 08-07 - hours per day - None
+Thanksgiving  at 10-09 - hours per day - None
+Christmas Hours at 12-23 - hours per day - None
+New years day at 01-01 - hours per day - None
+------------------------------------------------------------
