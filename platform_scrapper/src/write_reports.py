@@ -3,14 +3,13 @@ import json
 import pprint
 
 
-def clean_data(list_of_circle_sections, store="aaa", address='bb'):
+def clean_data(list_of_circle_sections, store="aaa", address='bb', reporter=None):
     final_data = {}
     for item in list_of_circle_sections:
         if str(item)[0].isdigit():
             if type(list_of_circle_sections[item]) is list:
                 final_data[item] = list_of_circle_sections[item]
         if type(item) is dict:
-            # if type(list_of_circle_sections[item]) is dict:
             for key, value in item.items():
                 if key:
                     for k1, v1 in value.items():
@@ -32,10 +31,11 @@ def clean_data(list_of_circle_sections, store="aaa", address='bb'):
                     res[price].append(final_data[price][degree][km])
 
     filename = str(store) + str(address)
-    if len(res) > 0:
-        with open(f"gd_{filename}.json", 'w') as file:
+    filename = str(store) + str(address)
+    if not reporter:
+        with open(f"tmp__{filename}.json", 'w') as file:
             json.dump(res, file, indent=2)
-        print('res is: ', res)
+        pprint.pprint(res)
     return res
 
 
@@ -60,9 +60,6 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
 
 
 x = ...
-
-
-
 
 # clean_data(x)
 # clean_data(null, "null31 CELINA ST", "The Peace Pipe")
