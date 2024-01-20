@@ -1,0 +1,36 @@
+Store - Stash & Co
+------------------------------------------------------------
+Address - 843 KING ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thestashandco.com/oshawa-whitby-location/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19052432744.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Stash & Co at address 843 KING ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - active - False, hours per day: from - 9:00 AM, to - 4:30 PM
+Closed due to Weather  at 01-17 - hours per day - None
+Power Outage May 21 at 05-21 - hours per day - None
+Thanksgiving Weekend at 10-08 - hours per day - None
+Thanksgiving Weekend at 10-10 - hours per day - None
+Early Close at 11-23 - hours per day - None
+Holiday Hours at 12-23 - hours per day - None
+December 27th, 2022 at 12-27 - hours per day - None
+Early Closure at 01-04 - hours per day - None
+Early Closure (Inclement Weather) at 01-25 - hours per day - None
+Reduced Hours - Icy Road Conditions at 02-28 - hours per day - None
+Illness at 04-22 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+------------------------------------------------------------

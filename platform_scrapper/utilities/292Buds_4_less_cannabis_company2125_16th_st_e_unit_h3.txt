@@ -1,0 +1,31 @@
+Store - Buds 4 Less Cannabis Company
+------------------------------------------------------------
+Address - 2125 16TH ST E UNIT H3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.buds4lessdispensary.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17053931888.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Buds 4 Less Cannabis Company at address 2125 16TH ST E UNIT H3 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 9/25 at 09-22 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+xmas eve at 12-24 - hours per day - None
+new years day at 01-01 - hours per day - None
+xmas day at 12-25 - hours per day - None
+boxing day at 12-26 - hours per day - None
+new years eve at 12-31 - hours per day - None
+Incelement Weather at 01-14 - hours per day - None
+------------------------------------------------------------

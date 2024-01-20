@@ -1,0 +1,31 @@
+Store - The We Store
+------------------------------------------------------------
+Address - 427 ST CLAIR ST UNIT 5A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thewestore.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12267999314.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-24 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+New Years Day at 01-01 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+December 25th, Christmas Day at 12-25 - hours per day - None
+January 1st, New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

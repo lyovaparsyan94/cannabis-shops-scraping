@@ -1,0 +1,24 @@
+Store - Spiritleaf Kingston
+------------------------------------------------------------
+Address - 27 PRINCESS ST SUITE 101
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-kingston
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16135463030.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Spiritleaf Kingston at address 27 PRINCESS ST SUITE 101 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+~TEMPORARILY CLOSED~ at 06-15 - active - True, hours per day: from - 9:30 AM, to - 8:00 PM
+------------------------------------------------------------

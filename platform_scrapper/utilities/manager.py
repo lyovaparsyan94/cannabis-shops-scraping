@@ -173,7 +173,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index > 162:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index > 205:
                     # if 'no' in type_of_delivery_offered.lower():
                     #     write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
                     #                  store=store, address=address,

@@ -1,0 +1,30 @@
+Store - The We Store
+------------------------------------------------------------
+Address - 4050 WALKER RD UNIT 300
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thewestore.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12267730992.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+New Years Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve  at 12-31 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+Lockdown at 06-09 - active - True, hours per day: from - 9:00 AM, to - 7:30 PM
+Holiday Hours  at 12-24 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+NEW YEARS DAY at 01-01 - active - True, hours per day: from - 12:00 PM, to - 10:30 PM
+December 25th, Christmas Day at 12-25 - hours per day - None
+January 1st, New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

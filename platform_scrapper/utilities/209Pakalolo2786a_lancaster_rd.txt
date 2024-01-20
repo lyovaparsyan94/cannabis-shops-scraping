@@ -1,0 +1,39 @@
+Store - PAKALOLO
+------------------------------------------------------------
+Address - 2786A LANCASTER RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://shoppakalolo.com/locations/ottawa-lancaster/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16135235656.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Friday at 04-07 - hours per day - None
+monday at 05-22 - hours per day - None
+Delivery at 07-21 - hours per day - None
+Lancaster at 08-07 - hours per day - None
+Monday at 09-04 - hours per day - None
+delivery at 09-15 - hours per day - None
+Delivery at 09-16 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+order at 10-28 - hours per day - None
+hours at 10-31 - hours per day - None
+Hours at 11-21 - hours per day - None
+Delivery at 12-23 - hours per day - None
+Christmas at 12-24 - hours per day - None
+New Years at 12-31 - hours per day - None
+Snowfall at 01-09 - hours per day - None
+Today at 01-14 - hours per day - None
+------------------------------------------------------------

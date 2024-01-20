@@ -1,0 +1,24 @@
+Store - Cannabis Cupboard
+------------------------------------------------------------
+Address - 952 QUEENSTON RD UNIT 10
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabiscupboard.ca/stoney-creek
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+19056620333.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannabis Cupboard at address 952 QUEENSTON RD UNIT 10 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening (Friday 7/31) at 07-29 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

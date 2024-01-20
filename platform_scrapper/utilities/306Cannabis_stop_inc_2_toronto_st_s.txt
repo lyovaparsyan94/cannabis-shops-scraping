@@ -1,0 +1,28 @@
+Store - Cannabis Stop Inc 
+------------------------------------------------------------
+Address - 2 TORONTO ST S
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabisstopinc.com/cannabis-stop-markdale-store/?dtche%5Blocation%5D=cannabis-stop-markdale&utm_source=google&utm_medium=click&utm_campaign=Markdale+GMB
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15199861888.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannabis Stop Inc  at address 2 TORONTO ST S NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+09/02 at 09-02 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Cannabis Stop Inc. Christmas Party at 12-19 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-24 - hours per day - None
+NEW YEARS HOURS at 12-31 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+------------------------------------------------------------

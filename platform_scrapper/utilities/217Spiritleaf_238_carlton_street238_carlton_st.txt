@@ -1,0 +1,24 @@
+Store - Spiritleaf 238 Carlton Street
+------------------------------------------------------------
+Address - 238 CARLTON ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-cabbagetown
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14169015323.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+New Year's Day Hours at 01-01 - active - True, hours per day: from - 5:00 PM, to - 8:00 PM
+------------------------------------------------------------

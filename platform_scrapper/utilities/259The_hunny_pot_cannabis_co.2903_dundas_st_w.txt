@@ -1,0 +1,31 @@
+Store - THE HUNNY POT CANNABIS CO.
+------------------------------------------------------------
+Address - 2903 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thehunnypot.com/junction-toronto-cannabis-menu/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16475984044.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for THE HUNNY POT CANNABIS CO. at address 2903 DUNDAS ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - hours per day - None
+Labour day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Xmas at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day at 12-25 - active - True, hours per day: from - 11:00 AM, to - 8:00 PM
+New Years Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-24 - hours per day - None
+New Years Hours at 12-31 - hours per day - None
+------------------------------------------------------------

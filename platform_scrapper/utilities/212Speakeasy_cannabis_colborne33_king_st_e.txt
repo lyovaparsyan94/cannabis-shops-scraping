@@ -1,0 +1,45 @@
+Store - Speakeasy Cannabis Colborne
+------------------------------------------------------------
+Address - 33 KING ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://speakeasycannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+19053555353.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Moonlight Magic in Downtown Colborne at 12-10 - active - True, hours per day: from - 12:00 PM, to - 6:30 PM
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years at 01-01 - active - False, hours per day: from - 12:00 PM, to - 5:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Halloween at 10-31 - hours per day - None
+Snow Storm at 11-19 - hours per day - None
+Freezing Rain Day at 12-15 - hours per day - None
+Snowy Weather at 12-16 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Holiday Storm at 12-23 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Sunday at 04-16 - hours per day - None
+Monday at 04-17 - hours per day - None
+Temporary Monday at 04-24 - hours per day - None
+Temporary Sunday at 04-23 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Thanksgiving Monday at 10-09 - hours per day - None
+------------------------------------------------------------

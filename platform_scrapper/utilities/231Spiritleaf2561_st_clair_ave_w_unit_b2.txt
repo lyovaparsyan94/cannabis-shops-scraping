@@ -1,0 +1,32 @@
+Store - SPIRITLEAF
+------------------------------------------------------------
+Address - 2561 ST CLAIR AVE W UNIT B2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-stockyards
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14163951653.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SPIRITLEAF at address 2561 ST CLAIR AVE W UNIT B2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Sunday - Extended Hours (February 21st) at 02-21 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Good Friday at 04-02 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Cananda day  at 06-30 - active - True, hours per day: from - 00:00 AM, to - 5:00 PM
+bbq at 07-18 - active - False, hours per day: from - 00:00 AM, to - 11:45 PM
+civic holiday at 08-02 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Thanksgiving Hours at 10-11 - active - True, hours per day: from - 11:00 AM, to - 7:00 PM
+Christmas Holidaze Hours  at 12-24 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+SUMMER HOURS at 07-24 - hours per day - None
+------------------------------------------------------------

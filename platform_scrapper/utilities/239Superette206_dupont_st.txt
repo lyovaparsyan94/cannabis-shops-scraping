@@ -1,0 +1,25 @@
+Store - Superette
+------------------------------------------------------------
+Address - 206 DUPONT ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://superetteshop.com/pages/annex-location?utm_source=GMBAnnex&utm_medium=OrganicSEO&utm_campaign=GMB_Annex
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14169016420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Superette at address 206 DUPONT ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+No Delivery at 06-17 - hours per day - None
+------------------------------------------------------------

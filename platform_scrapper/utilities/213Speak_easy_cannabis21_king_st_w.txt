@@ -1,0 +1,66 @@
+Store - SPEAK EASY CANNABIS
+------------------------------------------------------------
+Address - 21 KING ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://speakeasycannabis.ca/bowmanville-dispensary-menu?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+19056233966.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Holiday Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Staff Christmas  at 12-20 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-25 - active - True, hours per day: from - open, to - open
+New Years Day at 01-01 - active - True, hours per day: from - open, to - open
+Victoria Day at 05-23 - hours per day - None
+Nov 7 2022 at 11-07 - hours per day - None
+delivery at 11-05 - hours per day - None
+Freezing Rain Day at 12-15 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+Holiday Storm at 12-23 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Bad Weather at 01-25 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 03-01 - hours per day - None
+Monday at 03-20 - hours per day - None
+No Delivery at 03-28 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Power Outage at 04-15 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Delivery at 05-24 - hours per day - None
+Bowmanville at 06-01 - hours per day - None
+Temp Hours at 06-08 - hours per day - None
+Thursdays and Fridays  at 06-15 - hours per day - None
+Thurs Fri at 06-22 - hours per day - None
+thurday friday at 06-29 - hours per day - None
+June 24 at 06-24 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+anthony call in at 08-05 - hours per day - None
+tony sick at 08-12 - hours per day - None
+Anthony Off at 09-14 - hours per day - None
+Anthony Off at 09-22 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+No Delivery at 11-01 - hours per day - None
+No Delivery at 11-02 - hours per day - None
+No Delivery at 11-04 - hours per day - None
+No Delivery at 12-16 - hours per day - None
+No Delivery at 01-18 - hours per day - None
+No Delivery at 01-19 - hours per day - None
+------------------------------------------------------------
