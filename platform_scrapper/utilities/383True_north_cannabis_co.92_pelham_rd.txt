@@ -1,0 +1,24 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 92 PELHAM RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/st-catharines/?utm_source=GMB_StCatherines&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12267970522.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co. at address 92 PELHAM RD NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 06-17 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

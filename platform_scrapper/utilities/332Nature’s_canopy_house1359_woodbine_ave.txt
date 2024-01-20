@@ -1,0 +1,33 @@
+Store - NATURE’S CANOPY HOUSE
+------------------------------------------------------------
+Address - 1359 WOODBINE AVE
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.naturescanopyhouse.com/shop.html?dtche%5Blocation%5D=natures-canopy-house-woodbine
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14379001973.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for NATURE\u2019S CANOPY HOUSE at address 1359 WOODBINE AVE NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day at 07-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+CIvic Day Hours at 08-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-15 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Closed due to unforeseen circumstances  at 11-30 - hours per day - None
+Early Closure Due To Weather at 12-23 - hours per day - None
+Closed Early Due To Unforeseen Circumstances at 02-09 - hours per day - None
+------------------------------------------------------------

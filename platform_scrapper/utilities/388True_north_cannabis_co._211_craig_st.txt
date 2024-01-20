@@ -1,0 +1,25 @@
+Store - True North Cannabis Co. 
+------------------------------------------------------------
+Address - 211 CRAIG ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/timmins-riverside-drive/?utm_source=GMB_Timmins&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17055313500.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co.  at address 211 CRAIG ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+05/12 at 05-12 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+------------------------------------------------------------

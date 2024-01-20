@@ -1,0 +1,43 @@
+Store - HIGHTIES CANNABIS STORE
+------------------------------------------------------------
+Address - 25 MAIN ST S
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.highties.ca/alexandria/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16135255420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+Christmas Day  at 12-25 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+New Years eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+New Years day at 01-01 - active - False, hours per day: from - 10:00 AM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Sorry Night Owls at 02-26 - hours per day - None
+Snow Day at 02-28 - hours per day - None
+Closing Early at 03-10 - hours per day - None
+Easter Hours at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Special Hours at 06-19 - hours per day - None
+Labour day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+closed at 10-22 - hours per day - None
+Staff xmas party at 11-26 - hours per day - None
+November 29 at 11-29 - hours per day - None
+snowstorm at 01-13 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,38 @@
+Store - SESSIONS LAKESHORE
+------------------------------------------------------------
+Address - 35 AMY CROFT DR UNIT 5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/lakeshore-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15197357374.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SESSIONS LAKESHORE at address 35 AMY CROFT DR UNIT 5 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+New Years Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday/Easter hours at 04-02 - active - False, hours per day: from - 11:00 AM, to - 9:00 PM
+Labour Day at 09-06 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+New Year's Day at 01-01 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Opening at 11-30 - hours per day - None
+Family Day Hours at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter at 04-09 - hours per day - None
+Easter Monday at 04-10 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+------------------------------------------------------------

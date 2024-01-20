@@ -1,0 +1,25 @@
+Store - TOKE CANNABIS
+------------------------------------------------------------
+Address - 247 CENTENNIAL PKY N UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tokecannabis.com/hamilton/store
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12893891885.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Victoria Day  at 05-22 - hours per day - None
+ny day at 01-01 - hours per day - None
+------------------------------------------------------------

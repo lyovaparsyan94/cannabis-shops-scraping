@@ -1,0 +1,33 @@
+Store - LOLLY
+------------------------------------------------------------
+Address - 715 KROSNO BLVD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.lollycannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+19054923535.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Labour Day Monday at 09-06 - active - True, hours per day: from - 11:15 AM, to - 4:45 PM
+Sunday December 19 ,2021 at 12-19 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+New Years Hours at 12-31 - hours per day - None
+Due to weather conditions at 01-24 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+New Year Hours at 12-31 - hours per day - None
+------------------------------------------------------------

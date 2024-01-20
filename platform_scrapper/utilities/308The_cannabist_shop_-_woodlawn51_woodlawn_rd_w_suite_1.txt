@@ -1,0 +1,26 @@
+Store - THE CANNABIST SHOP - WOODLAWN
+------------------------------------------------------------
+Address - 51 WOODLAWN RD W SUITE 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabistshop.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15192651007.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas at 12-24 - active - True, hours per day: from - 12:00 PM, to - 9:00 PM
+New Years Day at 01-01 - active - True, hours per day: from - 12:00 PM, to - 9:00 PM
+Outage at 05-22 - hours per day - None
+------------------------------------------------------------

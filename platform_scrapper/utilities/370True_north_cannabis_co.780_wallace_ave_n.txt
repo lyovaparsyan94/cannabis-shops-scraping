@@ -1,0 +1,33 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 780 WALLACE AVE N
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/listowel/?utm_source=GMB_Listowel&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12263060516.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co. at address 780 WALLACE AVE N NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Holiday Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Hours at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - hours per day - None
+Inclement Weather at 02-19 - hours per day - None
+Easter Hours at 04-15 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 01-01 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,31 @@
+Store - TRUE NORTH CANNABIS CO.
+------------------------------------------------------------
+Address - 51 FRONT ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/strathroy/?utm_source=GMB_Strathroy&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15199302385.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TRUE NORTH CANNABIS CO. at address 51 FRONT ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 03-23 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day 2021 at 09-06 - active - True, hours per day: from - open, to - open
+Christmas Eve Hours at 12-24 - active - True, hours per day: from - open, to - open
+Christmas Day Hours at 12-25 - active - True, hours per day: from - open, to - open
+Boxing Day at 12-26 - active - True, hours per day: from - open, to - open
+New Year's Eve at 12-31 - active - True, hours per day: from - open, to - open
+New Year's Day at 01-01 - active - True, hours per day: from - open, to - open
+Easter Sunday at 04-17 - hours per day - None
+------------------------------------------------------------

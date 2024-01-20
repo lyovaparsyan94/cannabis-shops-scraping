@@ -1,0 +1,23 @@
+Store - Plug Canna6is
+------------------------------------------------------------
+Address - 3599 SHEPPARD AVE E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.plugcanna6is.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14165462002.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Plug Canna6is at address 3599 SHEPPARD AVE E NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

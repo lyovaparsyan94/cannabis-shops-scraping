@@ -1,0 +1,26 @@
+Store - True North Cannabis Company
+------------------------------------------------------------
+Address - 4695 QUEEN ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/niagara-falls/?utm_source=GMB_NiagaraFalls&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12892482599.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Company at address 4695 QUEEN ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 02-26 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - hours per day - None
+------------------------------------------------------------
