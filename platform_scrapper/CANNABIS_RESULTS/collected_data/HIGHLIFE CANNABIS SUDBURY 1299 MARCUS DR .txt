@@ -1,3 +1,21 @@
+Store - HIGHLIFE CANNABIS SUDBURY
+------------------------------------------------------------
+Address - 1299 MARCUS DR
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://highlife.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17055604455
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
 {
   "3.0": [
     [
@@ -270,3 +288,8 @@
     ]
   ]
 }
+------------------------------------------------------------
+Special days or hours:
+
+Maintenance  at 06-20 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

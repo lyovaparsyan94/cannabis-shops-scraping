@@ -4,7 +4,7 @@ Address - 21 KING ST W
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://speakeasycannabis.ca/bowmanville-dispensary-menu?
+URL https://speakeasycannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------

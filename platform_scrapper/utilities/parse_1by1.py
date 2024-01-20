@@ -1,7 +1,7 @@
 from platform_scrapper.utilities.manager import Manager
 
 manager = Manager()
-disp = manager.query_maker('5fde9c1ebffe240101f90087').get('cName', None)
+disp = manager.query_maker('5fc5762bd9d0e500abb94e2b').get('cName', None)
 # if disp:
 #     manager.scan_and_save(ecom_provider='Dutchie', store="Due North Cannabis",
 #                           shop_address="150 CHURCHILL BLVD UNIT C001", state="SAULT STE. MARIE",
