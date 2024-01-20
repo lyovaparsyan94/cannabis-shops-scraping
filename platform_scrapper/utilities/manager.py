@@ -270,5 +270,5 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-# manager.manage()
+manager.manage()
 # manager.file_modifier()
