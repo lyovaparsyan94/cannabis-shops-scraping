@@ -1,26 +1,23 @@
-Store - Woodstock Cannabis Co
+Store - Yerba Buena Cannabis
 ------------------------------------------------------------
-Address - 579 DUNDAS ST
+Address - 910 SHEPPARD AVE W
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.woodstockcannabisco.ca/
+URL https://ybcannabis.com/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-15192904420.0
+14166355663.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Woodstock Cannabis Co at address 579 DUNDAS ST NOT Found from Dutchie ecommerse provider's r"
+{}
 ------------------------------------------------------------
 Special days or hours:
-
-Pre-Opening at 02-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
-Christmas Hours at 12-24 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
-New Years Hours at 12-31 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
+- not received information about special days or hours
 ------------------------------------------------------------

@@ -1,26 +1,56 @@
-Store - Woodstock Cannabis Co
+Store - TOKE CANNABIS
 ------------------------------------------------------------
-Address - 579 DUNDAS ST
+Address - 243 WELLAND AVE
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.woodstockcannabisco.ca/
+URL https://www.tokecannabis.com/st-catharines/store
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ------------------------------------------------------------
 Phone
-15192904420.0
+12893625885.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Woodstock Cannabis Co at address 579 DUNDAS ST NOT Found from Dutchie ecommerse provider's r"
+{
+  "10.0": [
+    [
+      [
+        43.23793026665665,
+        -79.17984882530006
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.24350855177852,
+        -79.13167313754926
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.23616701897118,
+        -79.07324396574145
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.21003361683912,
+        -79.05738363282424
+      ],
+      "min order - 100.0"
+    ]
+  ]
+}
 ------------------------------------------------------------
 Special days or hours:
 
-Pre-Opening at 02-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
-Christmas Hours at 12-24 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
-New Years Hours at 12-31 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
+Victoria Day  at 05-22 - hours per day - None
+New Years  at 01-01 - hours per day - None
 ------------------------------------------------------------

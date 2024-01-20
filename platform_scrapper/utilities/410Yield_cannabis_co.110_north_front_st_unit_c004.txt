@@ -1,0 +1,37 @@
+Store - Yield Cannabis Co.
+------------------------------------------------------------
+Address - 110 NORTH FRONT ST UNIT C004
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://yieldcannabis.com/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16136916835.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening Hours at 04-14 - active - True, hours per day: from - 1:00 PM, to - 7:45 PM
+Closed Today at 12-15 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day Holiday at 07-03 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+CHRISTMAS HOURS at 12-24 - hours per day - None
+POWER OUTAGE at 01-13 - hours per day - None
+------------------------------------------------------------

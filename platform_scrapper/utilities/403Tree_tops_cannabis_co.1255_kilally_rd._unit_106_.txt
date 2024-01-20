@@ -1,10 +1,10 @@
-Store - Woodstock Cannabis Co
+Store - Tree Tops Cannabis Co.
 ------------------------------------------------------------
-Address - 579 DUNDAS ST
+Address - 1255 KILALLY RD. UNIT 106 
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.woodstockcannabisco.ca/
+URL https://www.treetopscannabis.ca/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------
@@ -12,15 +12,17 @@ Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-15192904420.0
+15194536996.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Woodstock Cannabis Co at address 579 DUNDAS ST NOT Found from Dutchie ecommerse provider's r"
+"Delivery info for Tree Tops Cannabis Co. at address 1255 KILALLY RD. UNIT 106  NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 
-Pre-Opening at 02-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
-Christmas Hours at 12-24 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
-New Years Hours at 12-31 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
+Christmas Hours at 12-23 - active - True, hours per day: from - 00:00 AM, to - 7:00 PM
+New Years at 12-29 - active - False, hours per day: from - 00:00 AM, to - 7:00 PM
+Holiday Hours at 12-25 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Sept 10 at 09-10 - hours per day - None
 ------------------------------------------------------------
