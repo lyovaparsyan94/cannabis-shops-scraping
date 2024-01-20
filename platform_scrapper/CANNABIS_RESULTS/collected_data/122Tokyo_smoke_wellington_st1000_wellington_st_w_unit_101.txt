@@ -1,0 +1,77 @@
+Store - TOKYO SMOKE WELLINGTON ST
+------------------------------------------------------------
+Address - 1000 WELLINGTON ST W UNIT 101
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-ottawa
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16137293000.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE WELLINGTON ST at address 1000 WELLINGTON ST W UNIT 101 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+420 Hours at 04-20 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Civic Holiday at 08-03 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+New Years Hours at 12-31 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 8:00 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 11:00 AM, to - 7:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+June 26th - Staffing  at 06-26 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Snow Storm at 01-17 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+No Delivery at 01-29 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+January 30 at 01-30 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Feb 14 at 02-14 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+No Delivery at 05-27 - hours per day - None
+No delivery 13th june at 06-13 - hours per day - None
+No delivery July 6 at 07-06 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Sick Call at 08-31 - hours per day - None
+No delivery 27th Sept at 09-27 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Remembrance Day at 11-11 - hours per day - None
+Holiday HOurs at 12-24 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+Delivery Closed at 01-13 - hours per day - None
+No Delivery at 01-14 - hours per day - None
+No Delivery at 01-15 - hours per day - None
+Early Closing/ No Delivery at 01-28 - hours per day - None
+emergency early close at 01-29 - hours per day - None
+Family Day Hours at 02-20 - hours per day - None
+No Delivery at 03-04 - hours per day - None
+easter at 04-07 - hours per day - None
+Sick Call at 05-06 - hours per day - None
+vic day at 05-22 - hours per day - None
+No Delivery at 06-25 - hours per day - None
+Delivery Cancelled at 08-12 - hours per day - None
+No Delivery at 08-27 - hours per day - None
+No Delivery at 08-26 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+No Delivery at 09-08 - hours per day - None
+No Delivery at 09-21 - hours per day - None
+No Delivery at 09-23 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Ottawa Remembrance Day at 11-11 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

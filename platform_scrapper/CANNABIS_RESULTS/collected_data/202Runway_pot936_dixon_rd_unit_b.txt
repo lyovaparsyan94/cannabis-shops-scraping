@@ -1,23 +1,24 @@
-Store - Dab Cannabis
+Store - Runway Pot
 ------------------------------------------------------------
-Address - 3481 FALCONBRIDGE HWY UNIT 1
+Address - 936 DIXON RD UNIT B
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.dabcannabisstore.com/
+URL https://runwaypot.com/products/
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup','In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-17056934420
+14169294768.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Dab Cannabis at address 3481 FALCONBRIDGE HWY UNIT 1 NOT Found"
+"Delivery info for Runway Pot at address 936 DIXON RD UNIT B NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+New Year at 01-01 - active - True, hours per day: from - open, to - open
 ------------------------------------------------------------

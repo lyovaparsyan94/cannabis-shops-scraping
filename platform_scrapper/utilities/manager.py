@@ -264,11 +264,11 @@ class Manager:
             zones = row.iloc[12]
             checked = row.iloc[13]
             try:
-                reporter(store=store, address=address, del_mode=False)
+                reporter(store=store, address=address, del_mode=False, auto=False)
             except TypeError as e:
                 print(f"error with {store} {address}")
 
 manager = Manager()
 # manager.start()
 # manager.manage()
-manager.file_modifier()
+# manager.file_modifier()

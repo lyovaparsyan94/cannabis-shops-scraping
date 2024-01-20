@@ -1,0 +1,39 @@
+Store - Tokyo Smoke Rideau Centre
+------------------------------------------------------------
+Address - 50 RIDEAU ST UNIT 123B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-ottawa-rideau-centre
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+13435880038.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke Rideau Centre at address 50 RIDEAU ST UNIT 123B NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 3/4 at 03-02 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Remembrance Day at 11-11 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Ottawa Remembrance Day at 11-11 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

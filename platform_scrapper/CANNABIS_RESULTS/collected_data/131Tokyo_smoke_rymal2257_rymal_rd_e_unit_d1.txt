@@ -1,0 +1,71 @@
+Store - Tokyo Smoke Rymal
+------------------------------------------------------------
+Address - 2257 RYMAL RD E UNIT D1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-stoney-creek/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19055613555.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke Rymal at address 2257 RYMAL RD E UNIT D1 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Early Closure at 08-23 - active - True, hours per day: from - 12:00 AM, to - 11:45 PM
+Labour DAy at 09-07 - active - True, hours per day: from - 12:00 AM, to - 11:45 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 12:00 AM, to - 11:45 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Years Hours at 12-31 - active - True, hours per day: from - 12:00 AM, to - 11:45 PM
+Family Day at 02-15 - active - True, hours per day: from - 12:00 AM, to - 8:00 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 12:00 AM, to - 8:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Early Close at 07-31 - active - True, hours per day: from - 2:00 PM, to - 8:00 PM
+Close Early at 08-01 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+August 14 - Staffing at 08-14 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Turn off Delivery request at 08-26 - active - True, hours per day: from - 2:00 PM, to - 3:30 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+November 29 - Staffing  at 11-29 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No Delivery Until Dec 25th at 12-17 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Boxing Day at 12-26 - hours per day - None
+NYE + NYD at 12-31 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No Delivery Until Dec 31st at 12-27 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery at 01-02 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Driver Off at 01-05 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+BLIZZARD 17th JAN 2022 at 01-17 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery  at 02-25 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Staffing February 27  at 02-27 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No Delivery at 03-04 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Sick at 03-06 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Sick Call at 03-08 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery 22nd March at 03-22 - active - False, hours per day: from - 2:00 PM, to - 6:00 PM
+Easter at 04-15 - hours per day - None
+No Delivery April 14th at 04-14 - hours per day - None
+Sick Call at 05-08 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+No Delivery Monday May 30th at 05-30 - hours per day - None
+sick call at 06-02 - hours per day - None
+Delivery until 12th at 06-08 - hours per day - None
+Thanksgiving Monday at 10-10 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Delayed Opening at 01-17 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

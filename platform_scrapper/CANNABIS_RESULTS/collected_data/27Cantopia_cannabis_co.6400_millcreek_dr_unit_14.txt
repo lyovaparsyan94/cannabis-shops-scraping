@@ -16,7 +16,7 @@ Phone
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Cantopia Cannabis Co. at address 6400 MILLCREEK DR UNIT 14 NOT Found from Unknown ecommerse provider's server"
+"Delivery info for Cantopia Cannabis Co. at address 6400 MILLCREEK DR UNIT 14 NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

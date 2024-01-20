@@ -1,0 +1,40 @@
+Store - TOKYO SMOKE BRAMALEA 
+------------------------------------------------------------
+Address - 25 PEEL CENTRE DR UNIT 360A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-brampton-bramalea-city-centre
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12897520400.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE BRAMALEA  at address 25 PEEL CENTRE DR UNIT 360A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 11/11 at 11-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve - Boxing Day  at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE + NYD at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday HOurs at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

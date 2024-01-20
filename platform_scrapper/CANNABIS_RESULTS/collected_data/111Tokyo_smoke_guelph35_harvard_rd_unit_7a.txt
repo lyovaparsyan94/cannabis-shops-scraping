@@ -1,0 +1,35 @@
+Store - Tokyo Smoke Guelph
+------------------------------------------------------------
+Address - 35 HARVARD RD UNIT 7A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-guelph-harvard-rd
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15488550021.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke Guelph at address 35 HARVARD RD UNIT 7A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 6/24 at 06-20 - hours per day - None
+Grand Opening 6/24 at 06-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday HOurs at 12-24 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

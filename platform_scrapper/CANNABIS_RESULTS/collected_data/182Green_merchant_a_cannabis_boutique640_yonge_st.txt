@@ -1,23 +1,26 @@
-Store - Dab Cannabis
+Store - GREEN MERCHANT A CANNABIS BOUTIQUE
 ------------------------------------------------------------
-Address - 3481 FALCONBRIDGE HWY UNIT 1
+Address - 640 YONGE ST
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL http://www.dabcannabisstore.com/
+URL https://mygreenmerchant.com/locations/yonge-bloor/?utm_source=gmb&utm_medium=yonge
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup',  'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-17056934420
+14165198307.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Dab Cannabis at address 3481 FALCONBRIDGE HWY UNIT 1 NOT Found"
+"Delivery info for GREEN MERCHANT A CANNABIS BOUTIQUE at address 640 YONGE ST NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Thanksgiving at 10-11 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+Blizzard at 01-17 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+victoria day at 05-23 - hours per day - None
 ------------------------------------------------------------

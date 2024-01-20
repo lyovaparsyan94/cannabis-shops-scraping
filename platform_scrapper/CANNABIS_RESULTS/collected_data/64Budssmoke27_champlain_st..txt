@@ -1,22 +1,22 @@
-Store - Dab Cannabis
+Store - BUDSSMOKE
 ------------------------------------------------------------
-Address - 3481 FALCONBRIDGE HWY UNIT 1
+Address - 27 CHAMPLAIN ST.
 ------------------------------------------------------------
-Store Application Status - Authorized to Open
+Store Application Status - Public Notice Period: Ended 2023/11/09
 ------------------------------------------------------------
-URL http://www.dabcannabisstore.com/
+URL https://budssmoke.com/
 ------------------------------------------------------------
-Platform - Unknown
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['In-store shopping']
+['Curbside pickup', 'No-Delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-17056934420
+
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Dab Cannabis at address 3481 FALCONBRIDGE HWY UNIT 1 NOT Found"
+"Delivery info for BUDSSMOKE at address 27 CHAMPLAIN ST. NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

@@ -1,0 +1,36 @@
+Store - Tokyo Smoke - Port Elgin
+------------------------------------------------------------
+Address - 216 GODERICH ST UNIT 3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-port-elgin
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15193899333.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke - Port Elgin at address 216 GODERICH ST UNIT 3 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 3/30 at 03-29 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+old hours at 04-28 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------
+

@@ -4,7 +4,7 @@ import json
 from platform_scrapper.src.write_reports import clean_data
 
 
-def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False):
+def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False):
     if address and store:
         store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
         address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
@@ -49,8 +49,9 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
     print(f'{store} {address}.txt')
     os.remove(f"{file_to_append}_G.txt")
     if del_mode:
-        del_mode = input(f'Confirm Delete {file_to_append} and {json_to_read}? ')
-        if del_mode == 'yes':
+        if not auto:
+            del_mode = input(f'Confirm Delete {file_to_append} and {json_to_read}? ')
+        if del_mode == 'yes' or auto:
             os.remove(file_to_append)
             os.remove(json_to_read)
             print(f'removed {file_to_append} and {json_to_read}')
