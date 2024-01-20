@@ -1,0 +1,215 @@
+Store - Yield Cannabis Co.
+------------------------------------------------------------
+Address - 110 NORTH FRONT ST UNIT C004
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://yieldcannabis.com/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16136916835.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        44.312966127810355,
+        -77.3910988
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.30830344601887,
+        -77.3418402497975
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.29463346151526,
+        -77.2959513179165
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.23344082008344,
+        -77.31147162258517
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.244551874909696,
+        -77.22637920560352
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.21842297100817,
+        -77.21025229313969
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.18330835852925,
+        -77.20127118813785
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.15389075794731,
+        -77.24557416914553
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.14961052903718,
+        -77.31869609852191
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.137026939915835,
+        -77.33071919951016
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.14413622213696,
+        -77.35876916806961
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.076188003936196,
+        -77.33782337256518
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.040126509721844,
+        -77.37125685550946
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.11839554756165,
+        -77.4038064340202
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.0512001303285,
+        -77.46831522537255
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.08952475290109,
+        -77.47849122655748
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.125193587012866,
+        -77.47851696588658
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.14321968849094,
+        -77.49387880333398
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.154750248253805,
+        -77.57879435125095
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.18228125639348,
+        -77.47194071737962
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.188406464107366,
+        -77.44343451126555
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.250659302561736,
+        -77.55062497531067
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.20559891899528,
+        -77.42792731618711
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.29805173779158,
+        -77.47749379552172
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.309975857416426,
+        -77.43066928876212
+      ],
+      "min order - 40.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening Hours at 04-14 - active - True, hours per day: from - 1:00 PM, to - 7:45 PM
+Closed Today at 12-15 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day Holiday at 07-03 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+CHRISTMAS HOURS at 12-24 - hours per day - None
+POWER OUTAGE at 01-13 - hours per day - None
+------------------------------------------------------------

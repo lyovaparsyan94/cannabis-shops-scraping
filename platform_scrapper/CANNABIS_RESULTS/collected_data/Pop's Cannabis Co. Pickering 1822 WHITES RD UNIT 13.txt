@@ -1,0 +1,223 @@
+Store - Pop's Cannabis Co. Pickering
+------------------------------------------------------------
+Address - 1822 WHITES RD UNIT 13
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.popscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12892241122.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.91242809827648,
+        -79.12164229999999
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.90966733551008,
+        -79.0926591234797
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.92417528216992,
+        -79.04760023104556
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.907150835878475,
+        -79.016948521257
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.884965341949815,
+        -78.99344707205954
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.864508241937465,
+        -78.9808884337862
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.837015720684256,
+        -78.97388760935796
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.81457535818501,
+        -79.01221148596439
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.80486268508388,
+        -79.04965744068011
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.80492684606242,
+        -79.08100094256486
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.7993879972727,
+        -79.08949921761129
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.7944559869351,
+        -79.1020459616453
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.807259676532055,
+        -79.11813442759936
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.8074257106665,
+        -79.12689209677424
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.80922716303743,
+        -79.13529229020354
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.811766928690396,
+        -79.14136881647386
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.81613317388041,
+        -79.14772521344527
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.82154164715994,
+        -79.15230501915207
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.827623853302256,
+        -79.15479590773518
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.83396535099106,
+        -79.15502772288816
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.838934671597244,
+        -79.15357044416507
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.85299250023446,
+        -79.16753157261178
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.874898705542144,
+        -79.17574084421112
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.88355035391154,
+        -79.15835026685184
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.88864926523815,
+        -79.13845414574764
+      ],
+      "min order - 40.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving  at 10-11 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve  at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day  at 12-26 - hours per day - None
+New Years Eve  at 12-31 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+New Years Day  at 01-01 - active - True, hours per day: from - 10:00 AM, to - 7:00 PM
+Good Friday at 04-15 - hours per day - None
+Victoria Day  at 05-23 - hours per day - None
+Thanksgiving  at 10-10 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Family Day  at 02-20 - hours per day - None
+Good Friday  at 04-07 - hours per day - None
+Victoria Day  at 05-22 - hours per day - None
+Canada Day  at 07-01 - hours per day - None
+Labor Day  at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+xmas eve at 12-24 - hours per day - None
+xmas at 12-25 - hours per day - None
+boxing day at 12-26 - hours per day - None
+NY at 01-01 - hours per day - None
+gala at 01-21 - hours per day - None
+------------------------------------------------------------

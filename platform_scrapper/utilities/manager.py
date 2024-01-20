@@ -1,4 +1,7 @@
 from gevent import monkey
+
+from platform_scrapper.utilities.file_modifier import reporter
+
 monkey.patch_all()
 from pprint import pprint
 import json
@@ -58,9 +61,11 @@ class Manager:
                 zipcode = res['location']['zipcode']
                 offer_delivery = res["offerDelivery"]
                 is_open_status = res['status']
-                print(f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
+                print(
+                    f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
-                    print(f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
+                    print(
+                        f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
@@ -191,10 +196,12 @@ class Manager:
                                 if despensary_id:
                                     special_hours = query.get('special_hours', '')
                                     if not query.get('delivery_enabled', None):
-                                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server", store=store, address=address,
-                                                     status=status, url=url, ecom_provider=ecom_provider,
-                                                     service_options=service_options, phone=phone,
-                                                     index=index, special_hours=special_hours)
+                                        write_report(
+                                            global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
+                                            store=store, address=address,
+                                            status=status, url=url, ecom_provider=ecom_provider,
+                                            service_options=service_options, phone=phone,
+                                            index=index, special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
                                     time.sleep(10)
@@ -238,7 +245,30 @@ class Manager:
         except Exception as n:
             print(f"ERROR in saving {n}")
 
+    def file_modifier(self):
+        df = load_xlsx(
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
+        )
+        df = df.fillna('', inplace=False)
+        for index, row in df.iterrows():
+            state = row.iloc[0]
+            store = str(row.iloc[1])
+            address = str(row.iloc[2])
+            status = row.iloc[3]
+            url = row.iloc[4]
+            ecom_provider = row.iloc[5]
+            store_id = row.iloc[6]
+            service_options = row.iloc[7]
+            phone = str(row.iloc[8])
+            type_of_delivery_offered = row.iloc[9]
+            zones = row.iloc[12]
+            checked = row.iloc[13]
+            try:
+                reporter(store=store, address=address, del_mode=False)
+            except TypeError as e:
+                print(f"error with {store} {address}")
 
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()
+manager.file_modifier()

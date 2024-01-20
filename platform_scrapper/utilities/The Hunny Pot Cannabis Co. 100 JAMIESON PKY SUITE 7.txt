@@ -1,0 +1,136 @@
+Store - The Hunny Pot Cannabis Co.
+------------------------------------------------------------
+Address - 100 JAMIESON PKY SUITE 7
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thehunnypot.com/cambridge-cannabis-menu/?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16475984044.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "5.0": [
+    [
+      [
+        43.44181498699826,
+        -80.3090465
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.440986788900624,
+        -80.30041548493551
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4385586588182,
+        -80.29237311836509
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4264228059684,
+        -80.2968215127185
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.42381284692937,
+        -80.29407450505201
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.42140613234693,
+        -80.29260497442351
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.41774816730103,
+        -80.30288108371552
+      ]
+    ],
+    [
+      [
+        43.416576951670336,
+        -80.30300765305695
+      ]
+    ],
+    [
+      [
+        43.41554085451876,
+        -80.32612003379916
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4188292809283,
+        -80.32623887781654
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.42140613234693,
+        -80.32548802557648
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.42437538288953,
+        -80.32354568330393
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.42687696336795,
+        -80.32061499358853
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.43916583419212,
+        -80.32418571795145
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.456250719359986,
+        -80.32034697654348
+      ],
+      "min order - 30.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Day at 12-25 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

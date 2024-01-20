@@ -1,0 +1,216 @@
+Store - TOKYO SMOKE KINGSTON
+------------------------------------------------------------
+Address - 1011 PRINCESS ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-kingston-1011-princess-st
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16137663332.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        44.350745915928776,
+        -76.5142772
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.347095694817575,
+        -76.47567893673654
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.33639400289333,
+        -76.43971904114558
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.31937072934344,
+        -76.40885393750833
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.31203022079034,
+        -76.34936917205852
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.27673112664985,
+        -76.37254345056998
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.24924057459489,
+        -76.36549446966248
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.221370184137,
+        -76.36858639887677
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.19501914357997,
+        -76.38160042992601
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.17198271192862,
+        -76.4036433289881
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.157004966808344,
+        -76.42678511401306
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.11594100517801,
+        -76.44616756205725
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.07449050834081,
+        -76.48958459268846
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.10854179573217,
+        -76.54400621739968
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.14581342730388,
+        -76.57481340062684
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.178121461396216,
+        -76.5804605748949
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.17624533632123,
+        -76.62997780357013
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.20007911414926,
+        -76.65031700512033
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.226882801993995,
+        -76.6613971157802
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.25483022436491,
+        -76.6624561870778
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.27673112664985,
+        -76.65601094943001
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.301968112474235,
+        -76.63929375442252
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.32323103339221,
+        -76.61404239581684
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.33907004016026,
+        -76.58197639857472
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        44.34840495717363,
+        -76.54528394065042
+      ],
+      "min order - 25.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 10-28 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve - Boxing Day  at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE + NYD at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

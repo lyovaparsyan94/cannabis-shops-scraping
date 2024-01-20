@@ -1,0 +1,251 @@
+Store - TOKYO SMOKE 1082 MEMORIAL 
+------------------------------------------------------------
+Address - 1082 MEMORIAL AVE
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-thunder-bay/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+18072851812.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        48.463252089853135,
+        -89.2461541
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.4612597973446,
+        -89.22341659750344
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.47488765998819,
+        -89.18532565830759
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.413700341182796,
+        -89.23278177765674
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.41109263268621,
+        -89.22977706191881
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.4086880036099,
+        -89.22816972793945
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.40784950979336,
+        -89.15848041620968
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.39263725793268,
+        -89.16029445381994
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.39908172946367,
+        -89.22930771071736
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.39637328662392,
+        -89.23210392785687
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.394612269269544,
+        -89.2350415091349
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.393044178452826,
+        -89.23937900296181
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.36544579002698,
+        -89.23994531731515
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.365716128227575,
+        -89.25544602764398
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.36864927672245,
+        -89.27031442562863
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.37278458248267,
+        -89.28107061394313
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.379893875617654,
+        -89.29232345772023
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.38870028986141,
+        -89.30043284277525
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.39860388229843,
+        -89.30484543193396
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.40733409577343,
+        -89.28242249906411
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.41229945553904,
+        -89.28083972114926
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.41802101533784,
+        -89.27674329909428
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.43420161083142,
+        -89.28593372423009
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.456879382322015,
+        -89.28603547982102
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        48.48396500329336,
+        -89.27145069764
+      ],
+      "min order - 30.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-18 - active - False, hours per day: from - 9:00 AM, to - 11:00 PM
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-07 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Boxing Day at 12-26 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+New Years Hours at 12-31 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Family Day at 02-15 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 12:00 PM, to - 4:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+March 19 & 20 at 03-19 - active - True, hours per day: from - 2:00 PM, to - 6:00 PM
+No delivery 23rd March at 03-23 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Custom Delivery at 03-26 - active - True, hours per day: from - 12:00 PM, to - 4:30 PM
+9th & 10th April - 12-4pm Delivery Only at 04-09 - hours per day - None
+Sick Call at 04-12 - hours per day - None
+No delivery 13th April at 04-13 - hours per day - None
+No Delivery April 14th at 04-14 - hours per day - None
+Easter at 04-15 - hours per day - None
+Delivery Sunday May 1st 12-4 at 05-01 - hours per day - None
+Hours Change at 05-05 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+sick call at 07-09 - hours per day - None
+Sick Call at 08-29 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+No delivery Wednesday 7th Sept at 09-07 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Sick Call at 10-27 - hours per day - None
+No delivery 2nd Nov at 11-02 - hours per day - None
+No Delivery Sunday 20th Nov at 11-20 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+no delivery at 02-06 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 03-08 - hours per day - None
+No Delivery at 03-17 - hours per day - None
+No Delivery at 04-05 - hours per day - None
+easter at 04-07 - hours per day - None
+no delivery at 04-17 - hours per day - None
+vic day at 05-22 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

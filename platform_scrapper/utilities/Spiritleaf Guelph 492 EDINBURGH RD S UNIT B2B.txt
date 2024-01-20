@@ -1,0 +1,219 @@
+Store - Spiritleaf Guelph
+------------------------------------------------------------
+Address - 492 EDINBURGH RD S UNIT B2B
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/locations/south-guelph/?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15192656768.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.580284718321685,
+        -80.2353553
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.5600338051681,
+        -80.22126374101896
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.55607679051905,
+        -80.20813364842041
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.54978223911593,
+        -80.19686065753675
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.541579296133655,
+        -80.18821331093704
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.534015249353715,
+        -80.183588830305
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.5248358729369,
+        -80.1550647922606
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.51354317373332,
+        -80.18212587222075
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.50379832618293,
+        -80.18687300470759
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.495279027490845,
+        -80.19492226744279
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.48973986901405,
+        -80.2033769604051
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.484807581574124,
+        -80.21585938754498
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.46359650339407,
+        -80.2269563945103
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.482665127619015,
+        -80.24386544449
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.499579559016425,
+        -80.24893531682923
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.48973986901405,
+        -80.2673336395949
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.50648595419196,
+        -80.26130448357327
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.49797919160966,
+        -80.30878483210603
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.515581754028666,
+        -80.28910508978353
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.527889412156185,
+        -80.3153180470459
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.546803000338556,
+        -80.34125373873799
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.55363961409944,
+        -80.30280486345535
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.565254702557965,
+        -80.28917611360846
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.573906803822595,
+        -80.27187478069631
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.60101548147604,
+        -80.25851836627714
+      ],
+      "min order - 0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Dec 24 at 12-24 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Dec 25 at 12-25 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Dec 26 at 12-26 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Dec 31 at 12-31 - active - True, hours per day: from - 12:00 AM, to - 8:00 PM
+Jan 1 at 01-01 - active - False, hours per day: from - 10:00 AM, to - 10:00 PM
+Family Day at 02-15 - active - False, hours per day: from - 7:00 AM, to - 7:00 PM
+Good Friday at 04-02 - active - True, hours per day: from - 7:00 AM, to - 9:00 PM
+Canada Day at 07-01 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Civic Holiday at 08-02 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+Labour Day Monday  at 09-06 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Thanksgiving at 10-11 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Christmas Eve  at 12-24 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+New Years Hours  at 12-31 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+Family Day Monday at 02-21 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+Staff Christmas Party  at 05-15 - hours per day - None
+Victoria Day  at 05-23 - hours per day - None
+Canada Day  at 07-01 - hours per day - None
+Holiday hours at 12-24 - hours per day - None
+------------------------------------------------------------
