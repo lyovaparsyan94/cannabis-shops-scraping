@@ -1,9 +1,5 @@
 from gevent import monkey
-
-from platform_scrapper.utilities.file_modifier import reporter
-
 monkey.patch_all()
-from pprint import pprint
 import json
 import time
 import gevent
@@ -12,6 +8,7 @@ from data_collector import write_report
 from platform_scrapper.configs.constants import consumer_headers
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
+from platform_scrapper.utilities.file_modifier import reporter
 
 
 class Manager:
@@ -178,7 +175,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index > 205:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                     # if 'no' in type_of_delivery_offered.lower():
                     #     write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
                     #                  store=store, address=address,
@@ -268,7 +265,8 @@ class Manager:
             except TypeError as e:
                 print(f"error with {store} {address}")
 
+
 manager = Manager()
 # manager.start()
-manager.manage()
+# manager.manage()
 # manager.file_modifier()

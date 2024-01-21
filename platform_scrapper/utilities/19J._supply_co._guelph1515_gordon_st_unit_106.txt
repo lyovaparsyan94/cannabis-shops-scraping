@@ -1,0 +1,26 @@
+Store - J. Supply Co. Guelph
+------------------------------------------------------------
+Address - 1515 GORDON ST UNIT 106
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://shopguelph.jsupplyco.com/stores/j-supply-co-guelph
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15198218180
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+------------------------------------------------------------
+Special days or hours:
+
+Dutchie Launch at 10-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

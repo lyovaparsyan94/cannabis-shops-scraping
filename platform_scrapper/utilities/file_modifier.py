@@ -20,12 +20,9 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
                 print('json found', file_name)
                 json_to_read = file_name
     if not file_to_append and json_to_read:
-        return
+        print('not file_to_append and json_to_read')
+        return None
 
-    # elif file_to_append and json_to_read:
-    #     if not file_to_append or not json_to_read:
-    #         print("File/files doesn't exists")
-    # read json and clean data
     with open(json_to_read, "r") as coord_file:
         coords = json.load(coord_file)
         cleaned_coords = clean_data(coords, store=address, address=address, reporter=True)
@@ -57,5 +54,5 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
             print(f'removed {file_to_append} and {json_to_read}')
 
 
-# reporter(store="BUDSSMOKE", address='389 BAYFIELD ST', del_mode=False)
+reporter(store="Body and Spirit Cannabis", address='361 YONGE ST', del_mode=False)
 # reporter(file_to_append="38Spark_cannabis_24_toronto_st_n.txt", json_to_read='t_Spark_cannabis_24_toronto_st_n.json', del_mode=True)
