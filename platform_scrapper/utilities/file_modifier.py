@@ -54,5 +54,5 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
             print(f'removed {file_to_append} and {json_to_read}')
 
 
-reporter(store="Body and Spirit Cannabis", address='361 YONGE ST', del_mode=False)
+reporter(store="J. Supply Co. Guelph", address='1515 GORDON ST UNIT 106', del_mode=True)
 # reporter(file_to_append="38Spark_cannabis_24_toronto_st_n.txt", json_to_read='t_Spark_cannabis_24_toronto_st_n.json', del_mode=True)

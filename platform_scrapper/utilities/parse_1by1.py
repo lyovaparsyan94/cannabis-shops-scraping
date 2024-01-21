@@ -1,5 +1,5 @@
 from platform_scrapper.utilities.manager import Manager
-
+import shutil
 manager = Manager()
 disp = manager.query_maker('5fc5762bd9d0e500abb94e2b').get('cName', None)
 # if disp:

@@ -9,7 +9,7 @@ URL https://dutchie.com/stores/tokyo-smoke-fairview-mall
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Delivery', 'In-store pick-up', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
 14378800871

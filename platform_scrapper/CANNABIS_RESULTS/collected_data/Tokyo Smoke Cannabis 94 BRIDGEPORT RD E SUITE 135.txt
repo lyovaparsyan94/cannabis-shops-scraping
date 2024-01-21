@@ -1,0 +1,229 @@
+Store - Tokyo Smoke Cannabis
+------------------------------------------------------------
+Address - 94 BRIDGEPORT RD E SUITE 135
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-waterloo-bridgeport-plaza
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15198881888
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.49441846256663,
+        -80.5150187
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.49359027189182,
+        -80.50638019900607
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.49116216361691,
+        -80.49833085790254
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.498118296522634,
+        -80.47655688272134
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.48991528082833,
+        -80.4679169024666
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.48235116648311,
+        -80.46329635697778
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.47218541891552,
+        -80.46071501954799
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.46187890551357,
+        -80.46183462502951
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.45908214800801,
+        -80.48529157792292
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.453854241273234,
+        -80.49022623696804
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.450455089188516,
+        -80.49541002942543
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.45835230845525,
+        -80.50881922478064
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.45758446381244,
+        -80.51321045989165
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.45767056434295,
+        -80.51772486609498
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.458604744314506,
+        -80.52205493698777
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.450455089188516,
+        -80.53462737057457
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.45482161745719,
+        -80.54094577823683
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.46023043930549,
+        -80.54549819766464
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.466313034685804,
+        -80.54797417337403
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4726549351028,
+        -80.5482045728328
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4776245690798,
+        -80.54675598178173
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.48335101817362,
+        -80.54300742064605
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.48817556502387,
+        -80.53735063415819
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.49176933353135,
+        -80.5301710480588
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        43.4938873280565,
+        -80.52195810976528
+      ],
+      "min order - 30.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 08-13 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 1:00 PM, to - 8:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Snow Storm at 01-17 - active - False, hours per day: from - 10:00 AM, to - 10:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 10:00 AM, to - 10:00 PM
+Delivery at 03-27 - active - True, hours per day: from - 2:00 PM, to - 7:00 PM
+No Delivery at 03-24 - active - False, hours per day: from - 10:00 AM, to - 7:00 PM
+No Delivery at 04-07 - hours per day - None
+Easter at 04-15 - hours per day - None
+No Delivery at 04-25 - hours per day - None
+No Delivery at 04-26 - hours per day - None
+Special Delivery Hours at 05-03 - hours per day - None
+Delivery Change at 05-09 - hours per day - None
+No Delivery at 05-10 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Special hrs at 06-11 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+Temporary Closed at 05-31 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------
