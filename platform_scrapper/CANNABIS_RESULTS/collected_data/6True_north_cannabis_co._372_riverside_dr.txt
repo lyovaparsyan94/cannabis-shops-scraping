@@ -4,7 +4,7 @@ Address - 372 RIVERSIDE DR
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.tncc.ca/shop/sudbury/?utm_source=GMB_sudbury&utm_medium=organic
+URL https://www.tncc.ca/shop/sudbury/
 ------------------------------------------------------------
 Platform - Dutchie
 ------------------------------------------------------------

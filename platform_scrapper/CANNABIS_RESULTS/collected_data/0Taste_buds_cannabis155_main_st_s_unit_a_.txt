@@ -1,22 +1,22 @@
 Store - Taste Buds Cannabis
 ------------------------------------------------------------
-Address - 1193 LAWRENCE AVE W
+Address - 155 MAIN ST S UNIT A 
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
 URL http://tbcontario.com/
 ------------------------------------------------------------
-Platform - Dutchie / Page doesn't exist
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Permanently closed']
+['In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-14167811851
+15196050558
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Taste Buds Cannabis at address 1193 LAWRENCE AVE W NOT Found from Dutchie"
+"Delivery info for Taste Buds Cannabis at address 155 MAIN ST S UNIT A  NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
