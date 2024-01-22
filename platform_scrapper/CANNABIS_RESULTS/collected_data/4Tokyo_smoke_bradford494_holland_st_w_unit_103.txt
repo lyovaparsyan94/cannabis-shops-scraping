@@ -9,7 +9,7 @@ URL https://dutchie.com/dispensary/tokyo-smoke-bradford-holland-st
 Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
 19057755983
