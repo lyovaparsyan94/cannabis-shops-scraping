@@ -1,23 +1,24 @@
-Store - Stash & Co.
+Store - NEKU CANNABIS
 ------------------------------------------------------------
-Address - 900 LASALLE BLVD
+Address - 858 UPPER JAMES ST UNIT 1
 ------------------------------------------------------------
-Store Application Status - In Progress
+Store Application Status - Public Notice Period: Ended 2023/10/13
 ------------------------------------------------------------
-URL https://thestashandco.com/oshawa-whitby-location/
+URL https://nekucannabis.com/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['Curbside pickup', 'No-delivery', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-19052432744.0
+19056642340.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Stash & Co. at address 900 LASALLE BLVD NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for NEKU CANNABIS at address 858 UPPER JAMES ST UNIT 1 NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
 ------------------------------------------------------------
+

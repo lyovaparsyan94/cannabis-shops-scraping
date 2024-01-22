@@ -176,7 +176,44 @@ class Manager:
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                    if 'no' in type_of_delivery_offered.lower():
+                    if store_id and len(store_id) == 24:
+                        try:
+                            query = self.query_maker(src_id=store_id)
+                            if query:
+                                despensary_id = query.get('cName', None)
+                                check_status = False
+                                if despensary_id:
+                                    special_hours = query.get('special_hours', '')
+                                    if not query.get('delivery_enabled', None):
+                                        write_report(
+                                            global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
+                                            store=store, address=address,
+                                            status=status, url=url, ecom_provider=ecom_provider,
+                                            service_options=service_options, phone=phone,
+                                            index=index, special_hours=special_hours)
+                                        df.at[index, 'checked'] = True
+                                        continue
+                                    time.sleep(10)
+                                    coordinates = query.get('coordinates')
+                                    print(
+                                        f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
+                                    self.scan_area(state=state, store=store, shop_address=address,
+                                                   despensary_id=despensary_id, status=status, url=url,
+                                                   ecom_provider=ecom_provider, service_options=service_options,
+                                                   phone=phone,
+                                                   index=index, coordinates=coordinates, special_hours=special_hours)
+                                    check_status = True
+                                df.at[index, 'checked'] = check_status
+                                print(f"Saved checked -  {check_status} to excel")
+                        except Exception as check_error:
+                            df.at[index, 'checked'] = 'Error'
+                            print(check_error)
+                            print('Wrote Error to  excel!!!')
+                        finally:
+                            df.to_excel(
+                                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
+                                index=False)
+                    elif 'no' in type_of_delivery_offered.lower():
                         write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
                                      store=store, address=address,
                                      status=status, url=url, ecom_provider=ecom_provider,
@@ -184,43 +221,6 @@ class Manager:
                                      index=index)
                         df.at[index, 'checked'] = True
                         continue
-                    # if store_id and len(store_id) == 24:
-                    #     try:
-                    #         query = self.query_maker(src_id=store_id)
-                    #         if query:
-                    #             despensary_id = query.get('cName', None)
-                    #             check_status = False
-                    #             if despensary_id:
-                    #                 special_hours = query.get('special_hours', '')
-                    #                 if not query.get('delivery_enabled', None):
-                    #                     write_report(
-                    #                         global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
-                    #                         store=store, address=address,
-                    #                         status=status, url=url, ecom_provider=ecom_provider,
-                    #                         service_options=service_options, phone=phone,
-                    #                         index=index, special_hours=special_hours)
-                    #                     df.at[index, 'checked'] = True
-                    #                     continue
-                    #                 time.sleep(10)
-                    #                 coordinates = query.get('coordinates')
-                    #                 print(
-                    #                     f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
-                    #                 self.scan_area(state=state, store=store, shop_address=address,
-                    #                                despensary_id=despensary_id, status=status, url=url,
-                    #                                ecom_provider=ecom_provider, service_options=service_options,
-                    #                                phone=phone,
-                    #                                index=index, coordinates=coordinates, special_hours=special_hours)
-                    #                 check_status = True
-                    #             df.at[index, 'checked'] = check_status
-                    #             print(f"Saved checked -  {check_status} to excel")
-                    #     except Exception as check_error:
-                    #         df.at[index, 'checked'] = 'Error'
-                    #         print(check_error)
-                    #         print('Wrote Error to  excel!!!')
-                    #     finally:
-                    #         df.to_excel(
-                    #             r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
-                    #             index=False)
 
         except Exception as e:
             print(e)

@@ -1,22 +1,22 @@
-Store - Yield Cannabis Co.
+Store - J. SUPPLY CO. - WINDSOR OUELETTE
 ------------------------------------------------------------
-Address - 944 SIMCOE ST N
+Address - 545 OUELLETTE AVE
 ------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2020/07/29
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://yieldcannabis.com/
+URL https://www.jsupplyco.com/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Closed']
+['Permanently closed'']
 ------------------------------------------------------------
 Phone
-
+15199150605.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Yield Cannabis Co. at address 944 SIMCOE ST N NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for J. SUPPLY CO. - WINDSOR OUELETTE at address 545 OUELLETTE AVE NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

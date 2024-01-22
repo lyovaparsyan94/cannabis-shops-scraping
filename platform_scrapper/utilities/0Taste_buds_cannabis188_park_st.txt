@@ -1,22 +1,22 @@
-Store - TREES CANNABIS
+Store - Taste Buds Cannabis
 ------------------------------------------------------------
-Address - 3812A BLOOR ST W
+Address - 188 PARK ST
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://treescannabis.ca/
+URL http://tbcontario.com/
 ------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Dutchie / Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-16478477812.0
+12263382936
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for TREES CANNABIS at address 3812A BLOOR ST W NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for Taste Buds Cannabis at address 188 PARK ST NOT Found from Dutchie"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

@@ -1,22 +1,22 @@
-Store - J. SUPPLY CO. - WINDSOR OUELETTE
+Store - J. Supply Co. Marathon
 ------------------------------------------------------------
-Address - 545 OUELLETTE AVE
+Address - 4 STEVENS AVENUE
 ------------------------------------------------------------
-Store Application Status - Authorized to Open
+Store Application Status - Public Notice Period: Ended 2021/10/23
 ------------------------------------------------------------
-URL https://www.jsupplyco.com/windsor#/menu
+URL https://www.jsupplyco.com/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Permanently closed'']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ------------------------------------------------------------
 Phone
-15199150605.0
+18073455510.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for J. SUPPLY CO. - WINDSOR OUELETTE at address 545 OUELLETTE AVE NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for J. Supply Co. Marathon at address 4 STEVENS AVENUE NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

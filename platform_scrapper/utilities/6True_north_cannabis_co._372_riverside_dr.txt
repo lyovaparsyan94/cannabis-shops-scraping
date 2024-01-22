@@ -1,0 +1,23 @@
+Store - True North Cannabis Co. 
+------------------------------------------------------------
+Address - 372 RIVERSIDE DR
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/sudbury/?utm_source=GMB_sudbury&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17055861260
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co.  at address 372 RIVERSIDE DR NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

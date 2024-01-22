@@ -1,0 +1,23 @@
+Store - SUPERETTE
+------------------------------------------------------------
+Address - 1306 WELLINGTON ST W UNIT 100
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://superetteshop.com/pages/ottawa-wellington-location?utm_source=GMBWellington&utm_medium=OrganicSEO&utm_campaign=GMB_Wellington
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['closed']
+------------------------------------------------------------
+Phone
+16135185020
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SUPERETTE at address 1306 WELLINGTON ST W UNIT 100 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

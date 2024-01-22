@@ -1,22 +1,22 @@
-Store - Ouid
+Store - Taste Buds Cannabis
 ------------------------------------------------------------
-Address - 423 RICHMOND RD
+Address - 1193 LAWRENCE AVE W
 ------------------------------------------------------------
-Store Application Status - In Progress
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://ouid.com/
+URL http://tbcontario.com/
 ------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Dutchie / Page doesn't exist
 ------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['Permanently closed']
 ------------------------------------------------------------
 Phone
-16138430843.0
+14167811851
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Ouid at address 423 RICHMOND RD NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for Taste Buds Cannabis at address 1193 LAWRENCE AVE W NOT Found from Dutchie / Page doesn't exist ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

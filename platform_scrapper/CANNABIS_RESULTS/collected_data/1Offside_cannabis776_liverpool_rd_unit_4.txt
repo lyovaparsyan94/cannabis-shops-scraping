@@ -1,22 +1,22 @@
-Store - WOW WORLD OF WEED INC 
+Store - OFFSIDE CANNABIS
 ------------------------------------------------------------
-Address - 1900 DUNDAS ST W UNIT B29A
+Address - 776 LIVERPOOL RD UNIT 4
 ------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2023/11/10
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.woweeds.ca/
+URL https://offsidecannabis.ca/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Closed']
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ------------------------------------------------------------
 Phone
-14167431234.0
+19058318273
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for WOW WORLD OF WEED INC  at address 1900 DUNDAS ST W UNIT B29A NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for OFFSIDE CANNABIS at address 776 LIVERPOOL RD UNIT 4 NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

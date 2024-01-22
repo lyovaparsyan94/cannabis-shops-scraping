@@ -1,22 +1,22 @@
-Store - The Farmhouse Cannabis Co.
+Store - Pop's Cannabis Co.
 ------------------------------------------------------------
-Address - 279 LAKESHORE RD E
+Address - 13412 TECUMSEH RD E UNIT C2
 ------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2023/10/16
+Store Application Status - Public Notice Period: Ended 2023/09/20
 ------------------------------------------------------------
-URL https://welcometofarmhouse.com/
+URL https://popscannabis.ca/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-[Opening Soon!']
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-19053335113.0
+12265264050.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for The Farmhouse Cannabis Co. at address 279 LAKESHORE RD E NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for Pop's Cannabis Co. at address 13412 TECUMSEH RD E UNIT C2 NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

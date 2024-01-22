@@ -1,22 +1,22 @@
-Store - WOW World of Weed
+Store - TREES CANNABIS
 ------------------------------------------------------------
-Address - 117 INSPIRE BLVD
+Address - 3812A BLOOR ST W
 ------------------------------------------------------------
-Store Application Status - Public Notice: Ends on 2024/01/26
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.woweeds.ca/
+URL https://treescannabis.ca/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Closed']
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping', 'Permanently closed']
 ------------------------------------------------------------
 Phone
-14167431234.0
+16478477812.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for WOW World of Weed at address 117 INSPIRE BLVD NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for TREES CANNABIS at address 3812A BLOOR ST W NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

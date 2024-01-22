@@ -1,22 +1,22 @@
-Store - Pop's Cannabis Co.
+Store - THE CANNABIST SHOP � KING E
 ------------------------------------------------------------
-Address - 801 DUNDAS STREET EAST UNIT D1-D2
+Address - 325 KING ST E
 ------------------------------------------------------------
-Store Application Status - In Progress
+Store Application Status - Public Notice Period: Ended 2021/10/04
 ------------------------------------------------------------
-URL https://popscannabis.ca/
+URL https://www.cannabistshop.ca/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-14378883764.0
+15192080606.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Pop's Cannabis Co. at address 801 DUNDAS STREET EAST UNIT D1-D2 NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for THE CANNABIST SHOP KING E at address 325 KING ST E NOT"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

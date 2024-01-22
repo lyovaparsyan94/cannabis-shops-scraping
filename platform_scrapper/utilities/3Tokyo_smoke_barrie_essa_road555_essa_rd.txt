@@ -1,22 +1,22 @@
-Store - Highties Cannabis Store
+Store - Tokyo Smoke Barrie Essa Road
 ------------------------------------------------------------
-Address - 4000 BRIDLE PATH DR
+Address - 555 ESSA RD
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.highties.ca/downtown/
+URL https://dutchie.com/dispensary/tokyo-smoke-barrie-essa-rd
 ------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Dutchie
 ------------------------------------------------------------
 Service options
-['Permanently closed'']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ------------------------------------------------------------
 Phone
-16136952420.0
+17058812555
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Highties Cannabis Store at address 4000 BRIDLE PATH DR NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for Tokyo Smoke Barrie Essa Road at address 555 ESSA RD NOT Found from Dutchie ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

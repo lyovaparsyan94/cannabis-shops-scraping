@@ -1,10 +1,10 @@
-Store - Buzzed Buds
+Store - Highties Cannabis Store
 ------------------------------------------------------------
-Address - 1562 QUEEN ST E
+Address - 4000 BRIDLE PATH DR
 ------------------------------------------------------------
 Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.buzzedbuds.co/
+URL https://www.highties.ca/downtown/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
@@ -12,11 +12,11 @@ Service options
 ['Permanently closed'']
 ------------------------------------------------------------
 Phone
-16473687830.0
+16136952420.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Buzzed Buds at address 1562 QUEEN ST E NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for Highties Cannabis Store at address 4000 BRIDLE PATH DR NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

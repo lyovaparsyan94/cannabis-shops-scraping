@@ -1,22 +1,22 @@
-Store - J. Supply Co. Geraldton
+Store - VIP Cannabis Company
 ------------------------------------------------------------
-Address - 404 MAIN STREET UNIT C
+Address - 214 MAIN ST W UNIT 2
 ------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2021/10/23
+Store Application Status - Authorized to Open
 ------------------------------------------------------------
-URL https://www.jsupplyco.com/memorial?
+URL https://vipcannabis.ca/
 ------------------------------------------------------------
 Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-18073455510.0
+15199307954.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for J. Supply Co. Geraldton at address 404 MAIN STREET UNIT C NOT Found from Page doesn't exist ecommerse provider's server"
+"Delivery info for VIP Cannabis Company at address 214 MAIN ST W UNIT 2 NOT Found"
 ------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
