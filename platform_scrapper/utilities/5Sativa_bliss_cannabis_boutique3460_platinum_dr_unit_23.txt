@@ -1,0 +1,23 @@
+Store - Sativa Bliss Cannabis Boutique
+------------------------------------------------------------
+Address - 3460 PLATINUM DR UNIT 23
+------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/07/15
+------------------------------------------------------------
+URL https://sativabliss.ca/shop-etobicoke/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14167406111.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Sativa Bliss Cannabis Boutique at address 3460 PLATINUM DR UNIT 23 NOT Found from Page doesn't exist ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

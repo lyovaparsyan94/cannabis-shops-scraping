@@ -1,0 +1,23 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 420 MAIN ST UNIT 105
+------------------------------------------------------------
+Store Application Status - In Progress
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-cambridge/
+------------------------------------------------------------
+Platform - Dutchie / Page doesn't exist
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15196248509.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke at address 420 MAIN ST UNIT 105 NOT Found from Dutchie / Page doesn't exist ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

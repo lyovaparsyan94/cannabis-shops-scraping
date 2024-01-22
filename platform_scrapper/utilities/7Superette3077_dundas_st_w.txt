@@ -1,0 +1,23 @@
+Store - Superette
+------------------------------------------------------------
+Address - 3077 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/10/07
+------------------------------------------------------------
+URL https://superetteshop.com/pages/bellwoods-location?utm_source=GMBBellwoods&utm_medium=OrganicSEO&utm_campaign=GMB_Bellwoods
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14165515482.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Superette at address 3077 DUNDAS ST W NOT Found from Page doesn't exist ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - Pop's Cannabis Co.
+------------------------------------------------------------
+Address - 801 DUNDAS STREET EAST UNIT D1-D2
+------------------------------------------------------------
+Store Application Status - In Progress
+------------------------------------------------------------
+URL https://popscannabis.ca/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14378883764.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Pop's Cannabis Co. at address 801 DUNDAS STREET EAST UNIT D1-D2 NOT Found from Page doesn't exist ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

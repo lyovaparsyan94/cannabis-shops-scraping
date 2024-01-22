@@ -1,0 +1,23 @@
+Store - NEKU CANNABIS
+------------------------------------------------------------
+Address - 858 UPPER JAMES ST UNIT 1
+------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/13
+------------------------------------------------------------
+URL https://nekucannabis.com/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'No-delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19056642340.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for NEKU CANNABIS at address 858 UPPER JAMES ST UNIT 1 NOT Found"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

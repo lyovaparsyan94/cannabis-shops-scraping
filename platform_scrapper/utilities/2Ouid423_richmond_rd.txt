@@ -1,25 +1,23 @@
-Store - TOKE CANNABIS
+Store - Ouid
 ------------------------------------------------------------
-Address - 247 CENTENNIAL PKY N UNIT 2
+Address - 423 RICHMOND RD
 ------------------------------------------------------------
-Store Application Status - Authorized to Open
+Store Application Status - In Progress
 ------------------------------------------------------------
-URL https://www.tokecannabis.com/hamilton/store
+URL https://ouid.com/
 ------------------------------------------------------------
-Platform - Dutchie
+Platform - Page doesn't exist
 ------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['In-store pickup', 'In-store shopping']
 ------------------------------------------------------------
 Phone
-12893891885
+16138430843.0
 ------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for Ouid at address 423 RICHMOND RD NOT Found from Page doesn't exist ecommerse provider's server"
 ------------------------------------------------------------
 Special days or hours:
-
-Victoria Day  at 05-22 - hours per day - None
-ny day at 01-01 - hours per day - None
+- not received information about special days or hours
 ------------------------------------------------------------
