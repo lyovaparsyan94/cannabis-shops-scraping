@@ -1,22 +1,22 @@
-Store - GreenBank Cannabis Ltd.
+Store - Kindling Cannabis Hamilton
 ----------------------------------------------------------------------
-Address - 2208 ST. JOSEPH BLVD UNIT 111
+Address - 35 PINE ST
 ----------------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2023/08/16
+Store Application Status - Public Notice Period: Ended 2023/11/30
 ----------------------------------------------------------------------
-URL http://dreamcannabis.net/
+URL https://shopkindling.ca/pages/kindling-cannabis-toronto-weed-delivery-dispensary-pickup?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=toronto
 ----------------------------------------------------------------------
-Platform - Buddi
+Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-16135964991
+14167922447
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for GreenBank Cannabis Ltd. at address 2208 ST. JOSEPH BLVD UNIT 111 NOT Found: No delivery"
+"Delivery info for Kindling Cannabis Hamilton at address 35 PINE ST NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

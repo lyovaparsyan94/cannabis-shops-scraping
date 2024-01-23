@@ -1,22 +1,22 @@
-Store - Grass Roots
+Store - GreenBank Cannabis Ltd.
 ----------------------------------------------------------------------
-Address - 5124 TECUMSEH RD E UNIT 1
+Address - 2208 ST. JOSEPH BLVD UNIT 111
 ----------------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2023/10/05
+Store Application Status - Public Notice Period: Ended 2023/08/16
 ----------------------------------------------------------------------
-URL https://www.grassrootswindsor.com/shop-tecumseh/#/
+URL http://dreamcannabis.net/
 ----------------------------------------------------------------------
 Platform - Buddi
 ----------------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping', 'No delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-12267397668
+16135964991
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Grass Roots at address 5124 TECUMSEH RD E UNIT 1 NOT Found: Delivery"
+"Delivery info for GreenBank Cannabis Ltd. at address 2208 ST. JOSEPH BLVD UNIT 111 NOT Found from Buddi ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
