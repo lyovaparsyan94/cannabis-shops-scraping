@@ -1,0 +1,23 @@
+Store - GreenGo Cannabis
+----------------------------------------------------------------------
+Address - 3755 LAKE SHORE BLVD W
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2020/04/15
+----------------------------------------------------------------------
+URL https://greengoproducts.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for GreenGo Cannabis at address 3755 LAKE SHORE BLVD W NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

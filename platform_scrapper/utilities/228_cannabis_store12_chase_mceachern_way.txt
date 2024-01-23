@@ -1,0 +1,23 @@
+Store - 228 CANNABIS STORE
+----------------------------------------------------------------------
+Address - 12 CHASE MCEACHERN WAY
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/11/16
+----------------------------------------------------------------------
+URL https://cannabis228.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16134322288
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for 228 CANNABIS STORE at address 12 CHASE MCEACHERN WAY NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - AB LABORATORIES
+----------------------------------------------------------------------
+Address - 1428 SANDHILL DR
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2020/08/04
+----------------------------------------------------------------------
+URL https://www.steelcitygreen.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19056482430
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for AB LABORATORIES at address 1428 SANDHILL DR NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

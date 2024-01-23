@@ -5,9 +5,8 @@ from os.path import abspath, dirname, join
 from platform_scrapper.src.write_reports import clean_data
 
 
-def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False):
+def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False, single_mode=False):
     src = r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\utilities'
-    dst = r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\CANNABIS_RESULTS\collected_data'
 
     if address and store:
         store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
@@ -29,10 +28,9 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
     with open(json_to_read, "r") as coord_file:
         coords = json.load(coord_file)
         cleaned_coords = clean_data(coords, store=address, address=address, reporter=True)
-    # create with clean data temprorary file for beautiful report writer with josnable indents
+    # create with clean data temprorary file for beautiful report writer with jsonable indents
     with open(f"{file_to_append}_G.txt", "w") as glob_file:
         json.dump(cleaned_coords, glob_file, indent=2)
-    # writing txt file with report to add coords
     with open(file_to_append, 'r') as f:
         lines = f.readlines()
         with open(f'{store} {address}.txt', 'w') as file:  # save new file in copy

@@ -1,0 +1,23 @@
+Store - The Nug Co.
+----------------------------------------------------------------------
+Address - 514 RITSON RD S
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2022/02/24
+----------------------------------------------------------------------
+URL http://thenugco.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19052420647
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Nug Co. at address 514 RITSON RD S NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

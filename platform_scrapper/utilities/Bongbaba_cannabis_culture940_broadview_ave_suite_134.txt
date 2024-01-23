@@ -1,0 +1,23 @@
+Store - Bongbaba Cannabis Culture
+----------------------------------------------------------------------
+Address - 940 BROADVIEW AVE SUITE 134
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/09/03
+----------------------------------------------------------------------
+URL http://www.bongbaba.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16479715284
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Bongbaba Cannabis Culture at address 940 BROADVIEW AVE SUITE 134 NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

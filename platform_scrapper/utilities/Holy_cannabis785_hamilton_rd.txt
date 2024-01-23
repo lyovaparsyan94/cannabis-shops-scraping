@@ -1,0 +1,23 @@
+Store - HOLY CANNABIS
+----------------------------------------------------------------------
+Address - 785 HAMILTON RD
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/15
+----------------------------------------------------------------------
+URL https://holycannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+15192045678
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for HOLY CANNABIS at address 785 HAMILTON RD NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

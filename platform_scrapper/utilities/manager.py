@@ -5,7 +5,7 @@ import time
 import gevent
 import requests
 from data_collector import write_report
-from platform_scrapper.configs.constants import consumer_headers
+from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, server_info, FROM
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
 from platform_scrapper.utilities.file_modifier import reporter
@@ -213,12 +213,22 @@ class Manager:
                             df.to_excel(
                                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                                 index=False)
-                    elif 'no' in type_of_delivery_offered.lower():
-                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found from {ecom_provider} ecommerse provider's server",
+                    elif 'no' in type_of_delivery_offered.lower() or ended_licension in status:
+                        print(f"Licension is ended : {ended_licension in status}")
+                        if 'page doesn' in ecom_provider.lower():
+                            for provider in ecommerse_providers:
+                                if provider.lower() in ecom_provider.lower():
+                                    ecom_provider = provider
+                                    ecomerse_is = ecom_provider
+                                else:
+                                    FROM = ''
+                                    server_info = ''
+                                    ecomerse_is = ''
+                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}",
                                      store=store, address=address,
                                      status=status, url=url, ecom_provider=ecom_provider,
                                      service_options=service_options, phone=phone,
-                                     index=index)
+                                     index='')
                         df.at[index, 'checked'] = True
                         continue
 
@@ -262,7 +272,7 @@ class Manager:
             checked = row.iloc[13]
             try:
                 reporter(store=store, address=address, del_mode=False, auto=False)
-            except TypeError as e:
+            except TypeError:
                 print(f"error with {store} {address}")
 
 

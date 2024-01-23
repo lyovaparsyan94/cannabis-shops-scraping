@@ -1,5 +1,6 @@
 import os
 import json
+from platform_scrapper.configs.constants import ecommerse_providers
 
 
 def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
@@ -29,9 +30,6 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
                 for km in final_data[price][degree]:
                     res[price].append(final_data[price][degree][km])
 
-    # filename = str(store) + str(address)
-    # with open(f"gd_{filename}.json", 'w') as file:
-    #     json.dump(res, file)
     return res
 
 
@@ -40,7 +38,7 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
     store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
     address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
     filename = store1 + address1
-    liner = f"\n{60 * '-'}\n"
+    liner = f"\n{70 * '-'}\n"
     days = {}
     if special_hours:
         for i in special_hours:

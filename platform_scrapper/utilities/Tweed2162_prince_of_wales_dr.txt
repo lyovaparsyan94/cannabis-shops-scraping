@@ -1,0 +1,23 @@
+Store - Tweed
+----------------------------------------------------------------------
+Address - 2162 PRINCE OF WALES DR
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2022/02/07
+----------------------------------------------------------------------
+URL https://www.tweed.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tweed at address 2162 PRINCE OF WALES DR NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

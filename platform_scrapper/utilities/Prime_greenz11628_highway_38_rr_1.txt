@@ -1,0 +1,23 @@
+Store - Prime Greenz
+----------------------------------------------------------------------
+Address - 11628 HIGHWAY 38 RR 1
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/09/06
+----------------------------------------------------------------------
+URL ['url not found']
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Prime Greenz at address 11628 HIGHWAY 38 RR 1 NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

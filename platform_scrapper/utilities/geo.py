@@ -24,7 +24,8 @@ class GeoLocator:
                  f"{address} Canada {state} {store}"]
         while not location and retry <= 5:
             try:
-                location = self.geolocator.geocode(query[retry], timeout=30)
+                print(f"trying with {query[retry]}")
+                location = self.geolocator.geocode(query[retry], timeout=5)
                 print(f"COMAPARE address and coords - {address} vs {location.latitude} {location.longitude}")
             except Exception:
                 retry += 1
@@ -98,6 +99,6 @@ class GeoLocator:
 # country = "Canada"
 # address = " ".join(address.split(' ')[:2])
 # param = f"{address} {state}"
-# print(param)
+# # print(param)
 # bayly = geo.get_latitude_longtitude(param)
 # print(bayly)

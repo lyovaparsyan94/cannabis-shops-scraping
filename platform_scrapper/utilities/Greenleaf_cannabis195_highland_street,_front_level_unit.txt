@@ -1,0 +1,23 @@
+Store - GreenLeaf Cannabis
+----------------------------------------------------------------------
+Address - 195 HIGHLAND STREET, FRONT LEVEL UNIT
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/06/24
+----------------------------------------------------------------------
+URL https://www.greenleafcannabis.me/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for GreenLeaf Cannabis at address 195 HIGHLAND STREET, FRONT LEVEL UNIT NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

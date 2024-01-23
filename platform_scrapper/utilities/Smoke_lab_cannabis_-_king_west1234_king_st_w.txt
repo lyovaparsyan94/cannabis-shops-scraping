@@ -1,0 +1,23 @@
+Store - Smoke Lab Cannabis - King West
+----------------------------------------------------------------------
+Address - 1234 KING ST W
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/05/27
+----------------------------------------------------------------------
+URL https://www.smokelab.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Smoke Lab Cannabis - King West at address 1234 KING ST W NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

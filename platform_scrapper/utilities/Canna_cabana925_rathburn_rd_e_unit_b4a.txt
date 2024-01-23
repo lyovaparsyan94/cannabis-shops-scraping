@@ -1,0 +1,23 @@
+Store - Canna Cabana
+----------------------------------------------------------------------
+Address - 925 RATHBURN RD E UNIT B4A
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/06
+----------------------------------------------------------------------
+URL https://cannacabana.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canna Cabana at address 925 RATHBURN RD E UNIT B4A NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

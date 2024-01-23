@@ -1,0 +1,23 @@
+Store - Grass Roots
+----------------------------------------------------------------------
+Address - 5124 TECUMSEH RD E UNIT 1
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/05
+----------------------------------------------------------------------
+URL https://www.grassrootswindsor.com/shop-tecumseh/#/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12267397668
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Grass Roots at address 5124 TECUMSEH RD E UNIT 1 NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

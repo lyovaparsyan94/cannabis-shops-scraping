@@ -1,0 +1,23 @@
+Store - BlueBird Cannabis Co
+----------------------------------------------------------------------
+Address - 27 YORK ST
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/10/03
+----------------------------------------------------------------------
+URL https://bluebirdcannabis.store/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BlueBird Cannabis Co at address 27 YORK ST NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

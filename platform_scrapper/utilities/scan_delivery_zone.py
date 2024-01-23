@@ -36,7 +36,6 @@ class ScanDutchieDelivery:
             if fee:
                 fee = float(fee) / 100
             fee_varies = delivery_info['feeVaries']
-            print(f"FEE VARIES ----- {fee_varies}!!!!!!!!!!!!!!!!!!!!!!!!!")
             minimum = delivery_info.get('minimum', None)
             if minimum:
                 minimum = float(minimum) / 100
@@ -44,9 +43,10 @@ class ScanDutchieDelivery:
             if minimum_varies:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
-            if within_bounds and fee is None:
+            print(f"within_bounds ----- {within_bounds}!!!!!!!!!!!!!!!!!!!!!!!!!")
+            if (within_bounds and fee is None) or (int(fee) >= 0):
                 fee = 0
-                print(f'within_bounds and fee is None so fee = {fee}')
+                print(f'within_bounds and fee is None so fee = {fee}, type of fee - {type(fee)}')
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
@@ -83,15 +83,15 @@ class ScanDutchieDelivery:
         queue = Queue()
         queue.put(start_point)
         delivery_area = {}
-        while degree <= until and degree < 360:
+        while degree <= until:
             print("DEGREE IS", degree)
             point = queue.get()
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
             print(
-                f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee -{fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
+                f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
             # if delivery_area_id is not None and within_bounds is True:
-            if within_bounds:
+            if within_bounds or fee:
                 if fee in delivery_area and not False:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:

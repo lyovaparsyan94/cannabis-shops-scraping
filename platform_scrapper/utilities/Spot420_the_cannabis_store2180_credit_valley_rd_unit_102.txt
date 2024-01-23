@@ -1,0 +1,23 @@
+Store - Spot420 The Cannabis Store
+----------------------------------------------------------------------
+Address - 2180 CREDIT VALLEY RD UNIT 102
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/11/17
+----------------------------------------------------------------------
+URL http://www.spot420.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+4162467769
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Spot420 The Cannabis Store at address 2180 CREDIT VALLEY RD UNIT 102 NOT Found"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
