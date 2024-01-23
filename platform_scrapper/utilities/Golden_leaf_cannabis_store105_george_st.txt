@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Golden Leaf Cannabis Store at address 105 GEORGE ST NOT Found"
+"Delivery info for Golden Leaf Cannabis Store at address 105 GEORGE ST NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

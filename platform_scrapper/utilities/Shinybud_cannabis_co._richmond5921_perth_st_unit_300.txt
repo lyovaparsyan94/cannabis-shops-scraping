@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Shinybud Cannabis Co. Richmond at address 5921 PERTH ST UNIT 300 NOT Found"
+"Delivery info for Shinybud Cannabis Co. Richmond at address 5921 PERTH ST UNIT 300 NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

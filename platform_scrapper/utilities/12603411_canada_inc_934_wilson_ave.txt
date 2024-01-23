@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for 12603411 CANADA INC  at address 934 WILSON AVE NOT Found"
+"Delivery info for 12603411 CANADA INC  at address 934 WILSON AVE NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

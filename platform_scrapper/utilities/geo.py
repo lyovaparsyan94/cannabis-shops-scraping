@@ -14,7 +14,7 @@ class GeoLocator:
                           "Chrome/120.0.0.0 Safari/537.36"
         self.geolocator = Nominatim(user_agent=self.user_agent)
 
-    def get_latitude_longtitude(self, address, store, state):
+    def get_latitude_longtitude(self, address, store=None, state=None):
         location = None
         retry = 0
         query = [f"{' '.join(address.split()[:3])} {state} Canada",

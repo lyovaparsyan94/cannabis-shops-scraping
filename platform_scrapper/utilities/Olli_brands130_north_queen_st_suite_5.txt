@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Olli Brands at address 130 NORTH QUEEN ST SUITE 5 NOT Found"
+"Delivery info for Olli Brands at address 130 NORTH QUEEN ST SUITE 5 NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

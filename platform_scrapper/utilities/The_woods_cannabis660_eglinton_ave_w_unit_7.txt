@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for The Woods Cannabis at address 660 EGLINTON AVE W UNIT 7 NOT Found"
+"Delivery info for The Woods Cannabis at address 660 EGLINTON AVE W UNIT 7 NOT Found: No delivery / Temprorary closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

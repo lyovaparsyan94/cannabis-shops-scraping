@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Grass Roots at address 5124 TECUMSEH RD E UNIT 1 NOT Found"
+"Delivery info for Grass Roots at address 5124 TECUMSEH RD E UNIT 1 NOT Found: Delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Inspired Cannabis at address 681 ALGONQUIN BLVD E NOT Found"
+"Delivery info for Inspired Cannabis at address 681 ALGONQUIN BLVD E NOT Found: No delivery / Closed - coming soon"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

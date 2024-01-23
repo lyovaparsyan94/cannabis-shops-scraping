@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Tweed at address 500 GARDINERS ROAD UNIT 2B  NOT Found"
+"Delivery info for Tweed at address 500 GARDINERS ROAD UNIT 2B  NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

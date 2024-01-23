@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for The Hunny Pot Cannabis Co at address 3010 COLONEL TALBOT RD SUITE 1 NOT Found"
+"Delivery info for The Hunny Pot Cannabis Co at address 3010 COLONEL TALBOT RD SUITE 1 NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

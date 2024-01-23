@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Canna Cabana at address 925 RATHBURN RD E UNIT B4A NOT Found"
+"Delivery info for Canna Cabana at address 925 RATHBURN RD E UNIT B4A NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

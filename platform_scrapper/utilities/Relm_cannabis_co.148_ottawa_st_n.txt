@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for RELM Cannabis Co. at address 148 OTTAWA ST N NOT Found"
+"Delivery info for RELM Cannabis Co. at address 148 OTTAWA ST N NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

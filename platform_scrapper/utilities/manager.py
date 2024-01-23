@@ -1,3 +1,5 @@
+import os
+
 from gevent import monkey
 # monkey.patch_all()
 import json
@@ -214,7 +216,6 @@ class Manager:
                                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                                 index=False)
                     elif 'no' in type_of_delivery_offered.lower() or ended_licension in status:
-                        print(f"Licension is ended : {ended_licension in status}")
                         if 'page doesn' in ecom_provider.lower():
                             for provider in ecommerse_providers:
                                 if provider.lower() in ecom_provider.lower():
@@ -224,7 +225,9 @@ class Manager:
                                     FROM = ''
                                     server_info = ''
                                     ecomerse_is = ''
-                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}",
+                                type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist", '').replace(" / Page doesn’t exist", '')
+                                print('replaced')
+                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
                                      store=store, address=address,
                                      status=status, url=url, ecom_provider=ecom_provider,
                                      service_options=service_options, phone=phone,
@@ -280,3 +283,10 @@ manager = Manager()
 # manager.start()
 manager.manage()
 # manager.file_modifier()
+# for file in os.listdir():
+#     if file.endswith('.txt'):
+#         os.remove(file)
+# x = " Page doesn't exist"
+# no_delivery = "['No delivery / Page doesn't exist']"
+# no_delivery = no_delivery[1: -1]
+# print(no_delivery.replace(" / Page doesn't exist", '').replace(" / Page doesn’t exist", ''))

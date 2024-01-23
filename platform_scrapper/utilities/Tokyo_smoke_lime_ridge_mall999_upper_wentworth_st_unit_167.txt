@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Tokyo Smoke Lime Ridge Mall at address 999 UPPER WENTWORTH ST UNIT 167 NOT Found"
+"Delivery info for Tokyo Smoke Lime Ridge Mall at address 999 UPPER WENTWORTH ST UNIT 167 NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

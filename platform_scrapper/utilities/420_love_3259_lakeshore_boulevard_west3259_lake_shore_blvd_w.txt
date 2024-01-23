@@ -9,14 +9,14 @@ URL https://420love.ca/
 Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ----------------------------------------------------------------------
 Phone
 19055460729
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for 420 Love 3259 Lakeshore Boulevard West at address 3259 LAKE SHORE BLVD W NOT Found"
+"Delivery info for 420 Love 3259 Lakeshore Boulevard West at address 3259 LAKE SHORE BLVD W NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

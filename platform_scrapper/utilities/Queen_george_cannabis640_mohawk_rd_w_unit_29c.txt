@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Queen George Cannabis at address 640 MOHAWK RD W UNIT 29C NOT Found"
+"Delivery info for Queen George Cannabis at address 640 MOHAWK RD W UNIT 29C NOT Found: No delivery / Page doesn't exist"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
