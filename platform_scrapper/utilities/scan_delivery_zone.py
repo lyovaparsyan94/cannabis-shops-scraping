@@ -12,9 +12,9 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 0.4
+    step = 3
     # step = 2.8
-    base_distantion = 0.5
+    base_distantion = 47
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
@@ -87,7 +87,9 @@ class ScanDutchieDelivery:
             print("DEGREE IS", degree)
             point = queue.get()
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
-            delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
+            delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = [None] * 6
+            if self.get_delivery_info(point):
+                delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
             # if delivery_area_id is not None and within_bounds is True:

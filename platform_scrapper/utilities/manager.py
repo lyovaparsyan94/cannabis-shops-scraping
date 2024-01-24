@@ -1,7 +1,6 @@
 import os
-
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import time
 import gevent
@@ -286,7 +285,3 @@ manager.manage()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
 #         os.remove(file)
-# x = " Page doesn't exist"
-# no_delivery = "['No delivery / Page doesn't exist']"
-# no_delivery = no_delivery[1: -1]
-# print(no_delivery.replace(" / Page doesn't exist", '').replace(" / Page doesn’t exist", ''))
