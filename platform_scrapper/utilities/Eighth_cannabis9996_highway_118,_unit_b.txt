@@ -1,0 +1,23 @@
+Store - EIGHTH CANNABIS
+----------------------------------------------------------------------
+Address - 9996 HIGHWAY 118, UNIT B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://8th.ca/shop-coboconk/?store_id=5697#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+17054891098
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for EIGHTH CANNABIS at address 9996 HIGHWAY 118, UNIT B NOT Found from ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

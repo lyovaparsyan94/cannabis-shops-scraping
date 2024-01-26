@@ -1,0 +1,23 @@
+Store - Sparq Retail
+----------------------------------------------------------------------
+Address - 861 LANSDOWNE ST W UNIT 4
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.sparqretail.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+17057436914
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Sparq Retail at address 861 LANSDOWNE ST W UNIT 4 NOT Found from ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

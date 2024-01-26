@@ -1,0 +1,23 @@
+Store - Spiritleaf Ajax
+----------------------------------------------------------------------
+Address - 145 KINGSTON RD E SUITE 20
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://dutchie.com/dispensary/spiritleaf-ajax
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19052390099
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Spiritleaf Ajax at address 145 KINGSTON RD E SUITE 20 NOT Found from ecommerse provider's server: No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

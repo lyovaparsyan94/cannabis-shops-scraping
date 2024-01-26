@@ -1,0 +1,23 @@
+Store - Malibu Munchies
+----------------------------------------------------------------------
+Address - 118 MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.malibucannabis.ca
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+7053556006
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Malibu Munchies at address 118 MAIN ST NOT Found: No delivery / Temprorary closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

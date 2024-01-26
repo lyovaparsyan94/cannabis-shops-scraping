@@ -1,0 +1,23 @@
+Store - EVERGREEN LEAF
+----------------------------------------------------------------------
+Address - 122 QUEEN STREET
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://evergreenleaf.ca/shop-online-longlac/#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+17053621118
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for EVERGREEN LEAF at address 122 QUEEN STREET NOT Found from ecommerse provider's server: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

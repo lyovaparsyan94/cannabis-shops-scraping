@@ -1,0 +1,23 @@
+Store - FOREST PLANT
+----------------------------------------------------------------------
+Address - 254 PEFFERLAW RD
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://cannabisforest.shop/home
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FOREST PLANT at address 254 PEFFERLAW RD NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

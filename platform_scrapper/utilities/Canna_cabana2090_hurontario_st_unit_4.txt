@@ -1,0 +1,23 @@
+Store - Canna Cabana
+----------------------------------------------------------------------
+Address - 2090 HURONTARIO ST UNIT 4
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://cannacabana.com/pages/store-locator
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canna Cabana at address 2090 HURONTARIO ST UNIT 4 NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - One Stop Cannabis
+----------------------------------------------------------------------
+Address - 30 PARK RD N UNIT 2
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://1stopcannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for One Stop Cannabis at address 30 PARK RD N UNIT 2 NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

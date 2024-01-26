@@ -1,0 +1,23 @@
+Store - Discounted Cannabis
+----------------------------------------------------------------------
+Address - 9 MAIN ST E
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://curaleaf.com/shop/new-jersey/curaleaf-nj-bellmawr-adult-use?utm_source=google&utm_medium=gmb&utm_campaign=gmb-menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+18569338700
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Discounted Cannabis at address 9 MAIN ST E NOT Found from ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

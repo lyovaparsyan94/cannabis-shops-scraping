@@ -1,0 +1,23 @@
+Store - Tweed
+----------------------------------------------------------------------
+Address - 299 GREENBANK RD
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://www.tweed.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+16135966223
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tweed at address 299 GREENBANK RD NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

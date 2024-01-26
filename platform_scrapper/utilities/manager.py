@@ -5,7 +5,7 @@ import time
 import gevent
 import requests
 from data_collector import write_report
-from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, server_info, FROM
+from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, server_info, FROM as f
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
 from platform_scrapper.utilities.file_modifier import reporter
@@ -100,11 +100,11 @@ class Manager:
                 ended_licension = "Public Notice Period: Ended"
 
                 if url in info_saved:
-                    print(f"{url} in info_saved, index: {index}")
-                    if info_saved[url].get("platform", None) and not ecom_provider:
+                    if info_saved[url].get("platform", None) and (not ecom_provider or ecom_provider == "Unknown"):
                         ecom_provider = info_saved[url]["platform"]
+                        print(f"Filled {address} (url: {url}) ecom_provider to {info_saved[url]['platform']}")
                         copy_df.at[index, 'ecommerce provider'] = str(ecom_provider)
-                        print(f"ADD {counter} ECOMMERSE PROVIDERS - ")
+                        print(f"ADD {counter} ECOMMERSE PROVIDERS")
                         counter += 1
                     if str(info_saved[url]['store']).lower() in store.lower():
                         src = info_saved[url].get('src')
@@ -184,10 +184,10 @@ class Manager:
                                             store=store, address=address,
                                             status=status, url=url, ecom_provider=ecom_provider,
                                             service_options=service_options, phone=phone,
-                                            index=index, special_hours=special_hours)
+                                            index='', special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
-                                    time.sleep(10)
+                                    # time.sleep(10)
                                     coordinates = query.get('coordinates')
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
@@ -208,19 +208,22 @@ class Manager:
                                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
                                 index=False)
                     elif 'no' in type_of_delivery_offered.lower() or ended_licension in status:
+                        FROM = f
+                        ecomerse_is = ''
+                        server_info = "ecommerse provider's server"
                         if 'page doesn' in ecom_provider.lower():
                             for provider in ecommerse_providers:
                                 if provider.lower() in ecom_provider.lower():
                                     ecom_provider = provider
                                     ecomerse_is = ecom_provider
+                                    break
                                 else:
                                     FROM = ''
                                     server_info = ''
-                                    ecomerse_is = ''
                                 type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
                                                                                             '').replace(
                                     " / Page doesn’t exist", '')
-                                print('replaced')
+                                break
                         write_report(
                             global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
                             store=store, address=address,
@@ -246,7 +249,7 @@ class Manager:
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
-                         index=index, special_hours=special_hours)
+                         index='', special_hours=special_hours)
         except Exception as n:
             print(f"ERROR in saving {n}")
 
@@ -275,9 +278,10 @@ class Manager:
 
 
 manager = Manager()
-manager.start()
-# manager.manage()
+# manager.start()
+manager.manage()
 # manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
+#         print(file)
 #         os.remove(file)

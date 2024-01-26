@@ -1,0 +1,23 @@
+Store - Bongo's Lifestyles Inc.
+----------------------------------------------------------------------
+Address - 374 GEORGE ST N
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://weedmaps.com/dispensaries/bongos-lifestyles
+----------------------------------------------------------------------
+Platform - Weedmaps
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['17057501818, (705) 741-6151']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Bongo's Lifestyles Inc. at address 374 GEORGE ST N NOT Found from ecommerse provider's server: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
