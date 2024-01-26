@@ -8,7 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
-from configs.constants import dutchie_markers, buddi_markers, DUTCHIE, BUDDI
+from configs.constants import dutchie_markers, buddi_markers, tymber_markers, techpos_markers, DUTCHIE, BUDDI, TECHPOS, TYMBER
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementNotVisibleException, \
     ElementNotSelectableException
@@ -37,9 +37,9 @@ def start():
             store = row.iloc[1]
             url = row.iloc[4]
             current_data = current_info()
-            # data = current_data  # !!!! ES DZI
+            data = current_data  # !!!! ES DZI
             print(f"Trying URL: {url}\n {counter}/{len(df)}")
-            if url not in data:
+            if url not in data and "cannacabana.com" not in url and counter > 224:
                 if not current_data.get(urlparse(url).netloc, False):
                     scrape(store=store, url=url)
                 else:
@@ -57,7 +57,7 @@ def scrape(store, url):
         driver.get(url)
         domain = urlparse(url).netloc
         time.sleep(5)
-        print('Finding a tags')
+        print('Finding <a> tags')
         a_web_elements = driver.find_elements(*(By.TAG_NAME, 'a'))
         links = set([tag.get_attribute('href') for tag in a_web_elements])
         print(f'"a" tags founded: {links}')
@@ -83,9 +83,13 @@ def scrape(store, url):
                             data[url]['platform'] = DUTCHIE
                         elif is_platform(name=BUDDI, url=url, markers=buddi_markers):
                             data[url]['platform'] = BUDDI
+                        elif is_platform(name=TECHPOS, url=url, markers=techpos_markers):
+                            data[url]['platform'] = TECHPOS
+                        elif is_platform(name=TYMBER, url=url, markers=TYMBER):
+                            data[url]['platform'] = TYMBER
             except Exception as e:
+                print(e)
                 print(f'Store: {store}\nURL: {url}\n{100 * "="}')
-                # save_dict()
     except Exception:
         print('Other exception')
         # save_dict()

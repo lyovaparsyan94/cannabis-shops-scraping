@@ -3,7 +3,7 @@ BUDDI = "Buddi"
 LEAFLY = "Leafly"
 WEEDMAPS = "Weedmaps"
 TYMBER = 'Tymber'
-TECHPROS = 'Techpros'
+TECHPOS = 'Techpros'
 
 dutchie_iframe = "dutchie--embed__iframe"
 dutchie_plus_button = ""
@@ -20,6 +20,9 @@ weedmaps_markers = [
 leafly_markers = [
 
 ]
+tymber_markers = ["tymber.js", "surfside-tymber", "tymber-greenline", "TymberToast", "https://tymber", "TymberFooter",
+                  "tymber", "https://tymber-s3"]
+techpos_markers = ["https://techpos.ca", "E-commerce by TechPOS", "TechPOS"]
 
 buddi_markers = ["app.buddi.", "www.budside.com", "buddi-notification", "//app.buddi.io/css/ropis/tailwind",
                  "//app.buddi.io", ".buddi-online-menu",
@@ -81,4 +84,4 @@ consumer_headers = {
 }
 FROM = ' from '
 server_info = " ecommerse provider's server"
-ecommerse_providers = [DUTCHIE, BUDDI, LEAFLY, WEEDMAPS, TYMBER, TECHPROS]
+ecommerse_providers = [DUTCHIE, BUDDI, LEAFLY, WEEDMAPS, TYMBER, TECHPOS]

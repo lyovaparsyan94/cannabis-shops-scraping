@@ -1,9 +1,5 @@
-import random
-
-import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
-from random import choice, shuffle
 
 
 class GeoLocator:
@@ -25,7 +21,7 @@ class GeoLocator:
         while not location and retry <= 5:
             try:
                 print(f"trying with {query[retry]}")
-                location = self.geolocator.geocode(query[retry], timeout=5)
+                location = self.geolocator.geocode(query[retry], timeout=30)
                 print(f"COMAPARE address and coords - {address} vs {location.latitude} {location.longitude}")
             except Exception:
                 retry += 1

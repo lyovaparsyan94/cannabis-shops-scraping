@@ -1,6 +1,5 @@
-import os
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
 import json
 import time
 import gevent
@@ -77,7 +76,7 @@ class Manager:
 
     def start(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\3FAKECOPY_test_cannabis_previous_for_apis.xlsx"
+            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
         )
         copy_df = df.fillna('', inplace=False)
 
@@ -104,10 +103,9 @@ class Manager:
                     print(f"{url} in info_saved, index: {index}")
                     if info_saved[url].get("platform", None) and not ecom_provider:
                         ecom_provider = info_saved[url]["platform"]
-                        copy_df.at[index, 'ecommerce provider'] = 'KK' + str(ecom_provider)
+                        copy_df.at[index, 'ecommerce provider'] = str(ecom_provider)
                         print(f"ADD {counter} ECOMMERSE PROVIDERS - ")
                         counter += 1
-
                     if str(info_saved[url]['store']).lower() in store.lower():
                         src = info_saved[url].get('src')
                         if src:
@@ -142,18 +140,13 @@ class Manager:
                                                 scannner = self.scanner.multi_scan_total_area(store=store,
                                                                                               address=coordinates)
                                                 raise Exception
-                                        else:
-                                            continue
-
                             except Exception as s:
                                 print(s)
-                            finally:
-                                continue
         except Exception as e:
             print(e)
         finally:
             copy_df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\2FAKECOPY_test_cannabis_previous_for_apis.xlsx',
+                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\FAKECOPY_cannabis_used_IDs.xlsx',
                 index=False)
 
     def manage(self):
@@ -224,13 +217,16 @@ class Manager:
                                     FROM = ''
                                     server_info = ''
                                     ecomerse_is = ''
-                                type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist", '').replace(" / Page doesn’t exist", '')
+                                type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
+                                                                                            '').replace(
+                                    " / Page doesn’t exist", '')
                                 print('replaced')
-                        write_report(global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
-                                     store=store, address=address,
-                                     status=status, url=url, ecom_provider=ecom_provider,
-                                     service_options=service_options, phone=phone,
-                                     index='')
+                        write_report(
+                            global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
+                            store=store, address=address,
+                            status=status, url=url, ecom_provider=ecom_provider,
+                            service_options=service_options, phone=phone,
+                            index='')
                         df.at[index, 'checked'] = True
                         continue
 
@@ -279,8 +275,8 @@ class Manager:
 
 
 manager = Manager()
-# manager.start()
-manager.manage()
+manager.start()
+# manager.manage()
 # manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
