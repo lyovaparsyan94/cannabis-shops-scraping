@@ -1,22 +1,22 @@
-Store - SESSIONS CANNABIS BLOOR
+Store - EIGHTH CANNABIS
 ----------------------------------------------------------------------
-Address - 976A-978 BLOOR ST W
+Address - 292 MARA RD UNIT A
 ----------------------------------------------------------------------
-Store Application Status - In Progress
+Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://www.sessions.ca/toronto-bloor-dispensary-menu
+URL https://8th.ca/
 ----------------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Buddi
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+['Closed']
 ----------------------------------------------------------------------
 Phone
-14165337777
+17054262437
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for SESSIONS CANNABIS BLOOR at address 976A-978 BLOOR ST W NOT Found: No delivery / Permanently closed"
+"Delivery info for EIGHTH CANNABIS at address 292 MARA RD UNIT A NOT Found from ecommerse provider's server: No delivery / Page doesn't exist"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

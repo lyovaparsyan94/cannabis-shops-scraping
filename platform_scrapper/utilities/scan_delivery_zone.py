@@ -12,9 +12,9 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 4
+    step = 0.4
     # step = 2.8
-    base_distantion = 45
+    base_distantion = 1.7
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
@@ -45,9 +45,9 @@ class ScanDutchieDelivery:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
             print(f"within_bounds ----- {within_bounds}!!!!!!!!!!!!!!!!!!!!!!!!!")
-            if (within_bounds and fee is None) or (int(fee) >= 0):
+            if within_bounds and fee in (False, None):
                 fee = 0
-                print(f'within_bounds and fee is None so fee = {fee}')
+                print(f'within_bounds {within_bounds is True}, fee in (False, None) {fee in (False, None)} so fee = {fee}')
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
@@ -90,14 +90,15 @@ class ScanDutchieDelivery:
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = [None] * 6
             try:
-                if self.get_delivery_info(point):
-                    delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = self.get_delivery_info(point)
+                get_delivery_info = self.get_delivery_info(point)
+                if get_delivery_info:
+                    delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = get_delivery_info
             except TypeError as e:
                 print("Error with getting delivery info", e)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-            # if delivery_area_id is not None and within_bounds is True:
-            if (within_bounds and distantion < 60) or (fee and distantion < 60):
+            if within_bounds and fee is not False:
+                print(f"within_bounds: {within_bounds}, fee-  {fee}")
                 if fee in delivery_area and not False:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:

@@ -1,22 +1,22 @@
-Store - EIGHTH CANNABIS
+Store - One Plant
 ----------------------------------------------------------------------
-Address - 292 MARA RD UNIT A
+Address - 1370 S SERVICE RD, BUILDING A UNIT 3 WINONA CROSSING SHOPPING CENTRE
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://8th.ca/
+URL https://www.oneplant.ca/locations/stoney-creek#
 ----------------------------------------------------------------------
-Platform - Buddi
+Platform - Unknown
 ----------------------------------------------------------------------
 Service options
-['Closed']
+['In-store shopping']
 ----------------------------------------------------------------------
 Phone
-17054262437
+2896491222
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for EIGHTH CANNABIS at address 292 MARA RD UNIT A NOT Found from ecommerse provider's server: No delivery / Page doesn\u2019t exist"
+"Delivery info for One Plant at address 1370 S SERVICE RD, BUILDING A UNIT 3 WINONA CROSSING SHOPPING CENTRE NOT Found: No Delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

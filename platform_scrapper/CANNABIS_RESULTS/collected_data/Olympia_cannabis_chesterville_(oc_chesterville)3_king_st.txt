@@ -1,23 +1,25 @@
-Store - ONE PLANT BARRIE (CUNDLES)
+Store - Olympia Cannabis Chesterville (OC Chesterville)
 ----------------------------------------------------------------------
-Address - 627 CUNDLES ROAD EAST, UNIT 111
+Address - 3 KING ST
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://www.oneplant.ca/locations/barrie-cundles
+URL http://www.olympiacannabis.ca/
 ----------------------------------------------------------------------
-Platform - Unknown
+Platform - Dutchie
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping']
+['In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-17057374554
+16134364848
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for ONE PLANT BARRIE (CUNDLES) at address 627 CUNDLES ROAD EAST, UNIT 111 NOT Found from ecommerse provider's server: No delivery / Location is currently not accepting orders"
+"Delivery info for Olympia Cannabis Chesterville (OC Chesterville) at address 3 KING ST NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+wknd at 05-27 - hours per day - None
+New Years Day at 01-01 - hours per day - None
 ----------------------------------------------------------------------

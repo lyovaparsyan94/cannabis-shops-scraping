@@ -31,7 +31,7 @@ class GeoLocator:
         response = None
         while not response and retry >= 1:
             try:
-                location = self.geolocator.reverse(address, timeout=30)
+                location = self.geolocator.reverse(address, timeout=10)
                 _lat = location.raw['lat']
                 _lon = location.raw['lon']
                 _city = location.raw['address'].get('city', None)

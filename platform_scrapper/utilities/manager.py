@@ -1,7 +1,6 @@
 from gevent import monkey
 # monkey.patch_all()
 import json
-import time
 import gevent
 import requests
 from data_collector import write_report
@@ -100,9 +99,10 @@ class Manager:
                 ended_licension = "Public Notice Period: Ended"
 
                 if url in info_saved:
-                    if info_saved[url].get("platform", None) and (not ecom_provider or ecom_provider == "Unknown"):
+                    if info_saved[url].get("platform", None) and (ecom_provider not in ecommerse_providers):
+                        print(f"ecom_provider is {ecom_provider}")
                         ecom_provider = info_saved[url]["platform"]
-                        print(f"Filled {address} (url: {url}) ecom_provider to {info_saved[url]['platform']}")
+                        print(f"Filled {address} (url: {url}) {info_saved[url]['platform']} ecom_provider")
                         copy_df.at[index, 'ecommerce provider'] = str(ecom_provider)
                         print(f"ADD {counter} ECOMMERSE PROVIDERS")
                         counter += 1
@@ -149,10 +149,9 @@ class Manager:
                 r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\FAKECOPY_cannabis_used_IDs.xlsx',
                 index=False)
 
-    def manage(self):
-        df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
-        )
+    def manage(self, file):
+        print(f'running file {file}')
+        df = load_xlsx(file=file)
         df = df.fillna('', inplace=False)
         try:
             for index, row in df.iterrows():
@@ -171,6 +170,7 @@ class Manager:
                 ended_licension = "Public Notice Period: Ended"
                 if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                     if store_id and len(store_id) == 24:
+                        print(store_id)
                         try:
                             query = self.query_maker(src_id=store_id)
                             if query:
@@ -204,10 +204,8 @@ class Manager:
                             print(check_error)
                             print('Wrote Error to  excel!!!')
                         finally:
-                            df.to_excel(
-                                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
-                                index=False)
-                    elif 'no' in type_of_delivery_offered.lower() or ended_licension in status:
+                            df.to_excel(file,index=False)
+                    elif 'no' in type_of_delivery_offered.lower():
                         FROM = f
                         ecomerse_is = ''
                         server_info = "ecommerse provider's server"
@@ -236,9 +234,7 @@ class Manager:
         except Exception as e:
             print(e)
         finally:
-            df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx',
-                index=False)
+            df.to_excel(file, index=False)
 
     def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone,
                   index, coordinates, special_hours):
@@ -259,27 +255,17 @@ class Manager:
         )
         df = df.fillna('', inplace=False)
         for index, row in df.iterrows():
-            state = row.iloc[0]
             store = str(row.iloc[1])
             address = str(row.iloc[2])
-            status = row.iloc[3]
-            url = row.iloc[4]
-            ecom_provider = row.iloc[5]
-            store_id = row.iloc[6]
-            service_options = row.iloc[7]
-            phone = str(row.iloc[8])
-            type_of_delivery_offered = row.iloc[9]
-            zones = row.iloc[12]
-            checked = row.iloc[13]
             try:
                 reporter(store=store, address=address, del_mode=False, auto=False)
-            except TypeError:
-                print(f"error with {store} {address}")
+            except TypeError as er:
+                print(f"error with {store} {address}\n", er)
 
 
 manager = Manager()
 # manager.start()
-manager.manage()
+manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
 # manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
