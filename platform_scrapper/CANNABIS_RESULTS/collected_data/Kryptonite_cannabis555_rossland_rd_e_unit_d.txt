@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Kryptonite Cannabis at address 555 ROSSLAND RD E UNIT D NOT Found from ecommerse provider's server: No delivery"
+"Delivery info for Kryptonite Cannabis at address 555 ROSSLAND RD E UNIT D NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

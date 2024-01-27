@@ -30,7 +30,6 @@ Special Hours at 01-04 - hours per day - None
 Special Hours at 01-03 - hours per day - None
 Special Hours at 01-05 - hours per day - None
 Special Hours at 01-14 - hours per day - None
-. at 11-27 - hours per day - None
 Family Day at 02-20 - hours per day - None
 Thanksgiving Day at 10-09 - hours per day - None
 Boxing Day at 12-26 - hours per day - None
