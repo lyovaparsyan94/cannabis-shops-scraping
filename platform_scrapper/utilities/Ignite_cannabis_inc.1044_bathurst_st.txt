@@ -1,0 +1,23 @@
+Store - Ignite Cannabis Inc.
+----------------------------------------------------------------------
+Address - 1044 BATHURST ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://weedmaps.com/dispensaries/ignite-cannabis-inc#details
+----------------------------------------------------------------------
+Platform - Weedmaps
+----------------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14165337617.0
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Ignite Cannabis Inc. at address 1044 BATHURST ST NOT Found from ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

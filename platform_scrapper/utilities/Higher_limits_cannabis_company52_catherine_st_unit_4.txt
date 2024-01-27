@@ -1,0 +1,23 @@
+Store - Higher Limits Cannabis Company
+----------------------------------------------------------------------
+Address - 52 CATHERINE ST UNIT 4
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://higherlimits.com/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+12263670433.0
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Higher Limits Cannabis Company at address 52 CATHERINE ST UNIT 4 NOT Found from ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
