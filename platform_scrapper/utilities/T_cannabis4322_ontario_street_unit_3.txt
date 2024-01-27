@@ -1,0 +1,73 @@
+Store - T CANNABIS
+----------------------------------------------------------------------
+Address - 4322 ONTARIO STREET UNIT 3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.tcann.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+19055635255
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "1.99": [
+    [
+      [
+        43.16847391610971,
+        -79.47091862656234
+      ]
+    ],
+    [
+      [
+        43.167318679092375,
+        -79.47062622944452
+      ]
+    ],
+    [
+      [
+        43.15688804756505,
+        -79.46664838213273
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.159152355466105,
+        -79.4901444158544
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.16953439245782,
+        -79.48192323372194
+      ]
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Labor Day  at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Hours at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE at 12-31 - active - True, hours per day: from - 8:00 AM, to - 9:00 PM
+Family Day at 02-15 - active - True, hours per day: from - open, to - open
+Easter at 04-02 - active - True, hours per day: from - open, to - open
+CANADA DAY at 07-01 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Labour day  at 09-06 - active - True, hours per day: from - open, to - open
+Thanksgiving at 10-11 - active - True, hours per day: from - open, to - open
+Christmas Hours at 12-25 - active - True, hours per day: from - open, to - open
+Family Day at 02-21 - active - True, hours per day: from - open, to - open
+Holiday Hours at 04-15 - hours per day - None
+HOLIDAY HOURS at 05-23 - hours per day - None
+Temp at 10-10 - hours per day - None
+Temporary Hours at 12-25 - hours per day - None
+Temporary Hours at 01-25 - hours per day - None
+----------------------------------------------------------------------

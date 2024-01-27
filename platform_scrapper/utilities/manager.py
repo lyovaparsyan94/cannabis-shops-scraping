@@ -1,5 +1,5 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import gevent
 import requests

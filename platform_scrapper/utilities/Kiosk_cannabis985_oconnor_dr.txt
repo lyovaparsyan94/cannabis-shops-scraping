@@ -1,0 +1,25 @@
+Store - Kiosk Cannabis
+----------------------------------------------------------------------
+Address - 985 O'CONNOR DR
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.kioskcannabis.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14166152946
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Kiosk Cannabis at address 985 O'CONNOR DR NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Victoria Day at 05-24 - active - True, hours per day: from - 10:00 AM, to - 3:00 PM
+Canada Day at 07-01 - hours per day - None
+----------------------------------------------------------------------

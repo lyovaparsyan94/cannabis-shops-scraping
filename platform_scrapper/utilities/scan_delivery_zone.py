@@ -14,7 +14,7 @@ class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
     # step = 2.8
-    base_distantion = 1.7
+    base_distantion = 0.5
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
@@ -94,7 +94,7 @@ class ScanDutchieDelivery:
                 if get_delivery_info:
                     delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = get_delivery_info
             except TypeError as e:
-                print("Error with getting delivery info", e)
+                print("Error with getting delivery info:", e)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
             if within_bounds and fee is not False:

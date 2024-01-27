@@ -1,0 +1,28 @@
+Store - T CANNABIS NW - Kenora
+----------------------------------------------------------------------
+Address - 400 SECOND ST S 
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.tcann.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+18074673132
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for T CANNABIS NW - Kenora at address 400 SECOND ST S  NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas hours at 12-25 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Temporary Hours at 01-03 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Temporary Hours at 06-28 - hours per day - None
+Christmas Hours at 12-25 - hours per day - None
+----------------------------------------------------------------------
