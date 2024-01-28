@@ -1,5 +1,5 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
 import json
 import gevent
 import requests
@@ -265,8 +265,8 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
-# manager.file_modifier()
+# manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
 #         print(file)

@@ -1,0 +1,34 @@
+Store - VIP Cannabis Company
+----------------------------------------------------------------------
+Address - 1656 SNYDERS RD E, UNIT B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.vipcannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15199042741
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - hours per day - None
+New Year at 12-31 - hours per day - None
+FAMILY DAY at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Boxing  Day at 12-26 - hours per day - None
+New Year's eve at 12-31 - hours per day - None
+New Year at 01-01 - hours per day - None
+----------------------------------------------------------------------

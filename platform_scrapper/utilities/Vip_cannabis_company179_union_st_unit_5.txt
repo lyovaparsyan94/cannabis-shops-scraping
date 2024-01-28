@@ -1,0 +1,41 @@
+Store - VIP Cannabis Company
+----------------------------------------------------------------------
+Address - 179 UNION ST UNIT 5
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.vipcannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+15199043605
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-08 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years at 12-31 - hours per day - None
+FAMILY DAY at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Special at 08-16 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Today at 11-08 - hours per day - None
+Tomorrow Closing at 6 pm at 12-19 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year at 01-01 - hours per day - None
+----------------------------------------------------------------------

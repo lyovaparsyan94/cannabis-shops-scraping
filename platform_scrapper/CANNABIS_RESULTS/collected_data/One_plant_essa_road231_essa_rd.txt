@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for ONE PLANT ESSA ROAD at address 231 ESSA RD NOT Found from ecommerse provider's server: No delivery / Location is currently not accepting orders"
+"Delivery info for ONE PLANT ESSA ROAD at address 231 ESSA RD NOT Found: No delivery / Location is currently not accepting orders"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

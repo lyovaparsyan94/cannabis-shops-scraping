@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for EIGHTH CANNABIS at address 292 MARA RD UNIT A NOT Found from ecommerse provider's server: No delivery / Page doesn't exist"
+"Delivery info for EIGHTH CANNABIS at address 292 MARA RD UNIT A NOT Found from Buddi ecommerse provider's server: No delivery / Page doesn't exist"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

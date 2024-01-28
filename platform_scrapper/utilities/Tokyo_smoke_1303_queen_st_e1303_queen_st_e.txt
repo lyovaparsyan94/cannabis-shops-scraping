@@ -1,0 +1,56 @@
+Store - TOKYO SMOKE 1303 QUEEN ST E
+----------------------------------------------------------------------
+Address - 1303 QUEEN ST E
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://dutchie.com/dispensary/tokyo-smoke-1303-queen-st-e
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14164610035
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+New Years Hours at 12-31 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 8:00 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 00:00 AM, to - 8:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 2:00 PM, to - 5:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 2:00 PM, to - 5:00 PM
+Christmas Eve - Boxing Day  at 12-24 - hours per day - None
+11:30am-7:30pm Until Jan 4th at 12-27 - hours per day - None
+Snow Storm at 01-17 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Easter at 04-15 - hours per day - None
+No Delivery 26th April at 04-26 - hours per day - None
+Sick Call at 04-29 - hours per day - None
+May 1 - Staffing  at 05-01 - hours per day - None
+Temp Hours at 05-08 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+Delivery Cancelled at 08-12 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Deliveries Cancelled Oct 5th at 10-05 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+----------------------------------------------------------------------

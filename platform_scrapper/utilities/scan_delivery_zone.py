@@ -45,9 +45,10 @@ class ScanDutchieDelivery:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
             print(f"within_bounds ----- {within_bounds}!!!!!!!!!!!!!!!!!!!!!!!!!")
-            if within_bounds and fee in (False, None):
-                fee = 0
-                print(f'within_bounds {within_bounds is True}, fee in (False, None) {fee in (False, None)} so fee = {fee}')
+            if within_bounds:
+                if fee is False or fee is None:
+                    fee = 0
+                    print(f'within_bounds {within_bounds is True}, fee is False or None {fee in (False, None)} so fee = {fee}')
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
@@ -97,9 +98,9 @@ class ScanDutchieDelivery:
                 print("Error with getting delivery info:", e)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-            if within_bounds and fee is not False:
+            if within_bounds:
                 print(f"within_bounds: {within_bounds}, fee-  {fee}")
-                if fee in delivery_area and not False:
+                if fee in delivery_area:
                     if degree in delivery_area[fee]:
                         if distantion in delivery_area[fee][degree]:
                             delivery_area[fee][degree][distantion].append(point)

@@ -1,0 +1,37 @@
+Store - Caribbean Oxygen
+----------------------------------------------------------------------
+Address - 124 MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.caribbeanoxygen.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+15192672225
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Day & Boxing Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Week Before Christmas at 12-20 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day Week at 12-26 - active - True, hours per day: from - 00:00 AM, to - 8:30 PM
+New Years Day at 01-01 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+----------------------------------------------------------------------

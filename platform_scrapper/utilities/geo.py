@@ -1,3 +1,4 @@
+import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 
@@ -43,6 +44,7 @@ class GeoLocator:
             except Exception as e:
                 retry -= 1
                 interval += 1
+                gevent.sleep(interval)
                 print(f"retry is {retry}, interval - {interval}")
         return response
 

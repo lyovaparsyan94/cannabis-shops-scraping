@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Discounted Cannabis at address 9 MAIN ST E NOT Found from ecommerse provider's server: No delivery"
+"Delivery info for Discounted Cannabis at address 9 MAIN ST E NOT Found from Buddi ecommerse provider's server: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

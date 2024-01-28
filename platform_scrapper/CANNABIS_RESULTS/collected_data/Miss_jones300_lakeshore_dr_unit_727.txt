@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Miss Jones at address 300 LAKESHORE DR UNIT 727 NOT Found from ecommerse provider's server: No Delivery"
+"Delivery info for Miss Jones at address 300 LAKESHORE DR UNIT 727 NOT Found: No Delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
