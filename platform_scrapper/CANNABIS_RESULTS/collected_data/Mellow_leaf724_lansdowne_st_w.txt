@@ -1,22 +1,22 @@
-Store - Budzrus Lucknow
+Store - Mellow Leaf
 ----------------------------------------------------------------------
-Address - 638 CAMPBELL ST
+Address - 724 LANSDOWNE ST W
 ----------------------------------------------------------------------
-Store Application Status - Public Notice Period: Ended 2024/01/11
+Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.lucknow.nic.in/
+URL http://www.mellowleaf.ca/
 ----------------------------------------------------------------------
 Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping', 'No delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-['doesn't exist']
+17057433999
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Budzrus Lucknow at address 638 CAMPBELL ST NOT Found From Page doesn't exist ecommerse provider's server: No delivery"
+"Delivery info for Mellow Leaf at address 724 LANSDOWNE ST W NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

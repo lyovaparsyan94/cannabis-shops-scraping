@@ -1,22 +1,22 @@
-Store - Mellow Leaf
+Store - Mont Kailash Cannabis
 ----------------------------------------------------------------------
-Address - 724 LANSDOWNE ST W
+Address - 1220 BRANT ST UNIT 3B
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.mellowleaf.ca/
+URL http://www.montkailash.ca/
 ----------------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Custom
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'In-store pickup', 'In-store shopping']
+['Curbside pickup' 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-17057433999
+12893134713
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Mellow Leaf at address 724 LANSDOWNE ST W NOT Found From Page doesn't exist ecommerse provider's server: No delivery / Permanently closed"
+"Delivery info for Mont Kailash Cannabis at address 1220 BRANT ST UNIT 3B NOT Found : No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

@@ -1,22 +1,22 @@
-Store - Kia Ora Kannabis
+Store - Lockstock. Cannabis
 ----------------------------------------------------------------------
-Address - 1111 VICTORIA AVE E
+Address - 8 GLADSTONE AVE UNIT 1B
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.kiaorakannabis.com/
+URL http://lockstockcannabis.com/
 ----------------------------------------------------------------------
 Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-18076296987
+16473950883
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Kia Ora Kannabis at address 1111 VICTORIA AVE E NOT Found From Page doesn't exist ecommerse provider's server: No delivery / Permanently closed"
+"Delivery info for Lockstock. Cannabis at address 8 GLADSTONE AVE UNIT 1B NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

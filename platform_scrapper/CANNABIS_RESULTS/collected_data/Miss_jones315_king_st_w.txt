@@ -1,22 +1,22 @@
-Store - NORTHERN BUDZZ
+Store - Miss Jones
 ----------------------------------------------------------------------
-Address - 29 MAIN ST W UNIT 700 & 800
+Address - 315 KING ST W
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://northernbudzz.com/online-store/#/menu
+URL http://www.missjonescannabis.com/
 ----------------------------------------------------------------------
-Platform - Buddi
+Platform - Budler
 ----------------------------------------------------------------------
 Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-19057482010
+16475470383
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for NORTHERN BUDZZ at address 29 MAIN ST W UNIT 700 & 800 NOT Found : No delivery"
+"Delivery info for Miss Jones at address 315 KING ST W NOT Found from Budler ecommerse provider's server : No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

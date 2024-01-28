@@ -1,22 +1,22 @@
-Store - Mota Toke
+Store - Kia Ora Kannabis
 ----------------------------------------------------------------------
-Address - 249 GREENWOOD AVE
+Address - 236 RED RIVER RD
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.motatoke.com/
+URL http://www.kiaorakannabis.com/
 ----------------------------------------------------------------------
 Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'Same-day delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ----------------------------------------------------------------------
 Phone
-14164663113
+18076296735
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Mota Toke at address 249 GREENWOOD AVE NOT Found From Page doesn't exist ecommerse provider's server: No delivery / Temprorary closed"
+"Delivery info for Kia Ora Kannabis at address 236 RED RIVER RD NOT Found: No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

@@ -1,7 +1,7 @@
 import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
-
+from geopy.extra.rate_limiter import RateLimiter
 
 class GeoLocator:
     half_km = 0.004501
@@ -32,7 +32,8 @@ class GeoLocator:
         response = None
         while not response and retry >= 1:
             try:
-                location = self.geolocator.reverse(address, timeout=10)
+                gevent.sleep(2)
+                location = self.geolocator.reverse(address, timeout=7)
                 _lat = location.raw['lat']
                 _lon = location.raw['lon']
                 _city = location.raw['address'].get('city', None)
@@ -45,7 +46,7 @@ class GeoLocator:
                 retry -= 1
                 interval += 1
                 gevent.sleep(interval)
-                print(f"retry is {retry}, interval - {interval}")
+                print(f"retry is {retry}, interval - {interval}\n{e}")
         return response
 
     def find_address_with_coords(self, coords):

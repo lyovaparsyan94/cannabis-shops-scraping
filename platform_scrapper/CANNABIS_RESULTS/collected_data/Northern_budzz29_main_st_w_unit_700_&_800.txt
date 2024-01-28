@@ -1,22 +1,22 @@
-Store - Lockstock. Cannabis
+Store - NORTHERN BUDZZ
 ----------------------------------------------------------------------
-Address - 8 GLADSTONE AVE UNIT 1B
+Address - 29 MAIN ST W UNIT 700 & 800
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://lockstockcannabis.com/
+URL https://northernbudzz.com/online-store/#/menu
 ----------------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Buddi
 ----------------------------------------------------------------------
 Service options
 ['Curbside pickup', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-16473950883
+19057482010
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Lockstock. Cannabis at address 8 GLADSTONE AVE UNIT 1B NOT Found From Page doesn't exist ecommerse provider's server: No delivery / Permanently closed"
+"Delivery info for NORTHERN BUDZZ at address 29 MAIN ST W UNIT 700 & 800 NOT Found from Buddi  Buddi ecommerse provider's server: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours

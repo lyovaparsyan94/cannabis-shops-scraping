@@ -1,28 +1,23 @@
-Store - AFFX CANNABIS
+Store - Budzrus Lucknow
 ----------------------------------------------------------------------
-Address - 263 UPPER CENTENNIAL PKY UNIT 3
+Address - 638 CAMPBELL ST
 ----------------------------------------------------------------------
-Store Application Status - Authorized to Open
+Store Application Status - Public Notice Period: Ended 2024/01/11
 ----------------------------------------------------------------------
-URL http://affxcannabis.ca/
+URL http://www.lucknow.nic.in/
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['In-store pickup', 'In-store shopping', 'No delivery']
 ----------------------------------------------------------------------
 Phone
-19056626777
+['doesn't exist']
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for Budzrus Lucknow at address 638 CAMPBELL ST NOT Found: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
-
-Thanksgiving at 10-09 - hours per day - None
-Christmas Eve at 12-24 - hours per day - None
-Christmas Day at 12-25 - hours per day - None
-New Years Day at 01-01 - hours per day - None
-Staff Event at 01-21 - hours per day - None
+- not received information about special days or hours
 ----------------------------------------------------------------------
