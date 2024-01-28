@@ -258,7 +258,7 @@ class Manager:
             store = str(row.iloc[1])
             address = str(row.iloc[2])
             try:
-                reporter(store=store, address=address, del_mode=False, auto=False)
+                reporter(store=store, address=address, del_mode=False, auto=True)
             except TypeError as er:
                 print(f"error with {store} {address}\n", er)
 
@@ -266,7 +266,7 @@ class Manager:
 manager = Manager()
 # manager.start()
 # manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
-manager.file_modifier()
+# manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
 #         print(file)

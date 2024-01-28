@@ -1,0 +1,47 @@
+Store - T CANNABIS
+----------------------------------------------------------------------
+Address - 9 ARMSTRONG ST N
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.tcann.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+17056288828
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        47.50513443662947,
+        -79.66719422000516
+      ]
+    ],
+    [
+      [
+        47.50513443662947,
+        -79.67499637999482
+      ]
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Labour Day Hours at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-25 - hours per day - None
+HOLIDAY HOURS at 04-17 - hours per day - None
+HOLIDAY HOURS at 05-23 - hours per day - None
+Labor Day Hours at 09-05 - hours per day - None
+Temp at 10-10 - hours per day - None
+Temporary Hours at 12-25 - hours per day - None
+Family Day Hours at 02-20 - hours per day - None
+----------------------------------------------------------------------
