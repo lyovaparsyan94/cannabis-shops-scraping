@@ -55,7 +55,7 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
             print(f'removed {file_to_append} and {json_to_read}')
 
 
-# reporter(store="Sparq Retail", address='40 KING ST E', del_mode=True)
+# reporter(store="AFFX CANNABIS", address='263 UPPER CENTENNIAL PKY UNIT 3', del_mode=False)
 # ROOT_DIR = os.getcwd()
 # CONFIGS_DIR = abspath(dirname(__file__))
 # FILE_DIR =join(CONFIGS_DIR, filename)
