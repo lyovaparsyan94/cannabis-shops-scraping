@@ -1,0 +1,23 @@
+Store - Mota Toke
+----------------------------------------------------------------------
+Address - 249 GREENWOOD AVE
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.motatoke.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14164663113
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Mota Toke at address 249 GREENWOOD AVE NOT Found From Page doesn't exist ecommerse provider's server: No delivery / Temprorary closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

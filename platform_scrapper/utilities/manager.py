@@ -4,7 +4,7 @@ import json
 import gevent
 import requests
 from data_collector import write_report
-from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, server_info, FROM as f
+from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
 from platform_scrapper.utilities.file_modifier import reporter
@@ -204,26 +204,18 @@ class Manager:
                             print(check_error)
                             print('Wrote Error to  excel!!!')
                         finally:
-                            df.to_excel(file,index=False)
+                            df.to_excel(file, index=False)
                     elif 'no' in type_of_delivery_offered.lower():
-                        FROM = f
-                        ecomerse_is = ''
-                        server_info = "ecommerse provider's server"
                         if 'page doesn' in ecom_provider.lower():
-                            for provider in ecommerse_providers:
-                                if provider.lower() in ecom_provider.lower():
-                                    ecom_provider = provider
-                                    ecomerse_is = ecom_provider
-                                    break
-                                else:
-                                    FROM = ''
-                                    server_info = ''
-                                type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
-                                                                                            '').replace(
-                                    " / Page doesn’t exist", '')
-                                break
+                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",'').replace(" / Page doesn’t exist", '')
+
+                        if ecom_provider in ecommerse_providers:
+                            is_provider_string = f"From {ecom_provider} ecommerse provider's server"
+                        else:
+                            is_provider_string = ""
+
                         write_report(
-                            global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
+                            global_data=f"Delivery info for {store} at address {address} NOT Found {is_provider_string}: {type_of_delivery_offered[2:-2]}",
                             store=store, address=address,
                             status=status, url=url, ecom_provider=ecom_provider,
                             service_options=service_options, phone=phone,
@@ -265,7 +257,8 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-# manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+manager.manage(
+    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
 # manager.file_modifier()
 # for file in os.listdir():
 #     if file.endswith('.txt'):
