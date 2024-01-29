@@ -1,0 +1,30 @@
+Store - True North Cannabis
+----------------------------------------------------------------------
+Address - 31 ONTARIO ST N UNIT 2 & 3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.ontario.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15199534309
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis at address 31 ONTARIO ST N UNIT 2 & 3 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Opening at 06-17 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day 2021 at 09-06 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve Hours at 12-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day Hours at 12-25 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day at 12-26 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Day at 01-01 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+----------------------------------------------------------------------

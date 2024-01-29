@@ -13,11 +13,12 @@ from platform_scrapper.configs.constants import HEADERS
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    # step = 2.8
-    base_distantion = 1.5
+    base_distantion = 1
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
+        self.request_counter = 0
+        self.degree = 20
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
@@ -93,13 +94,15 @@ class ScanDutchieDelivery:
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = [None] * 6
             try:
                 get_delivery_info = self.get_delivery_info(point)
+                print(f'Count of made requests: {self.request_counter}')
+                self.request_counter += 1
                 if get_delivery_info:
                     delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = get_delivery_info
             except TypeError as e:
                 print("Error with getting delivery info:", e)
             print(
-                f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-            if within_bounds:
+                f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee_varies - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
+            if within_bounds and distantion < 51:
                 print(f"within_bounds: {within_bounds}, fee-  {fee}")
                 if fee in delivery_area:
                     if degree in delivery_area[fee]:
@@ -112,33 +115,32 @@ class ScanDutchieDelivery:
                         delivery_area[fee][degree] = {distantion: [point]}
                 else:
                     delivery_area[fee] = {degree: {distantion: [point]}}
-                print(f"delivery_area is--->")
+                print(f"step: {self.step}, distance: {distantion_checker}, degree: {self.degree}")
+                if distantion_checker > 10:
+                    self.step = 1
+                    self.degree = 20
+                if distantion_checker > 15:
+                    self.step = 1.5
+                    self.degree = 22
+                if distantion_checker > 20:
+                    self.step = 2
+                    self.degree = 24
+                if distantion_checker > 25:
+                    self.step = 2.5
+                    self.degree = 28
+                if distantion_checker > 30:
+                    self.step = 3
+                    self.degree = 32
                 pprint.pprint(delivery_area)
                 distantion += self.step
                 queue.put(point)
             else:
                 distantion = self.base_distantion
-                degree += 15
-                if distantion_checker > 10:
-                    distantion = 1
-                    degree = 18
-                if distantion_checker > 15:
-                    distantion = 1.5
-                    degree = 22
-                if distantion_checker > 20:
-                    distantion = 2
-                    degree = 24
-                if distantion_checker > 25:
-                    distantion = 2.5
-                    degree = 28
-                if distantion_checker > 30:
-                    distantion = 3
-                    degree = 32
-                if distantion > 55:
-                    return
+                degree += self.degree
                 print(f"Not delivery area, changed degree to {degree} and distantion to {distantion}")
                 point = start_point
                 queue.put(point)
+        print(f'made {self.request_counter} requests for this shop')
         return delivery_area
 
     def get_next_radial_point(self, start_point, distantion, bearing):

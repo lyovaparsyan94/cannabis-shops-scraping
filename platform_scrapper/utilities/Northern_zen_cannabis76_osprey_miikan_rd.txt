@@ -1,0 +1,32 @@
+Store - Northern Zen Cannabis
+----------------------------------------------------------------------
+Address - 76 OSPREY MIIKAN RD
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.northernzencannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+17058400101
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Northern Zen Cannabis at address 76 OSPREY MIIKAN RD NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Pre-opening at 08-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+family day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-25 - hours per day - None
+New years days at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+new years eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New years day at 01-01 - hours per day - None
+CLOSED at 09-09 - hours per day - None
+xmas eve at 12-24 - hours per day - None
+xmas at 12-25 - hours per day - None
+----------------------------------------------------------------------

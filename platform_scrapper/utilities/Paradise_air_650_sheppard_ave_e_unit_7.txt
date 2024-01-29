@@ -1,0 +1,25 @@
+Store - Paradise AIR 
+----------------------------------------------------------------------
+Address - 650 SHEPPARD AVE E UNIT 7
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.paradiseair.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14162288889
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Opening at 05-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria day half day off at 05-24 - active - True, hours per day: from - 4:00 PM, to - 8:00 PM
+----------------------------------------------------------------------

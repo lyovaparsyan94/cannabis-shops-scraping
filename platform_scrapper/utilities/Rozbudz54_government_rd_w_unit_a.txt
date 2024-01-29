@@ -1,47 +1,23 @@
-Store - SPARQ RETAIL
+Store - Rozbudz
 ----------------------------------------------------------------------
-Address - 340 CHARLOTTE ST
+Address - 54 GOVERNMENT RD W UNIT A
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.sparqretail.ca/
+URL http://www.rozbudz.com/
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Custom
 ----------------------------------------------------------------------
 Service options
 ['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ----------------------------------------------------------------------
 Phone
-17057491833
+17054622220
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{
-  "10.0": [
-    [
-      [
-        44.359435523218856,
-        -78.39862737241857
-      ],
-      "min order - 50.0"
-    ],
-    [
-      [
-        44.34896726847152,
-        -78.36059331670758
-      ]
-    ]
-  ]
-}
+"Delivery info for Rozbudz at address 54 GOVERNMENT RD W UNIT A NOT Found : No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
-
-New Years Day at 01-01 - active - False, hours per day: from - open, to - open
-Family Day  at 02-15 - active - False, hours per day: from - open, to - open
-Good Friday at 04-02 - active - False, hours per day: from - open, to - open
-Break Coverage at 04-02 - hours per day - None
-Easter Sunday at 04-17 - hours per day - None
-Victoria Day at 05-23 - hours per day - None
-Thanksgiving 2023 at 10-09 - hours per day - None
-Christmas 2023 at 12-25 - hours per day - None
+- not received information about special days or hours
 ----------------------------------------------------------------------
