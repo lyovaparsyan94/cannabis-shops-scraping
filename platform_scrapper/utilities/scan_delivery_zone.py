@@ -88,6 +88,7 @@ class ScanDutchieDelivery:
         while degree <= until:
             print("DEGREE IS", degree)
             point = queue.get()
+            distantion_checker = distantion
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = [None] * 6
             try:
@@ -116,8 +117,25 @@ class ScanDutchieDelivery:
                 distantion += self.step
                 queue.put(point)
             else:
-                degree += 15
                 distantion = self.base_distantion
+                degree += 15
+                if distantion_checker > 10:
+                    distantion = 1
+                    degree = 18
+                if distantion_checker > 15:
+                    distantion = 1.5
+                    degree = 22
+                if distantion_checker > 20:
+                    distantion = 2
+                    degree = 24
+                if distantion_checker > 25:
+                    distantion = 2.5
+                    degree = 28
+                if distantion_checker > 30:
+                    distantion = 3
+                    degree = 32
+                if distantion > 55:
+                    return
                 print(f"Not delivery area, changed degree to {degree} and distantion to {distantion}")
                 point = start_point
                 queue.put(point)

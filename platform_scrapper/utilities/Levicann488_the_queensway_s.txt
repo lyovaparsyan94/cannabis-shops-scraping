@@ -1,0 +1,25 @@
+Store - Levicann
+----------------------------------------------------------------------
+Address - 488 THE QUEENSWAY S
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.levicann.com/shop-keswick/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19056865558
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas and New Years at 12-24 - hours per day - None
+Snow day at 01-12 - hours per day - None
+----------------------------------------------------------------------
