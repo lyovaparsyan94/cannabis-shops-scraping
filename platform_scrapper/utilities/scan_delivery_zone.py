@@ -13,7 +13,7 @@ from platform_scrapper.configs.constants import HEADERS
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    base_distantion = 1
+    base_distantion = 0
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
