@@ -1,6 +1,5 @@
 from gevent import monkey
-# monkey.patch_all()
-import time
+monkey.patch_all()
 import json
 import gevent
 import requests
@@ -62,7 +61,7 @@ class Manager:
                     f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
                     print(
-                        f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
+                        f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server \ state_short: {state_short}, zipcode: {zipcode}")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
@@ -169,9 +168,8 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index < 1:
                     if store_id and len(store_id) == 24:
-                        print(store_id)
                         try:
                             query = self.query_maker(src_id=store_id)
                             if query:
@@ -188,11 +186,13 @@ class Manager:
                                             index='', special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
-                                    time.sleep(10)
+                                    # time.sleep(10)
                                     coordinates = query.get('coordinates')
+                                    state_short = query.get('state_short', None)
+                                    zipcode = query.get('zipcode', None)
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
-                                    self.scan_area(state=state, store=store, shop_address=address,
+                                    self.scan_area(state=state_short, store=store, shop_address=address,
                                                    despensary_id=despensary_id, status=status, url=url,
                                                    ecom_provider=ecom_provider, service_options=service_options,
                                                    phone=phone,
@@ -234,7 +234,7 @@ class Manager:
         self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
                                            despensary_id=despensary_id, coordinates=coordinates)
         try:
-            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
+            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, state=state)
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,

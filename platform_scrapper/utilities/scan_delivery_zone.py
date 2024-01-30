@@ -13,26 +13,27 @@ from platform_scrapper.configs.constants import HEADERS
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    base_distantion = 0.5
+    base_distantion = 0
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.request_counter = 0
         self.degree = 20
+        self.state = state
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
         self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        _city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
+        gevent.sleep(1.5)
+        # _city, zipcode, stat, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
         # _city = '' or city
-        # _city = ''
-        # zipcode = ''
-        # state = "ON"
-        # lat = address[0]
-        # lng = address[1]
-        url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{self.__dispensaryId}%22%2C%22city%22%3A%22{_city}%22%2C%22state%22%3A%22{state}%22%2C%22zipcode%22%3A%22%20{zipcode}%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{self.__hsh}%22%7D%7D"
+        _city = ''
+        zipcode = ''
+        lat = address[0]
+        lng = address[1]
+        url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{self.__dispensaryId}%22%2C%22city%22%3A%22{_city}%22%2C%22state%22%3A%22{self.state}%22%2C%22zipcode%22%3A%22%20{zipcode}%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{self.__hsh}%22%7D%7D"
         response = requests.get(url=url, headers=HEADERS)
         if response.status_code == 200:
             delivery_info = response.json()['data']['getAddressBasedDispensaryData']['deliveryInfo']
@@ -57,7 +58,7 @@ class ScanDutchieDelivery:
         else:
             print(f"Error with status code {response.status_code}")
 
-    def multi_scan_total_area(self, store, address):
+    def multi_scan_total_area(self, store, address, state=''):
         """scan total area and sort according radius zones with fee cost"""
         store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
         address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
@@ -67,7 +68,7 @@ class ScanDutchieDelivery:
             s = time.time()
             radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
             print(f'------------------GEVENT STARTED {store} {address}-----------------------')
-            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
+            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1], state=state) for i in radians]
             gevent.joinall(jobs)
             print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
             for job in jobs:
@@ -81,7 +82,7 @@ class ScanDutchieDelivery:
         except Exception:
             print("Error in scanning")
 
-    def _scan_delivery_perimeter(self, degree, until):
+    def _scan_delivery_perimeter(self, degree, until, state=''):
         """find borders of delivery figure on map."""
         start_point = self.__shop_address
         distantion = self.base_distantion
