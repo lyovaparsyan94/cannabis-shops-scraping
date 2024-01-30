@@ -1,3 +1,5 @@
+import random
+from time import sleep
 import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
@@ -29,6 +31,7 @@ class GeoLocator:
         return location.latitude, location.longitude
 
     def get_city_state_zipcode_lat_long(self, address, retry=10, interval=1):
+        # sleep(random.randint(5, 10))
         response = None
         while not response and retry >= 1:
             try:
@@ -39,7 +42,6 @@ class GeoLocator:
                 _city = location.raw['address'].get('city', None)
                 _postcode = location.raw['address'].get('postcode')
                 _state = location.raw['address'].get('state')
-                print(f"City={_city}, {_postcode}, {_state}, lat={_lat}, lon={_lon}")
                 response = _city, _postcode, _state, _lat, _lon
                 return response
             except Exception as e:

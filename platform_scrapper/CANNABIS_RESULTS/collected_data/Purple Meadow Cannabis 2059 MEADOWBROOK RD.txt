@@ -1,0 +1,178 @@
+Store - Purple Meadow Cannabis
+----------------------------------------------------------------------
+Address - 2059 MEADOWBROOK RD
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.purplemeadow.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+16138429333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "4.0": [
+    [
+      [
+        45.48498856898149,
+        -75.6014134
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.481514880930845,
+        -75.57342590240596
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.4715131046152,
+        -75.54882001439512
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.456190385717726,
+        -75.53056670400407
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.44519146367318,
+        -75.523620184799
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.425386332765136,
+        -75.51968474920761
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.40582537293204,
+        -75.52560634104256
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.388867555755816,
+        -75.54066501005074
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.38081377404811,
+        -75.55336921352321
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.372048815006046,
+        -75.57888565969053
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.369958885080145,
+        -75.60711443776461
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.37479587365131,
+        -75.63465685907985
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.38081377404811,
+        -75.64945758647679
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.39519728799818,
+        -75.6691878976328
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.41346539346316,
+        -75.68075209921335
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.43341535876806,
+        -75.6827511966913
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.44519146367318,
+        -75.679206615201
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.46285172772383,
+        -75.66588279106304
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.476236288333574,
+        -75.64477410758438
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.48372987053117,
+        -75.61842723017405
+      ],
+      "min order - 20.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Staff Lunch at 12-14 - active - True, hours per day: from - 9:00 AM, to - 6:15 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas at 12-25 - hours per day - None
+New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+New Years Day at 01-01 - active - False, hours per day: from - 9:00 AM, to - 9:00 PM
+Staff Party  at 12-13 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Christmas Staff Party at 12-12 - hours per day - None
+NYE at 12-31 - hours per day - None
+NY at 01-01 - hours per day - None
+----------------------------------------------------------------------

@@ -1,5 +1,6 @@
 from gevent import monkey
 # monkey.patch_all()
+import time
 import json
 import gevent
 import requests
@@ -187,7 +188,7 @@ class Manager:
                                             index='', special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
-                                    # time.sleep(10)
+                                    time.sleep(10)
                                     coordinates = query.get('coordinates')
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")

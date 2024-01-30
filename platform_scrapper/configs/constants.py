@@ -3,7 +3,7 @@ BUDDI = "Buddi"
 LEAFLY = "Leafly"
 WEEDMAPS = "Weedmaps"
 TYMBER = 'Tymber'
-TECHPOS = 'Techpros'
+TECHPOS = 'Techpos'
 TENDY = 'Tendy'
 BUDLER = 'Budler'
 

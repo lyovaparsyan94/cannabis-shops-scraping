@@ -1,35 +1,32 @@
-Store - Purple Meadow Cannabis
+Store - THISEL
 ----------------------------------------------------------------------
-Address - 2059 MEADOWBROOK RD
+Address - 192 QUEEN'S QUAY EAST UNIT A5
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.purplemeadow.ca/
+URL http://www.thisel.ca/
 ----------------------------------------------------------------------
 Platform - Dutchie
 ----------------------------------------------------------------------
 Service options
-['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-16138429333
+14165198265
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for THISEL at address 192 QUEEN'S QUAY EAST UNIT A5 NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
 
-Staff Lunch at 12-14 - active - True, hours per day: from - 9:00 AM, to - 6:15 PM
-Christmas Eve at 12-24 - hours per day - None
-Christmas at 12-25 - hours per day - None
-New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
-New Years Day at 01-01 - active - False, hours per day: from - 9:00 AM, to - 9:00 PM
-Staff Party  at 12-13 - hours per day - None
-Christmas Day at 12-25 - hours per day - None
-New Year's Eve at 12-31 - hours per day - None
-New Year's Day at 01-01 - hours per day - None
-Christmas Staff Party at 12-12 - hours per day - None
-NYE at 12-31 - hours per day - None
-NY at 01-01 - hours per day - None
+Opening at 04-22 - active - False, hours per day: from - 11:00 AM, to - 6:30 PM
+Victoria Day Weekend at 05-24 - active - True, hours per day: from - 12:00 PM, to - 6:00 PM
+Labour Day at 09-06 - active - True, hours per day: from - 11:00 AM, to - 12:30 PM
+New  Years Day at 01-01 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+civic at 08-07 - hours per day - None
+LAbour at 09-04 - hours per day - None
 ----------------------------------------------------------------------

@@ -13,7 +13,7 @@ from platform_scrapper.configs.constants import HEADERS
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    base_distantion = 0
+    base_distantion = 0.5
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
@@ -25,7 +25,6 @@ class ScanDutchieDelivery:
         self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        gevent.sleep(5)
         city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
         _city = '' or city
         zipcode = '' or zipcode
