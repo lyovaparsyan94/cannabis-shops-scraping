@@ -30,13 +30,13 @@ class GeoLocator:
                 retry += 1
         return location.latitude, location.longitude
 
-    def get_city_state_zipcode_lat_long(self, address, retry=10, interval=1):
-        # sleep(random.randint(5, 10))
+    def get_city_state_zipcode_lat_long(self, address, retry=20, interval=1):
+        gevent.sleep(random.randint(2, 7))
         response = None
         while not response and retry >= 1:
             try:
-                gevent.sleep(2)
-                location = self.geolocator.reverse(address, timeout=7)
+                # gevent.sleep(2)
+                location = self.geolocator.reverse(address, timeout=12)
                 _lat = location.raw['lat']
                 _lon = location.raw['lon']
                 _city = location.raw['address'].get('city', None)

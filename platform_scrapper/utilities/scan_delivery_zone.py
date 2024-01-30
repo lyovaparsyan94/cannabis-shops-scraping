@@ -25,9 +25,13 @@ class ScanDutchieDelivery:
         self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
-        _city = '' or city
-        zipcode = '' or zipcode
+        _city, zipcode, state, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
+        # _city = '' or city
+        # _city = ''
+        # zipcode = ''
+        # state = "ON"
+        # lat = address[0]
+        # lng = address[1]
         url = f"https://dutchie.com/graphql?operationName=GetAddressBasedDispensaryData&variables=%7B%22input%22%3A%7B%22dispensaryId%22%3A%22{self.__dispensaryId}%22%2C%22city%22%3A%22{_city}%22%2C%22state%22%3A%22{state}%22%2C%22zipcode%22%3A%22%20{zipcode}%22%2C%22lat%22%3A{lat}%2C%22lng%22%3A{lng}%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%{self.__hsh}%22%7D%7D"
         response = requests.get(url=url, headers=HEADERS)
         if response.status_code == 200:
