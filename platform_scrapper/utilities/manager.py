@@ -168,7 +168,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index < 1:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index:
                     if store_id and len(store_id) == 24:
                         try:
                             query = self.query_maker(src_id=store_id)
@@ -186,7 +186,7 @@ class Manager:
                                             index='', special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
-                                    # time.sleep(10)
+                                    gevent.sleep(10)
                                     coordinates = query.get('coordinates')
                                     state_short = query.get('state_short', None)
                                     zipcode = query.get('zipcode', None)
@@ -208,7 +208,9 @@ class Manager:
                             df.to_excel(file, index=False)
                     elif 'no' in type_of_delivery_offered.lower():
                         if 'page doesn' in ecom_provider.lower():
-                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",'').replace(" / Page doesn’t exist", '')
+                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
+                                                                                        '').replace(
+                                " / Page doesn’t exist", '')
 
                         if ecom_provider in ecommerse_providers:
                             is_provider_string = f"From {ecom_provider} ecommerse provider's server"
@@ -255,11 +257,8 @@ class Manager:
             except TypeError as er:
                 print(f"error with {store} {address}\n", er)
 
+
 manager = Manager()
 # manager.start()
-manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
-# manager.file_modifier()
-# for file in os.listdir():
-#     if file.endswith('.txt'):
-#         print(file)
-#         os.remove(file)
+manager.manage(
+    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

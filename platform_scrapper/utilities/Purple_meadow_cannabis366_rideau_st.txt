@@ -1,0 +1,36 @@
+Store - Purple Meadow Cannabis
+----------------------------------------------------------------------
+Address - 366 RIDEAU ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.purplemeadow.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+16138609333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Staff Party at 12-14 - active - True, hours per day: from - 10:00 AM, to - 6:15 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas at 12-25 - hours per day - None
+New Years Eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+New Years Day at 01-01 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Blockade Downtown at 01-29 - active - False, hours per day: from - 6:00 PM, to - 11:00 PM
+Staff Party at 12-13 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+Christmas Staff Party at 12-12 - hours per day - None
+NYE at 12-31 - hours per day - None
+NY at 01-01 - hours per day - None
+----------------------------------------------------------------------

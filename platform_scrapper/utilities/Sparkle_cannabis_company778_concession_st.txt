@@ -1,0 +1,39 @@
+Store - Sparkle Cannabis Company
+----------------------------------------------------------------------
+Address - 778 CONCESSION ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.sparklecannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19053189333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Victoria Day at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Civic Holiday (Aug Long Weekend) at 08-02 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+Labour Day at 09-06 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+Thanksgiving at 10-11 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+ Christmas Day at 12-25 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+Boxing Day at 12-26 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 10:30 PM
+New Years Day at 01-01 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+Family Day at 02-21 - hours per day - None
+Easter Hours at 04-15 - hours per day - None
+Thanksgiving Hours at 10-10 - hours per day - None
+Christmas Day Hours at 12-24 - hours per day - None
+Snow Day at 01-25 - hours per day - None
+Easter at 04-09 - hours per day - None
+----------------------------------------------------------------------

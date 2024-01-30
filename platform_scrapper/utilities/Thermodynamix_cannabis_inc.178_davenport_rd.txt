@@ -1,0 +1,25 @@
+Store - Thermodynamix Cannabis Inc.
+----------------------------------------------------------------------
+Address - 178 DAVENPORT RD
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.thermodynamix.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14169299669
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Closed at 01-13 - active - True, hours per day: from - 9:30 AM, to - 9:00 PM
+COVID Lockdown at 01-14 - active - True, hours per day: from - 9:30 AM, to - 9:00 PM
+----------------------------------------------------------------------

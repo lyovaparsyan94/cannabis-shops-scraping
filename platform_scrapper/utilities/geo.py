@@ -1,9 +1,7 @@
 import random
-from time import sleep
 import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
-from geopy.extra.rate_limiter import RateLimiter
 
 class GeoLocator:
     half_km = 0.004501
@@ -94,12 +92,3 @@ class GeoLocator:
         print(f"New coords after movement are {new_coords}")
         return new_coords
 
-# geo = GeoLocator()
-# state = "CORNWALL"
-# address = '44 PITT ST SUITE A'
-# country = "Canada"
-# address = " ".join(address.split(' ')[:2])
-# param = f"{address} {state}"
-# # print(param)
-# bayly = geo.get_latitude_longtitude(param)
-# print(bayly)

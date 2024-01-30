@@ -1,0 +1,42 @@
+Store - Speakeasy Cannabis Midland
+----------------------------------------------------------------------
+Address - 9225 93 HWY UNIT 16
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.speakeasycannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+17055266060
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-02 - active - True, hours per day: from - 11:00 AM, to - 5:00 PM
+Halloween at 10-31 - active - False, hours per day: from - 11:00 AM, to - 5:45 PM
+Christmas Eve at 12-24 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Snow Squall at 11-20 - hours per day - None
+Snow Day at 12-19 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Monday at 10-09 - hours per day - None
+----------------------------------------------------------------------

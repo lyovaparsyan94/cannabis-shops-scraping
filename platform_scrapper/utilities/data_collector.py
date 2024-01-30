@@ -72,5 +72,4 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
     os.remove(f'{index}glob.txt')
     print(
         f"Wrote {global_data} \nto {index}{filename}.txt,\n removed json with same name and marked status to True, at index {index}")
-
-# clean_data(x)
+ 4
