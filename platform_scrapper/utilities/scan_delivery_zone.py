@@ -12,13 +12,13 @@ from platform_scrapper.configs.constants import HEADERS
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 0.4
+    step = 0.1
     base_distantion = 0
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.request_counter = 0
-        self.degree = 20
+        self.degree = 15
         self.state = state
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]
@@ -106,7 +106,7 @@ class ScanDutchieDelivery:
                 print("Error with getting delivery info:", e)
             print(
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee_varies - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
-            if within_bounds and distantion < 51:
+            if within_bounds:
                 print(f"within_bounds: {within_bounds}, fee-  {fee}")
                 if fee in delivery_area:
                     if degree in delivery_area[fee]:

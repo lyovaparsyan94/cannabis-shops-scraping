@@ -168,8 +168,8 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index:
-                    if store_id and len(store_id) == 24:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
+                    if store_id and len(store_id) > 10:
                         try:
                             query = self.query_maker(src_id=store_id)
                             if query:
