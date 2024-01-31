@@ -13,12 +13,12 @@ from platform_scrapper.configs.constants import HEADERS
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    base_distantion = 0
+    base_distantion = 0.5
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.request_counter = 0
-        self.degree = 15
+        self.degree = 18
         self.state = state
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]
@@ -26,7 +26,7 @@ class ScanDutchieDelivery:
         self.__dispensaryId = despensary_id
 
     def get_delivery_info(self, address):
-        gevent.sleep(1.5)
+        gevent.sleep(1.2)
         # _city, zipcode, stat, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
         # _city = '' or city
         _city = ''
@@ -64,21 +64,13 @@ class ScanDutchieDelivery:
         address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
         filename = store1 + address1
         global_data = []
+        radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
+        jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1], state=state) for i in radians]
+        s = time.time()
         try:
-            s = time.time()
-            radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
             print(f'------------------GEVENT STARTED {store} {address}-----------------------')
-            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1], state=state) for i in radians]
             gevent.joinall(jobs)
             print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
-            for job in jobs:
-                global_data.append(job.value)
-            final_data = clean_data(list_of_circle_sections=global_data, store=store, address=address)
-            with open(f"t_{filename}.json", "w") as j:
-                json.dump(global_data, j)
-            e = time.time()
-            print(f'Done in {e - s} seconds')
-            return final_data, f"{filename}"
         except Exception:
             print("Error in scanning")
 
@@ -149,6 +141,8 @@ class ScanDutchieDelivery:
 
     def get_next_radial_point(self, start_point, distantion, bearing):
         bearing = float(bearing)
+        print("trying get next point")
+        gevent.sleep(2)
         end_point = distance(kilometers=distantion).destination(start_point, bearing)
         print(f"Coordinates of point at distance {distantion} km {bearing} degrees:"
               f" {end_point.latitude}, {end_point.longitude}")
