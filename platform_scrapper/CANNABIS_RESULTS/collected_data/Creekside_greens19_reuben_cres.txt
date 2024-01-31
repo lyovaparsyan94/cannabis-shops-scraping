@@ -1,27 +1,23 @@
-Store - Sparkle Cannabis Company
+Store - Creekside Greens
 ----------------------------------------------------------------------
-Address - 730 GUELPH LINE UNIT 1
+Address - 19 REUBEN CRES
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://sparklecannabis.ca/shop-burlington
+URL https://creeksidegreens.ca/
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Custom
 ----------------------------------------------------------------------
 Service options
-['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
 ----------------------------------------------------------------------
 Phone
-19056343033
+16132586664
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for Creekside Greens at address 19 REUBEN CRES NOT Found : No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
-
-Thanksgiving Hours at 10-10 - hours per day - None
-Christmas Day Hours at 12-24 - hours per day - None
-Snow Day at 01-25 - hours per day - None
-Easter at 04-09 - hours per day - None
+- not received information about special days or hours
 ----------------------------------------------------------------------

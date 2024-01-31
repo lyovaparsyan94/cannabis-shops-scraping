@@ -1,24 +1,23 @@
-Store - Buzzed Buds
+Store - Canna Cabana
 ----------------------------------------------------------------------
-Address - 179 GEORGE ST UNIT 101
+Address - 569 FAIRWAY RD S UNIT H3
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL https://www.buzzedbuds.co/
+URL https://cannacabana.com/a/stores/ontario/kitchener/kitchener-fairway?utm_source=google&utm_medium=organic&utm_campaign=gmb
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Custom
 ----------------------------------------------------------------------
 Service options
-['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-16136633253
+15482884262
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-{}
+"Delivery info for Canna Cabana at address 569 FAIRWAY RD S UNIT H3 NOT Found : No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
-
-01/27 at 01-27 - hours per day - None
+- not received information about special days or hours
 ----------------------------------------------------------------------
