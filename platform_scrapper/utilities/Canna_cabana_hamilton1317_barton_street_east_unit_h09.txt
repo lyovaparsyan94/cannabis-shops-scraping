@@ -1,0 +1,23 @@
+Store - CANNA CABANA HAMILTON
+----------------------------------------------------------------------
+Address - 1317 BARTON STREET EAST UNIT H09
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://cannacabana.com/a/stores/ontario/hamilton/barton-street-east?utm_source=google&utm_medium=organic&utm_campaign=gmb
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19055451317
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNA CABANA HAMILTON at address 1317 BARTON STREET EAST UNIT H09 NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

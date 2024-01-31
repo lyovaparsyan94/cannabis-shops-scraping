@@ -1,0 +1,27 @@
+Store - Sparkle Cannabis Company
+----------------------------------------------------------------------
+Address - 730 GUELPH LINE UNIT 1
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://sparklecannabis.ca/shop-burlington
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19056343033
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{}
+----------------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving Hours at 10-10 - hours per day - None
+Christmas Day Hours at 12-24 - hours per day - None
+Snow Day at 01-25 - hours per day - None
+Easter at 04-09 - hours per day - None
+----------------------------------------------------------------------
