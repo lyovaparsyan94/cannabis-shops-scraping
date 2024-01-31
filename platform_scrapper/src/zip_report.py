@@ -11,3 +11,4 @@ def zip_files(path_to_files, path_to_zip):
 # path_to_files = r"..."
 # path_to_zip = r"...\collected_data.zip"
 # zip_files(path_to_files, path_to_zip)
+
