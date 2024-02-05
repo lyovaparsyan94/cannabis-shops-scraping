@@ -1,0 +1,23 @@
+Store - Tokyo Smoke 450 Yonge
+----------------------------------------------------------------------
+Address - 450 YONGE ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://stores.tokyosmoke.com/on/toronto-open/450-yonge-st
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14378804565
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke 450 Yonge at address 450 YONGE ST NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

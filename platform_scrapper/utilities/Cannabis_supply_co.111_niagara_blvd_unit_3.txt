@@ -1,0 +1,23 @@
+Store - Cannabis Supply Co.
+----------------------------------------------------------------------
+Address - 111 NIAGARA BLVD UNIT 3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.niagaracannabiscompany.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+17164658787
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannabis Supply Co. at address 111 NIAGARA BLVD UNIT 3 NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

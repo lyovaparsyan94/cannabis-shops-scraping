@@ -1,0 +1,23 @@
+Store - Leaflit
+----------------------------------------------------------------------
+Address - 55 KENT ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.leaflitinc.com/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+17052426550
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Leaflit at address 55 KENT ST W NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

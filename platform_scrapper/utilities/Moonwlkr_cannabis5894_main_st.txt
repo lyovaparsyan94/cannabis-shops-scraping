@@ -1,0 +1,23 @@
+Store - MOONWLKR CANNABIS
+----------------------------------------------------------------------
+Address - 5894 MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://moonwlkr-cannabis.grass.menu/menu/moonwlkr-cannabis-niagara/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12892962919
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for MOONWLKR CANNABIS at address 5894 MAIN ST NOT Found From Tymber ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

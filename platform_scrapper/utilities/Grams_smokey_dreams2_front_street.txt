@@ -1,0 +1,23 @@
+Store - Gram's Smokey Dreams
+----------------------------------------------------------------------
+Address - 2 FRONT STREET
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.gramssmokeydreams.com/
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+18072930010
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Gram's Smokey Dreams at address 2 FRONT STREET NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

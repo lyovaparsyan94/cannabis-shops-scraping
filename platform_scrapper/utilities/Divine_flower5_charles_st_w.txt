@@ -1,0 +1,23 @@
+Store - Divine Flower
+----------------------------------------------------------------------
+Address - 5 CHARLES ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://divineflower.ca/shop-online/
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16473687288
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Divine Flower at address 5 CHARLES ST W NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

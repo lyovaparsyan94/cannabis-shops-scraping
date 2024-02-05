@@ -1,0 +1,23 @@
+Store - The House of Cannabis
+----------------------------------------------------------------------
+Address - 66 DUNLOP ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://thehousecannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+17053002811
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The House of Cannabis at address 66 DUNLOP ST W NOT Found From Dutchie ecommerse provider's server: No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

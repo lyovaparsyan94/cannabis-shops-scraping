@@ -1,0 +1,23 @@
+Store - Plateau
+----------------------------------------------------------------------
+Address - 440 PRESTON ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.plateaushop.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16134222888
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Plateau at address 440 PRESTON ST NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

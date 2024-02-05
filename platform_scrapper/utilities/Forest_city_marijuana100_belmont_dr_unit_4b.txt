@@ -1,0 +1,23 @@
+Store - Forest City Marijuana
+----------------------------------------------------------------------
+Address - 100 BELMONT DR UNIT 4B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.forestcitymarijuana.com/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15192041422
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Forest City Marijuana at address 100 BELMONT DR UNIT 4B NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

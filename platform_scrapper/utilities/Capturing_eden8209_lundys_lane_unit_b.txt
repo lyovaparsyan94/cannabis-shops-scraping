@@ -1,0 +1,23 @@
+Store - Capturing Eden
+----------------------------------------------------------------------
+Address - 8209 LUNDY'S LANE UNIT B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.capturingeden.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+12893410512
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Capturing Eden at address 8209 LUNDY'S LANE UNIT B NOT Found : No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

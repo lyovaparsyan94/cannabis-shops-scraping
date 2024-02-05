@@ -1,0 +1,23 @@
+Store - PURPLE MOOSE
+----------------------------------------------------------------------
+Address - 575 LAVAL DR SUITE 400
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://purplemoosecannabis.com/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12892408338
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for PURPLE MOOSE at address 575 LAVAL DR SUITE 400 NOT Found From Tymber ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

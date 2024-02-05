@@ -1,0 +1,23 @@
+Store - ONE PLANT
+----------------------------------------------------------------------
+Address - 1363 WOODROFFE AVE SUITE D
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://oneplant.ca/
+----------------------------------------------------------------------
+Platform - WAIO 
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+16132281371
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for ONE PLANT at address 1363 WOODROFFE AVE SUITE D NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

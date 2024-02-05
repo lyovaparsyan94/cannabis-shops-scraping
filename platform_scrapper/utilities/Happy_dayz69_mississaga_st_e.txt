@@ -1,0 +1,23 @@
+Store - HAPPY DAYZ
+----------------------------------------------------------------------
+Address - 69 MISSISSAGA ST E
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://friendlystranger.com/stores/ON/orillia-mississauga-st-e?utm_medium=organic&utm_source=google&utm_campaign=gmb
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+17053267937
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for HAPPY DAYZ at address 69 MISSISSAGA ST E NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

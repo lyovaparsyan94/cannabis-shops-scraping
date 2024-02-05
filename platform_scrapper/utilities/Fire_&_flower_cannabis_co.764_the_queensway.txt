@@ -1,0 +1,23 @@
+Store - Fire & Flower Cannabis Co.
+----------------------------------------------------------------------
+Address - 764 THE QUEENSWAY
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://fireandflower.com/stores/ON/etobicoke-the-queensway?utm_medium=organic&utm_source=google&utm_campaign=gmb
+----------------------------------------------------------------------
+Platform - Fire & Flower
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+14163542681
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Fire & Flower Cannabis Co. at address 764 THE QUEENSWAY NOT Found From Fire & Flower ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

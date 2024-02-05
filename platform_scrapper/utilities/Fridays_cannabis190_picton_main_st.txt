@@ -1,0 +1,23 @@
+Store - FRIDAYS CANNABIS
+----------------------------------------------------------------------
+Address - 190 PICTON MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.fridayscannabis.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+16134768028
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FRIDAYS CANNABIS at address 190 PICTON MAIN ST NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

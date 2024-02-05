@@ -1,0 +1,23 @@
+Store - Cannabis Supply Co.
+----------------------------------------------------------------------
+Address - 57 JOHN ST S
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.cannabissupplyco.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12893891131
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannabis Supply Co. at address 57 JOHN ST S NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

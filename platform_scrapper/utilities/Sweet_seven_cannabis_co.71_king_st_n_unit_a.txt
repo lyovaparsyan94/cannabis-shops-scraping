@@ -1,0 +1,23 @@
+Store - SWEET SEVEN CANNABIS CO.
+----------------------------------------------------------------------
+Address - 71 KING ST N UNIT A
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.sweetsevencannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15198047733
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SWEET SEVEN CANNABIS CO. at address 71 KING ST N UNIT A NOT Found : No delivery / Coming soon"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

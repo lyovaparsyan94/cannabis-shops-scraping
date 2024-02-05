@@ -1,0 +1,23 @@
+Store - Shiny Bud
+----------------------------------------------------------------------
+Address - 2625 WESTON RD UNIT C26-27
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.shinybud.com/toronto/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+14169017692
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Shiny Bud at address 2625 WESTON RD UNIT C26-27 NOT Found From Dutchie ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

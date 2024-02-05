@@ -1,0 +1,23 @@
+Store - BUDGET BUD OSHAWA
+----------------------------------------------------------------------
+Address - 650 KING ST E UNIT 7
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.budget-bud.com/oshawa
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19055790650
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BUDGET BUD OSHAWA at address 650 KING ST E UNIT 7 NOT Found From Dutchie ecommerse provider's server: Delivery / Time unknown"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

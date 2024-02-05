@@ -1,0 +1,23 @@
+Store - Friendly Stranger 
+----------------------------------------------------------------------
+Address - 112-101 OSLER DR
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://friendlystranger.com/stores/ON/dundas-osler-dr?utm_medium=organic&utm_source=google&utm_campaign=gmb
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19056280173
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Friendly Stranger  at address 112-101 OSLER DR NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
