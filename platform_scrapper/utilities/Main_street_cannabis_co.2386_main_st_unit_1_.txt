@@ -16,8 +16,11 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Main Street Cannabis Co. at address 2386 MAIN ST UNIT 1  NOT Found From Dutchie ecommerse provider's server: No delivery"
+"Delivery info for Main Street Cannabis Co. at address 2386 MAIN ST UNIT 1  NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+weekend at 04-15 - hours per day - None
+05/05 at 05-05 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
 ----------------------------------------------------------------------

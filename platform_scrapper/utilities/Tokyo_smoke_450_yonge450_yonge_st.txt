@@ -16,8 +16,16 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Tokyo Smoke 450 Yonge at address 450 YONGE ST NOT Found From Dutchie ecommerse provider's server: No delivery"
+"Delivery info for Tokyo Smoke 450 Yonge at address 450 YONGE ST NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Grand Opening 3/28 at 03-27 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
 ----------------------------------------------------------------------

@@ -16,8 +16,14 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Old West Cannabis Company at address 215 KING ST E NOT Found From Dutchie ecommerse provider's server: No delivery"
+"Delivery info for Old West Cannabis Company at address 215 KING ST E NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
-- not received information about special days or hours
+
+Pre-Opening at 04-27 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours  at 12-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours  at 12-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours  at 12-17 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours  at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours  at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
 ----------------------------------------------------------------------

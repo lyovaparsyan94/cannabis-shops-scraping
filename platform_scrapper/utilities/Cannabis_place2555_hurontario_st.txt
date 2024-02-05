@@ -16,7 +16,7 @@ Phone
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
-"Delivery info for Cannabis Place at address 2555 HURONTARIO ST NOT Found From Dutchie ecommerse provider's server: No delivery"
+"Delivery info for Cannabis Place at address 2555 HURONTARIO ST NOT Found from Dutchie ecommerse provider's server"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
