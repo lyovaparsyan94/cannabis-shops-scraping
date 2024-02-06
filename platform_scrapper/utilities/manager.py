@@ -1,5 +1,5 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import gevent
 import requests
@@ -168,7 +168,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index < 2:
                     if store_id and len(store_id) > 10:
                         try:
                             query = self.query_maker(src_id=store_id)
@@ -237,10 +237,13 @@ class Manager:
                                            despensary_id=despensary_id, coordinates=coordinates)
         try:
             global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, state=state)
+            print(f'GLOBAL DATA: {global_data}')
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
                          index='', special_hours=special_hours)
+            reporter(store=store, address=shop_address, del_mode=False, auto=True)
+
         except Exception as n:
             print(f"ERROR in saving {n}")
 
@@ -253,7 +256,7 @@ class Manager:
             store = str(row.iloc[1])
             address = str(row.iloc[2])
             try:
-                reporter(store=store, address=address, del_mode=False, auto=True)
+                reporter(store=store, address=address, del_mode=False, auto=False)
             except TypeError as er:
                 print(f"error with {store} {address}\n", er)
 

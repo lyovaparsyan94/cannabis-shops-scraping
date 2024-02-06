@@ -8,17 +8,18 @@ from geo import GeoLocator
 from gevent.queue import Queue
 from geopy.distance import distance
 from platform_scrapper.configs.constants import HEADERS
+from platform_scrapper.utilities.file_modifier import file_name_maker
 
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 0.4
+    step = 4.4
     base_distantion = 0.5
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.request_counter = 0
-        self.degree = 18
+        self.degree = 20
         self.state = state
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]
@@ -53,29 +54,37 @@ class ScanDutchieDelivery:
             if within_bounds:
                 if fee is False or fee is None:
                     fee = 0
-                    print(f'within_bounds {within_bounds is True}, fee is False or None {fee in (False, None)} so fee = {fee}')
+                    print(
+                        f'within_bounds {within_bounds is True}, fee is False or None {fee in (False, None)} so fee = {fee}')
             return delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds
         else:
             print(f"Error with status code {response.status_code}")
 
     def multi_scan_total_area(self, store, address, state=''):
         """scan total area and sort according radius zones with fee cost"""
-        store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
-        address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
-        filename = store1 + address1
+        filename = file_name_maker(store, address)
         global_data = []
         radians = [(0, 72), (72, 144), (144, 216), (216, 288), (288, 360)]
-        jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1], state=state) for i in radians]
         s = time.time()
         try:
             print(f'------------------GEVENT STARTED {store} {address}-----------------------')
+            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
             gevent.joinall(jobs)
+            for job in jobs:
+                global_data.append(job.value)
             print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
+            final_data = clean_data(list_of_circle_sections=global_data, store=store, address=address)
+            with open(f"t_{filename}.json", "w") as j:
+                json.dump(global_data, j)
+            return final_data, f"{filename}"
         except Exception:
             print("Error in scanning")
+        finally:
+            e = time.time()
+            print(f"Collected delivery info in {e - s} seconds")
 
     def _scan_delivery_perimeter(self, degree, until, state=''):
-        """find borders of delivery figure on map."""
+        """find borders of delivery figure on map on Dutchie based on ecommerce provider's shops"""
         start_point = self.__shop_address
         distantion = self.base_distantion
         degree = degree
@@ -83,16 +92,16 @@ class ScanDutchieDelivery:
         queue.put(start_point)
         delivery_area = {}
         while degree <= until:
-            print("DEGREE IS", degree)
+            print(f"DEGREE IS {degree} / {until}")
             point = queue.get()
             distantion_checker = distantion
             point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
             delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = [None] * 6
             try:
                 get_delivery_info = self.get_delivery_info(point)
-                print(f'Count of made requests: {self.request_counter}')
+                print(f'Count of requests: {self.request_counter}')
                 self.request_counter += 1
-                if get_delivery_info:
+                if get_delivery_info[-1]:
                     delivery_area_id, fee, fee_varies, minimum_varies, minimum, within_bounds = get_delivery_info
             except TypeError as e:
                 print("Error with getting delivery info:", e)
@@ -100,31 +109,22 @@ class ScanDutchieDelivery:
                 f"delivery_area_id - {delivery_area_id}, fee -{fee}, fee_varies - {fee_varies}, min.varies -{minimum_varies}, minimum-{minimum}, within_bounds-{within_bounds}")
             if within_bounds:
                 print(f"within_bounds: {within_bounds}, fee-  {fee}")
-                if fee in delivery_area:
-                    if degree in delivery_area[fee]:
-                        if distantion in delivery_area[fee][degree]:
-                            delivery_area[fee][degree][distantion].append(point)
-                            delivery_area[fee][degree][distantion].append(f"min order - {minimum}")
-                        else:
-                            delivery_area[fee][degree][distantion] = [point, f"min order - {minimum}"]
-                    else:
-                        delivery_area[fee][degree] = {distantion: [point]}
-                else:
-                    delivery_area[fee] = {degree: {distantion: [point]}}
+                self.collect_delivery_info(fee=fee, delivery_area=delivery_area, minimum=minimum, degree=degree,
+                                           distantion=distantion, point=point)
                 print(f"step: {self.step}, distance: {distantion_checker}, degree: {self.degree}")
                 if distantion_checker > 10:
                     self.step = 1
                     self.degree = 20
-                if distantion_checker > 15:
+                elif distantion_checker > 15:
                     self.step = 1.5
                     self.degree = 22
-                if distantion_checker > 20:
+                elif distantion_checker > 20:
                     self.step = 2
                     self.degree = 24
-                if distantion_checker > 25:
+                elif distantion_checker > 25:
                     self.step = 2.5
                     self.degree = 28
-                if distantion_checker > 30:
+                elif distantion_checker > 30:
                     self.step = 3
                     self.degree = 32
                 pprint.pprint(delivery_area)
@@ -155,3 +155,44 @@ class ScanDutchieDelivery:
             print(f"neighbor is {neighbor}")
             time.sleep(5)
             return neighbor
+
+    def get_buddi_deliery_radius(self, degree, until, radius, fee=0, minimum=0):
+        """find borders of delivery figure on map of Buddi based on ecommerce provider's shops"""
+        start_point = self.__shop_address
+        distantion = radius
+        queue = Queue()
+        queue.put(start_point)
+        delivery_area = {}
+        while degree <= until:
+            print("DEGREE IS", degree)
+            point = queue.get()
+            point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
+            print(f'Count of made requests: {self.request_counter}')
+            self.request_counter += 1
+            if distantion <= radius:
+                self.collect_delivery_info(fee=fee, delivery_area=delivery_area, minimum=minimum, degree=degree, distantion=distantion, point=point)
+                distantion += radius
+                queue.put(point)
+            else:
+                distantion = self.base_distantion
+                degree += self.degree
+                print(f"Changed degree to {degree} and distantion to {distantion}")
+                point = start_point
+                queue.put(point)
+        print(f'made {self.request_counter} requests for this shop')
+        return delivery_area
+
+    @staticmethod
+    def collect_delivery_info(fee, delivery_area, minimum, degree, distantion, point):
+        if fee in delivery_area:
+            if degree in delivery_area[fee]:
+                if distantion in delivery_area[fee][degree]:
+                    delivery_area[fee][degree][distantion].append(point)
+                    delivery_area[fee][degree][distantion].append(f"min order - {minimum}")
+                else:
+                    delivery_area[fee][degree][distantion] = [point, f"min order - {minimum}"]
+            else:
+                delivery_area[fee][degree] = {distantion: [point]}
+        else:
+            delivery_area[fee] = {degree: {distantion: [point]}}
+        pprint.pprint(delivery_area)

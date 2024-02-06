@@ -1,6 +1,7 @@
 import os
 import json
 from platform_scrapper.configs.constants import ecommerse_providers
+from platform_scrapper.utilities.file_modifier import reporter, file_name_maker
 
 
 def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
@@ -35,9 +36,7 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
 
 def write_report(global_data, store, address, status, url, ecom_provider, service_options, phone, index,
                  special_hours=''):
-    store1 = str(store).replace(" ", '_').replace("'", '').capitalize()
-    address1 = str(address).replace(" ", '_').replace("'", '').capitalize()
-    filename = store1 + address1
+    filename = file_name_maker(store, address)
     liner = f"\n{70 * '-'}\n"
     days = {}
     if special_hours:
@@ -71,4 +70,4 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
             f.write(f"{liner}")
     os.remove(f'{index}glob.txt')
     print(
-        f"Wrote {global_data} \nto {index}{filename}.txt,\n removed json with same name and marked status to True, at index {index}")
+        f"Wrote {global_data} \nto {index}{filename}.txt,\n removed json with same name and marked status to True, at index: {index}")

@@ -1,0 +1,25 @@
+Store - VILLAGE CANNABIS CO.
+----------------------------------------------------------------------
+Address - 264 RIDGEWAY ROAD, UNIT 2
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.villagecannabisco.ca/pages/shopcrystalbeach?
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12898769333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for VILLAGE CANNABIS CO. at address 264 RIDGEWAY ROAD, UNIT 2 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Pre-Launch at 02-09 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+OCS BS at 08-09 - hours per day - None
+----------------------------------------------------------------------
