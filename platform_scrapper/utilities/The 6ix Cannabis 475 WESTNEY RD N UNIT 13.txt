@@ -1,0 +1,216 @@
+Store - The 6ix Cannabis
+----------------------------------------------------------------------
+Address - 475 WESTNEY RD N UNIT 13
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.the6ixcannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+12894821300
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.949458371287434,
+        -79.0390134
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.94669762552731,
+        -79.0100122565316
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.93860366925225,
+        -78.98299205599221
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.925728476491535,
+        -78.95979751621357
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.90894999464596,
+        -78.94201051978159
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.89347855669157,
+        -78.93250281001288
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.87268615784476,
+        -78.92719837671312
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.851606254190706,
+        -78.92951488383899
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.83167531983784,
+        -78.93928981746944
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.81425127359502,
+        -78.95585338513949
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.802922490862755,
+        -78.9732460315587
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.79283498991739,
+        -78.99891961678078
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.78789989413244,
+        -79.02731945713843
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.78845327778958,
+        -79.05651433496793
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.794457456867775,
+        -79.08451935536954
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.802922490862755,
+        -79.1047807684413
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.81747540221476,
+        -79.12598104981025
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.83550250586105,
+        -79.14126351948683
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.8557757663143,
+        -79.14958457954319
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.87691389024351,
+        -79.15037322546054
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.89347855669157,
+        -79.14552398998713
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.91256629089185,
+        -79.13295570016409
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.928648142959645,
+        -79.11397708354346
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.940627625962776,
+        -79.08988075180599
+      ],
+      "min order - 75.0"
+    ],
+    [
+      [
+        43.947687851043845,
+        -79.06231051424896
+      ],
+      "min order - 75.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Pre-Open (Closed) at 05-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+VICTORIA DAY -MONDAY MAY 24TH at 05-24 - active - False, hours per day: from - 10:00 AM, to - 9:00 PM
+Canada Day at 07-01 - active - False, hours per day: from - 7:00 PM, to - 10:00 PM
+Labour day at 09-06 - active - False, hours per day: from - 10:00 AM, to - 10:00 PM
+Thanks Giving Day at 10-11 - active - False, hours per day: from - 10:00 AM, to - 10:00 PM
+New year Day at 01-01 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Family day at 02-21 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Victoria Day! at 05-23 - hours per day - None
+Canada Day! at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Family Day at 02-20 - hours per day - None
+----------------------------------------------------------------------

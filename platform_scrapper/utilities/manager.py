@@ -168,7 +168,7 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index < 2:
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
                     if store_id and len(store_id) > 10:
                         try:
                             query = self.query_maker(src_id=store_id)
@@ -262,5 +262,4 @@ class Manager:
 
 
 manager = Manager()
-# manager.start()
-manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+# manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

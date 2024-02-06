@@ -1,0 +1,61 @@
+Store - Kana Leaf
+----------------------------------------------------------------------
+Address - 2 OSPREY MIIKAN RD
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.kanaleaf.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+17054742021
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "5.5": [
+    [
+      [
+        46.34398603690181,
+        -79.41562527236808
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        46.316125961131206,
+        -79.4188363525486
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        46.3714665853424,
+        -79.71704198974204
+      ],
+      "min order - 20.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Easter Weekend at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day July 1st at 07-01 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - active - True, hours per day: from - 12:30 PM, to - 5:30 PM
+Boxing Day at 12-26 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Good Friday - Closed at 04-02 - active - True, hours per day: from - 3:00 PM, to - 5:00 PM
+May24th - Victoria Day  at 05-24 - active - True, hours per day: from - 11:00 AM, to - 5:00 PM
+Christmas Day - Closed at 12-25 - hours per day - None
+Christmas Eve Delivery Hours at 12-24 - hours per day - None
+Christmas Hours at 12-25 - hours per day - None
+No Delivery Boxing Day at 12-26 - hours per day - None
+No Delivery New Years Day at 01-01 - hours per day - None
+----------------------------------------------------------------------

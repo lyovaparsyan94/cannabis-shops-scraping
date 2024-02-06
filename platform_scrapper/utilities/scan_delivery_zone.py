@@ -13,13 +13,13 @@ from platform_scrapper.utilities.file_modifier import file_name_maker
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
-    step = 4.4
+    step = 0.4
     base_distantion = 0.5
 
     def __init__(self, shop_address, despensary_id, store, state, coordinates):
         self.geolocator = GeoLocator()
         self.request_counter = 0
-        self.degree = 20
+        self.degree = 15
         self.state = state
         # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
         self.__shop_address = coordinates[1], coordinates[0]

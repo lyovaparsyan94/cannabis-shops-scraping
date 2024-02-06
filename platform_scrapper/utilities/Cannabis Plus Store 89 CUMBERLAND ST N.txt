@@ -1,0 +1,219 @@
+Store - Cannabis Plus Store
+----------------------------------------------------------------------
+Address - 89 CUMBERLAND ST N
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://cannabisplusstore.com/cannabis-plus-store-north/?
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+18072854117
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        48.47718462544007,
+        -89.216046
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.47583606163494,
+        -89.20064764508314
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.471882330843215,
+        -89.18630015450461
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.47894497526822,
+        -89.15389738000475
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.457396988477186,
+        -89.16453414782515
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.44511721026888,
+        -89.181338040248
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.43888458390962,
+        -89.17960497537167
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.434997573798235,
+        -89.19753924831967
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.431899561462735,
+        -89.19918876477114
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.42919113438249,
+        -89.20198678281778
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.42743012732299,
+        -89.2049262555548
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.414947566130955,
+        -89.20297301134295
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.33118552328287,
+        -89.19925546234178
+      ],
+      "min order - 80.0"
+    ],
+    [
+      [
+        48.33191656821333,
+        -89.24117447465154
+      ],
+      "min order - 80.0"
+    ],
+    [
+      [
+        48.41543395301002,
+        -89.23088353906455
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.35103121232445,
+        -89.31048421776039
+      ],
+      "min order - 80.0"
+    ],
+    [
+      [
+        48.370256731799735,
+        -89.340936012657
+      ],
+      "min order - 80.0"
+    ],
+    [
+      [
+        48.38199449991183,
+        -89.40359527704071
+      ],
+      "min order - 80.0"
+    ],
+    [
+      [
+        48.42085593776903,
+        -89.37486337124685
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.448782756200565,
+        -89.37601366205787
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.46261487020882,
+        -89.33176157968556
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.48168768469218,
+        -89.31811048520231
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.481051939283915,
+        -89.27485834707404
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.4728709934447,
+        -89.24305500123468
+      ],
+      "min order - 25.0"
+    ],
+    [
+      [
+        48.47631976531016,
+        -89.22841571433277
+      ],
+      "min order - 25.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Day at 12-25 - active - False, hours per day: from - 10:00 AM, to - 8:30 PM
+New Years Day at 01-01 - hours per day - None
+Family Day at 02-21 - active - False, hours per day: from - 12:00 PM, to - 5:30 PM
+Easter Sunday at 04-17 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Christmas Day at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+xmas eve at 12-24 - hours per day - None
+xmas at 12-25 - hours per day - None
+new years day at 01-01 - hours per day - None
+----------------------------------------------------------------------

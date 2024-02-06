@@ -5,18 +5,18 @@ from platform_scrapper.src.write_reports import clean_data
 
 
 def file_name_maker(store, address):
-    store1 = str(store).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
-    address1 = str(address).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
-    filename = store1 + address1
+    # store1 = str(store).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
+    # address1 = str(address).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
+    filename = f"{store} {address}"
+    filename = ''.join(char for char in filename if char.isalnum() or char.isspace())
     return filename
 
 
 def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False,
              single_mode=False):
     src = r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\utilities'
-
+    storename = file_name_maker(store=store, address=address)
     if address and store:
-        storename = file_name_maker(store=store, address=address)
         file_to_append = None
         print(f'searching {storename} ...')
         for file_name in os.listdir(src):
@@ -38,7 +38,7 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
         json.dump(cleaned_coords, glob_file, indent=2)
     with open(file_to_append, 'r') as f:
         lines = f.readlines()
-        with open(f'{store} {address}.txt', 'w') as file:  # save new file in copy
+        with open(f'{storename}.txt', 'w') as file:  # save new file in copy
             for line in lines:
                 if '{}' in line and line.strip() == '{}':
                     print("'{}' in line", line)
@@ -49,7 +49,7 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
                             file.write(i)
                             continue
                 file.write(line)
-    print(f'Current file is {store} {address}.txt')
+    print(f'Current file is {storename}.txt')
     os.remove(f"{file_to_append}_G.txt")
     if del_mode:
         if not auto:
