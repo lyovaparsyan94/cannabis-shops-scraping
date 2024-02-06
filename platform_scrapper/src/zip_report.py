@@ -8,7 +8,7 @@ def zip_files(path_to_files, path_to_zip):
                 file_path = os.path.join(root, file)
                 zip_file.write(file_path, os.path.relpath(file_path, path_to_files))
 
-# path_to_files = r"..."
-# path_to_zip = r"...\collected_data.zip"
-# zip_files(path_to_files, path_to_zip)
+path_to_files = r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\CANNABIS_RESULTS\collected_data"
+path_to_zip = r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\collected_data.zip"
+zip_files(path_to_files, path_to_zip)
 

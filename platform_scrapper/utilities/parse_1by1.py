@@ -1,3 +1,3 @@
 from platform_scrapper.utilities.manager import Manager
 manager = Manager()
-disp = manager.query_maker('64a2d5ccd203a500091fa554').get('cName', None)
+disp = manager.query_maker('61b6808cc2a6e2009ae30fdc').get('cName', None)

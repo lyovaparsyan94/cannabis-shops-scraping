@@ -49,6 +49,7 @@ class Manager:
                 delivery_enabled = res['orderTypesConfig']['delivery']['enabled']
                 url_with_endpoint = res['embeddedMenuUrl']
                 cName = res['cName']
+                fee_tiers = res['feeTiers']
                 city = res['location']['city']
                 coordinates = res['location']['geometry']['coordinates']
                 ln1 = res['location']['ln1']
@@ -57,6 +58,7 @@ class Manager:
                 zipcode = res['location']['zipcode']
                 offer_delivery = res["offerDelivery"]
                 is_open_status = res['status']
+                print("fee_tiers:", fee_tiers)
                 print(
                     f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
@@ -67,7 +69,7 @@ class Manager:
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
                          "zipcode": zipcode, "is_open_status": is_open_status,
                          "graphql_shop_id": graphql_shop_id, "special_hours": special_hours,
-                         "state_short": state_short, 'ln1': ln1, 'ln2': ln2}
+                         "state_short": state_short, 'ln1': ln1, 'ln2': ln2, "fee_tiers": fee_tiers}
                 return query
             else:
                 return None
@@ -242,7 +244,7 @@ class Manager:
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
                          index='', special_hours=special_hours)
-            reporter(store=store, address=shop_address, del_mode=False, auto=True)
+            # reporter(store=store, address=shop_address, del_mode=False, auto=True)
 
         except Exception as n:
             print(f"ERROR in saving {n}")
