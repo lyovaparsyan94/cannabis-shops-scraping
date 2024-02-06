@@ -1,0 +1,23 @@
+Store - Culture Rising
+----------------------------------------------------------------------
+Address - 1248 MAIN ST E
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://budler.ca/culture-rising/culture-rising-3723
+----------------------------------------------------------------------
+Platform - Budler
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19058649988
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Culture Rising at address 1248 MAIN ST E NOT Found From Budler ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

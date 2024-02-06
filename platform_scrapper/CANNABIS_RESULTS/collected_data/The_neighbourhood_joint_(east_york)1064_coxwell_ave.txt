@@ -1,0 +1,23 @@
+Store - The Neighbourhood Joint (East York)
+----------------------------------------------------------------------
+Address - 1064 COXWELL AVE
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://theneighbourhoodjoint.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+14167920466
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Neighbourhood Joint (East York) at address 1064 COXWELL AVE NOT Found : No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

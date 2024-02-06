@@ -1,0 +1,23 @@
+Store - Hidden Leaf Cannabis Co.
+----------------------------------------------------------------------
+Address - 701 LAWRENCE AVE W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://hiddenleafcannabisco.com/shop
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+14167369014
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Hidden Leaf Cannabis Co. at address 701 LAWRENCE AVE W NOT Found : No delivery / Temprorary closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

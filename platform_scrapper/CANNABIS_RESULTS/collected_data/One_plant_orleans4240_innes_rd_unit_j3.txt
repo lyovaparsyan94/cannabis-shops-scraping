@@ -1,0 +1,23 @@
+Store - One Plant Orleans
+----------------------------------------------------------------------
+Address - 4240 INNES RD UNIT J3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.oneplant.ca/locations/ottawa-orleans
+----------------------------------------------------------------------
+Platform - WAIO 
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16138349200
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for One Plant Orleans at address 4240 INNES RD UNIT J3 NOT Found from WAIO ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

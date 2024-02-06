@@ -1,0 +1,23 @@
+Store - The Green Bouquet Cannabis
+----------------------------------------------------------------------
+Address - 15 SOUTH MARY LAKE RD UNIT 2
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.thegreenbouquet.ca/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+17053859333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Green Bouquet Cannabis at address 15 SOUTH MARY LAKE RD UNIT 2 NOT Found From Tymber ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

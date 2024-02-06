@@ -1,0 +1,23 @@
+Store - Canna Cabana Toronto
+----------------------------------------------------------------------
+Address - 433 PARLIAMENT ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://cannacabana.com/a/stores/ontario/toronto/parliament-street?utm_source=google&utm_medium=organic&utm_campaign=gmb
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14165150009
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canna Cabana Toronto at address 433 PARLIAMENT ST NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

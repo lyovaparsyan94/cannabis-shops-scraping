@@ -1,0 +1,23 @@
+Store - KINGSTON CANNABIS INC.
+----------------------------------------------------------------------
+Address - 545 MONTREAL ST UNIT 1
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://kingstoncannabisinc.ca/
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+13433331553
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for KINGSTON CANNABIS INC. at address 545 MONTREAL ST UNIT 1 NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

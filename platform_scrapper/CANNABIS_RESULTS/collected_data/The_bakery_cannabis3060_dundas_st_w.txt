@@ -1,0 +1,23 @@
+Store - The Bakery Cannabis
+----------------------------------------------------------------------
+Address - 3060 DUNDAS ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://thebakerycannabis.ca/menu/junction/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16473499333
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Bakery Cannabis at address 3060 DUNDAS ST W NOT Found From Tymber ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

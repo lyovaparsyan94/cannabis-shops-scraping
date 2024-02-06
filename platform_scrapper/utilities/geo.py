@@ -1,7 +1,7 @@
+import random
 import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
-
 
 class GeoLocator:
     half_km = 0.004501
@@ -28,24 +28,25 @@ class GeoLocator:
                 retry += 1
         return location.latitude, location.longitude
 
-    def get_city_state_zipcode_lat_long(self, address, retry=10, interval=1):
+    def get_city_state_zipcode_lat_long(self, address, retry=20, interval=1):
+        gevent.sleep(random.randint(2, 7))
         response = None
         while not response and retry >= 1:
             try:
-                location = self.geolocator.reverse(address, timeout=10)
+                # gevent.sleep(2)
+                location = self.geolocator.reverse(address, timeout=12)
                 _lat = location.raw['lat']
                 _lon = location.raw['lon']
                 _city = location.raw['address'].get('city', None)
                 _postcode = location.raw['address'].get('postcode')
                 _state = location.raw['address'].get('state')
-                print(f"City={_city}, {_postcode}, {_state}, lat={_lat}, lon={_lon}")
                 response = _city, _postcode, _state, _lat, _lon
                 return response
             except Exception as e:
                 retry -= 1
                 interval += 1
                 gevent.sleep(interval)
-                print(f"retry is {retry}, interval - {interval}")
+                print(f"retry is {retry}, interval - {interval}\n{e}")
         return response
 
     def find_address_with_coords(self, coords):
@@ -91,12 +92,3 @@ class GeoLocator:
         print(f"New coords after movement are {new_coords}")
         return new_coords
 
-# geo = GeoLocator()
-# state = "CORNWALL"
-# address = '44 PITT ST SUITE A'
-# country = "Canada"
-# address = " ".join(address.split(' ')[:2])
-# param = f"{address} {state}"
-# # print(param)
-# bayly = geo.get_latitude_longtitude(param)
-# print(bayly)

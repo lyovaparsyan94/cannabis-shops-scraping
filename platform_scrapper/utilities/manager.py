@@ -1,10 +1,10 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import gevent
 import requests
 from data_collector import write_report
-from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, server_info, FROM as f
+from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers
 from scan_delivery_zone import ScanDutchieDelivery
 from platform_scrapper.helpers.file_handler import load_xlsx
 from platform_scrapper.utilities.file_modifier import reporter
@@ -61,7 +61,7 @@ class Manager:
                     f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
                     print(
-                        f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server")
+                        f"Delivery info for {name} at address {ln1} NOT Found from Dutchie ecommerse provider's server \ state_short: {state_short}, zipcode: {zipcode}")
                 query = {"address": address, "delivery_hours": delivery_hours, "delivery_enabled": delivery_enabled,
                          "url_with_endpoint": url_with_endpoint, "cName": cName, 'city': city,
                          "coordinates": coordinates, 'offer_delivery': offer_delivery,
@@ -168,9 +168,8 @@ class Manager:
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
-                if checked not in ['True', 'true', 'ИСТИНА', 1.0]:
-                    if store_id and len(store_id) == 24:
-                        print(store_id)
+                if checked not in ['True', 'true', 'ИСТИНА', 1.0] and index < 2:
+                    if store_id and len(store_id) > 10:
                         try:
                             query = self.query_maker(src_id=store_id)
                             if query:
@@ -187,11 +186,13 @@ class Manager:
                                             index='', special_hours=special_hours)
                                         df.at[index, 'checked'] = True
                                         continue
-                                    # time.sleep(10)
+                                    gevent.sleep(10)
                                     coordinates = query.get('coordinates')
+                                    state_short = query.get('state_short', None)
+                                    zipcode = query.get('zipcode', None)
                                     print(
                                         f"Store {store}, address: {address} {state}, licenzion - {status}, platform {ecom_provider},  url - {url}, store_id - {store_id}, index - {index}")
-                                    self.scan_area(state=state, store=store, shop_address=address,
+                                    self.scan_area(state=state_short, store=store, shop_address=address,
                                                    despensary_id=despensary_id, status=status, url=url,
                                                    ecom_provider=ecom_provider, service_options=service_options,
                                                    phone=phone,
@@ -204,26 +205,20 @@ class Manager:
                             print(check_error)
                             print('Wrote Error to  excel!!!')
                         finally:
-                            df.to_excel(file,index=False)
+                            df.to_excel(file, index=False)
                     elif 'no' in type_of_delivery_offered.lower():
-                        FROM = f
-                        ecomerse_is = ''
-                        server_info = "ecommerse provider's server"
                         if 'page doesn' in ecom_provider.lower():
-                            for provider in ecommerse_providers:
-                                if provider.lower() in ecom_provider.lower():
-                                    ecom_provider = provider
-                                    ecomerse_is = ecom_provider
-                                    break
-                                else:
-                                    FROM = ''
-                                    server_info = ''
-                                type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
-                                                                                            '').replace(
-                                    " / Page doesn’t exist", '')
-                                break
+                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
+                                                                                        '').replace(
+                                " / Page doesn’t exist", '')
+
+                        if ecom_provider in ecommerse_providers:
+                            is_provider_string = f"From {ecom_provider} ecommerse provider's server"
+                        else:
+                            is_provider_string = ""
+
                         write_report(
-                            global_data=f"Delivery info for {store} at address {address} NOT Found{FROM}{ecomerse_is}{server_info}: {type_of_delivery_offered[2:-2]}",
+                            global_data=f"Delivery info for {store} at address {address} NOT Found {is_provider_string}: {type_of_delivery_offered[2:-2]}",
                             store=store, address=address,
                             status=status, url=url, ecom_provider=ecom_provider,
                             service_options=service_options, phone=phone,
@@ -241,11 +236,14 @@ class Manager:
         self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
                                            despensary_id=despensary_id, coordinates=coordinates)
         try:
-            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address)
+            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, state=state)
+            print(f'GLOBAL DATA: {global_data}')
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
                          index='', special_hours=special_hours)
+            reporter(store=store, address=shop_address, del_mode=False, auto=True)
+
         except Exception as n:
             print(f"ERROR in saving {n}")
 
@@ -265,9 +263,4 @@ class Manager:
 
 manager = Manager()
 # manager.start()
-# manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
-manager.file_modifier()
-# for file in os.listdir():
-#     if file.endswith('.txt'):
-#         print(file)
-#         os.remove(file)
+manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

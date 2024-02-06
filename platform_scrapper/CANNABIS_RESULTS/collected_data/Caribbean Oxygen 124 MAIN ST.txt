@@ -1,0 +1,215 @@
+Store - Caribbean Oxygen
+----------------------------------------------------------------------
+Address - 124 MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.caribbeanoxygen.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+15192672225
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.44009651761374,
+        -80.31196120000001
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.415600517831336,
+        -80.29119636659802
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.409754574830274,
+        -80.27184900951556
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.38709114959632,
+        -80.27356962972219
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.378887977655694,
+        -80.2649454137125
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.37132371812668,
+        -80.26033328958347
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.361157773768284,
+        -80.25775664236623
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.35085105889443,
+        -80.25887418166104
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.34110592953869,
+        -80.26360858528342
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.342826228238586,
+        -80.28721397193287
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.339427008436445,
+        -80.29238830340816
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.33640019281252,
+        -80.3000281703054
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.33491937225737,
+        -80.30848064214484
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.33508542057502,
+        -80.31717011832545
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.33688702665039,
+        -80.32550489761707
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.339427008436445,
+        -80.33153409659187
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.33416284151215,
+        -80.35413179424643
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.34297722678479,
+        -80.36153792744109
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.352889697815925,
+        -80.36556718157577
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.363224838092435,
+        -80.36594398259157
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.37132371812668,
+        -80.36358911041656
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.380656032955194,
+        -80.35749276950204
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.40256406135939,
+        -80.36563786013016
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.411216400557365,
+        -80.34838284877935
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.41631571675047,
+        -80.32864190082142
+      ],
+      "min order - 35.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Day & Boxing Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Labour Day at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Week Before Christmas at 12-20 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day Week at 12-26 - active - True, hours per day: from - 00:00 AM, to - 8:30 PM
+New Years Day at 01-01 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+----------------------------------------------------------------------

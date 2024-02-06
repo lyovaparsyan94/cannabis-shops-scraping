@@ -1,0 +1,23 @@
+Store - the 6ix Cannabis
+----------------------------------------------------------------------
+Address - 6 SPICER SQ UNIT 106
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://www.the6ixcannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+12894821300
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for the 6ix Cannabis at address 6 SPICER SQ UNIT 106 NOT Found : No delivery / Coming soon"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

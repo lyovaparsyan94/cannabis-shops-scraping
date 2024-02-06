@@ -1,0 +1,216 @@
+Store - VIP Cannabis Co.
+----------------------------------------------------------------------
+Address - 930 DUNDAS ST UNIT 107
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.vipcannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+15193981032
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.1571396011603,
+        -80.7333515
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.15631136289923,
+        -80.7247606467164
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.167134644608886,
+        -80.70630311487685
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.150020402589334,
+        -80.70988250984362
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.14498655182316,
+        -80.70460959865767
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.14507163061757,
+        -80.68191436178655
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.13490528535817,
+        -80.67934718981921
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.127781489291266,
+        -80.70089472120965
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.121801211897555,
+        -80.70378820934629
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.1165729905098,
+        -80.70869565549214
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.11317363277499,
+        -80.71385087392983
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.110146693857004,
+        -80.72146252835527
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.10866581282002,
+        -80.7298837922883
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.108831867924955,
+        -80.73854118703628
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.11063354755558,
+        -80.74684519222104
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.11317363277499,
+        -80.75285212607017
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.11754042506704,
+        -80.7591357041185
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.12294957204154,
+        -80.76366301514267
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.129032530510045,
+        -80.76612531845136
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.136972431512966,
+        -80.78713484516409
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.14507163061757,
+        -80.78478863821344
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.154404310052406,
+        -80.778714788774
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.150896343682504,
+        -80.75556027304714
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.15449031973557,
+        -80.74842027532242
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.15660843613791,
+        -80.7402526335248
+      ],
+      "min order - 0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Opening at 05-19 - active - False, hours per day: from - 4:00 PM, to - 9:00 PM
+Opening at 05-26 - active - False, hours per day: from - 4:00 PM, to - 9:00 PM
+Labour Day at 09-05 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years at 12-31 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Closing Early at 06-27 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year Eve at 12-31 - hours per day - None
+New Year at 01-01 - hours per day - None
+Christmas  at 12-25 - hours per day - None
+----------------------------------------------------------------------

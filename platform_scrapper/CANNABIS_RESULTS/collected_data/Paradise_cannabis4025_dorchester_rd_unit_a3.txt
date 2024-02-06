@@ -1,0 +1,23 @@
+Store - PARADISE CANNABIS
+----------------------------------------------------------------------
+Address - 4025 DORCHESTER RD UNIT A3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://paradisecannabis.ca/shop-niagara-store/?utm_source=google&utm_medium=click&utm_campaign=Niagara+Falls+GMB
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12892967710
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for PARADISE CANNABIS at address 4025 DORCHESTER RD UNIT A3 NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

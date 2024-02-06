@@ -1,0 +1,29 @@
+Store - TONIK CANNABIS
+----------------------------------------------------------------------
+Address - 560 WEST ST SUITE B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.tonikcannabis.com/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15193045040
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TONIK CANNABIS at address 560 WEST ST SUITE B NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+May 24 at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Holiday at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New years Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Temporary Store Hours at 05-02 - hours per day - None
+----------------------------------------------------------------------

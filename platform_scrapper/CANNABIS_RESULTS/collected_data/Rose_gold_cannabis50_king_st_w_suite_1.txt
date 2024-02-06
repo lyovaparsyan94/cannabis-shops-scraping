@@ -1,0 +1,23 @@
+Store - Rose Gold Cannabis
+----------------------------------------------------------------------
+Address - 50 KING ST W SUITE 1
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.rosegoldcannabis.ca/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+18888862795
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Rose Gold Cannabis at address 50 KING ST W SUITE 1 NOT Found From Tymber ecommerse provider's server: No delivery / Ship via Canada Post in 5-7 business days"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

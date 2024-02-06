@@ -1,0 +1,23 @@
+Store - GREEN VALLEY CANNABIS COMPANY
+----------------------------------------------------------------------
+Address - 115 JOHN ST N
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://greenvalleycannabisco.com/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+16132864694
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for GREEN VALLEY CANNABIS COMPANY at address 115 JOHN ST N NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

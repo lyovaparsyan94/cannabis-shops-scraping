@@ -1,0 +1,215 @@
+Store - The Hunny Pot Cannabis Co.
+----------------------------------------------------------------------
+Address - 202 QUEEN ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://thehunnypot.com/downtown-toronto-cannabis-menu/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+16475984044
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+Delivery FREE or $10.00 if less than min order
+
+{
+  "0": [
+    [
+      [
+        43.812433294918705,
+        -79.3889487
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.84168441521784,
+        -79.31824282208221
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.8218961455396,
+        -79.25238083481989
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.79041913379618,
+        -79.1958696619612
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.73140785064665,
+        -79.19557646965625
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.673781279013795,
+        -79.28990088396135
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.65230827366021,
+        -79.339434364101
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.645934735519035,
+        -79.35985151963992
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.645523522527505,
+        -79.37569636525122
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.6432000177626,
+        -79.37789590914628
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.64168927640343,
+        -79.38020674202069
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.640344036864576,
+        -79.38361889089973
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.63968589723273,
+        -79.38739411894618
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.63975969626369,
+        -79.39127524608553
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.640560406101706,
+        -79.39499788691958
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.632951090935315,
+        -79.40643106768418
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.636832358020406,
+        -79.41206421489028
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.63578132065939,
+        -79.43423630183075
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.638590693582394,
+        -79.49177531413524
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.66094940705803,
+        -79.52702998485411
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.68156409876455,
+        -79.52102180247267
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        43.738641065446686,
+        -79.57622579947291
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.77080790081801,
+        -79.53841275223273
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.794769586686705,
+        -79.4903798769768
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.808891795324705,
+        -79.43540684829233
+      ],
+      "min order - 40.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Feb 25 at 02-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Apr 3-4 at 04-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+May 18 at 05-18 - active - False, hours per day: from - 9:00 AM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Labour day at 09-07 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 9:00 AM, to - 9:00 PM
+Xmas Day at 12-24 - active - True, hours per day: from - 12:00 PM, to - 4:30 PM
+Christmas Day at 12-25 - active - False, hours per day: from - 11:00 AM, to - 8:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 11:00 AM, to - 8:00 PM
+Holiday Hours at 12-24 - hours per day - None
+----------------------------------------------------------------------
