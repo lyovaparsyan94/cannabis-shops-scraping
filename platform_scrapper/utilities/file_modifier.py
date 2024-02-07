@@ -5,8 +5,6 @@ from platform_scrapper.src.write_reports import clean_data
 
 
 def file_name_maker(store, address):
-    # store1 = str(store).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
-    # address1 = str(address).replace(" ", '_').replace("'", '').replace("/", '').capitalize()
     filename = f"{store} {address}"
     filename = ''.join(char for char in filename if char.isalnum() or char.isspace())
     return filename

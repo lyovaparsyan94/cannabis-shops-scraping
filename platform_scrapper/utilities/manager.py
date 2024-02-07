@@ -1,5 +1,5 @@
 from gevent import monkey
-# monkey.patch_all()
+monkey.patch_all()
 import json
 import gevent
 import requests
@@ -11,8 +11,6 @@ from platform_scrapper.utilities.file_modifier import reporter
 
 
 class Manager:
-    def __init__(self):
-        ...
 
     def load_src_data(self):
         json_with_src = r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\info_saved.json"
@@ -167,6 +165,7 @@ class Manager:
                 service_options = row.iloc[7]
                 phone = str(row.iloc[8])
                 type_of_delivery_offered = row.iloc[9]
+                min_delivery_fee = row.iloc[11]
                 zones = row.iloc[12]
                 checked = row.iloc[13]
                 ended_licension = "Public Notice Period: Ended"
@@ -210,12 +209,12 @@ class Manager:
                             df.to_excel(file, index=False)
                     elif 'no' in type_of_delivery_offered.lower():
                         if 'page doesn' in ecom_provider.lower():
-                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",'').replace(" / Page doesn’t exist", '')
+                            type_of_delivery_offered = type_of_delivery_offered.replace(" / Page doesn't exist",
+                                                                                        '').replace(" / Page doesn’t exist", '')
                         if ecom_provider in ecommerse_providers:
                             is_provider_string = f"From {ecom_provider} ecommerse provider's server"
                         else:
                             is_provider_string = ""
-
                         write_report(
                             global_data=f"Delivery info for {store} at address {address} NOT Found {is_provider_string}: {type_of_delivery_offered[2:-2]}",
                             store=store, address=address,
@@ -224,30 +223,32 @@ class Manager:
                             index='')
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
-                        write_report(global_data='{}', store=store, address=address,
-                                     status=status, url=url, ecom_provider=ecom_provider,
-                                     service_options=service_options,
-                                     phone=phone,
-                                     index='', special_hours='')
+                        if ecom_provider == "Buddi":
+                            buddi_params = {'radius': 35, 'fee': 10, 'minimum': 50}
+                        self.scan_area(state=state, store=store, shop_address=address,
+                                       despensary_id='', status=status, url=url,
+                                       ecom_provider=ecom_provider, service_options=service_options,
+                                       phone=phone,
+                                       index=index, coordinates='', special_hours='', min_delivery_fee=min_delivery_fee, buddi_params=buddi_params)
+                        reporter(store=store, address=address, auto=True)
                         df.at[index, 'checked'] = True
                         continue
-
         except Exception as e:
             print(e)
         finally:
             df.to_excel(file, index=False)
 
     def scan_area(self, store, shop_address, state, despensary_id, status, url, ecom_provider, service_options, phone,
-                  index, coordinates, special_hours):
+                  index, coordinates, special_hours, min_delivery_fee, buddi_params=None):
         self.scanner = ScanDutchieDelivery(shop_address=shop_address, state=state, store=store,
-                                           despensary_id=despensary_id, coordinates=coordinates)
+                                           despensary_id=despensary_id, coordinates=coordinates, provider=ecom_provider, buddi_params=buddi_params)
         try:
-            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, state=state)
-            print(f'GLOBAL DATA: {global_data}')
+            global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, provider=ecom_provider,
+                                                             state=state, buddi_params=buddi_params)
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
-                         index='', special_hours=special_hours)
+                         index='', special_hours=special_hours, min_delivery_fee=min_delivery_fee)
             # reporter(store=store, address=shop_address, del_mode=False, auto=True)
         except Exception as n:
             print(f"ERROR in saving {n}")
@@ -267,4 +268,5 @@ class Manager:
 
 
 manager = Manager()
-manager.manage(file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+manager.manage(
+    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

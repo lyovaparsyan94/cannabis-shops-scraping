@@ -3,6 +3,7 @@ import gevent
 from geopy.geocoders import Nominatim
 from geopy.distance import geodesic
 
+
 class GeoLocator:
     half_km = 0.004501
 
@@ -11,7 +12,7 @@ class GeoLocator:
                           "Chrome/120.0.0.0 Safari/537.36"
         self.geolocator = Nominatim(user_agent=self.user_agent)
 
-    def get_latitude_longtitude(self, address, store=None, state=None):
+    def get_latitude_longtitude(self, address=None, store=None, state=None):
         location = None
         retry = 0
         query = [f"{' '.join(address.split()[:3])} {state} Canada",
@@ -92,3 +93,17 @@ class GeoLocator:
         print(f"New coords after movement are {new_coords}")
         return new_coords
 
+
+# g = GeoLocator()
+# g.measure_distantion((44.73475, -77.16003), (44.71845, -76.71599))
+# def build_next_point(start_point, bearing, distantion):
+#     from geopy.distance import distance
+#     bearing = float(bearing)
+#     print("trying get next point")
+#     gevent.sleep(2)
+#     end_point = distance(kilometers=distantion).destination(start_point, bearing)
+#     print(f"Coordinates of point at distance {distantion} km {bearing} degrees:"
+#           f" {end_point.latitude}, {end_point.longitude}")
+#     return end_point.latitude, end_point.longitude
+#
+# build_next_point((44.73475, -77.16003), 90, 35)

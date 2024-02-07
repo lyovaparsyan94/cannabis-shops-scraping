@@ -3,28 +3,36 @@ import pprint
 import time
 import gevent
 import requests
-from data_collector import clean_data
 from geo import GeoLocator
 from gevent.queue import Queue
 from geopy.distance import distance
+from data_collector import clean_data
 from platform_scrapper.configs.constants import HEADERS
+from platform_scrapper.configs.constants import DUTCHIE, BUDDI
 from platform_scrapper.utilities.file_modifier import file_name_maker
 
 
 class ScanDutchieDelivery:
     half_km = GeoLocator.half_km
     step = 0.4
-    base_distantion = 0.5
+    base_distantion = 0.0
 
-    def __init__(self, shop_address, despensary_id, store, state, coordinates):
+    def __init__(self, shop_address, despensary_id, store, state, coordinates, provider, buddi_params=None):
         self.geolocator = GeoLocator()
         self.request_counter = 0
         self.degree = 15
         self.state = state
-        # self.__shop_address = self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
-        self.__shop_address = coordinates[1], coordinates[0]
+        self.__shop_address = self._get_shop_address(store=store, shop_address=shop_address, state=self.state)
         self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
         self.__dispensaryId = despensary_id
+        self.buddi_params = buddi_params
+
+    def _get_shop_address(self, coordinates=None, store=None, shop_address=None, state=None):
+        if coordinates:
+            print("self.__shop_address", self.__shop_address)
+            return coordinates[1], coordinates[0]
+        else:
+            return self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
 
     def get_delivery_info(self, address):
         gevent.sleep(1.2)
@@ -60,7 +68,7 @@ class ScanDutchieDelivery:
         else:
             print(f"Error with status code {response.status_code}")
 
-    def multi_scan_total_area(self, store, address, state=''):
+    def multi_scan_total_area(self, store, address, provider=DUTCHIE, state='', buddi_params=''):
         """scan total area and sort according radius zones with fee cost"""
         filename = file_name_maker(store, address)
         global_data = []
@@ -68,7 +76,12 @@ class ScanDutchieDelivery:
         s = time.time()
         try:
             print(f'------------------GEVENT STARTED {store} {address}-----------------------')
-            jobs = [gevent.spawn(self._scan_delivery_perimeter, i[0], i[1]) for i in radians]
+            if provider == DUTCHIE:
+                jobs = [gevent.spawn(self._scan_dutchie_delivery_perimeter, i[0], i[1]) for i in radians]
+            elif provider == BUDDI:
+                jobs = [gevent.spawn(self._scan_buddi_delivery_perimeter, degree=i[0], until=i[1]) for i
+                        in
+                        radians]
             gevent.joinall(jobs)
             for job in jobs:
                 global_data.append(job.value)
@@ -81,10 +94,10 @@ class ScanDutchieDelivery:
             print("Error in scanning")
         finally:
             e = time.time()
-            print(f"Collected delivery info in {e - s} seconds")
+            print(f"Collected delivery info in {e - s} seconds, provider: {provider}")
 
-    def _scan_delivery_perimeter(self, degree, until, state=''):
-        """find borders of delivery figure on map on Dutchie based on ecommerce provider's shops"""
+    def _scan_dutchie_delivery_perimeter(self, degree, until, state=''):
+        """find borders of delivery figure on map on Dutchie based ecommerce provider's shops"""
         start_point = self.__shop_address
         distantion = self.base_distantion
         degree = degree
@@ -140,11 +153,12 @@ class ScanDutchieDelivery:
         return delivery_area
 
     def get_next_radial_point(self, start_point, distantion, bearing):
+        """get point on map with X distantion and Y degree, where Y,X are parameters of function"""
         bearing = float(bearing)
-        print("trying get next point")
+        print("trying get next point ...")
         gevent.sleep(2)
         end_point = distance(kilometers=distantion).destination(start_point, bearing)
-        print(f"Coordinates of point at distance {distantion} km {bearing} degrees:"
+        print(f"next point at distance {distantion} km and {bearing} degrees:"
               f" {end_point.latitude}, {end_point.longitude}")
         return end_point.latitude, end_point.longitude
 
@@ -156,17 +170,21 @@ class ScanDutchieDelivery:
             time.sleep(5)
             return neighbor
 
-    def get_buddi_deliery_radius(self, degree, until, radius, fee=0, minimum=0):
-        """find borders of delivery figure on map of Buddi based on ecommerce provider's shops"""
+    def _scan_buddi_delivery_perimeter(self, degree=0, until=0, radius=0, fee=-1, minimum=-1):
+        """find borders of delivery figure on map of Buddi based ecommerce provider's shops"""
+        if self.buddi_params:
+            radius = self.buddi_params['radius']
+            fee = self.buddi_params['fee']
+            minimum = self.buddi_params['minimum']
         start_point = self.__shop_address
         distantion = radius
         queue = Queue()
         queue.put(start_point)
         delivery_area = {}
         while degree <= until:
-            print("DEGREE IS", degree)
+            print(f"DEGREE IS {degree} / {until}")
             point = queue.get()
-            point = self.get_next_radial_point(start_point=point, distantion=distantion, bearing=degree)
+            point = self.get_next_radial_point(start_point=point, bearing=degree, distantion=distantion)
             print(f'Count of made requests: {self.request_counter}')
             self.request_counter += 1
             if distantion <= radius:
@@ -180,7 +198,8 @@ class ScanDutchieDelivery:
                 print(f"Changed degree to {degree} and distantion to {distantion}")
                 point = start_point
                 queue.put(point)
-        print(f'made {self.request_counter} requests for this shop')
+        print(f'made {self.request_counter} requests for this Buddi shop')
+        pprint.pprint(delivery_area)
         return delivery_area
 
     @staticmethod
@@ -197,27 +216,3 @@ class ScanDutchieDelivery:
         else:
             delivery_area[fee] = {degree: {distantion: [point]}}
         pprint.pprint(delivery_area)
-
-
-scan_buddi = ScanDutchieDelivery(shop_address='', store='', coordinates='')
-cann_coords = [
-    44.99217, -77.41637,
-    44.92538, -77.52015,
-    44.90438, -77.53807,
-    44.85369, -77.57335,
-    44.71534, -77.60349,
-    44.59146, -77.55155,
-    44.50576, -77.46286,
-    44.46202, -77.3812,
-    44.43316, -77.04744,
-    44.53533, -76.81412,
-    44.60521, -76.75533,
-    44.6551, -76.72718,
-    44.71845, -76.71599,
-    44.81162, -76.7299,
-    44.89763, -76.77714,
-    44.98635, -76.89611,
-    45.04504, -77.04749,
-    45.04863, -77.15125,
-    45.04089, -77.27187
-]

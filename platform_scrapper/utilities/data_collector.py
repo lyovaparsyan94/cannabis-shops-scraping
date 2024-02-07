@@ -35,7 +35,7 @@ def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
 
 
 def write_report(global_data, store, address, status, url, ecom_provider, service_options, phone, index,
-                 special_hours=''):
+                 special_hours='', min_delivery_fee=''):
     filename = file_name_maker(store, address)
     liner = f"\n{70 * '-'}\n"
     days = {}
@@ -56,7 +56,7 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
         else:
             json.dump(global_data, file, indent=2)
     with open(f"{index}{filename}.txt", "a") as f:
-        report = f"Store - {store}{liner}Address - {address}{liner}Store Application Status - {status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Phone\n{phone}{liner}Delivery Zones according to the price:\nfirst number is the price, and in brackets are the coordinates of area according to that price\n"
+        report = f"Store - {store}{liner}Address - {address}{liner}Store Application Status - {status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Phone\n{phone}{liner}Delivery Zones according to the price:\nfirst number is the price, and in brackets are the coordinates of area according to that price\n{min_delivery_fee}\n"
         f.write(report)
         with open(f'{index}glob.txt', 'r') as glob_file:
             for line in glob_file:
