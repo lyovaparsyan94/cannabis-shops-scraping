@@ -170,7 +170,8 @@ class ScanDutchieDelivery:
             print(f'Count of made requests: {self.request_counter}')
             self.request_counter += 1
             if distantion <= radius:
-                self.collect_delivery_info(fee=fee, delivery_area=delivery_area, minimum=minimum, degree=degree, distantion=distantion, point=point)
+                self.collect_delivery_info(fee=fee, delivery_area=delivery_area, minimum=minimum, degree=degree,
+                                           distantion=distantion, point=point)
                 distantion += radius
                 queue.put(point)
             else:
@@ -196,3 +197,27 @@ class ScanDutchieDelivery:
         else:
             delivery_area[fee] = {degree: {distantion: [point]}}
         pprint.pprint(delivery_area)
+
+
+scan_buddi = ScanDutchieDelivery(shop_address='', store='', coordinates='')
+cann_coords = [
+    44.99217, -77.41637,
+    44.92538, -77.52015,
+    44.90438, -77.53807,
+    44.85369, -77.57335,
+    44.71534, -77.60349,
+    44.59146, -77.55155,
+    44.50576, -77.46286,
+    44.46202, -77.3812,
+    44.43316, -77.04744,
+    44.53533, -76.81412,
+    44.60521, -76.75533,
+    44.6551, -76.72718,
+    44.71845, -76.71599,
+    44.81162, -76.7299,
+    44.89763, -76.77714,
+    44.98635, -76.89611,
+    45.04504, -77.04749,
+    45.04863, -77.15125,
+    45.04089, -77.27187
+]
