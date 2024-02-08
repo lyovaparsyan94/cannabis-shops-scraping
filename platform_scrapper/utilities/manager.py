@@ -268,5 +268,5 @@ class Manager:
 
 
 manager = Manager()
-manager.manage(
-    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+# manager.manage(
+#     file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
