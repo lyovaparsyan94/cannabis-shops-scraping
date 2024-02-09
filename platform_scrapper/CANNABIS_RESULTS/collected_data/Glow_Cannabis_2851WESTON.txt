@@ -1,0 +1,173 @@
+Store - Hi Class Cannabis Store
+----------------------------------------------------------------------
+Address - 518 EGLINTON AVE W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://thehiclass.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+14163226262
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+$5.00 Delivery Fee or FREE on orders over $50.00
+Any delivery orders that are over $100
+and are outside of our delivery area should call the store to see if we can accommodate you.
+
+{
+  "5.0": [
+    [
+      [
+        43.64956, -79.48425
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.67252, -79.49346
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.68409, -79.50071
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.69709, -79.51073
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.70925, -79.5177
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.71464, -79.52108
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.73487, -79.52846
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.74316, -79.49677
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.7516, -79.4659
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.75543, -79.43834
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.7651, -79.412
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.76958, -79.38518
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.77636, -79.34162
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.75966, -79.33574
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.75172, -79.33281
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.72526, -79.32731
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.71451, -79.32182
+      ],
+      "min order - 50"
+    ]
+  ],
+    [
+      [
+        43.68713, -79.31461
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.68162, -79.33366
+      ],
+      "min order - 50"
+    ]
+  ],
+    [
+      [
+        43.67609, -79.35883
+      ],
+      "min order - 50"
+    ]
+  ],
+    [
+      [
+        43.67128, -79.37508
+      ],
+      "min order - 50"
+    ]
+  ],
+    [
+      [
+        43.66379, -79.41823
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        43.65736, -79.44403
+      ],
+      "min order - 50"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
+
