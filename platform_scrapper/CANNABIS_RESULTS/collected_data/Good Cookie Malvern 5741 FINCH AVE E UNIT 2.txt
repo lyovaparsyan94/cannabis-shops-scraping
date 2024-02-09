@@ -67,7 +67,7 @@ $5.00 Delivery Fee
       [
         43.82473, -79.20186
       ],
-      "min order - 20"
+      "min order - 50"
     ],
     [
       [
