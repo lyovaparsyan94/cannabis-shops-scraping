@@ -224,7 +224,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 25, 'fee': 0, 'minimum': 25}
+                            buddi_params = {'radius': 15, 'fee': 10, 'minimum': 100}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
@@ -268,5 +268,5 @@ class Manager:
 
 
 manager = Manager()
-# manager.manage(
-#     file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+manager.manage(
+    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

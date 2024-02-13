@@ -14,3 +14,4 @@ Service options
 Delivery Zones according to the price
 first number is the price, and in brackets are the coordinates of area according to that price
 "Delivery info for BREAKING BUD CANNABIS at address 130 HARTZEL RD NOT Found from because of Public Notice Period: Ended 2023/08/12"
+

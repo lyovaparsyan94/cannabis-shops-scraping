@@ -4,6 +4,8 @@ import yaml
 import pandas as pd
 import json
 
+import platform_scrapper.configs.constants
+
 
 def load_config(file):
     with open(file) as stream:
