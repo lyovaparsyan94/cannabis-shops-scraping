@@ -1,0 +1,23 @@
+Store - Forest City Marijuana
+----------------------------------------------------------------------
+Address - 1009 WONDERLAND RD S UNIT 2
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://forestcitymarijuana.com/
+----------------------------------------------------------------------
+Platform - Unknown
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Forest City Marijuana at address 1009 WONDERLAND RD S UNIT 2 NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

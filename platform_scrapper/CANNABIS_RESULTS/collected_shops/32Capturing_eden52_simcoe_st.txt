@@ -1,0 +1,23 @@
+Store - Capturing Eden
+------------------------------------------------------------
+Address - 52 SIMCOE ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://app.buddi.io/ecommerce/store/5459/menu
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15197182626
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Capturing Eden at address 52 SIMCOE ST NOT Found from Buddi ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

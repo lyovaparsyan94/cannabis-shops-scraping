@@ -1,0 +1,16 @@
+Store - SESSIONS CANNABIS
+------------------------------------------------------------
+Address - 525 HIGHLAND RD W UNIT 5
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/kitchener-highland-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions (Highland) at address 525 Highland Rd W NOT Found from Dutchie ecommerse provider's server

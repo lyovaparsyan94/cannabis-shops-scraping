@@ -1,0 +1,19 @@
+Store - Growers Retail
+------------------------------------------------------------
+Address - 2002 LAWRENCE AVE E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://growersretailcannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14162858558
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Growers Retail (2002 Lawrence Ave E) at address 2002 Lawrence Ave E NOT Found from Dutchie ecommerse provider's server

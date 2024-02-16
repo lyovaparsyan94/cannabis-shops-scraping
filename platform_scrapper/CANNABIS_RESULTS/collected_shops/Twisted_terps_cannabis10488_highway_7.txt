@@ -1,0 +1,23 @@
+Store - Twisted Terps Cannabis
+----------------------------------------------------------------------
+Address - 10488 HIGHWAY 7
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/12
+----------------------------------------------------------------------
+URL https://twistedterpsdispensary.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+19363559752
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Twisted Terps Cannabis at address 10488 HIGHWAY 7 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

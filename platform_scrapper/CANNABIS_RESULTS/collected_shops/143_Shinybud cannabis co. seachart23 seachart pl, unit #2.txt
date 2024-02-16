@@ -1,0 +1,16 @@
+Store - SHINYBUD CANNABIS CO. SEACHART
+------------------------------------------------------------
+Address - 23 SEACHART PL, UNIT #2
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/brampton/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Shiny Bud (Brampton 23) at address 23 Seachart Pl NOT Found from Dutchie ecommerse provider's server

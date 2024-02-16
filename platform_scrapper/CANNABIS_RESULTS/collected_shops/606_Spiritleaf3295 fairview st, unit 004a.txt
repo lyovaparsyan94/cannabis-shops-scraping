@@ -1,0 +1,16 @@
+Store - Spiritleaf
+------------------------------------------------------------
+Address - 3295 FAIRVIEW ST, UNIT 004A
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL  https://spiritleaf.ca/collections/spiritleaf-woodview-place
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Spiritleaf (Burlington South) at address 3295 Fairview St NOT Found from Dutchie ecommerse provider's server

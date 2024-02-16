@@ -1,0 +1,23 @@
+Store - Superette
+----------------------------------------------------------------------
+Address - 2 OSSINGTON AVE UNIT 1
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/07/02
+----------------------------------------------------------------------
+URL https://superetteshop.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Superette at address 2 OSSINGTON AVE UNIT 1 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

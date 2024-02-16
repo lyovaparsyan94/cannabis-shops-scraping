@@ -1,0 +1,254 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 15301 HIGHWAY 48 UNIT 7
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-ballantrae-hwy-48
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12895781000.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        44.17567122877207,
+        -79.2975101
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.17100844227567,
+        -79.24836574223447
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.157338149231926,
+        -79.2025831305786
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.13559279061612,
+        -79.16329150675767
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.10725541230644,
+        -79.1331718733175
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.08112589583534,
+        -79.11708207881355
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.04601044674635,
+        -79.10812144647821
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.01041010733647,
+        -79.1120698785735
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.97675079217854,
+        -79.12864545292607
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.94732558867832,
+        -79.15670851188816
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.928194123825406,
+        -79.18616467651377
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.91115903135591,
+        -79.22963487439375
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.90282502848624,
+        -79.27771390639548
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.903759537638585,
+        -79.32713681448399
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.913898934182285,
+        -79.37454844278187
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.928194123825406,
+        -79.40885552348622
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.95277036580016,
+        -79.44476155058264
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.98321408894483,
+        -79.47065719613565
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.017451644779946,
+        -79.48477187209056
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.0531504416664,
+        -79.48613281966375
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.08112589583534,
+        -79.47793812118644
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.11336298191534,
+        -79.45666688630935
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.14052389409385,
+        -79.42452638831593
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.160756502880076,
+        -79.38370485374291
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        44.17268089126008,
+        -79.33698885235022
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Preopening at 04-16 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - True, hours per day: from - 3:00 PM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Civic Holiday at 08-02 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Thanksgiving Day at 10-11 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Holiday at 12-24 - hours per day - None
+Holiday pt 2 at 12-31 - hours per day - None
+DEC 15 NO DELIVERY at 12-15 - hours per day - None
+December 20 at 12-20 - hours per day - None
+Snow Storm at 01-17 - hours per day - None
+No Delivery at 01-19 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Sick call at 02-18 - hours per day - None
+Sick Call at 03-11 - hours per day - None
+No Delivery FOR REST OF DAY 2:30pm at 03-25 - hours per day - None
+Sick Call at 03-27 - hours per day - None
+No Delivery Today at 03-30 - hours per day - None
+No Delivery April 2 at 04-02 - hours per day - None
+No Delivery at 04-05 - hours per day - None
+No Delivery April 6th at 04-06 - hours per day - None
+Special Hours at 04-07 - hours per day - None
+Easter at 04-15 - hours per day - None
+No delivery 18th April at 04-18 - hours per day - None
+Mother's Day at 05-08 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+No Delivery at 12-15 - hours per day - None
+No delivery  at 12-16 - hours per day - None
+No Delivery 22-23 Dec at 12-22 - hours per day - None
+No Delivery at 12-24 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+no delivery at 01-13 - hours per day - None
+No delivery at 01-19 - hours per day - None
+Delivery Closed at 01-25 - hours per day - None
+Family Day at 02-20 - hours per day - None
+No Delivery at 02-22 - hours per day - None
+No Delivery at 02-27 - hours per day - None
+No Delivery at 03-03 - hours per day - None
+No Delivery at 03-10 - hours per day - None
+No Delivery at 03-17 - hours per day - None
+easter  at 04-07 - hours per day - None
+victoria day at 05-22 - hours per day - None
+Canada Day Jul 3 at 07-03 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+No Delivery at 01-09 - hours per day - None
+Delivery Cancelled at 01-11 - hours per day - None
+Delivery Cancelled at 01-16 - hours per day - None
+------------------------------------------------------------

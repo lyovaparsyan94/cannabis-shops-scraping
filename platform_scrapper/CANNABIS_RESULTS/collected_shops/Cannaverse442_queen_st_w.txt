@@ -1,0 +1,23 @@
+Store - Cannaverse
+----------------------------------------------------------------------
+Address - 442 QUEEN ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.mycannaverse.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16473669030
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannaverse at address 442 QUEEN ST W NOT Found : No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

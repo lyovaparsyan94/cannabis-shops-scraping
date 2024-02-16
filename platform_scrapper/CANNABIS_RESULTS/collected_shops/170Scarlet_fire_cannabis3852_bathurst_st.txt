@@ -1,0 +1,19 @@
+Store - Scarlet Fire Cannabis
+------------------------------------------------------------
+Address - 3852 BATHURST ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://scarletfirecannabis.ca/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+14166635000
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

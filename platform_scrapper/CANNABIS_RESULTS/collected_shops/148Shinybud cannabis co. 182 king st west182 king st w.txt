@@ -1,0 +1,16 @@
+Store - SHINYBUD CANNABIS CO. 182 KING ST WEST
+------------------------------------------------------------
+Address - 182 KING ST W
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.shinybud.com/brockville-king/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Shiny Bud (Brockville 182) at address 182 King St W NOT Found from Dutchie ecommerse provider's server

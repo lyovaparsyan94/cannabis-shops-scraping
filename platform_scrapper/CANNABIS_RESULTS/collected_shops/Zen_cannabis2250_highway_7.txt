@@ -1,0 +1,23 @@
+Store - Zen Cannabis
+----------------------------------------------------------------------
+Address - 2250 HIGHWAY 7
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/06/17
+----------------------------------------------------------------------
+URL https://www.zencann.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15197429366
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Zen Cannabis at address 2250 HIGHWAY 7 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

@@ -1,0 +1,69 @@
+Store - TOKYO SMOKE 75 PINEBUSH
+------------------------------------------------------------
+Address - 75 PINEBUSH RD UNIT D0005
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-cambridge/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15196248509.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKYO SMOKE 75 PINEBUSH at address 75 PINEBUSH RD UNIT D0005 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Good Friday at 04-10 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-07 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Thanksgiving at 10-12 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Boxing Day at 12-26 - active - True, hours per day: from - 12:00 PM, to - 4:00 PM
+New Years Hours at 12-31 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 8:00 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 00:00 AM, to - 8:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+no delivery at 07-23 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+DELIVERY OFF 30TH AUG at 08-30 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Sept Long Weekend at 09-06 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Staffing - September 21 at 09-21 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Thanksgiving Day at 10-11 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Staffing - October 22 at 10-22 - active - True, hours per day: from - 12:00 PM, to - 4:00 PM
+Delivery off 25th Oct at 10-25 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Xmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 4:00 PM
+Xmas at 12-25 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+NYD at 01-01 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+NYE at 12-31 - active - True, hours per day: from - 10:00 AM, to - 4:00 PM
+Snow Storm at 01-17 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+No Delivery - Rogers outage at 07-08 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Delivery Changes at 10-06 - hours per day - None
+Delivery Changes at 10-09 - hours per day - None
+No Delivery at 10-25 - hours per day - None
+No Delivery at 12-14 - hours per day - None
+No Delivery at 12-15 - hours per day - None
+No Delivery at 12-23 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+Shortened Delivery at 01-03 - hours per day - None
+no delivery at 01-08 - hours per day - None
+Deliveries Closed at 01-25 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+Civic Holiday Hours at 08-07 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

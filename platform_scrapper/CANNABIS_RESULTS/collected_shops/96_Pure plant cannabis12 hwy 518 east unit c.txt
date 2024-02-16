@@ -1,0 +1,16 @@
+Store - Pure Plant Cannabis
+------------------------------------------------------------
+Address - 12 HWY 518 EAST UNIT C
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://pureplantcannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Pure Plant Cannabis at address 12 HWY 518 EAST UNIT C NOT Found from Dutchie ecommerse provider's server"

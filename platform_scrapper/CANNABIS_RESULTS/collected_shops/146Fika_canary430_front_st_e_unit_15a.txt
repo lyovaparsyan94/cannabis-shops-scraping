@@ -1,0 +1,24 @@
+Store - Fika Canary
+------------------------------------------------------------
+Address - 430 FRONT ST E UNIT 15A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16476941556.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Fika Canary at address 430 FRONT ST E UNIT 15A NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving Day at 10-10 - hours per day - None
+------------------------------------------------------------

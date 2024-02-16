@@ -1,0 +1,23 @@
+Store - Canna Havana 
+------------------------------------------------------------
+Address - 827 KING ST E UNIT A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cannahavana.ca/
+------------------------------------------------------------
+Platform - Techpos
+------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+['no phone number', 'mail - info@cannahavana.ca']
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canna Havana  at address 827 KING ST E UNIT A NOT Found from Techpos ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

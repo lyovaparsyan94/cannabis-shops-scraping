@@ -1,0 +1,40 @@
+Store - SPIRITLEAF 1550 HURON CHURCH ROAD
+------------------------------------------------------------
+Address - 1440 HURON CHURCH RD UNIT 7
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-ambassador-plaza
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15192563150.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SPIRITLEAF 1550 HURON CHURCH ROAD at address 1440 HURON CHURCH RD UNIT 7 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Eve at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day at 12-26 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Year's Day at 01-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - True, hours per day: from - open, to - open
+Victoria Day at 05-24 - active - True, hours per day: from - open, to - open
+Canada Day at 07-01 - active - True, hours per day: from - open, to - open
+Civic Holiday at 08-02 - active - True, hours per day: from - open, to - open
+Labour Day at 09-06 - active - True, hours per day: from - open, to - open
+National Day for Truth & Reconciliation at 09-30 - active - True, hours per day: from - open, to - open
+Thanksgiving at 10-11 - active - True, hours per day: from - open, to - open
+Remembrance Day at 11-11 - active - True, hours per day: from - open, to - open
+Holiday Hours at 12-24 - hours per day - None
+Family day at 02-21 - active - True, hours per day: from - open, to - open
+Victoria Day at 05-23 - hours per day - None
+Canada Day Hours at 07-01 - hours per day - None
+Thanksgiving Hours at 10-10 - hours per day - None
+SYSTEM UPDATES at 06-05 - hours per day - None

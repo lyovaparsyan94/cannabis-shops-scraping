@@ -1,0 +1,24 @@
+Store - FIKA LOCAL CANNABIS
+------------------------------------------------------------
+Address - 33 MAPLEVIEW DR W UNIT C007
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17053004269
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA LOCAL CANNABIS at address 33 MAPLEVIEW DR W UNIT C007 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving Day at 10-10 - hours per day - None
+------------------------------------------------------------

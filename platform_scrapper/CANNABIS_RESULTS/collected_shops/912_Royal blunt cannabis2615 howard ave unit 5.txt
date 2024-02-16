@@ -1,0 +1,16 @@
+Store - Royal Blunt Cannabis
+------------------------------------------------------------
+Address - 2615 HOWARD AVE UNIT 5
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://royalblunt.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Royal Blunt Cannabis at address 2615 HOWARD AVE UNIT 5 NOT Found from Dutchie ecommerse provider's server"

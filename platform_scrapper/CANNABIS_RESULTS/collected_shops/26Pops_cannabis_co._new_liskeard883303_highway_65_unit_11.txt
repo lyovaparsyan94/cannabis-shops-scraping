@@ -1,0 +1,43 @@
+Store - POP'S CANNABIS CO. NEW LISKEARD
+------------------------------------------------------------
+Address - 883303 HIGHWAY 65 UNIT 11
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.popscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17056800101.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for POP'S CANNABIS CO. NEW LISKEARD at address 883303 HIGHWAY 65 UNIT 11 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 11/18 at 11-18 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve  at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day  at 12-26 - hours per day - None
+New Years Eve  at 12-31 - hours per day - None
+New Years Day  at 01-01 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-15 - hours per day - None
+Victoria Day  at 05-23 - hours per day - None
+Thanksgiving  at 10-10 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Family Day  at 02-20 - hours per day - None
+Good Friday  at 04-07 - hours per day - None
+Victoria Day  at 05-22 - hours per day - None
+Labor Day  at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Xmas eve at 12-24 - hours per day - None
+boxing day at 12-26 - hours per day - None
+xmas at 12-25 - hours per day - None
+ny at 01-01 - hours per day - None
+gala at 01-21 - hours per day - None
+------------------------------------------------------------

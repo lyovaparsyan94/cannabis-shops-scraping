@@ -1,0 +1,23 @@
+Store - 10 dunlop
+----------------------------------------------------------------------
+Address - 10 DUNLOP DR UNIT G
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2020/08/13
+----------------------------------------------------------------------
+URL http://www.niagaragolf.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19059846306
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for 10 dunlop at address 10 DUNLOP DR UNIT G NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

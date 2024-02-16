@@ -1,0 +1,16 @@
+Store - SPIRITLEAF 895 LAWRENCE AVENUE
+------------------------------------------------------------
+Address - 895 LAWRENCE AVE E, UNIT NO. A01001A 
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-don-mills
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for SPIRITLEAF 895 LAWRENCE AVENUE at address 895 LAWRENCE AVE E, UNIT NO. A01001A NOT Found from Dutchie ecommerse provider's server"

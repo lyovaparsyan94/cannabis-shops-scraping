@@ -1,0 +1,23 @@
+Store - FLOWERTOWN CANNABIS
+----------------------------------------------------------------------
+Address - 874 WARD ST UNIT 4
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://flowertowncannabis.ca/
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+17052920101
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FLOWERTOWN CANNABIS at address 874 WARD ST UNIT 4 NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

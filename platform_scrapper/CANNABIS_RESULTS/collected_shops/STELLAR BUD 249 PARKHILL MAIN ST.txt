@@ -1,0 +1,24 @@
+Store - STELLAR BUD
+----------------------------------------------------------------------
+Address - 249 PARKHILL MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://stellarbud.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12265776894
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for STELLAR BUD at address 249 PARKHILL MAIN ST NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

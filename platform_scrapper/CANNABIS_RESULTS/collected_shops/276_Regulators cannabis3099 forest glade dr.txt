@@ -1,0 +1,16 @@
+Store - Regulators Cannabis
+------------------------------------------------------------
+Address - 3099 FOREST GLADE DR
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.regulatorscannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Regulators Cannabis at address 3099 FOREST GLADE DR NOT Found from Dutchie ecommerse provider's server"

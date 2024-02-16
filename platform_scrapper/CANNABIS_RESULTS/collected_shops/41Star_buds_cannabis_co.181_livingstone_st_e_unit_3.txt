@@ -1,0 +1,34 @@
+Store - Star Buds Cannabis Co.
+------------------------------------------------------------
+Address - 181 LIVINGSTONE ST E UNIT 3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://starbuds.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12498806008
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Star Buds Cannabis Co. at address 181 LIVINGSTONE ST E UNIT 3 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+STAT at 08-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+"Closed Early" at 12-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Staff Appreciation at 12-12 - active - False, hours per day: from - 10:00 AM, to - 7:00 PM
+Christmas Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - hours per day - None
+Closing Early at 05-31 - hours per day - None
+Staff Christmas Party at 12-18 - hours per day - None
+Staff Appreciation Party at 11-08 - hours per day - None
+------------------------------------------------------------
+

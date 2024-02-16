@@ -1,0 +1,26 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 22 ROBINSON ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/simcoe/?utm_source=GMB_Simcoe&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+17057120907.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co. at address 22 ROBINSON ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 07-08 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-17 - hours per day - None
+------------------------------------------------------------

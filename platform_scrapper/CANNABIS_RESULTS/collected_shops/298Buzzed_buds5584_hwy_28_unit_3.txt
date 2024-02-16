@@ -1,0 +1,26 @@
+Store - Buzzed Buds
+------------------------------------------------------------
+Address - 5584 HWY 28 UNIT 3
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.buzzedbuds.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17059319153.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Buzzed Buds at address 5584 HWY 28 UNIT 3 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+11/11 at 11-11 - active - True, hours per day: from - 1:00 PM, to - 11:00 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 1:00 PM, to - 11:00 PM
+New Years Day at 01-01 - active - True, hours per day: from - 1:00 PM, to - 11:00 PM
+------------------------------------------------------------

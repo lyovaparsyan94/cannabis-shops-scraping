@@ -1,0 +1,16 @@
+Store - SPIRITLEAF KEMPTVILLE
+------------------------------------------------------------
+Address - 304 COLONNADE DR UNIT 300
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-kemptville
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery time unknown', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for SPIRITLEAF KEMPTVILLE at address 304 COLONNADE DR UNIT 300 NOT Found from Dutchie ecommerse provider's server"

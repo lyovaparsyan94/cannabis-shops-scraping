@@ -1,0 +1,23 @@
+Store - Ingram & Sons Cannabis Co.
+----------------------------------------------------------------------
+Address - 16 HIGH STREET
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.ingramandsons.ca/
+----------------------------------------------------------------------
+Platform - Tymber
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+16137044141
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Ingram & Sons Cannabis Co. at address 16 HIGH STREET NOT Found From Tymber ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

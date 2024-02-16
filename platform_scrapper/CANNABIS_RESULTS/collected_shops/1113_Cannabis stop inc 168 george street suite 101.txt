@@ -1,0 +1,16 @@
+Store - Cannabis Stop Inc 
+------------------------------------------------------------
+Address - 168 GEORGE STREET SUITE 101
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabisstopinc.com/cannabis-stop-arthur-store/?utm_source=google&utm_medium=click&utm_campaign=Arthur+GMB
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Cannabis Stop - Arthur  at address 168 George St NOT Found from Dutchie ecommerse provider's server

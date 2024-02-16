@@ -1,0 +1,19 @@
+Store - REDDEN'S JUNCTION CANNABIS
+------------------------------------------------------------
+Address - 4433 HIGHWAY, 17 EAST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://reddensjunction.com/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+18075485375
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

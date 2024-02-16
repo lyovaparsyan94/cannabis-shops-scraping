@@ -1,0 +1,16 @@
+Store - BlueBird Cannabis Express
+------------------------------------------------------------
+Address - 3500 HAWTHORNE RD UNIT C
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://bluebirdcannabis.store/3500-hawthorne-rd/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for BlueBird Cannabis Express at address 3500 HAWTHORNE RD UNIT C NOT Found from Dutchie ecommerse provider's server"

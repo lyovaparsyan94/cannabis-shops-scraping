@@ -1,0 +1,28 @@
+Store - Pop's Cannabis Co.
+------------------------------------------------------------
+Address - 2316 HWY 2 UNIT K2
+------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/10/10
+------------------------------------------------------------
+URL http://www.popscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+12892221020.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Pop's Cannabis Co. at address 2316 HWY 2 UNIT K2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Xmas Eve at 12-24 - hours per day - None
+Xmas at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+NY at 01-01 - hours per day - None
+gala at 01-21 - hours per day - None
+------------------------------------------------------------

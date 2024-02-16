@@ -1,0 +1,26 @@
+Store - THE CANNABIST SHOP
+------------------------------------------------------------
+Address - 1283 VICTORIA ST N
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.cannabistshop.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15192080066.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for THE CANNABIST SHOP at address 1283 VICTORIA ST N NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+03/08 at 04-08 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Christmas Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - hours per day - None
+------------------------------------------------------------

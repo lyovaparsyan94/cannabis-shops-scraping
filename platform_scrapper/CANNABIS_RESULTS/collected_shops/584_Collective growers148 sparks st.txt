@@ -1,0 +1,16 @@
+Store - Collective Growers
+------------------------------------------------------------
+Address - 148 SPARKS ST
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://collectivegrowers.com/shop/sparks/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Collective Growers at address 148 SPARKS ST NOT Found from Dutchie ecommerse provider's server"

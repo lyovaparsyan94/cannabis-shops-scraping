@@ -1,0 +1,35 @@
+Store - Northbound Cannabis Co.
+----------------------------------------------------------------------
+Address - 1984 REGENT ST UNIT 113
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://linktr.ee/wearenorthbound
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+17052222420
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Northbound Cannabis Co. at address 1984 REGENT ST UNIT 113 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+New year's Eve & New Year's Day at 12-31 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+New Year's Hours at 12-31 - hours per day - None
+Staff Shortage at 03-13 - hours per day - None
+bad weather at 04-01 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Temp Delivery Hours at 05-05 - hours per day - None
+Temp Delivery Hours at 05-02 - hours per day - None
+delivery unavailable at 05-09 - hours per day - None
+temp closed at 06-11 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+----------------------------------------------------------------------

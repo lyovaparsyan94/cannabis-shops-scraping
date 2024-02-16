@@ -1,0 +1,19 @@
+Store - Groove Cannabis Co. Inc.
+------------------------------------------------------------
+Address - 1380 SECOND ST E UNIT 26
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.groovecannabis.com/shop-cornwall/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16139353717
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Groove Cannabis - Cornwall at address 1380 Second St E NOT Found from Dutchie ecommerse provider's server

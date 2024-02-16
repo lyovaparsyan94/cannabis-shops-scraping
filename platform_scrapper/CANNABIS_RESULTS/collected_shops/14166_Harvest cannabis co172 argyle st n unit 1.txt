@@ -1,0 +1,16 @@
+Store - HARVEST CANNABIS CO
+------------------------------------------------------------
+Address - 172 ARGYLE ST N UNIT 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://harvestcannabisco.ca/locations/caledonia-store/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Happy Life at address 3045 OLD HWY 69 N UNIT 2 NOT Found from Dutchie ecommerse provider's server"

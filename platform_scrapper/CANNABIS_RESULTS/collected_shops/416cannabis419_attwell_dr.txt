@@ -1,0 +1,23 @@
+Store - 416CANNABIS
+----------------------------------------------------------------------
+Address - 419 ATTWELL DR
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/08/07
+----------------------------------------------------------------------
+URL https://highsociety416.com/verify/age
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for 416CANNABIS at address 419 ATTWELL DR NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

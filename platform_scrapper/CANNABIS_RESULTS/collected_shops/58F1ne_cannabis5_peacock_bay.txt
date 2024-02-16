@@ -1,0 +1,19 @@
+Store - F1NE Cannabis
+------------------------------------------------------------
+Address - 5 PEACOCK BAY
+------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/07/28
+------------------------------------------------------------
+URL http://finecannabis.ca/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+19056462000
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

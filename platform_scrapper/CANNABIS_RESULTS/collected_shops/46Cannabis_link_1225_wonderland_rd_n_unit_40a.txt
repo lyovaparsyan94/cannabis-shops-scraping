@@ -1,0 +1,220 @@
+Store - CANNABIS LINK 
+------------------------------------------------------------
+Address - 1225 WONDERLAND RD N UNIT 40A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.cannabislinkinc.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15196574747
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.06324772716163,
+        -81.3052118
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.06125363713668,
+        -81.2845668561833
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.05540734569134,
+        -81.26533117543312
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.04610749920124,
+        -81.24881735203644
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.033988182481366,
+        -81.23615140029165
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.02281286480327,
+        -81.22937918614203
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.00779397013027,
+        -81.22559795358457
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.992567234619365,
+        -81.22724275467478
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.978170283328225,
+        -81.23419910862056
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.96558403911325,
+        -81.24599107444404
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.95740064137569,
+        -81.25837542046645
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.95011384836724,
+        -81.27665812119703
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.94654892552297,
+        -81.2968835844674
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.946948668989535,
+        -81.31767563157706
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.951285853905844,
+        -81.33761973132808
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.95740064137569,
+        -81.35204817953354
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.96791299421108,
+        -81.36714350025935
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.98093483230441,
+        -81.37802285026152
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        42.995579029296856,
+        -81.38394372619649
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.01084778544707,
+        -81.38450060369478
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.02281286480327,
+        -81.38104441385796
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.03660028967435,
+        -81.3720925687757
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.04821640138154,
+        -81.35857863516313
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.040027191378755,
+        -81.32972034551867
+      ],
+      "min order - 29.99"
+    ],
+    [
+      [
+        43.061968878572095,
+        -81.32179619024147
+      ],
+      "min order - 29.99"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Family Day Hours at 02-15 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+May 24th Long Weekend Monday at 05-24 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Civic Long Weekend Monday  at 08-02 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Labour Day at 09-06 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Thanksgiving Monday at 10-11 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Holiday Hours at 12-24 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Family Day  at 02-21 - active - True, hours per day: from - 9:00 AM, to - 11:00 PM
+Good Friday at 04-15 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+------------------------------------------------------------

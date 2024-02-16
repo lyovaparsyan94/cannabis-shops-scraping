@@ -1,0 +1,20 @@
+Store - Star Buds Cannabis Co.
+------------------------------------------------------------
+Address - 30 45TH ST S UNIT 6
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://starbuds.co/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17053529333
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Star Buds (Wasaga Beach) at address 30 45th St S NOT Found from Dutchie ecommerse provider's server
+

@@ -1,0 +1,29 @@
+Store - TOKE HOUSE
+----------------------------------------------------------------------
+Address - 539 GOVERNMENT ST UNIT 16
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.tokehouse.ca/dryden
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+18072150047
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TOKE HOUSE at address 539 GOVERNMENT ST UNIT 16 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-06 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Labour Day - CLOSED at 09-05 - hours per day - None
+Thanks Giving at 10-10 - hours per day - None
+Team Day at 10-15 - hours per day - None
+----------------------------------------------------------------------

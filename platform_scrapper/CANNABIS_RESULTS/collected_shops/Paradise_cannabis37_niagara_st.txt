@@ -1,0 +1,23 @@
+Store - Paradise Cannabis
+----------------------------------------------------------------------
+Address - 37 NIAGARA ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://paradisecannabis.ca/shop-welland-store/?utm_source=google&utm_medium=click&utm_campaign=Welland+GMB
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12898205330
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Paradise Cannabis at address 37 NIAGARA ST NOT Found From Techpos ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

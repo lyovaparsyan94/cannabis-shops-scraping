@@ -1,0 +1,23 @@
+Store - Cantopia Cannabis Co.
+----------------------------------------------------------------------
+Address - 9445 MISSISSAUGA RD UNIT 3
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://budler.ca/cantopia-cannabis-co./cantopia-cannabis-co
+----------------------------------------------------------------------
+Platform - Budler
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+19054532899
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cantopia Cannabis Co. at address 9445 MISSISSAUGA RD UNIT 3 NOT Found From Budler ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

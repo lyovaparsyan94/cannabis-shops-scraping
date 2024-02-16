@@ -1,0 +1,19 @@
+Store - Harvest Cannabis Co
+------------------------------------------------------------
+Address - 376 VICTORIA ST N UNIT 5A
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://harvestcannabisco.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15195698220
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Harvest Cannabis Co (Kitchener) at address 376 Victoria St N NOT Found from Dutchie ecommerse provider's server

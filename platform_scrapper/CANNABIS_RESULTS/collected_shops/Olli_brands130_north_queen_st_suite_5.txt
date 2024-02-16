@@ -1,0 +1,23 @@
+Store - Olli Brands
+----------------------------------------------------------------------
+Address - 130 NORTH QUEEN ST SUITE 5
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/11/23
+----------------------------------------------------------------------
+URL https://ollibrands.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Olli Brands at address 130 NORTH QUEEN ST SUITE 5 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

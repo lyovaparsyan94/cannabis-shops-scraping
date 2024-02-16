@@ -1,0 +1,16 @@
+Store - THE HERBARY
+------------------------------------------------------------
+Address - 1120 WELLINGTON RD UNIT 4
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://theherbary.com/locations/london-ontario/?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for THE HERBARY at address 1120 WELLINGTON RD UNIT 4 NOT Found from Dutchie ecommerse provider's server"

@@ -1,0 +1,23 @@
+Store - BLOOM QUALITY CANNABIS
+----------------------------------------------------------------------
+Address - 1004 CARSON RD W UNIT 1A
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://bloomohio.com/ohio-dispensary-menu/columbus-dispensary-product-prices?utm_source=google&utm_medium=organic&utm_campaign=gmblisting-columbus
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16144071616
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BLOOM QUALITY CANNABIS at address 1004 CARSON RD W UNIT 1A NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

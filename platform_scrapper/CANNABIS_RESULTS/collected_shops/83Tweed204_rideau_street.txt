@@ -1,0 +1,36 @@
+Store - TWEED
+------------------------------------------------------------
+Address - 204 RIDEAU STREET
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/cannabis-rideau
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+13436449644.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for TWEED at address 204 RIDEAU STREET NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Grand Opening 2/10 at 02-09 - active - True, hours per day: from - 10:00 AM, to - 9:30 PM
+Demonstrations in Ottawa at 02-18 - active - True, hours per day: from - 10:00 AM, to - 9:30 PM
+Ottawa Demonstrations at 02-19 - active - True, hours per day: from - 10:00 AM, to - 9:30 PM
+Ottawa Demonstrations at 02-20 - active - True, hours per day: from - 10:00 AM, to - 9:30 PM
+Ottawa Demonstrations at 02-21 - active - True, hours per day: from - 10:00 AM, to - 9:30 PM
+Good Friday at 04-15 - hours per day - None
+Company Event at 12-05 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Team Event at 12-04 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years at 01-01 - hours per day - None
+------------------------------------------------------------

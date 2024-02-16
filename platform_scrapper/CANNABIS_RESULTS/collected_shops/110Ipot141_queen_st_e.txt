@@ -1,0 +1,19 @@
+Store - IPOT
+------------------------------------------------------------
+Address - 141 QUEEN ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://ipotweed.com/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14163623003
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

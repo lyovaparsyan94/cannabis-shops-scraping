@@ -13,7 +13,7 @@ from platform_scrapper.utilities.file_modifier import reporter
 class Manager:
 
     def load_src_data(self):
-        json_with_src = r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\info_saved.json"
+        json_with_src = r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\helpers\info_save.json"
         with open(json_with_src, 'r') as file:
             data = json.load(file)
         return data
@@ -75,7 +75,7 @@ class Manager:
 
     def start(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
+            file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
         )
         copy_df = df.fillna('', inplace=False)
 
@@ -146,7 +146,7 @@ class Manager:
             print(e)
         finally:
             copy_df.to_excel(
-                r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\src\FAKECOPY_cannabis_used_IDs.xlsx',
+                r'C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\src\FAKECOPY_cannabis_used_IDs.xlsx',
                 index=False)
 
     def manage(self, file):
@@ -224,7 +224,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 15, 'fee': 10, 'minimum': 100}
+                            buddi_params = {'radius': 7, 'fee': 4.5, 'minimum': 25}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
@@ -255,7 +255,7 @@ class Manager:
 
     def file_modifier(self):
         df = load_xlsx(
-            file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
+            file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx"
         )
         df = df.fillna('', inplace=False)
         for index, row in df.iterrows():
@@ -268,5 +268,4 @@ class Manager:
 
 
 manager = Manager()
-manager.manage(
-    file=r"C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+manager.manage(file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

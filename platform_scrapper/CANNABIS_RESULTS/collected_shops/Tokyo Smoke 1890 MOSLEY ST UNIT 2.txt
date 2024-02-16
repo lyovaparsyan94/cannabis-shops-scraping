@@ -1,0 +1,225 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 1890 MOSLEY ST UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-wasaga-beach-mosley
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'Delivery', 'In-store pick-up', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+17056171678.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        44.534187912786905,
+        -80.0738347
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.53219431458546,
+        -80.05267740058983
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.56843128540589,
+        -79.99898113412522
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.551408671806506,
+        -79.96799388576598
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.52922559502964,
+        -79.94423559411074
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.50877075277192,
+        -79.93154007429747
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.479921271113064,
+        -79.96086634169293
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.45341206138529,
+        -79.92756801783705
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.427062118123104,
+        -79.94063377348245
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.40402665933828,
+        -79.96276396211853
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.38904955354802,
+        -79.98599723456203
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.37571354515514,
+        -80.02028804590711
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.36918921104287,
+        -80.05821727575805
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.36992079883695,
+        -80.09720748481068
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.377858495249946,
+        -80.13460981556948
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.38904955354802,
+        -80.16167216543798
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.40828910275776,
+        -80.18999221767197
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.43212187669975,
+        -80.2104120034068
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.45892445179069,
+        -80.22153621150608
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.48687073224884,
+        -80.22259980538199
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.50877075277192,
+        -80.21612932570254
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.56830333435101,
+        -80.2732395113463
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.65957497981222,
+        -80.30551890364266
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.59756556784292,
+        -80.1606715229932
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        44.55491518524931,
+        -80.09737249609353
+      ],
+      "min order - 40.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Preopening at 05-13 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - hours per day - None
+Sept Long Weekend at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Day at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve - Boxing Day  at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+NYE - NYD at 12-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Civic Holiday (August 1) at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+easter at 04-07 - hours per day - None
+Delivery Tomorrow at 04-18 - hours per day - None
+no delivery at 05-01 - hours per day - None
+vic day at 05-22 - hours per day - None
+Canada Day Jul 3 at 07-03 - hours per day - None
+no delivery at 07-07 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+------------------------------------------------------------

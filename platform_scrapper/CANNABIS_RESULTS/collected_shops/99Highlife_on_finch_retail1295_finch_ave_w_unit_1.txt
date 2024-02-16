@@ -1,0 +1,19 @@
+Store - Highlife on Finch Retail
+------------------------------------------------------------
+Address - 1295 FINCH AVE W UNIT 1
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://highlife.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+14166350420
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Highlife on Finch at address 1295 Finch Ave W NOT Found from Dutchie ecommerse provider's server

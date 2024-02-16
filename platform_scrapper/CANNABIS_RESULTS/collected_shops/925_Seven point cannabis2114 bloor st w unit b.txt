@@ -1,0 +1,16 @@
+Store - Seven Point Cannabis
+------------------------------------------------------------
+Address - 2114 BLOOR ST W UNIT B
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://sevenpointcannabis.ca/toronto-dispensary/?utm_source=GMBlistingToronto&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Seven Point Cannabis at address 2114 BLOOR ST W UNIT B NOT Found from Dutchie ecommerse provider's server"

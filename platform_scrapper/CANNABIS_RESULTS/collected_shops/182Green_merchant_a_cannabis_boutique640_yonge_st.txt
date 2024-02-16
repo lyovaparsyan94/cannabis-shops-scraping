@@ -1,0 +1,26 @@
+Store - GREEN MERCHANT A CANNABIS BOUTIQUE
+------------------------------------------------------------
+Address - 640 YONGE ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://mygreenmerchant.com/locations/yonge-bloor/?utm_source=gmb&utm_medium=yonge
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup',  'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14165198307.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for GREEN MERCHANT A CANNABIS BOUTIQUE at address 640 YONGE ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving at 10-11 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+Blizzard at 01-17 - active - False, hours per day: from - 10:00 AM, to - 6:00 PM
+victoria day at 05-23 - hours per day - None
+------------------------------------------------------------

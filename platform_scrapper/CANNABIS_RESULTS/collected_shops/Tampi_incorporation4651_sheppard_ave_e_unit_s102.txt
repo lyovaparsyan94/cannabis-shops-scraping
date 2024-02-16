@@ -1,0 +1,23 @@
+Store - Tampi Incorporation
+----------------------------------------------------------------------
+Address - 4651 SHEPPARD AVE E UNIT S102
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/06/19
+----------------------------------------------------------------------
+URL ['url not found']
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tampi Incorporation at address 4651 SHEPPARD AVE E UNIT S102 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

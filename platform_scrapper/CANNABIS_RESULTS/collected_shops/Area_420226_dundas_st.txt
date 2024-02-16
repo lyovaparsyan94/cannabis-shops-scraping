@@ -1,0 +1,23 @@
+Store - Area 420
+----------------------------------------------------------------------
+Address - 226 DUNDAS ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://area420.ca/shop/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'Delivery']
+----------------------------------------------------------------------
+Phone
+14165709722
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Area 420 at address 226 DUNDAS ST NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

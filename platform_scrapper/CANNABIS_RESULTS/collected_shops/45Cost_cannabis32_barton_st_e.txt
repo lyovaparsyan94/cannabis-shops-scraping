@@ -1,0 +1,19 @@
+Store - COST CANNABIS
+------------------------------------------------------------
+Address - 32 BARTON ST E
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://costcan.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+19055230606
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['Delivery - Time unknown']"

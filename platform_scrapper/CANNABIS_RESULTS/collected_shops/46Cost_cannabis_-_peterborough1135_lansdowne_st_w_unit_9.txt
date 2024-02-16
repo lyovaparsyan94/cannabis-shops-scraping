@@ -1,0 +1,19 @@
+Store - COST CANNABIS - PETERBOROUGH
+------------------------------------------------------------
+Address - 1135 LANSDOWNE ST W UNIT 9
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://costcan.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17057428080
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['Delivery - Time unknown']"

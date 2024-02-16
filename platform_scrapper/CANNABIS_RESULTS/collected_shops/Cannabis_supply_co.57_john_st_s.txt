@@ -1,0 +1,44 @@
+Store - Cannabis Supply Co.
+----------------------------------------------------------------------
+Address - 57 JOHN ST S
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.cannabissupplyco.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12893891131
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Cannabis Supply Co. at address 57 JOHN ST S NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Pre-Opening at 07-31 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Labour Day at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Holiday at 10-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-24 - hours per day - None
+Family day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Weenend at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labor Day Hours at 09-06 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Weather at 01-17 - hours per day - None
+Family Day at 02-21 - hours per day - None
+Easter at 04-15 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Closing Early at 12-10 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+----------------------------------------------------------------------

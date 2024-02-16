@@ -1,0 +1,16 @@
+Store - ROLL N ROCK CANNABIS CO.
+------------------------------------------------------------
+Address - 993 RIVERSIDE DR
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.rollnrock.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'No-delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for ROLL N ROCK CANNABIS CO. at address 993 RIVERSIDE DR NOT Found from Dutchie ecommerse provider's server"

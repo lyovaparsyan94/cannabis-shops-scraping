@@ -1,0 +1,23 @@
+Store - Queen George Cannabis
+----------------------------------------------------------------------
+Address - 640 MOHAWK RD W UNIT 29C
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/12/01
+----------------------------------------------------------------------
+URL https://www.queengeorge.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12893896889
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Queen George Cannabis at address 640 MOHAWK RD W UNIT 29C NOT Found from Buddi ecommerse provier's server"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

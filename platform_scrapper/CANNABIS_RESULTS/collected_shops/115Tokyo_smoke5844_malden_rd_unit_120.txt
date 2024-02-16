@@ -1,0 +1,29 @@
+Store - Tokyo Smoke
+------------------------------------------------------------
+Address - 5844 MALDEN RD UNIT 120
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/stores/tokyo-smoke-lasalle-malden-road
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15199150807.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tokyo Smoke at address 5844 MALDEN RD UNIT 120 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+victoria day  at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------

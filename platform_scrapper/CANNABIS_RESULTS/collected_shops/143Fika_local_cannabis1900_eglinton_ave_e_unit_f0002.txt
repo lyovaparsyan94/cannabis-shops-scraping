@@ -1,0 +1,31 @@
+Store - FIKA LOCAL CANNABIS
+------------------------------------------------------------
+Address - 1900 EGLINTON AVE E UNIT F0002
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16477990924.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA LOCAL CANNABIS at address 1900 EGLINTON AVE E UNIT F0002 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening Day at 09-30 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving Monday at 10-11 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Staff Party at 03-06 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Good friday at 04-15 - hours per day - None
+Thanksgiving Monday at 10-10 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Closing Early at 05-09 - hours per day - None
+------------------------------------------------------------

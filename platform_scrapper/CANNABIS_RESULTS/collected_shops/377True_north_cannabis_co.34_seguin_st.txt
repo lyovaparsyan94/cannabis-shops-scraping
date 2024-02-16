@@ -1,0 +1,29 @@
+Store - True North Cannabis Co.
+------------------------------------------------------------
+Address - 34 SEGUIN ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/parry-sound/?utm_source=GMB_parrysound&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17057719666.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co. at address 34 SEGUIN ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Holiday hours  at 12-24 - hours per day - None
+Holiday Hours X-mas at 12-25 - hours per day - None
+Holiday Hours Boxing Day  at 12-26 - hours per day - None
+Holiday Hours New Year's Day at 01-01 - hours per day - None
+Unforeseen circumstances at 06-01 - hours per day - None
+power out  at 08-03 - hours per day - None
+------------------------------------------------------------

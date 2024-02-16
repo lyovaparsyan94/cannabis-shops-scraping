@@ -1,0 +1,16 @@
+Store - CLOUD NINE CANNABIS
+------------------------------------------------------------
+Address - 26 BRANTWOOD PARK RD UNIT 4
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.cloudninecannabis.ca/shop?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for CLOUD NINE CANNABIS at address 26 BRANTWOOD PARK RD UNIT 4 NOT Found from Dutchie ecommerse provider's server"

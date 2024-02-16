@@ -1,0 +1,23 @@
+Store - ouid
+----------------------------------------------------------------------
+Address - 3-1539 STITTSVILLE MAIN ST
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/06/10
+----------------------------------------------------------------------
+URL https://ouid.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for ouid at address 3-1539 STITTSVILLE MAIN ST NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - SESSIONS CANNABIS BLOOR
+----------------------------------------------------------------------
+Address - 976A/978 BLOOR ST W
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://www.sessions.ca/toronto-bloor-dispensary-menu
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14165337777
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SESSIONS CANNABIS BLOOR at address 976A-978 BLOOR ST W NOT Found: No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

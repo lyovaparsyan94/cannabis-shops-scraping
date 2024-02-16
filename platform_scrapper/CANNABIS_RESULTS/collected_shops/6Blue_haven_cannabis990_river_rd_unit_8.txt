@@ -1,0 +1,23 @@
+Store - Blue Haven Cannabis
+------------------------------------------------------------
+Address - 990 RIVER RD UNIT 8
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.bluehavencannabis.com/
+------------------------------------------------------------
+Platform - Buddi
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16136922639
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Blue Haven Cannabis at address 990 RIVER RD UNIT 8 NOT Found from Buddi ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - CAMBRIDGE CANNABIS
+----------------------------------------------------------------------
+Address - 26 QUEEN ST W UNIT 6
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.cambridgecannabisco.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15192089962
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CAMBRIDGE CANNABIS at address 26 QUEEN ST W UNIT 6 NOT Found : No delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

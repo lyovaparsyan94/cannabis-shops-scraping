@@ -1,0 +1,50 @@
+Store - Herbiculture (Scarborough North)
+------------------------------------------------------------
+Address - 3280 MIDLAND AVE UNIT 19 & 20
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.herbiculture.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14162997785
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Herbiculture (Scarborough North) at address 3280 MIDLAND AVE UNIT 19 & 20 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Soft Opening at 04-01 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Grand Opening at 04-03 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Canada Day at 07-01 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Thanksgiving at 10-11 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Christmas Eve - Early Closure at 12-24 - active - False, hours per day: from - 11:00 AM, to - 8:00 PM
+Christmas Day - CLOSED at 12-25 - active - False, hours per day: from - 11:00 AM, to - 8:00 PM
+New Year's Day - CLOSED at 01-01 - active - False, hours per day: from - 11:00 AM, to - 8:00 PM
+Early Closure - Jan 19th at 01-19 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Early Closure - Jan 17th at 01-17 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Thanksgiving 2022 at 10-10 - hours per day - None
+Christmas Eve 2022 at 12-24 - hours per day - None
+Christmas Day 2022 at 12-25 - hours per day - None
+New Year's Day 2023 at 01-01 - hours per day - None
+Inclement Weather - 12/23/2022 at 12-23 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+Inclement weather 01/25/2023 at 01-25 - hours per day - None
+Snow Day - Feb 22, 2023 at 02-23 - hours per day - None
+Closed at 08-23 - hours per day - None
+Temporarily closed at 08-24 - hours per day - None
+Labour Day Monday at 09-04 - hours per day - None
+Thanksgiving 2023 at 10-09 - hours per day - None
+Christmas Eve 2023 at 12-24 - hours per day - None
+Christmas Day 2023 at 12-25 - hours per day - None
+New Year's Day 2024 at 01-01 - hours per day - None
+New Year's Eve 2023 at 12-31 - hours per day - None
+Early Close - Jan 14th at 01-14 - hours per day - None
+------------------------------------------------------------

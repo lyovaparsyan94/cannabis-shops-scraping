@@ -1,0 +1,23 @@
+Store - Sticky Nuggz London Wellington Inc.
+----------------------------------------------------------------------
+Address - 354 WELLINGTON ST UNIT B
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2022/04/11
+----------------------------------------------------------------------
+URL https://stickynuggzinc.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Sticky Nuggz London Wellington Inc. at address 354 WELLINGTON ST UNIT B NOT Found: No delivery / Page doesn't exist"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

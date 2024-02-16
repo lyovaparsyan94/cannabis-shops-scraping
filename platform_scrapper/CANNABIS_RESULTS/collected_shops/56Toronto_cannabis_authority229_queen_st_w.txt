@@ -1,0 +1,25 @@
+Store - Toronto Cannabis Authority
+------------------------------------------------------------
+Address - 229 QUEEN ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://torontocannabisauthority.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16475577444
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Toronto Cannabis Authority at address 229 QUEEN ST W NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 04-29 - active - False, hours per day: from - 12:00 PM, to - 8:00 PM
+Staff Party at 09-13 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+------------------------------------------------------------

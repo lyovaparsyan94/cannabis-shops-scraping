@@ -1,0 +1,16 @@
+Store - Runway Pot
+------------------------------------------------------------
+Address - 697 MOUNT PLEASANT RD
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://runwaypot.com/shop-mount-pleasant/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Runway Pot at address 697 MOUNT PLEASANT RD NOT Found from Dutchie ecommerse provider's server"

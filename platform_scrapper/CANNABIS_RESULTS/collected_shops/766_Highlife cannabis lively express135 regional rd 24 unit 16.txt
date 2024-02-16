@@ -1,0 +1,16 @@
+Store - HIGHLIFE CANNABIS LIVELY EXPRESS
+------------------------------------------------------------
+Address - 135 REGIONAL RD 24 UNIT 16
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://highlife.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Kerbside pickup', 'In-store pick-up', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for HIGHLIFE CANNABIS LIVELY EXPRESS at address 135 REGIONAL RD 24 UNIT 16 NOT Found from Dutchie ecommerse provider's server"

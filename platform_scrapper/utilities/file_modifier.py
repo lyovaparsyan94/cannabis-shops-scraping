@@ -12,7 +12,7 @@ def file_name_maker(store, address):
 
 def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False,
              single_mode=False):
-    src = r'C:\Users\1\OneDrive\Рабочий стол\DOT\cannabis-shops-scraping\platform_scrapper\utilities'
+    src = r'C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\utilities'
     storename = file_name_maker(store=store, address=address)
     if address and store:
         file_to_append = None

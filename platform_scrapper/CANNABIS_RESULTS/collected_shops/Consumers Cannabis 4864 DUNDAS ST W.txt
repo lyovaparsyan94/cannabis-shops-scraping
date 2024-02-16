@@ -1,0 +1,217 @@
+Store - Consumers Cannabis
+------------------------------------------------------------
+Address - 4864 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://consumerscannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14165514864.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.68967299361328,
+        -79.5277751
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.68832334223976,
+        -79.51365355711324
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.68436641363926,
+        -79.50049553158009
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.67807199981305,
+        -79.48919856788774
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.66222032389358,
+        -79.4987876594674
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.65757892136864,
+        -79.495943202441
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.65134108581655,
+        -79.4943533139547
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.64183374311485,
+        -79.47443252977682
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.63208911785143,
+        -79.47918977522825
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.62357001516516,
+        -79.48725615991266
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.60273865046376,
+        -79.4804407645389
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.595452715262795,
+        -79.49891789165498
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.591888213774475,
+        -79.51935836123813
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.61095640837203,
+        -79.53630332074087
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.62787045778992,
+        -79.54138397194872
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.61803098496704,
+        -79.5598213750668
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.62514639179477,
+        -79.57014861983913
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.63396031794104,
+        -79.57759043895234
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.64809922942358,
+        -79.54491436517962
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.65617964470079,
+        -79.60790786683664
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.6623053584155,
+        -79.57965165334271
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.6633051918372,
+        -79.55584727264257
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.679499370531346,
+        -79.56428038325278
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.68535587717452,
+        -79.55254469260208
+      ],
+      "min order - 35.0"
+    ],
+    [
+      [
+        43.68880743618961,
+        -79.53911912261518
+      ],
+      "min order - 35.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+SNOW DAY at 01-17 - active - True, hours per day: from - 10:00 AM, to - 9:00 PM
+Good Friday at 04-15 - hours per day - None
+Christmas Hours at 12-24 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Hours at 12-31 - hours per day - None
+Winter Storm at 01-25 - hours per day - None
+Winter Storm at 03-03 - hours per day - None
+Winter Storm at 03-04 - hours per day - None
+Short Staff at 04-13 - hours per day - None
+no car at 07-28 - hours per day - None
+no car at 09-07 - hours per day - None
+no car at 09-21 - hours per day - None
+Christmas hours at 12-25 - hours per day - None
+NYE at 12-31 - hours per day - None
+------------------------------------------------------------

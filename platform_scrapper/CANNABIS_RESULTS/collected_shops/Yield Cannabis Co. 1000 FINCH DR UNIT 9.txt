@@ -1,0 +1,223 @@
+Store - Yield Cannabis Co.
+------------------------------------------------------------
+Address - 1000 FINCH DR UNIT 9
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://yieldcannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+15193401561.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.0111679098829,
+        -82.3536232
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.02807686649782,
+        -82.33298936981183
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.02223054243393,
+        -82.31376404133826
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.04729671444656,
+        -82.25040193294981
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.025107994843445,
+        -82.22723021562345
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.004647882878345,
+        -82.21484730987432
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.97715125712218,
+        -82.20794370432517
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.94927461026664,
+        -82.21096942699494
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.934773198347656,
+        -82.25535975872701
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.89987580772775,
+        -82.24529326332957
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.88489456499078,
+        -82.26795257124944
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.91693643154412,
+        -82.32508485538789
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.86502868440999,
+        -82.33839088279704
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.86576047726494,
+        -82.3764196313162
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.87370039338375,
+        -82.41289941116045
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.88489456499078,
+        -82.43929382875056
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.90413942230808,
+        -82.4669141471513
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.92797869391772,
+        -82.48682838244846
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.954788473488584,
+        -82.49767595399781
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        42.98274214969942,
+        -82.49871119463083
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.004647882878345,
+        -82.49239909012569
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.04606366674689,
+        -82.50999619617971
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.05115784248334,
+        -82.45130441821163
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.023692463617245,
+        -82.38981509003273
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.028792111913376,
+        -82.37019866236038
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Pre-Opening at 03-16 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Good Friday at 04-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-04 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Closed Today at 12-15 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 12-25 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+Holiday Hours at 01-01 - hours per day - None
+Easter Sunday at 04-17 - hours per day - None
+christmas hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Canada Day at 07-03 - hours per day - None
+labour Day at 09-04 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+boxing day at 12-26 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+Thanksgiving Day at 10-09 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,23 @@
+Store - Canna Cabana
+----------------------------------------------------------------------
+Address - 457 HAZELDEAN RD UNIT 5
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/07/18
+----------------------------------------------------------------------
+URL https://cannacabana.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pick-up', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+613-963-3711
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Canna Cabana at address 457 HAZELDEAN RD UNIT 5 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

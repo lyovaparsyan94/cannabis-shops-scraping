@@ -1,0 +1,16 @@
+Store - SESSIONS CANNABIS PORT COLBORNE
+------------------------------------------------------------
+Address - 287 WEST SIDE RD UNIT 105
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/port-colborne-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions (Port Colborne) at address 287 West Side Rd NOT Found from Dutchie ecommerse provider's server

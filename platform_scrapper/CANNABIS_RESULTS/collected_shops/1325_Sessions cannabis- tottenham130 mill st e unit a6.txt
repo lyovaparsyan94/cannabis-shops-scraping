@@ -1,0 +1,16 @@
+Store - SESSIONS CANNABIS- TOTTENHAM
+------------------------------------------------------------
+Address - 130 MILL ST E UNIT A6
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/locations/130-mill-st-e-tottenham-dispensary
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions Cannabis (Tottenham) at address 130 Mill St E NOT Found from Dutchie ecommerse provider's server

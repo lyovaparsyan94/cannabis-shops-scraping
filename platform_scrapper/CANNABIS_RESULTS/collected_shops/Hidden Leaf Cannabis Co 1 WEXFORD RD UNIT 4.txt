@@ -1,0 +1,220 @@
+Store - Hidden Leaf Cannabis Co
+----------------------------------------------------------------------
+Address - 1 WEXFORD RD UNIT 4
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://hiddenleafcannabisco.com/shop
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14167369014
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+depending on the distance, the minimum order amount can vary from $0 to $130 (distance 28 km)
+{
+  "0": [
+    [
+      [
+        43.8800187961767,
+        -79.7908416
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.87422048177236,
+        -79.73005309117679
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.82838426575442,
+        -79.69643662525183
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.83018025942289,
+        -79.62483375758796
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.7949422938472,
+        -79.58759230576902
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.75216778826054,
+        -79.61140421807437
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.71878399469429,
+        -79.55664018307438
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.68144792669389,
+        -79.60641809318712
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.615898491203694,
+        -79.53679449222892
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.57137252068139,
+        -79.5790412985542
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.542423265442785,
+        -79.62336477281865
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.478831700793634,
+        -79.6688240865663
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.41989179498075,
+        -79.74893195859306
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.465444902245665,
+        -79.84409801816459
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.52079230297838,
+        -79.9067091758469
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.57228189965596,
+        -79.92850008288006
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.602841628485656,
+        -79.9729005417442
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.64069759488276,
+        -80.00493078549609
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.683271388600595,
+        -80.02239927127452
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.72419074040838,
+        -79.97842926894181
+      ],
+      "min order - 120.0"
+    ],
+    [
+      [
+        43.75216778826054,
+        -79.97027898192562
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.76823560213597,
+        -79.91474200069557
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.863729578998125,
+        -79.98206967142804
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.86147191016008,
+        -79.89745687126033
+      ],
+      "min order - 130.0"
+    ],
+    [
+      [
+        43.814676595846365,
+        -79.82157124854288
+      ],
+      "min order - 100.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Staff Holiday Party at 12-12 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-24 - active - True, hours per day: from - 1:00 PM, to - 5:30 PM
+New Year's Eve at 12-31 - active - True, hours per day: from - 1:00 PM, to - 8:30 PM
+Caribana Delivery Hours at 07-29 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Party at 12-14 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Christmas Eve  at 12-24 - hours per day - None
+New Year�s Eve   at 12-31 - hours per day - None
+Sunday hours  at 05-14 - hours per day - None
+Long weekend  at 05-21 - hours per day - None
+Early Closure at 09-20 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Closed for Low Inventory at 02-05 - hours per day - None
+----------------------------------------------------------------------

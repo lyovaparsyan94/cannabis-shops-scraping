@@ -1,0 +1,16 @@
+Store - Northern Helm Cannabis
+------------------------------------------------------------
+Address - 514 KING ST E UNIT E
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.northernhelm.com/shopkingeast
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Northern Helm Cannabis at address 514 KING ST E UNIT E NOT Found from Dutchie ecommerse provider's server"

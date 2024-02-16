@@ -1,0 +1,220 @@
+Store - Highties Cannabis Store
+------------------------------------------------------------
+Address - 2284 TENTH LINE RD. UNIT F5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.highties.ca/tenth-line/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16134249420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        45.491225453874755,
+        -75.4831349
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.50812700337603,
+        -75.46161536580776
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.50228311740616,
+        -75.44156501359713
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.50889042495106,
+        -75.40173078278069
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.50515836548433,
+        -75.35131719973177
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.484706941940466,
+        -75.33840537523598
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.45876835426253,
+        -75.28907566280935
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.4293577195281,
+        -75.33436820826641
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.41486325955268,
+        -75.38066207868486
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.412498245359416,
+        -75.42141066425498
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.40431848671576,
+        -75.43431890557682
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.41467548766693,
+        -75.4629859000594
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.427475558110224,
+        -75.47952807230482
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.41253378759879,
+        -75.49193010919868
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.429442467608844,
+        -75.49716996790795
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.38611871270603,
+        -75.5507142771716
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.40066741251348,
+        -75.57249940365399
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.41868935502722,
+        -75.58820414014654
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.43486915289191,
+        -75.63336123250899
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.462810629580126,
+        -75.634444474568
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.46970226315539,
+        -75.56217732206096
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.47319520256623,
+        -75.53032008456407
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.48105494220759,
+        -75.52078482604517
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.48690965378068,
+        -75.50868126049528
+      ],
+      "min order - 30.0"
+    ],
+    [
+      [
+        45.49036015990203,
+        -75.49483469624745
+      ],
+      "min order - 30.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 08-18 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Remembrance Day  at 11-11 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+Christmas Day at 12-25 - active - True, hours per day: from - 10:00 AM, to - 8:00 PM
+New Years eve at 12-31 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+New Years day  at 01-01 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Canada Day at 07-01 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Family Day at 02-20 - hours per day - None
+Sorry Night Owls at 02-26 - hours per day - None
+Closing Early at 03-15 - hours per day - None
+Easter Hours at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Remembrance Day at 11-11 - hours per day - None
+Staff Christmas Party at 11-26 - hours per day - None
+snowstorm at 01-13 - hours per day - None
+------------------------------------------------------------

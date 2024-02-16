@@ -1,0 +1,16 @@
+Store - Collective Growers
+------------------------------------------------------------
+Address - 312 SOMERSET ST E
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://collectivegrowers.com/shop/somerset/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Collective Growers at address 312 SOMERSET ST E NOT Found from Dutchie ecommerse provider's server"

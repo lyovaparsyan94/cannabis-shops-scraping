@@ -1,0 +1,23 @@
+Store - Stash & Co.
+------------------------------------------------------------
+Address - 900 LASALLE BLVD
+------------------------------------------------------------
+Store Application Status - In Progress
+------------------------------------------------------------
+URL https://thestashandco.com/oshawa-whitby-location/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+19052432744.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Stash & Co. at address 900 LASALLE BLVD NOT Found"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

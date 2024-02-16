@@ -1,0 +1,28 @@
+Store - 420Love
+----------------------------------------------------------------------
+Address - 246-248 KING STREET WEST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://420love.store/king-street-west-hamilton/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+19055460729
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for 420Love at address 246-248 KING STREET WEST NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+CLOSED Christmas Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day at 12-26 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Monday Sept. 6 Labour Day  at 09-06 - active - True, hours per day: from - 12:00 PM, to - 7:30 PM
+Canada Day Hours at 07-01 - hours per day - None
+----------------------------------------------------------------------

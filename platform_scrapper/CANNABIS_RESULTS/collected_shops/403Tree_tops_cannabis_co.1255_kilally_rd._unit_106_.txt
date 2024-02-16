@@ -1,0 +1,28 @@
+Store - Tree Tops Cannabis Co.
+------------------------------------------------------------
+Address - 1255 KILALLY RD. UNIT 106 
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.treetopscannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15194536996.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tree Tops Cannabis Co. at address 1255 KILALLY RD. UNIT 106  NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Christmas Hours at 12-23 - active - True, hours per day: from - 00:00 AM, to - 7:00 PM
+New Years at 12-29 - active - False, hours per day: from - 00:00 AM, to - 7:00 PM
+Holiday Hours at 12-25 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+Sept 10 at 09-10 - hours per day - None
+------------------------------------------------------------

@@ -1,0 +1,50 @@
+Store - SPIRITLEAF - CROSS ROADS
+------------------------------------------------------------
+Address - 529 WEST HUNT CLUB RD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-crossroads
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16135199333.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SPIRITLEAF - CROSS ROADS at address 529 WEST HUNT CLUB RD NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Remembrance Day at 11-11 - active - True, hours per day: from - 12:30 PM, to - 8:00 PM
+Christmas Eve at 12-24 - hours per day - None
+Christmas Day at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - active - True, hours per day: from - 11:00 AM, to - 7:30 PM
+New Year's Day at 01-01 - active - True, hours per day: from - 11:00 AM, to - 6:30 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 8:00 PM
+Staff Party at 05-15 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Short at 10-30 - hours per day - None
+Remembrance Day Hours at 11-11 - hours per day - None
+Short Staffed at 12-18 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Staff Party at 01-09 - hours per day - None
+Bad Weather at 01-12 - hours per day - None
+Storm Hours at 01-13 - hours per day - None
+Bad Weather at 01-25 - hours per day - None
+Snow Day at 01-26 - hours per day - None
+Easter Monday at 04-10 - hours per day - None
+Canada Day Weekend - Regular Hours at 06-30 - hours per day - None
+Closing Early at 07-09 - hours per day - None
+Tornado Warning at 07-13 - hours per day - None
+Christmas at 12-25 - hours per day - None
+New Years at 01-01 - hours per day - None
+------------------------------------------------------------

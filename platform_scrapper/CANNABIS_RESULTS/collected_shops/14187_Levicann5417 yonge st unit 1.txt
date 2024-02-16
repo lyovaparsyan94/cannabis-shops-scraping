@@ -1,0 +1,16 @@
+Store - Levicann
+------------------------------------------------------------
+Address - 5417 YONGE ST UNIT 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://levicann.com/shop-innisfil/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for Levicann at address 5417 YONGE ST UNIT 1 NOT Found from Dutchie ecommerse provider's server"

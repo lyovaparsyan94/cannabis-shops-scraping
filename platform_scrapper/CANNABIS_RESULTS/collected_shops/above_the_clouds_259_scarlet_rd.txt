@@ -1,0 +1,16 @@
+Store - Above The Clouds Cannabis
+------------------------------------------------------------
+Address - 259 SCARLETT RD
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.abovethecloudscannabis.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price
+Delivery info for Above the Clouds (Scarlett Rd) at address 259 Scarlett Rd NOT Found from Dutchie ecommerse provider's server

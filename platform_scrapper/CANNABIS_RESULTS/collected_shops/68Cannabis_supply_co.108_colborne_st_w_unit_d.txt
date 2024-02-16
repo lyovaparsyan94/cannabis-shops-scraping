@@ -1,0 +1,33 @@
+Store - CANNABIS SUPPLY CO.
+------------------------------------------------------------
+Address - 108 COLBORNE ST W UNIT D
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://cannabissupplyco.ca/brantford/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15193043420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for CANNABIS SUPPLY CO. at address 108 COLBORNE ST W UNIT D NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Closed at 09-07 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Closed  at 09-08 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Thanksgiving at 10-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Hours at 12-24 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-21 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter at 04-15 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+------------------------------------------------------------

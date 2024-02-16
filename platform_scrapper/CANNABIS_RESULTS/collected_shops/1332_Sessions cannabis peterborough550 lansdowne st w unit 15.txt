@@ -1,0 +1,16 @@
+Store - Sessions Cannabis Peterborough
+------------------------------------------------------------
+Address - 550 LANSDOWNE ST W UNIT 15
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/peterborough-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions Cannabis (Heritage on Lansdowne) at address 550 Lansdowne St W NOT Found from Dutchie ecommerse provider's server

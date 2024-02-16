@@ -1,0 +1,23 @@
+Store - SHINYBUD CANNABIS CO. HERONGATE SQUARE
+----------------------------------------------------------------------
+Address - 1670 HERON RD, UNIT A1.3-A1.4
+----------------------------------------------------------------------
+Store Application Status - In Progress
+----------------------------------------------------------------------
+URL https://www.shinybud.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+14168663033
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SHINYBUD CANNABIS CO. HERONGATE SQUARE at address 1670 HERON RD, UNIT A1.3-A1.4 NOT Found: No Delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

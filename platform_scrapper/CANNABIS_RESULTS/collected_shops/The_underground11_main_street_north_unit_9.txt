@@ -1,0 +1,23 @@
+Store - The Underground
+----------------------------------------------------------------------
+Address - 11 MAIN STREET NORTH UNIT 9
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.theunderground.store/cannabis-shop-hagersville-ontario?store_id=7383#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+15052469455.0
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for The Underground at address 11 MAIN STREET NORTH UNIT 9 NOT Found from Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

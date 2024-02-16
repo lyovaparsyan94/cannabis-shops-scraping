@@ -1,0 +1,23 @@
+Store - VIP Cannabis Company
+----------------------------------------------------------------------
+Address - 302 10TH ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://velvetcannabis.com/martinez/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=martinez%20
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+19252225044
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for VIP Cannabis Company at address 302 10TH ST NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

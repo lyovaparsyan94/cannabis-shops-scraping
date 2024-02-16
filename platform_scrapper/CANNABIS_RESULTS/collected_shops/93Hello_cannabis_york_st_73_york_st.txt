@@ -1,0 +1,19 @@
+Store - HELLO CANNABIS YORK ST 
+------------------------------------------------------------
+Address - 73 YORK ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://hellocannabis.ca/london
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+15194320888
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Hello Cannabis - York Street at address 73 York St NOT Found from Dutchie ecommerse provider's server

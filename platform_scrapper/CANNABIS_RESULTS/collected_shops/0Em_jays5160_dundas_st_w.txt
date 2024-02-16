@@ -1,0 +1,23 @@
+Store - Em Jay's
+------------------------------------------------------------
+Address - 5160 DUNDAS ST W
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.emjays.ca/
+------------------------------------------------------------
+Platform - Custom
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+18337365297
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Em Jay's at address 5160 DUNDAS ST W NOT Found"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

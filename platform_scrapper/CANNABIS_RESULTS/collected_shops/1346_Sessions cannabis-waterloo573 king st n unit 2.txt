@@ -1,0 +1,16 @@
+Store - Sessions Cannabis-Waterloo
+------------------------------------------------------------
+Address - 573 KING ST N UNIT 2
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/waterloo-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions (King at Northfield) at address 573 King St N NOT Found from Dutchie ecommerse provider's server

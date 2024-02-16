@@ -1,0 +1,16 @@
+Store - SESSIONS CANNABIS - NICKLE CITY
+------------------------------------------------------------
+Address - 900 LASALLE BLVD UNIT Q
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.sessions.ca/sudbury-dispensary-menu?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Sessions (Nickel City) at address 900 Lasalle Blvd NOT Found from Dutchie ecommerse provider's server

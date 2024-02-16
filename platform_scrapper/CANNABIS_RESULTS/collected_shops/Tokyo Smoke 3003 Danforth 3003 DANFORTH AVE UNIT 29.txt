@@ -1,0 +1,224 @@
+Store - Tokyo Smoke 3003 Danforth
+------------------------------------------------------------
+Address - 3003 DANFORTH AVE UNIT 29
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://dutchie.com/dispensary/tokyo-smoke-shoppers-world-danforth-and-victoria-park
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+14166720501.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.74817689334303,
+        -79.2906481
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.74618303233722,
+        -79.26976942675174
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.740337414473494,
+        -79.25031602876396
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.73103864604459,
+        -79.23361539875185
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.71892074634088,
+        -79.22080630390151
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.70190876857772,
+        -79.23873741603093
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.69094457443504,
+        -79.25720433048008
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.68462034927883,
+        -79.25789263355168
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.678640662213645,
+        -79.2608127886576
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.68124278042026,
+        -79.27774496123011
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.679480278370015,
+        -79.28044268193509
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.666987306985874,
+        -79.27864976513847
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.66550657487155,
+        -79.28714849498664
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.665672613264285,
+        -79.29588552395361
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.63622845270989,
+        -79.32342205857181
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.642342476452065,
+        -79.33801353728225
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.65285352442519,
+        -79.35327953253287
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.66587376039844,
+        -79.36428203502197
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.68051617450151,
+        -79.37027010968855
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.69578309297576,
+        -79.37083358021452
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.70774674744601,
+        -79.36733852734012
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.72153254696218,
+        -79.35828564629784
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.73314730304778,
+        -79.34461895063738
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.74179915875194,
+        -79.32726940561906
+      ],
+      "min order - 40.0"
+    ],
+    [
+      [
+        43.74689819158517,
+        -79.30742025148761
+      ],
+      "min order - 40.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Pre-opening at 01-11 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Easter Friday at 04-02 - active - True, hours per day: from - 00:00 AM, to - 11:45 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Canada Day at 07-01 - hours per day - None
+Christmas Eve - Boxing Day  at 12-24 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+NYE + NYD at 12-31 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Family Day at 02-21 - active - True, hours per day: from - 12:00 PM, to - 7:00 PM
+Victoria Day at 05-23 - hours per day - None
+No Delivery 18-20 July at 07-18 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Day at 10-10 - hours per day - None
+Holiday Hours at 12-24 - hours per day - None
+Holiday Hours at 12-31 - hours per day - None
+Family Day at 02-20 - hours per day - None
+easter at 04-07 - hours per day - None
+vic day at 05-22 - hours per day - None
+No Delivery at 08-06 - hours per day - None
+Labor Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Holiday Hours 1 at 12-24 - hours per day - None
+Holiday Hours 2 at 12-31 - hours per day - None
+Delivery Cancelled at 12-28 - hours per day - None
+------------------------------------------------------------

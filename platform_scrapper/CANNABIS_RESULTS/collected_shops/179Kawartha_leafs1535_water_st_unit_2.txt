@@ -1,0 +1,19 @@
+Store - KAWARTHA LEAFS
+------------------------------------------------------------
+Address - 1535 WATER ST UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://shop.kawarthaleafs.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17058768883
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+Delivery info for Kawartha Leafs at address 1535 Water St NOT Found from Dutchie ecommerse provider's server

@@ -1,0 +1,19 @@
+Store - PURPLE MOOSE
+------------------------------------------------------------
+Address - 1305 LAWRENCE AVE W UNIT 1383
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://shop.purplemoosecannabis.com/menu/lawrence/
+------------------------------------------------------------
+Platform - Tymber
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16472589956
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price 
+"['No delivery']"

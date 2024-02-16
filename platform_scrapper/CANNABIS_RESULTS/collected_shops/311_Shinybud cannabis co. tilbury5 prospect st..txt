@@ -1,0 +1,16 @@
+Store - SHINYBUD CANNABIS CO. TILBURY
+------------------------------------------------------------
+Address - 5 PROSPECT ST.
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://www.shinybud.com/tilbury
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for SHINYBUD CANNABIS CO. TILBURY at address 5 PROSPECT ST. NOT Found from Dutchie ecommerse provider's server"

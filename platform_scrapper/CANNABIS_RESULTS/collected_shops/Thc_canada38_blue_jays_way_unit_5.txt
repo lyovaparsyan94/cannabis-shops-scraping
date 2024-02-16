@@ -1,0 +1,23 @@
+Store - THC CANADA
+----------------------------------------------------------------------
+Address - 38 BLUE JAYS WAY UNIT 5
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/02/02
+----------------------------------------------------------------------
+URL https://thccanada.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for THC CANADA at address 38 BLUE JAYS WAY UNIT 5 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

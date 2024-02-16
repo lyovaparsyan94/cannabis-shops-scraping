@@ -1,0 +1,31 @@
+Store - BUDS 4 LESS
+------------------------------------------------------------
+Address - 489 YONGE ST UNIT 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.buds4less.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store shopping']
+------------------------------------------------------------
+Phone
+17054810124
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BUDS 4 LESS at address 489 YONGE ST UNIT 2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Canada Day  at 07-01 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+xmas eve at 12-24 - hours per day - None
+xmas day at 12-25 - hours per day - None
+boxing day at 12-26 - hours per day - None
+new years eve at 12-31 - hours per day - None
+new years day at 01-01 - hours per day - None
+------------------------------------------------------------

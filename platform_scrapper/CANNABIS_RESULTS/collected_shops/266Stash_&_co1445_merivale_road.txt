@@ -1,0 +1,30 @@
+Store - Stash & Co
+------------------------------------------------------------
+Address - 1445 MERIVALE ROAD
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thestashandco.com/?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16132924733.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Stash & Co at address 1445 MERIVALE ROAD NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Boxing Day at 12-26 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+New Years Day at 01-01 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+Family Day at 02-15 - active - True, hours per day: from - 9:00 AM, to - 7:00 PM
+Easter at 04-02 - active - False, hours per day: from - 12:00 AM, to - 7:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 12:00 AM, to - 7:00 PM
+July 1st at 07-01 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+------------------------------------------------------------

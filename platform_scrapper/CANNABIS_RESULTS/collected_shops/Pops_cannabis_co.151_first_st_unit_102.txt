@@ -1,0 +1,23 @@
+Store - Pop's Cannabis Co.
+----------------------------------------------------------------------
+Address - 151 FIRST ST UNIT 102
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2023/09/01
+----------------------------------------------------------------------
+URL https://popscannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Pop's Cannabis Co. at address 151 FIRST ST UNIT 102 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

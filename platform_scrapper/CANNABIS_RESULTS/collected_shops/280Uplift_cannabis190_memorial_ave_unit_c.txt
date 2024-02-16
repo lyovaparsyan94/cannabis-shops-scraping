@@ -1,0 +1,24 @@
+Store - Uplift Cannabis
+------------------------------------------------------------
+Address - 190 MEMORIAL AVE UNIT C
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://upliftcannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+17052590420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Uplift Cannabis at address 190 MEMORIAL AVE UNIT C NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 10-22 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+------------------------------------------------------------

@@ -1,0 +1,24 @@
+Store - True North Cannabis Co. 
+----------------------------------------------------------------------
+Address - 898 QUEEN ST E UNIT 2
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.tncc.ca/shop/sault-st-marie/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+7059410101
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co.  at address 898 QUEEN ST E UNIT 2 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+03/24 at 03-24 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+----------------------------------------------------------------------

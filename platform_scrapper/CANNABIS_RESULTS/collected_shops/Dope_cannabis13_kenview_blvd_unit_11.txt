@@ -1,0 +1,23 @@
+Store - Dope Cannabis
+----------------------------------------------------------------------
+Address - 13 KENVIEW BLVD UNIT 11
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2022/02/19
+----------------------------------------------------------------------
+URL https://dopecannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+14162564815
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Dope Cannabis at address 13 KENVIEW BLVD UNIT 11 NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

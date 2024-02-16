@@ -1,0 +1,29 @@
+Store - STASH AND CO.
+------------------------------------------------------------
+Address - 391 BANK ST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://thestashandco.com/?utm_source=gmb&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+16132922024.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for STASH AND CO. at address 391 BANK ST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Closed at 04-08 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Boxing Day at 12-26 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+New Years Eve at 12-31 - active - True, hours per day: from - 9:00 AM, to - 8:00 PM
+New Years Day at 01-01 - active - True, hours per day: from - 9:00 AM, to - 5:00 PM
+Family Day at 02-15 - active - True, hours per day: from - 9:00 AM, to - 7:00 PM
+Ottawa Road Closures at 02-18 - hours per day - None
+------------------------------------------------------------

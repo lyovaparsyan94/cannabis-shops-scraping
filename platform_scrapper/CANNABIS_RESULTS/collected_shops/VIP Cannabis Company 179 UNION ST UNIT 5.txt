@@ -1,0 +1,184 @@
+Store - VIP Cannabis Company
+----------------------------------------------------------------------
+Address - 179 UNION ST UNIT 5
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.vipcannabis.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+15199043605
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.38541609595374,
+        -80.68105086005484
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.37917796392743,
+        -80.67946807938014
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.37285339174958,
+        -80.68015282013631
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.366873374077706,
+        -80.68305795050154
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.36164538129399,
+        -80.68798512284566
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.35824617296852,
+        -80.6931610541423
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.35521936760342,
+        -80.700803282511
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.365375660980874,
+        -80.71093450136794
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.35390459983369,
+        -80.71795052804343
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.35570619978878,
+        -80.72628788322268
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.35824617296852,
+        -80.7323189458577
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.36261277344158,
+        -80.73862777134651
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.36802168420255,
+        -80.7431732830519
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.37410437887435,
+        -80.74564549725788
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.37922439104628,
+        -80.72992118367691
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.38541609595374,
+        -80.74442913994515
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.391142636558094,
+        -80.74068625910948
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.395967259997974,
+        -80.7350380505755
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.39956108525436,
+        -80.72786935586487
+      ],
+      "min order - 0"
+    ],
+    [
+      [
+        43.401679113103725,
+        -80.71966887935957
+      ],
+      "min order - 0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-08 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years at 12-31 - hours per day - None
+FAMILY DAY at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter at 04-09 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Special at 08-16 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+Today at 11-08 - hours per day - None
+Tomorrow Closing at 6 pm at 12-19 - hours per day - None
+Christmas at 12-25 - hours per day - None
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+New Year at 01-01 - hours per day - None
+----------------------------------------------------------------------

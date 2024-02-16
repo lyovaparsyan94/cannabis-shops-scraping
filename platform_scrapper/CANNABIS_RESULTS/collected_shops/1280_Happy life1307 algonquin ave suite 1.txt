@@ -1,0 +1,17 @@
+Store - Cloud Nine Cannabis
+------------------------------------------------------------
+Address - 292 DUNDAS ST
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://www.cloudninecannabis.ca/london
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for GreenPort at address 686 COLLEGE ST NOT Found from Dutchie ecommerse provider's server"
+

@@ -1,0 +1,47 @@
+Store - Shiny Bud
+----------------------------------------------------------------------
+Address - 2625 WESTON RD UNIT C26-27
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.shinybud.com/toronto/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+14169017692
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Shiny Bud at address 2625 WESTON RD UNIT C26-27 NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Canada Day  at 07-01 - active - True, hours per day: from - open, to - open
+Civic Holiday at 08-02 - active - True, hours per day: from - open, to - open
+Labour Day Hours at 09-06 - active - True, hours per day: from - open, to - open
+Thanksgiving at 10-11 - active - True, hours per day: from - open, to - open
+Christmas Day at 12-25 - active - True, hours per day: from - open, to - open
+Boxing Day at 12-26 - active - True, hours per day: from - open, to - open
+April 16 at 04-16 - hours per day - None
+Civic Holiday at 08-01 - hours per day - None
+New Year's Day at 01-01 - hours per day - None
+New Year's Eve at 12-31 - hours per day - None
+January 2nd at 01-02 - hours per day - None
+February 14 at 02-14 - hours per day - None
+March 27 at 03-27 - hours per day - None
+Civic Holiday Long Weekend at 08-06 - hours per day - None
+August 20,2023 at 08-20 - hours per day - None
+October 4. 2023 at 10-04 - hours per day - None
+Thanksgiving Long Weekend at 10-08 - hours per day - None
+October 20 at 10-20 - hours per day - None
+October 23 at 10-23 - hours per day - None
+Thursday November 16 at 11-16 - hours per day - None
+December 24 at 12-24 - hours per day - None
+December 25 CLOSED  at 12-25 - hours per day - None
+December 26 at 12-26 - hours per day - None
+January 1, 2024 at 01-01 - hours per day - None
+----------------------------------------------------------------------

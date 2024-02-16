@@ -1,0 +1,16 @@
+Store - CANNABIS XPRESS
+------------------------------------------------------------
+Address - 237 JOSEPHINE ST UNIT 1
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL https://cannabis-xpress.com/wingham-store/?
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'No-delivery', 'In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price 
+"Delivery info for CANNABIS XPRESS at address 237 JOSEPHINE ST UNIT 1 Found from Dutchie ecommerse provider's server"

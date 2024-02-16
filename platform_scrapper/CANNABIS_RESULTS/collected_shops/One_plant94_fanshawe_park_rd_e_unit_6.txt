@@ -1,0 +1,23 @@
+Store - One Plant
+----------------------------------------------------------------------
+Address - 94 FANSHAWE PARK RD E UNIT 6
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.oneplant.ca/locations/london-masonville
+----------------------------------------------------------------------
+Platform - WAIO 
+----------------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15486909494
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for One Plant at address 94 FANSHAWE PARK RD E UNIT 6 NOT Found from WAIO ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

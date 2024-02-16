@@ -1,0 +1,23 @@
+Store - Ouid
+------------------------------------------------------------
+Address - 423 RICHMOND RD
+------------------------------------------------------------
+Store Application Status - In Progress
+------------------------------------------------------------
+URL https://ouid.com/
+------------------------------------------------------------
+Platform - Page doesn't exist
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+16138430843
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Ouid at address 423 RICHMOND RD NOT Found"
+------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+------------------------------------------------------------

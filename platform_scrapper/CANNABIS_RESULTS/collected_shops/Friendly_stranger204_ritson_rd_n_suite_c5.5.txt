@@ -1,0 +1,23 @@
+Store - FRIENDLY STRANGER
+----------------------------------------------------------------------
+Address - 204 RITSON RD N SUITE C5.5
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://friendlystranger.com/stores/ON/oshawa-ritson-rd?utm_medium=yext&utm_source=gmb
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12892742900
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FRIENDLY STRANGER at address 204 RITSON RD N SUITE C5.5 NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

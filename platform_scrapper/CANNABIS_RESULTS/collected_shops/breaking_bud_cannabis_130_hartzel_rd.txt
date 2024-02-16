@@ -1,0 +1,17 @@
+Store - BREAKING BUD CANNABIS
+------------------------------------------------------------
+Address - 130 HARTZEL RD
+------------------------------------------------------------
+Authorized to Open
+------------------------------------------------------------
+URL http://breakingbudcannabis.ca/
+------------------------------------------------------------
+Platform - Unknown
+------------------------------------------------------------
+Service options
+['Pickup', 'In-store pickup', 'In-store shopping', 'No-delivery']
+------------------------------------------------------------
+Delivery Zones according to the price
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for BREAKING BUD CANNABIS at address 130 HARTZEL RD NOT Found from because of Public Notice Period: Ended 2023/08/12"
+

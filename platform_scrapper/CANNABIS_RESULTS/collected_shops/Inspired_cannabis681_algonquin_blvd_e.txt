@@ -1,0 +1,23 @@
+Store - Inspired Cannabis
+----------------------------------------------------------------------
+Address - 681 ALGONQUIN BLVD E
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/06/02
+----------------------------------------------------------------------
+URL https://inspiredcannabis.ca/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Inspired Cannabis at address 681 ALGONQUIN BLVD E NOT Found: No delivery / Closed - coming soon"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

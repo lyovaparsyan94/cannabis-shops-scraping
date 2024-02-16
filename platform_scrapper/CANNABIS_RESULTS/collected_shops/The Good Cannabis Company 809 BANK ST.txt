@@ -1,0 +1,210 @@
+Store - The Good Cannabis Company
+----------------------------------------------------------------------
+Address - 809 BANK ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.shopthegood.ca/
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+16132334663
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        45.438698242729615,
+        -75.68795
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.45343701039698,
+        -75.66172445809252
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.46060109388534,
+        -75.61894285300014
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.44048996417739,
+        -75.59499684397298
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.433833951259736,
+        -75.55185427854524
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.40081723437033,
+        -75.61136263719091
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.38247860194434,
+        -75.61691044716983
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.3521283539747,
+        -75.60826094252458
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.34155770294041,
+        -75.62492757003004
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.35081208270738,
+        -75.66683837678988
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.3488526870524,
+        -75.69329267483158
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.33365915965537,
+        -75.73155671030374
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.34155770294041,
+        -75.75097242996996
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.34634416800065,
+        -75.80647705390209
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.38964124211687,
+        -75.7622985678326
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.406466266605904,
+        -75.73876273533628
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.40937920223899,
+        -75.71710631139852
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.41600146423546,
+        -75.71210981717023
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.42102025670107,
+        -75.70419792562714
+      ],
+      "min order - 20.0"
+    ],
+    [
+      [
+        45.423830054930654,
+        -75.69432502780695
+      ],
+      "min order - 20.0"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Day at 12-25 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+New Years Day at 01-01 - active - False, hours per day: from - 9:00 AM, to - 9:00 PM
+12/22 at 12-22 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Christmas Eve at 12-24 - active - True, hours per day: from - 10:00 AM, to - 4:30 PM
+Boxing Day at 12-26 - active - True, hours per day: from - 10:00 AM, to - 4:30 PM
+new years eve day at 12-31 - active - False, hours per day: from - 10:00 AM, to - 8:00 PM
+Family Day at 02-15 - active - True, hours per day: from - 10:00 AM, to - 3:00 PM
+Good Friday at 04-02 - active - True, hours per day: from - 10:00 AM, to - 4:00 PM
+Victoria Day at 05-24 - active - True, hours per day: from - 10:00 AM, to - 5:00 PM
+Civic Holiday at 08-02 - active - True, hours per day: from - 12:00 PM, to - 4:00 PM
+Labour Day at 09-06 - active - True, hours per day: from - 12:00 PM, to - 5:00 PM
+thanksgiving at 10-11 - active - True, hours per day: from - 12:00 PM, to - 5:00 PM
+thanksgiving sunday at 10-10 - active - False, hours per day: from - 10:00 AM, to - 7:00 PM
+thanksgiving saturday at 10-09 - active - True, hours per day: from - 9:30 AM, to - 1:00 PM
+Remembrance Day at 11-11 - hours per day - None
+christmas at 12-25 - active - False, hours per day: from - 9:00 AM, to - 9:00 PM
+NYE at 12-31 - hours per day - None
+Family Day at 02-21 - hours per day - None
+staff night at 03-20 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+great glebe garage sale at 05-28 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Civic holiday at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving Sunday at 10-10 - hours per day - None
+Santa Parade at 11-19 - hours per day - None
+Christmas 2022 at 12-24 - hours per day - None
+boxing day at 12-26 - hours per day - None
+nyd at 01-01 - hours per day - None
+emerg at 01-05 - hours per day - None
+Family Day 12-8 at 02-20 - hours per day - None
+fam day at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Victoria Day at 05-22 - hours per day - None
+GGGS at 05-27 - hours per day - None
+Canada day at 07-01 - hours per day - None
+Civic Holiday 2023 at 08-07 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+xmas break at 12-24 - hours per day - None
+early close at 12-17 - hours per day - None
+New YEars 2024 at 01-01 - hours per day - None
+----------------------------------------------------------------------
+

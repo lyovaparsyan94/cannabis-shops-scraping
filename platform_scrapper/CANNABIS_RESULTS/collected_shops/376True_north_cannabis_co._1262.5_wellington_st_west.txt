@@ -1,0 +1,26 @@
+Store - True North Cannabis Co. 
+------------------------------------------------------------
+Address - 1262.5 WELLINGTON ST WEST
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://www.tncc.ca/shop/ottawa/?utm_source=GMB_Ottawa&utm_medium=organic
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+16139022556.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for True North Cannabis Co.  at address 1262.5 WELLINGTON ST WEST NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 08-19 - active - False, hours per day: from - 00:00 AM, to - 00:00 AM
+Easter Sunday at 04-17 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+------------------------------------------------------------

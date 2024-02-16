@@ -1,0 +1,23 @@
+Store - Tweed
+----------------------------------------------------------------------
+Address - 99 MAPLEVIEW DR E UNIT A 
+----------------------------------------------------------------------
+Store Application Status - Public Notice Period: Ended 2021/10/19
+----------------------------------------------------------------------
+URL  https://www.tweed.com/
+----------------------------------------------------------------------
+Platform - Page doesn't exist
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+['doesn't exist']
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Tweed at address 99 MAPLEVIEW DR E UNIT A  NOT Found: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

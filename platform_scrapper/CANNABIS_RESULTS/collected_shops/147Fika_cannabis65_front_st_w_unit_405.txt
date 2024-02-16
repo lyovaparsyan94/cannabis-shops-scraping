@@ -1,0 +1,24 @@
+Store - FIKA Cannabis
+------------------------------------------------------------
+Address - 65 FRONT ST W UNIT 405
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://fikasupply.com/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+------------------------------------------------------------
+Phone
+14162192869.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for FIKA Cannabis at address 65 FRONT ST W UNIT 405 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Thanksgiving at 10-10 - hours per day - None
+------------------------------------------------------------

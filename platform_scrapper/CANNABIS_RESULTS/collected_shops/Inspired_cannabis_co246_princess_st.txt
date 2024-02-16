@@ -1,0 +1,23 @@
+Store - Inspired Cannabis Co
+----------------------------------------------------------------------
+Address - 246 PRINCESS ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://inspiredcannabis.ca/cannabis-dispensary-kingston/?utm_source=google&utm_medium=gmb&utm_campaign=kingston_store
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+16135410780
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for Inspired Cannabis Co at address 246 PRINCESS ST NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

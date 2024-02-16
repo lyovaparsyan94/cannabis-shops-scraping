@@ -1,0 +1,227 @@
+Store - AFFX CANNABIS
+------------------------------------------------------------
+Address - 919 UPPER PARADISE RD UNIT 5
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL http://www.affxcannabis.ca/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+------------------------------------------------------------
+Phone
+12897550420.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+{
+  "0": [
+    [
+      [
+        43.25764649736319,
+        -79.91839569999999
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.27455471899362,
+        -79.89767884993661
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.26870863728487,
+        -79.87837618898989
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.29377366942469,
+        -79.81475898578327
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.27158587425738,
+        -79.79149423851221
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.25112662536556,
+        -79.77906175132289
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.226912524170956,
+        -79.68608577913395
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.182640019097036,
+        -79.69094408216577
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.14078161204048,
+        -79.71128775783679
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.10418889889067,
+        -79.74571573485889
+      ],
+      "min order - 100.0"
+    ],
+    [
+      [
+        43.107344805688705,
+        -79.80855195070306
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.14241008531249,
+        -79.87872998135416
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.137474396910584,
+        -79.90682659564827
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.16025403002842,
+        -79.93090283573504
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.16459104572374,
+        -79.95091623954895
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.17070559553334,
+        -79.96539484399048
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.167053429159466,
+        -80.00443435581523
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.18508264868083,
+        -80.01955316682312
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.20535825946514,
+        -80.0277848080474
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.22649880105551,
+        -80.02856449816426
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.2430653385516,
+        -80.02376673322765
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.24990226266089,
+        -79.9855092898149
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.26151795230374,
+        -79.97194835911684
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.27017049775848,
+        -79.95473319366873
+      ],
+      "min order - 50.0"
+    ],
+    [
+      [
+        43.27526993483736,
+        -79.93503785449342
+      ],
+      "min order - 50.0"
+    ]
+  ]
+}
+------------------------------------------------------------
+Special days or hours:
+
+Victoria Day at 05-24 - active - False, hours per day: from - 11:00 AM, to - 6:00 PM
+Canada Day at 07-01 - active - True, hours per day: from - 10:00 AM, to - 6:30 PM
+Labour Day at 09-06 - active - False, hours per day: from - 10:00 AM, to - 7:30 PM
+Thanksgiving at 10-11 - active - False, hours per day: from - 10:00 AM, to - 7:30 PM
+Christmas Eve Day at 12-24 - active - True, hours per day: from - 10:00 AM, to - 4:00 PM
+Christmas Day at 12-25 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+Family Day Holiday at 02-21 - hours per day - None
+Good Friday at 04-15 - hours per day - None
+Victoria Day Holiday at 05-23 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Victoria Day  at 05-23 - hours per day - None
+Canada Day - July 1st at 07-01 - hours per day - None
+Civic Holiday at 08-01 - hours per day - None
+Labour Day at 09-05 - hours per day - None
+Thanksgiving at 10-10 - hours per day - None
+Christmas Eve at 12-24 - hours per day - None
+New Years Eve at 12-31 - hours per day - None
+Staff Christmas Event at 01-22 - hours per day - None
+Family Day Holiday at 02-20 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Victoria Day Holiday at 05-22 - hours per day - None
+Canada Day Holiday at 07-01 - hours per day - None
+Civic Holiday at 08-07 - hours per day - None
+Labour Day at 09-04 - hours per day - None
+Thanksgiving at 10-09 - hours per day - None
+------------------------------------------------------------

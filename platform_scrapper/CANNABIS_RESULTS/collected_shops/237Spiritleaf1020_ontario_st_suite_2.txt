@@ -1,0 +1,72 @@
+Store - SPIRITLEAF
+------------------------------------------------------------
+Address - 1020 ONTARIO ST SUITE 2
+------------------------------------------------------------
+Store Application Status - Authorized to Open
+------------------------------------------------------------
+URL https://spiritleaf.ca/locations/stratford/
+------------------------------------------------------------
+Platform - Dutchie
+------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+------------------------------------------------------------
+Phone
+15193051550.0
+------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+"Delivery info for SPIRITLEAF at address 1020 ONTARIO ST SUITE 2 NOT Found from Dutchie ecommerse provider's server"
+------------------------------------------------------------
+Special days or hours:
+
+Opening at 02-02 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+Family Day at 02-15 - active - None, hours per day: from - 00:00 AM, to - 00:00 AM
+May 2-4 Monday at 05-24 - active - True, hours per day: from - 6:00 PM, to - 8:00 PM
+Christmas Eve at 12-24 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Christmas Day at 12-25 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Boxing Day at 12-26 - hours per day - None
+New Year's Eve at 12-31 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+New Year's Day at 01-01 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Boxing Day (Observed) at 12-28 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Inclement Weather at 01-17 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+01/27 at 01-27 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Winter Weather at 02-11 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Winter Weather at 02-17 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Winter Weather at 02-19 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Family Day at 02-21 - active - False, hours per day: from - 11:00 AM, to - 7:00 PM
+Winter at 02-23 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Closed due to freezing rain at 03-23 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Delivery Closed at 03-25 - active - False, hours per day: from - 9:00 AM, to - 4:00 PM
+Closed at 04-08 - hours per day - None
+Closing Early For a Private Event at 04-12 - hours per day - None
+Easter Weekend at 04-15 - hours per day - None
+Closing Early at 05-11 - hours per day - None
+Reduced Hours at 05-15 - hours per day - None
+Victoria Day at 05-23 - hours per day - None
+Delivery Closed at 05-31 - hours per day - None
+Delivery Closed at 06-15 - hours per day - None
+Closing Early at 06-20 - hours per day - None
+Delivery at 06-28 - hours per day - None
+Canada Day at 07-01 - hours per day - None
+Thanksgiving Sunday at 10-09 - hours per day - None
+Thanksgiving Monday at 10-10 - hours per day - None
+Temporary Hours at 10-18 - hours per day - None
+Wednesday at 10-19 - hours per day - None
+Thursday  at 11-01 - hours per day - None
+Friday at 10-21 - hours per day - None
+Snowpocalypse at 12-23 - hours per day - None
+Christmas Eve/Christmas Day at 12-24 - hours per day - None
+New Years Day at 01-01 - hours per day - None
+New Year’s Day at 01-01 - hours per day - None
+Closing Early at 01-29 - hours per day - None
+Family Day Monday at 02-20 - hours per day - None
+Snow Day at 02-27 - hours per day - None
+Good Friday at 04-07 - hours per day - None
+Easter Sunday at 04-09 - hours per day - None
+Short Day at 05-07 - hours per day - None
+L at 05-22 - hours per day - None
+Closing Early at 06-12 - hours per day - None
+Labour Day Monday at 09-04 - hours per day - None
+September 11h at 09-11 - hours per day - None
+------------------------------------------------------------
