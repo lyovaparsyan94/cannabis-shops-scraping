@@ -1,25 +1,24 @@
-Store - Cannabis Emporium
+Store - Flowertown Cannabis
 ----------------------------------------------------------------------
-Address - 243-245 BANK ST
+Address - 20945 DALTON RD UNIT 4
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.cannabisemporium420.ca/
+URL http://www.flowertowncannabis.ca/
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Techpos
 ----------------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping', 'No delivery']
+['In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-16136957746
+19055969510
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
 
-"Delivery info for Cannabis Emporium at address 243-245 BANK ST NOT Found from Dutchie ecommerse provider's server"
+"Delivery info for Flowertown Cannabis at address 20945 DALTON RD UNIT 4 NOT Found From Techpos ecommerse provider's server: No delivery"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
 ----------------------------------------------------------------------
-

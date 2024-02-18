@@ -1,25 +1,24 @@
-Store - Cannabis Emporium
+Store - High Park Cannabis Co.
 ----------------------------------------------------------------------
-Address - 243-245 BANK ST
+Address - 3064 DUNDAS ST W
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.cannabisemporium420.ca/
+URL https://highparkcc.ca/shop-canna/
 ----------------------------------------------------------------------
-Platform - Dutchie
+Platform - Page doesn't exist
 ----------------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping', 'No delivery']
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
 ----------------------------------------------------------------------
 Phone
-16136957746
+14166043673
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
 
-"Delivery info for Cannabis Emporium at address 243-245 BANK ST NOT Found from Dutchie ecommerse provider's server"
+"Delivery info for High Park Cannabis Co. at address 3064 DUNDAS ST W NOT Found : No delivery / Permanently closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
 ----------------------------------------------------------------------
-

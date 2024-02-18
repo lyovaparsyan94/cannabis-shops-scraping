@@ -22,3 +22,4 @@ first number is the price, and in brackets are the coordinates of area according
 Special days or hours:
 - not received information about special days or hours
 ----------------------------------------------------------------------
+

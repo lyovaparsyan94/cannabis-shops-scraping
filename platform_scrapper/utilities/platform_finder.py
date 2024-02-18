@@ -165,7 +165,3 @@ class PlatformFinder:
                 continue
         return confirmed
 
-
-# worker = PlatformFinder()
-# url = "https://missjonescannabis.com/"
-# worker.open_url(url, age_xpath_list=age_xpath_list)
