@@ -28,12 +28,10 @@ class ScanDutchieDelivery:
         self.buddi_params = buddi_params
 
     def _get_shop_address(self, coordinates=None, store=None, shop_address=None, state=None):
-        return 43.2176236, -79.9909225
-        # if coordinates:
-        #     # return coordinates[1], coordinates[0]
-        #     return 43.2176236,-79.9909225
-        # else:
-        #     return self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
+        if coordinates:
+            return coordinates[1], coordinates[0]
+        else:
+            return self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
 
     def get_delivery_info(self, address):
         gevent.sleep(1.2)
