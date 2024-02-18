@@ -1,23 +1,23 @@
-Store - BUDSSMOKE
+Store - Your Local Cannabis
 ----------------------------------------------------------------------
-Address - 1812 JANE ST
+Address - 2 KING ST E
 ----------------------------------------------------------------------
 Store Application Status - Authorized to Open
 ----------------------------------------------------------------------
-URL http://www.budssmoke.com/
+URL http://yourlocalcannabis.com/
 ----------------------------------------------------------------------
-Platform - Page doesn't exist
+Platform - Buddi
 ----------------------------------------------------------------------
 Service options
-['Delivery', 'In-store shopping']
+['Curbside pickup', ' No delivery', 'In-store pickup', 'In-store shopping']
 ----------------------------------------------------------------------
 Phone
-14162412837
+14165512550
 ----------------------------------------------------------------------
 Delivery Zones according to the price:
 first number is the price, and in brackets are the coordinates of area according to that price
 
-"Delivery info for BUDSSMOKE at address 1812 JANE ST NOT Found : No delivery / Temprorary closed"
+"Delivery info for Your Local Cannabis at address 2 KING ST E NOT Found From Buddi ecommerse provider's server: No delivery / Temprorary closed"
 ----------------------------------------------------------------------
 Special days or hours:
 - not received information about special days or hours
