@@ -1,0 +1,24 @@
+Store - Discounted Cannabis
+----------------------------------------------------------------------
+Address - 229 DURHAM ST E
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.discountedcannabis.ca/shop/?store_id=4997#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+15195077830
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for Discounted Cannabis at address 229 DURHAM ST E NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

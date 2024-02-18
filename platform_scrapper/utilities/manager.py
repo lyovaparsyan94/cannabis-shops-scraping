@@ -1,5 +1,5 @@
 from gevent import monkey
-monkey.patch_all()
+# monkey.patch_all()
 import json
 import gevent
 import requests
@@ -35,6 +35,7 @@ class Manager:
                        'f05f0755adc285d86f584d15c3"}}' % src_id
         gevent.sleep(3)
         response = requests.get(url=consumer_url, headers=consumer_headers)
+        print(response.json())
         if response.status_code == 200:
             if response.json()['data']['filteredDispensaries']:
                 res = response.json()['data']['filteredDispensaries'][0]
@@ -224,7 +225,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 5, 'fee': 0, 'minimum': 25}
+                            buddi_params = {'radius': 5, 'fee': 5.0, 'minimum': 40}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
@@ -268,4 +269,4 @@ class Manager:
 
 
 manager = Manager()
-manager.manage(file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")
+# manager.manage(file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx")

@@ -1,0 +1,24 @@
+Store - The 420 Place 
+----------------------------------------------------------------------
+Address - 1052A FINCH AVE W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.the420place.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14166509420
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for The 420 Place  at address 1052A FINCH AVE W NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

@@ -1,0 +1,24 @@
+Store - SHINYBUD CANNABIS CO. 308 NORTH FRONT ST
+----------------------------------------------------------------------
+Address - 308 NORTH FRONT ST UNIT 101
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.shinybud.com/belleville-north-front/?store_id=3311#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16137797475
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for SHINYBUD CANNABIS CO. 308 NORTH FRONT ST at address 308 NORTH FRONT ST UNIT 101 NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

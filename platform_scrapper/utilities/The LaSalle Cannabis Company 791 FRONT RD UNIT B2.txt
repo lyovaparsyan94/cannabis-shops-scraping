@@ -1,0 +1,24 @@
+Store - The LaSalle Cannabis Company
+----------------------------------------------------------------------
+Address - 791 FRONT RD UNIT B2
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.thelcc.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+12265265555
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for The LaSalle Cannabis Company at address 791 FRONT RD UNIT B2 NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

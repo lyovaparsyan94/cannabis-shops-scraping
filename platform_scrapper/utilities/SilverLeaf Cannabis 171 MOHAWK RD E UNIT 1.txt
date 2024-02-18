@@ -1,0 +1,24 @@
+Store - SilverLeaf Cannabis
+----------------------------------------------------------------------
+Address - 171 MOHAWK RD E, UNIT 1
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://silverleafcannabis.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+19055745323
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for SilverLeaf Cannabis at address 171 MOHAWK RD E, UNIT 1 NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

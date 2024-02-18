@@ -1,0 +1,24 @@
+Store - The Dime on Wortley
+----------------------------------------------------------------------
+Address - 162 WORTLEY RD UNIT 1C
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.thedimewortley.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+15196015367
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for The Dime on Wortley at address 162 WORTLEY RD UNIT 1C NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

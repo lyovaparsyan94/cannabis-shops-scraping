@@ -1,0 +1,24 @@
+Store - Mary J's Cannabis
+----------------------------------------------------------------------
+Address - 154 DIVISION ST
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://maryjcannabis.ca/
+----------------------------------------------------------------------
+Platform - Custom
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+16135487282
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for Mary J's Cannabis at address 154 DIVISION ST NOT Found : No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

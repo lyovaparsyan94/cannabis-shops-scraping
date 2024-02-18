@@ -1,0 +1,24 @@
+Store - The Amherstburg Cannabis Company
+----------------------------------------------------------------------
+Address - 268 SANDWICH ST S
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL http://www.theacc.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping', 'No delivery']
+----------------------------------------------------------------------
+Phone
+15197360420
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for The Amherstburg Cannabis Company at address 268 SANDWICH ST S NOT Found From Buddi ecommerse provider's server: No delivery"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------
