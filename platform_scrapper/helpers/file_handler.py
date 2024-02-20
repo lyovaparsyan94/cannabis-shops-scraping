@@ -4,8 +4,6 @@ import yaml
 import pandas as pd
 import json
 
-import platform_scrapper.configs.constants
-
 
 def load_config(file):
     with open(file) as stream:
@@ -15,25 +13,6 @@ def load_config(file):
 
 def load_xlsx(file):
     return pd.read_excel(file)
-
-
-def write_to_xlsx(data_to_write):
-    if not exists('lawyers_phone_emails_file.xlsx'):
-        df = pd.DataFrame(data_to_write)
-        df = df.T
-        df['lawyer_name'] = df.index
-        df['email'] = df['email'].apply(', '.join)
-        df['phone'] = df['phone'].apply(', '.join)
-        df += df[['lawyer_name', 'email', 'phone']]
-    else:
-        df = pd.read_excel('lawyers_phone_emails_file.xlsx')
-        name = list(data_to_write.keys())[0]
-        data = [
-            [name, ', '.join(data_to_write[name]['phone']), ', '.join(data_to_write[name]['email'])],
-        ]
-        df1 = pd.DataFrame(data, columns=['lawyer_name', 'email', 'phone'])
-        df = pd.concat([df, df1], ignore_index=True)
-    df.to_excel('lawyers_phone_emails_file.xlsx', index=False)
 
 
 def save_unfilled_data(person, university, filename):

@@ -1,6 +1,5 @@
 import os
 import json
-from platform_scrapper.configs.constants import ecommerse_providers
 from platform_scrapper.utilities.file_modifier import reporter, file_name_maker
 
 

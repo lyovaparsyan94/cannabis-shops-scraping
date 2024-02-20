@@ -7,8 +7,7 @@ from geo import GeoLocator
 from gevent.queue import Queue
 from geopy.distance import distance
 from data_collector import clean_data
-from platform_scrapper.configs.constants import HEADERS
-from platform_scrapper.configs.constants import DUTCHIE, BUDDI
+from platform_scrapper.configs.constants import BUDDI, DUTCHIE, HEADERS
 from platform_scrapper.utilities.file_modifier import file_name_maker
 
 

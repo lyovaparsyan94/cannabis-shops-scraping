@@ -6,12 +6,8 @@ from urllib.parse import urlparse
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.chrome import ChromeDriverManager
-from configs.constants import dutchie_markers, buddi_markers, tymber_markers, techpos_markers, DUTCHIE, BUDDI, TECHPOS, TYMBER
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, TimeoutException, ElementNotVisibleException, \
-    ElementNotSelectableException
+from configs.constants import dutchie_markers, buddi_markers, tymber_markers, techpos_markers, DUTCHIE, BUDDI, TECHPOS, \
+    TYMBER
 
 shop_markers = [
     "//a//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
@@ -24,7 +20,7 @@ shop_markers = [
 
 data = {}
 
-service = Service(executable_path=ChromeDriverManager().install())
+service = Service(executable_path=r'C:\Users\parsy\OneDrive\Desktop\DOT\drivers\chromedriver.exe')
 driver = Chrome(service=service)
 
 
@@ -47,6 +43,7 @@ def start():
                     continue
             counter += 1
     except Exception as e:
+        print(e)
         print("Can't continue, saving current data")
     finally:
         save_dict()
@@ -85,7 +82,7 @@ def scrape(store, url):
                             data[url]['platform'] = BUDDI
                         elif is_platform(name=TECHPOS, url=url, markers=techpos_markers):
                             data[url]['platform'] = TECHPOS
-                        elif is_platform(name=TYMBER, url=url, markers=TYMBER):
+                        elif is_platform(name=TYMBER, url=url, markers=tymber_markers):
                             data[url]['platform'] = TYMBER
             except Exception as e:
                 print(e)

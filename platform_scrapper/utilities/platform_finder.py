@@ -6,10 +6,7 @@ import pickle
 from handy_wrappers import HandyWrapper
 from selenium.webdriver.common.by import By
 from explisit_wait_type import ExplicitWaitType
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.service import Service as Service
-from selenium.webdriver.support import expected_conditions as EC
 from platform_scrapper.configs.constants import *
 
 
@@ -164,4 +161,3 @@ class PlatformFinder:
             else:
                 continue
         return confirmed
-
