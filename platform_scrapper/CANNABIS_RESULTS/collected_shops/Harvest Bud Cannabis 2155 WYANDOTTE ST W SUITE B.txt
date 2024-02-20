@@ -1,0 +1,99 @@
+Store - Harvest Bud Cannabis
+----------------------------------------------------------------------
+Address - 2155 WYANDOTTE ST W SUITE B
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://harvestbud.ca/
+----------------------------------------------------------------------
+Platform - Techpos
+----------------------------------------------------------------------
+Service options
+['Curbside pickup', 'Delivery', 'In-store pickup', 'In-store shopping', 'Same-day delivery']
+----------------------------------------------------------------------
+Phone
+12267732105
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+We serve within 5 km radius
+We serve within a 5 km radius. Since the city is located on the border with the United States,
+due to its geographical location, the delivery zone extends only to Canadian territory
+{
+  "0": [
+    [
+      [
+        42.3274818824065,
+        -83.00435591994857
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.3129282036249,
+        -83.00158198151786
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.30284497739823,
+        -83.00171308233728
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.289365835875394,
+        -83.0059083085583
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.27743584425148,
+        -83.01613417247205
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.267929030237966,
+        -83.0316040688235
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.26375722108556,
+        -83.04654956239995
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.26259294589048,
+        -83.06228166072879
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.26589166976976,
+        -83.08247118691746
+      ],
+      "min order - 50"
+    ],
+    [
+      [
+        42.2731676562712,
+        -83.09898989016274
+      ],
+      "min order - 50"
+    ]
+  ]
+}
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

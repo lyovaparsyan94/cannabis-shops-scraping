@@ -10,5 +10,5 @@ def zip_files(path_to_files, path_to_zip):
 
 path_to_files = r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\CANNABIS_RESULTS\collected_shops"
 path_to_zip = r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\collected_shops.zip"
-zip_files(path_to_files, path_to_zip)
+# zip_files(path_to_files, path_to_zip)
 

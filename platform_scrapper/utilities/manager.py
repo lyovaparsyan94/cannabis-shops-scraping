@@ -223,7 +223,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 5, 'fee': 0, 'minimum': 50}
+                            buddi_params = {'radius': 25, 'fee': 5, 'minimum': 70}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
@@ -252,7 +252,8 @@ class Manager:
         except Exception as n:
             print(f"ERROR in saving {n}")
 
-    def file_modifier(self):
+    @staticmethod
+    def file_modifier():
         df = load_xlsx(
             file=r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data"
                  r"\fake_cannabis_used_IDs.xlsx"
