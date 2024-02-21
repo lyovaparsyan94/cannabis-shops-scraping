@@ -1,36 +1,8 @@
 import os
 import json
-from platform_scrapper.utilities.file_modifier import reporter, file_name_maker
+from operator import index
 
-
-def clean_data(list_of_circle_sections, store="Nodata", address='Noaddress'):
-    final_data = {}
-    for item in list_of_circle_sections:
-        if str(item)[0].isdigit():
-            if type(list_of_circle_sections[item]) is list:
-                final_data[item] = list_of_circle_sections[item]
-        if type(item) is dict:
-            for key, value in item.items():
-                if key:
-                    for k1, v1 in value.items():
-                        max_distance = max(v1.keys())
-                        if key not in final_data:
-                            final_data[key] = {}
-                        if k1 not in final_data[key]:
-                            final_data[key][k1] = {}
-                        final_data[key][k1][max_distance] = v1[max_distance]
-    res = {}
-    for price in final_data:
-        if type(final_data[price]) is list:
-            res = final_data
-            break
-        if price not in res:
-            res[price] = []
-            for degree in final_data[price]:
-                for km in final_data[price][degree]:
-                    res[price].append(final_data[price][degree][km])
-
-    return res
+from utilities.file_handler import file_name_maker
 
 
 def write_report(global_data, store, address, status, url, ecom_provider, service_options, phone, index,
@@ -54,7 +26,7 @@ def write_report(global_data, store, address, status, url, ecom_provider, servic
             json.dump(result, file, indent=2)
         else:
             json.dump(global_data, file, indent=2)
-    with open(f"{index}{filename}.txt", "a") as f:
+    with open(fr"..\data\collected\{index}{filename}.txt", "a") as f:
         report = f"Store - {store}{liner}Address - {address}{liner}Store Application Status - {status}{liner}URL {url}{liner}Platform - {ecom_provider}{liner}Service options\n{service_options}{liner}Phone\n{phone}{liner}Delivery Zones according to the price:\nfirst number is the price, and in brackets are the coordinates of area according to that price\n{min_delivery_fee}\n"
         f.write(report)
         with open(f'{index}glob.txt', 'r') as glob_file:

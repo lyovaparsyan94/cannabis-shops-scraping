@@ -1,9 +1,12 @@
-.idea
 vevn
 __pycache__
 .env
 .idea
 /__pychache__/
-platform_scrapper/testing
 db.sqlite3
 .flake8
+platform_scrapper/testing
+platform_scrapper/configs/config.yaml
+platform_scrapper/data/fake_cannabis_used_IDs.xlsx
+platform_scrapper/data/info_save.json
+platform_scrapper/CANNABIS_RESULTS/collected_shops

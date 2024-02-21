@@ -1,7 +1,5 @@
 import os
 import json
-from os.path import abspath, dirname, join
-from platform_scrapper.src.write_reports import clean_data
 
 
 def file_name_maker(store, address):
@@ -10,9 +8,43 @@ def file_name_maker(store, address):
     return filename
 
 
+def clean_data(list_of_circle_sections, store="aaa", address='bb', reporter=None):
+    final_data = {}
+    for item in list_of_circle_sections:
+        if str(item)[0].isdigit():
+            if type(list_of_circle_sections[item]) is list:
+                final_data[item] = list_of_circle_sections[item]
+        if type(item) is dict:
+            for key, value in item.items():
+                if key:
+                    for k1, v1 in value.items():
+                        max_distance = max(v1.keys())
+                        if key not in final_data:
+                            final_data[key] = {}
+                        if k1 not in final_data[key]:
+                            final_data[key][k1] = {}
+                        final_data[key][k1][max_distance] = v1[max_distance]
+    res = {}
+    for price in final_data:
+        if type(final_data[price]) is list:
+            res = final_data
+            break
+        if price not in res:
+            res[price] = []
+            for degree in final_data[price]:
+                for km in final_data[price][degree]:
+                    res[price].append(final_data[price][degree][km])
+
+    filename = str(store) + str(address)
+    if not reporter:
+        with open(f"tmp__{filename}.json", 'w') as file:
+            json.dump(res, file, indent=2)
+    return res
+
+
 def reporter(file_to_append=None, json_to_read=None, store=None, address=None, del_mode=False, auto=False,
              single_mode=False):
-    src = r'C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\utilities'
+    src = r'C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data'
     storename = file_name_maker(store=store, address=address)
     if address and store:
         file_to_append = None
@@ -56,8 +88,3 @@ def reporter(file_to_append=None, json_to_read=None, store=None, address=None, d
             os.remove(file_to_append)
             os.remove(json_to_read)
             print(f'removed {file_to_append} and {json_to_read}')
-
-# reporter(store="Kana Leaf", address='2 OSPREY MIIKAN RD', del_mode=False)
-# ROOT_DIR = os.getcwd()
-# CONFIGS_DIR = abspath(dirname(__file__))
-# FILE_DIR =join(CONFIGS_DIR, filename)

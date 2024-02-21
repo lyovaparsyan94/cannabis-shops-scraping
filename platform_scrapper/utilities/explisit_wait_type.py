@@ -1,7 +1,7 @@
 from handy_wrappers import HandyWrapper
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException, ElementNotVisibleException, ElementNotSelectableException
+from selenium.common.exceptions import ElementNotSelectableException, ElementNotVisibleException, NoSuchElementException
 
 
 class ExplicitWaitType:

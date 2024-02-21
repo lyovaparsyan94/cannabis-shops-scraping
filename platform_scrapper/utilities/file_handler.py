@@ -1,8 +1,7 @@
-import os.path
-from os.path import join, exists
 import yaml
 import pandas as pd
 import json
+import os
 
 
 def load_config(file):
@@ -45,3 +44,9 @@ def remove_from_unfilled_data(person, filename):
                 print(f"{person} removed from unfilled data", )
             else:
                 print(f" {person} not in {all_data['unfilled_data']}")
+
+
+def file_name_maker(store, address):
+    filename = f"{store} {address}"
+    filename = ''.join(char for char in filename if char.isalnum() or char.isspace())
+    return filename

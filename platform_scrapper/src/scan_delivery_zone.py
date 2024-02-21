@@ -3,12 +3,14 @@ import pprint
 import time
 import gevent
 import requests
-from geo import GeoLocator
+from utilities.file_handler import file_name_maker
+from platform_scrapper.src.geo import GeoLocator
 from gevent.queue import Queue
 from geopy.distance import distance
-from data_collector import clean_data
+from utilities.file_modifier import clean_data
 from platform_scrapper.configs.constants import BUDDI, DUTCHIE, HEADERS
-from platform_scrapper.utilities.file_modifier import file_name_maker
+from platform_scrapper.configs.file_constantns import CONFIG_FILE_PATH
+from utilities.file_handler import load_config
 
 
 class ScanDutchieDelivery:
@@ -16,13 +18,13 @@ class ScanDutchieDelivery:
     step = 0.4
     base_distantion = 0.0
 
-    def __init__(self, shop_address, despensary_id, store, state, coordinates, provider, buddi_params=None):
+    def __init__(self, shop_address, despensary_id, store, provider, state, coordinates, buddi_params=None):
         self.geolocator = GeoLocator()
         self.request_counter = 0
         self.degree = 15
         self.state = state
         self.__shop_address = self._get_shop_address(store=store, shop_address=shop_address, state=self.state)
-        self.__hsh = "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
+        self.__hsh = load_config(CONFIG_FILE_PATH)['DUTCHIE']['request_key']
         self.__dispensaryId = despensary_id
         self.buddi_params = buddi_params
 
@@ -34,8 +36,10 @@ class ScanDutchieDelivery:
 
     def get_delivery_info(self, address):
         gevent.sleep(1.2)
+
+        # working alternative variant
         # _city, zipcode, stat, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
-        # _city = '' or city
+
         _city = ''
         zipcode = ''
         lat = address[0]
@@ -56,7 +60,7 @@ class ScanDutchieDelivery:
             if minimum_varies:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
-            print(f"within_bounds ----- {within_bounds}!!!!!!!!!!!!!!!!!!!!!!!!!")
+            print(f"within_bounds ----- {within_bounds}!")
             if within_bounds:
                 if fee is False or fee is None:
                     fee = 0
@@ -66,7 +70,7 @@ class ScanDutchieDelivery:
         else:
             print(f"Error with status code {response.status_code}")
 
-    def multi_scan_total_area(self, store, address, provider=DUTCHIE, state='', buddi_params=''):
+    def multi_scan_total_area(self, store, address, provider=DUTCHIE):
         """scan total area and sort according radius zones with fee cost"""
         filename = file_name_maker(store, address)
         global_data = []
@@ -150,8 +154,9 @@ class ScanDutchieDelivery:
         print(f'made {self.request_counter} requests for this shop')
         return delivery_area
 
-    def get_next_radial_point(self, start_point, distantion, bearing):
-        """get point on map with X distantion and Y degree, where Y,X are parameters of function"""
+    @staticmethod
+    def get_next_radial_point(start_point, distantion, bearing):
+        """get point on map with X distantion and Y degree"""
         bearing = float(bearing)
         print("trying get next point ...")
         gevent.sleep(2)

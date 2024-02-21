@@ -6,30 +6,16 @@ from urllib.parse import urlparse
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
-from configs.constants import dutchie_markers, buddi_markers, tymber_markers, techpos_markers, DUTCHIE, BUDDI, TECHPOS, \
-    TYMBER
-
-shop_markers = [
-    "//a//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
-    "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
-    "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'order')]",
-    "//button[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'order')]",
-    "//button//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
-    "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'daily')]",
-]
-
-data = {}
-
-service = Service(executable_path=r'C:\Users\parsy\OneDrive\Desktop\DOT\drivers\chromedriver.exe')
-driver = Chrome(service=service)
+from configs.constants import BUDDI, DUTCHIE, TECHPOS, TYMBER, buddi_markers, dutchie_markers, techpos_markers, \
+    tymber_markers
 
 
 def start():
     try:
         counter = 1
         df = load_xlsx(
-            r'C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\data\fake_cannabis_used_IDs.xlsx')
-        for index, row in df.iterrows():
+            r'/data/fake_cannabis_used_IDs.xlsx')
+        for _, row in df.iterrows():
             store = row.iloc[1]
             url = row.iloc[4]
             current_data = current_info()
@@ -89,7 +75,6 @@ def scrape(store, url):
                 print(f'Store: {store}\nURL: {url}\n{100 * "="}')
     except Exception:
         print('Other exception')
-        # save_dict()
 
 
 def is_platform(name, url, markers):
@@ -103,12 +88,13 @@ def is_platform(name, url, markers):
 
 
 def save_dict():
-    with open('info.json', 'w') as f:
+    with open('../data/info_save.json',
+              'w') as f:
         json.dump(data, f)
 
 
 def current_info():
-    with open('info_saved.json', "r") as file:
+    with open('data/info_save.json', "r") as file:
         file = json.load(file)
         return file
 
@@ -117,4 +103,7 @@ def load_xlsx(file):
     return pd.read_excel(file)
 
 
+data = {}
+service = Service(executable_path=r'..\DOT\drivers\chromedriver.exe')
+driver = Chrome(service=service)
 start()

@@ -9,31 +9,24 @@ BUDLER = 'Budler'
 WAIO = 'WAIO'
 Fire_and_Flower = 'Fire & Flower'
 
-
-dutchie_iframe = "dutchie--embed__iframe"
-dutchie_plus_button = ""
-dutchie_shop_selector = "div.homepage-carousel-sections__Sections-sc-13b41re"
-
-dutchie_markers = ["dutchie.com/api/", "dutchie--embed__styles", "dutchie-iframe",
-                   'href="https://tags.cnna.io/dutchie-iframe',
+dutchie_markers = ["dutchie.com/api/", "dutchie--embed__styles", "dutchie-iframe", "dutchie--embed__iframe",
+                   'href="https://tags.cnna.io/dutchie-iframe', "div.homepage-carousel-sections__Sections-sc-13b41re",
                    'images.dutchie.com', "dutchie--skip_to_menu_styles", "dutchie--back_to_top_styles",
                    "Dutchie Menu", 'dutchie--back-to-top', "dutchie--embed", "api.dutchie.com"]
-
-weedmaps_markers = [
-
-]
-leafly_markers = [
-
-]
-tymber_markers = ["tymber.js", "surfside-tymber", "tymber-greenline", "TymberToast", "https://tymber", "TymberFooter",
-                  "tymber", "https://tymber-s3"]
-techpos_markers = ["https://techpos.ca", "E-commerce by TechPOS", "TechPOS"]
 
 buddi_markers = ["app.buddi.", "www.budside.com", "buddi-notification", "//app.buddi.io/css/ropis/tailwind",
                  "//app.buddi.io", ".buddi-online-menu",
                  'id="buddi-em-menu"', "buddi-app", "buddi-online-menu", "https://static.buddi.io/", "static.buddi.io/",
                  "buddi_field"
                  ]
+
+weedmaps_markers = []
+
+leafly_markers = []
+
+tymber_markers = ["tymber.js", "surfside-tymber", "tymber-greenline", "TymberToast", "https://tymber", "TymberFooter",
+                  "tymber", "https://tymber-s3"]
+techpos_markers = ["https://techpos.ca", "E-commerce by TechPOS", "TechPOS"]
 
 shop_markers = [
     "//a//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'shop')]",
@@ -44,7 +37,7 @@ shop_markers = [
     "//a[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'daily')]",
 ]
 
-weedmap_no_bot = [
+weedmap_age = [
     "//p[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'press')]",
     "//p[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'hold')]",
     "//p[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'Нажмите')]",
@@ -83,8 +76,8 @@ HEADERS = {
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 consumer_headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "User-Agent": USER_AGENT,
     "Content-Type": "application/json",
-    "Cookie": "_ga_1QQ3EPGGJ3=GS1.1.1702054947.1.1.1702055577.60.0.0; _ga_4TSZ0LK22W=GS1.1.1702150075.2.0.1702150153.60.0.0; _ga_7F3HGF7PL4=GS1.1.1702480932.1.1.1702481847.60.0.0; _ga_5CCKH1MX6Y=GS1.1.1702649940.1.0.1702649960.40.0.0; _gid=GA1.2.1433509371.1702809491; __cflb=04dToaXWHAPESU8RyBQBc8Yta2dmM5dTc3JC5ZvpMD; _gat=1; _gat_UA-101536475-5=1; _ga=GA1.2.1605833789.1702809491; _ga_FZN7LD29Z4=GS1.1.1702813263.2.1.1702817191.0.0.0"
 }
 ecommerse_providers = [DUTCHIE, BUDDI, LEAFLY, WEEDMAPS, TYMBER, TECHPOS, TENDY, BUDLER, WAIO, Fire_and_Flower]
+ended_licension = "Public Notice Period: Ended"

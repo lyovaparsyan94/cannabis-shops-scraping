@@ -1,17 +1,5 @@
-serp:
-  url: 'https://www.google.com/search?'
-
-provider:
-  DUTCHIE:
-    URL: "https://dutchie.com/"
-    AGE_XPATH : "//button[@aria-label='yes button']"
-
-  LEAFLY:
-    URL: "https://www.leafly.ca/"
-    AGE_XPATH : "//button[@aria-label='yes button']"
-
-  WEEDMAPS:
-    URL: "https://weedmaps.com/"
+DUTCHIE:
+  request_key: "2213461f73abf7268770dfd05fe7e10c523084b2bb916a929c08efe3d87531977b"
 
 
 

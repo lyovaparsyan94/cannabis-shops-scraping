@@ -1,13 +1,14 @@
 import time
 from selenium import webdriver
-from selenium.common.exceptions import *
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver import ActionChains
 import pickle
 from handy_wrappers import HandyWrapper
 from selenium.webdriver.common.by import By
-from explisit_wait_type import ExplicitWaitType
+from utilities.explisit_wait_type import ExplicitWaitType
 from selenium.webdriver.chrome.service import Service as Service
-from platform_scrapper.configs.constants import *
+from platform_scrapper.configs.constants import BUDDI, DUTCHIE, LEAFLY, WEEDMAPS, age_select, buddi_markers, dutchie_iframe, dutchie_markers, leafly_markers, shop_markers, \
+    weedmaps_markers
 
 
 class PlatformFinder:
@@ -24,16 +25,18 @@ class PlatformFinder:
 
     def open_url(self, url, age_xpath_list=None):
         age_confirmed = False
+        platform = None
         self.driver.get(url=url)
         try:
             platform = self.check_platform(markers=shop_markers)
             shop_page = url
             self.driver.get(url=shop_page)
             self.go_to_shop_iframe(iframe_path=dutchie_iframe)
+            # do something
         except:
             try:
                 self.confirm_age_by_click(current_url=url, xpathes=age_xpath_list)
-                age_confirmed = True
+                # age_confirmed = True #TODO need to update function logic, if it need to used
                 print("---------------age confirmed----------------------")
                 pickle.dump(self.driver.get_cookies(), open('cookies', 'wb'))
                 self.get_cur_page(url)
@@ -145,7 +148,7 @@ class PlatformFinder:
                 try:
                     yes = self.driver.find_element(By.XPATH, xpth)
                     yes.click()
-                    print(f"Selected confirmed on")
+                    print("Selected confirmed on")
                     confirm = self.driver.find_element(By.XPATH,
                                                        "//button[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'age')]")
                     confirm.click()
