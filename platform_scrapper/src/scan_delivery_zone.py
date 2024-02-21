@@ -9,7 +9,7 @@ from gevent.queue import Queue
 from geopy.distance import distance
 from utilities.file_modifier import clean_data
 from platform_scrapper.configs.constants import BUDDI, DUTCHIE, HEADERS
-from platform_scrapper.configs.file_constantns import CONFIG_FILE_PATH
+from platform_scrapper.configs.file_constantns import CONFIG_FILE_PATH, COLLECT_DIR
 from utilities.file_handler import load_config
 
 
@@ -70,7 +70,7 @@ class ScanDutchieDelivery:
         else:
             print(f"Error with status code {response.status_code}")
 
-    def multi_scan_total_area(self, store, address, provider=DUTCHIE):
+    def multi_scan_total_area(self, store, address, provider=DUTCHIE, buddi_params=None):
         """scan total area and sort according radius zones with fee cost"""
         filename = file_name_maker(store, address)
         global_data = []
@@ -89,7 +89,7 @@ class ScanDutchieDelivery:
                 global_data.append(job.value)
             print(f'------------------GEVENT FINISHED {store} {address}-----------------------')
             final_data = clean_data(list_of_circle_sections=global_data, store=store, address=address)
-            with open(f"t_{filename}.json", "w") as j:
+            with open(fr"{COLLECT_DIR}\t_{filename}.json", "w") as j:
                 json.dump(global_data, j)
             return final_data, f"{filename}"
         except Exception:

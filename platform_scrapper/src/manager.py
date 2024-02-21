@@ -201,7 +201,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 25, 'fee': 5, 'minimum': 70}
+                            buddi_params = {'radius': 10, 'fee': 8, 'minimum': 40}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
@@ -223,7 +223,7 @@ class Manager:
                                            buddi_params=buddi_params)
         try:
             global_data = self.scanner.multi_scan_total_area(store=store, address=shop_address, provider=ecom_provider,
-                                                             state=state, buddi_params=buddi_params)
+                                                             buddi_params=buddi_params)
             write_report(global_data=global_data[0], store=store, address=shop_address,
                          status=status, url=url, ecom_provider=ecom_provider, service_options=service_options,
                          phone=phone,
