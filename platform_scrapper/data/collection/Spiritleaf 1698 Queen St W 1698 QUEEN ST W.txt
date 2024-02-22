@@ -1,0 +1,25 @@
+Store - Spiritleaf 1698 Queen St W
+----------------------------------------------------------------------
+Address - 1698 QUEEN ST W
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://spiritleaf.ca/collections/spiritleaf-parkdale-queen-street-west?birthMonth=01&birthDay=01&birthYear=1994
+----------------------------------------------------------------------
+Platform - Dutchie
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+14165388225
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for Spiritleaf 1698 Queen St W at address 1698 QUEEN ST W NOT Found from Dutchie ecommerse provider's server"
+----------------------------------------------------------------------
+Special days or hours:
+
+Christmas Holiday at 12-24 - active - True, hours per day: from - 12:00 PM, to - 6:45 PM
+----------------------------------------------------------------------

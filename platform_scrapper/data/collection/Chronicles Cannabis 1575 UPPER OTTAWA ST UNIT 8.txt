@@ -1,0 +1,24 @@
+Store - Chronicles Cannabis
+----------------------------------------------------------------------
+Address - 1575 UPPER OTTAWA ST UNIT 8
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.chroniclescannabis.ca/
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store pickup', 'In-store shopping']
+----------------------------------------------------------------------
+Phone
+12892461172
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for Chronicles Cannabis at address 1575 UPPER OTTAWA ST UNIT 8 NOT Found From Buddi ecommerse provider's server: No Delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

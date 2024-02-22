@@ -1,0 +1,24 @@
+Store - The Grass Hut Inc
+----------------------------------------------------------------------
+Address - 245-265 KING GEORGE RD. UNIT 101B 
+----------------------------------------------------------------------
+Store Application Status - Authorized to Open
+----------------------------------------------------------------------
+URL https://www.grasshutco.com/#/menu
+----------------------------------------------------------------------
+Platform - Buddi
+----------------------------------------------------------------------
+Service options
+['In-store shopping']
+----------------------------------------------------------------------
+Phone
+15197571001
+----------------------------------------------------------------------
+Delivery Zones according to the price:
+first number is the price, and in brackets are the coordinates of area according to that price
+
+"Delivery info for The Grass Hut Inc at address 245-265 KING GEORGE RD. UNIT 101B  NOT Found From Buddi ecommerse provider's server: No Delivery / Permanently closed"
+----------------------------------------------------------------------
+Special days or hours:
+- not received information about special days or hours
+----------------------------------------------------------------------

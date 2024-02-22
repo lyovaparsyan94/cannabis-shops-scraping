@@ -56,7 +56,7 @@ class Manager:
                 zipcode = res['location']['zipcode']
                 offer_delivery = res["offerDelivery"]
                 is_open_status = res['status']
-                print("fee_tiers:", fee_tiers)
+                # print("fee_tiers:", fee_tiers)
                 print(
                     f"delivery_enabled - {delivery_enabled}, offer_delivery - {offer_delivery} is_open_status {is_open_status}")
                 if not offer_delivery:
@@ -197,7 +197,7 @@ class Manager:
                             store=store, address=address,
                             status=status, url=url, ecom_provider=ecom_provider,
                             service_options=service_options, phone=phone,
-                            index='')
+                            index='', special_hours='')
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
