@@ -14,7 +14,6 @@ from utilities.file_handler import load_config
 
 
 class ScanDutchieDelivery:
-    half_km = GeoLocator.half_km
     step = 0.4
     base_distantion = 0.0
 
@@ -35,8 +34,7 @@ class ScanDutchieDelivery:
             return self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
 
     def get_delivery_info(self, address):
-        gevent.sleep(1.2)
-
+        # gevent.sleep(1.2)
         # working alternative variant
         # _city, zipcode, stat, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
 
@@ -173,7 +171,8 @@ class ScanDutchieDelivery:
             time.sleep(5)
             return neighbor
 
-    def _scan_buddi_delivery_perimeter(self, degree=0, until=0, radius=0, fee=-1, minimum=-1):
+    def _scan_buddi_delivery_perimeter(self, degree: int = 0, until: int = 0, radius: int = 0, fee: int = -1,
+                                       minimum: int = -1):
         """find borders of delivery figure on map of Buddi based ecommerce provider's shops"""
         if self.buddi_params:
             radius = self.buddi_params['radius']

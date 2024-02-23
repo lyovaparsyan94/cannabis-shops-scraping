@@ -29,7 +29,7 @@ class Manager:
 
     def query_maker(self, src_id=None):
         if src_id is not None:
-            if len(src_id) > 24:
+            if len(src_id) > 26:
                 src_id = self.unparse_src(src_string=src_id)
         consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID' \
                        '":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"c4d04949a6ec1adc37ab8c46098a5dda463366b2cb0e1d923829f38781b3eb30"}}' % src_id
@@ -201,7 +201,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 10, 'fee': 8, 'minimum': 40}
+                            buddi_params = {'radius': 10, 'fee': 7.0, 'minimum': 30}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,

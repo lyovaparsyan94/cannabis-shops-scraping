@@ -1,6 +1,6 @@
 import os
 
-path = r"/platform_scrapper/CANNABIS_RESULTS/collected_shops"
+path = r"C:\Users\parsy\OneDrive\Desktop\DOT\cannabis-shops-scraping\platform_scrapper\CANNABIS_RESULTS\collected_shops"
 txt_files = [f for f in os.listdir(path) if f.endswith('.txt')]
 json_files = [j for j in os.listdir(path) if j.endswith('.json')]
 num_txt_files = len(txt_files)
