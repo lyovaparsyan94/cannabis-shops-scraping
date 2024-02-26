@@ -8,7 +8,7 @@ from utilities.file_modifier import reporter
 from utilities.data_collector import write_report
 from platform_scrapper.configs.file_constantns import FAKE_CANNABIS_USED
 from platform_scrapper.src.scan_delivery_zone import ScanDutchieDelivery
-from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, ended_licension
+from platform_scrapper.configs.constants import consumer_headers, ecommerse_providers, ended_licension, DUTCHIE
 
 
 class Manager:
@@ -200,8 +200,8 @@ class Manager:
                             index='', special_hours='')
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
-                        if ecom_provider == "Buddi":
-                            buddi_params = {'radius': 10, 'fee': 7.0, 'minimum': 30}
+                        if ecom_provider in ecommerse_providers and ecom_provider != DUTCHIE:
+                            buddi_params = {'radius': 12, 'fee': 10.0, 'minimum': 40}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
