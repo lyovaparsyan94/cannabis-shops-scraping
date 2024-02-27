@@ -9,7 +9,7 @@ URL http://gspacecannabis.com/
 Platform - Buddi
 ----------------------------------------------------------------------
 Service options
-['In-store pickup', 'In-store shopping']
+['In-store pickup', 'In-store shopping', 'Delivery']
 ----------------------------------------------------------------------
 Phone
 15196050433
