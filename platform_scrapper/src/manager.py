@@ -31,8 +31,8 @@ class Manager:
         if src_id is not None:
             if len(src_id) > 26:
                 src_id = self.unparse_src(src_string=src_id)
-        consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID' \
-                       '":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"c4d04949a6ec1adc37ab8c46098a5dda463366b2cb0e1d923829f38781b3eb30"}}' % src_id
+        # consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables={"dispensaryFilter":{"cNameOrID":"%s"}}&extensions={"persistedQuery":{"version":1,"sha256Hash":"c4d04949a6ec1adc37ab8c46098a5dda463366b2cb0e1d923829f38781b3eb30"}}' % src_id
+        consumer_url = 'https://dutchie.com/graphql?operationName=ConsumerDispensaries&variables=%7B%22dispensaryFilter%22%3A%7B%22cNameOrID%22%3A%2261d38e4ca8388a008cb50d87%22%2C%22destinationTaxState%22%3A%22ON%22%2C%22destinationTaxZipcode%22%3A%22K1R%205J7%22%2C%22nearLat%22%3A45.4138478%2C%22nearLng%22%3A-75.70050379999999%7D%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22c4d04949a6ec1adc37ab8c46098a5dda463366b2cb0e1d923829f38781b3eb30%22%7D%7D'
         gevent.sleep(3)
         response = requests.get(url=consumer_url, headers=consumer_headers)
         if response.status_code == 200:
@@ -201,7 +201,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider in ecommerse_providers and ecom_provider != DUTCHIE:
-                            buddi_params = {'radius': 5, 'fee': 0, 'minimum': 9.95}
+                            buddi_params = {'radius': 50, 'fee': 0, 'minimum': 60}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
