@@ -201,7 +201,7 @@ class Manager:
                         df.at[index, 'checked'] = True
                     elif ecom_provider in ecommerse_providers and 'Delivery' in type_of_delivery_offered:
                         if ecom_provider in ecommerse_providers and ecom_provider != DUTCHIE:
-                            buddi_params = {'radius': 5, 'fee': 0, 'minimum': 30}
+                            buddi_params = {'radius': 5, 'fee': 0, 'minimum': 9.95}
                         self.scan_area(state=state, store=store, shop_address=address,
                                        despensary_id='', status=status, url=url,
                                        ecom_provider=ecom_provider, service_options=service_options,
