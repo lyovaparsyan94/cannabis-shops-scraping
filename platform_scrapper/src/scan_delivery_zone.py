@@ -14,13 +14,13 @@ from utilities.file_handler import load_config
 
 
 class ScanDutchieDelivery:
-    step = 0.4
-    base_distantion = 0.0
 
     def __init__(self, shop_address, despensary_id, store, provider, state, coordinates, buddi_params=None):
         self.geolocator = GeoLocator()
         self.request_counter = 0
         self.degree = 15
+        self.base_distantion = 0.0
+        self.step = 0.4
         self.state = state
         self.__shop_address = self._get_shop_address(store=store, shop_address=shop_address, state=self.state)
         self.__hsh = load_config(CONFIG_FILE_PATH)['DUTCHIE']['request_key']
