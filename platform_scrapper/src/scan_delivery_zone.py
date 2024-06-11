@@ -11,6 +11,7 @@ from utilities.file_modifier import clean_data
 from platform_scrapper.configs.constants import BUDDI, DUTCHIE, HEADERS
 from platform_scrapper.configs.file_constantns import CONFIG_FILE_PATH, COLLECT_DIR
 from utilities.file_handler import load_config
+from loggers.scan_logger import ScannerLogger as scan_process_log
 
 
 class ScanDutchieDelivery:
@@ -34,7 +35,6 @@ class ScanDutchieDelivery:
             return self.geolocator.get_latitude_longtitude(shop_address, store=store, state=state)
 
     def get_delivery_info(self, address):
-        # gevent.sleep(1.2)
         # working alternative variant
         # _city, zipcode, stat, lat, lng = self.geolocator.get_city_state_zipcode_lat_long(address)
 
@@ -58,7 +58,7 @@ class ScanDutchieDelivery:
             if minimum_varies:
                 minimum_varies = float(minimum_varies) / 100
             within_bounds = delivery_info['withinBounds']
-            print(f"within_bounds ----- {within_bounds}!")
+            scan_process_log(f"within_bounds ----- {within_bounds}!")
             if within_bounds:
                 if fee is False or fee is None:
                     fee = 0
